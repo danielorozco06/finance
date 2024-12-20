@@ -13,7 +13,8 @@ run_aider_query() {
 
 # Lista de queries
 queries=(
-    "crear un archivo ./output/stocks_term.md con el resultado de cual es la mejor accion para invertir a corto plazo, mediano plazo y largo plazo"
+    "crear dos archivos ./output/best_stocks.md y ./output/worst_stocks.md indicando cuales son las 5 mejores y 5 peores acciones \
+    de la lista de tickers_info para invertir a un plazo de una semana, un mes y un año. Indicar los argumentos que respaldan la respuesta. Usar español"
 )
 
 # Ejecutar cada query
