@@ -1,1 +1,126 @@
- 
+Las 13 peores opciones de inversión:
+
+1. BBVACOL.CL
+- ROE negativo (-1.76%)
+- Pérdidas netas significativas
+- Márgenes operativos negativos (-28%)
+- Pérdida neta de -125.75B COP
+- Caída en ingresos (-69.6%)
+- Caída anual del precio (-25.21%)
+- Deuda/Patrimonio de 102.42%
+- Caída en margen EBITDA
+- Flujo de caja operativo débil
+- Sin cobertura de analistas
+- Volumen promedio bajo de 23,372 acciones
+- Tendencia negativa en precio (52 semanas)
+
+2. PFDAVVNDA.CL
+- ROE negativo (-6.4%)
+- Pérdidas netas significativas
+- Pérdida neta de -1.02B COP
+- Caída en ingresos (-14.7%)
+- Márgenes operativos negativos (-16.69%)
+- Beta de 0.673 (volatilidad moderada)
+- Alto nivel de deuda/patrimonio
+- Flujo de caja operativo negativo de -3.53B COP
+- Margen EBITDA en deterioro
+- Tendencia bajista en precio de 52 semanas
+- Ratio precio/valor en libros bajo de 0.555
+- Pérdida de participación de mercado
+
+3. EXITO.CL
+- P/E extremadamente alto (99.57)
+- Margen de beneficio neto de solo 0.146%
+- Ingresos totales de 20.90B COP
+- Caída anual significativa (-39.32%)
+- Deuda/Patrimonio de 54.49%
+- Alta competencia en el sector
+- Flujo de caja operativo débil
+- EBITDA/Ingresos bajo de 5.14%
+- Ratio precio/valor en libros bajo de 0.447
+- Baja participación institucional (0.277%)
+- Tendencia negativa en márgenes
+
+4. GRUBOLIVAR.CL
+- P/E alto de 15.74
+- Rendimiento anual bajo (0.59%)
+- Alto payout ratio (164.66%)
+- Caída en ROA (-0.064%)
+- Márgenes operativos negativos (-1.87%)
+- Deuda/Patrimonio de 209.68%
+- Flujo de caja operativo negativo de -3.62B COP
+- Margen EBITDA bajo
+- Baja participación institucional (0.088%)
+- Tendencia negativa en beneficios
+- Deterioro en ratios financieros
+
+5. GRUPOAVAL.CL
+- Bajo rendimiento anual (-4.72%)
+- P/E alto de 12.82
+- Alto payout ratio (187.53%)
+- ROA muy bajo (0.518%)
+- Bajo ROE (5.10%)
+- Deuda/Patrimonio de 41.19%
+- Flujo de caja operativo negativo de -12.88B COP
+- Deterioro en calidad de activos
+- Baja participación institucional (0.176%)
+- Tendencia negativa en eficiencia operativa
+- Presión en márgenes financieros
+
+6. BOGOTA.CL
+- ROE bajo (3.81%)
+- P/E alto de 11.30
+- Caída en ingresos (-6.6%)
+- ROA muy bajo (0.427%)
+- Bajo crecimiento trimestral (-28.8%)
+- Deuda/Patrimonio de 38.53%
+
+7. CONCONCRET.CL
+- P/E muy alto (24.17)
+- ROA muy bajo (0.506%)
+- ROE bajo (1.20%)
+- Deuda/Patrimonio de 54.84%
+- Margen operativo de solo 12.33%
+- Márgenes operativos ajustados
+
+8. PEI.CL
+- Caída anual significativa (-10.48%)
+- ROA bajo (3.53%)
+- Deuda/Patrimonio de 51.47%
+- Alta dependencia del sector inmobiliario
+- Volumen promedio bajo (25,150)
+
+9. CNEC.CL
+- P/E extremadamente alto de 50.14
+- ROA bajo (1.88%)
+- Alta volatilidad en el sector petrolero
+- Deuda/Patrimonio de 72.94%
+- Alta sensibilidad a regulaciones ambientales
+
+10. PFCORFICOL.CL
+- Alto payout ratio (203.24%)
+- ROA bajo (1.88%)
+- Caída en ingresos (-13.4%)
+- Deuda/Patrimonio de 54.84%
+- Márgenes operativos ajustados
+
+11. PFAVAL.CL
+- Rendimiento anual negativo (-0.87%)
+- P/E alto de 13.37
+- Alto payout ratio
+- ROA muy bajo (0.518%)
+- Volumen promedio bajo (44,970)
+
+12. PFDAVVNDA.CL
+- Pérdidas netas significativas
+- ROA negativo (-0.547%)
+- Caída en ingresos (-14.7%)
+- Deuda/Patrimonio de 155.80%
+- Márgenes operativos negativos
+
+13. PFCEMARGOS.CL
+- Caída en beneficios trimestrales (-20.7%)
+- ROA bajo (4.74%)
+- Deuda/Patrimonio de 41.32%
+- Alta exposición a ciclos económicos
+- Volumen promedio bajo (8,171)
