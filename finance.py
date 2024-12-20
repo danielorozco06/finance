@@ -12,7 +12,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
             # Extraer el ticker del URL usando expresiones regulares
             match = re.search(r"quote/([^/]+)/", line)
             if match:
-                tickers.append(match.group(1))
+                tickers.append(match.group(1))s
     return tickers
 
 
@@ -20,7 +20,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
 tickers = load_tickers_from_file("tickerCol.txt")
 
 # Create output directory if it doesn't exist
-output_dir = "output"
+output_dir = "tickers_info"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
