@@ -4,18 +4,20 @@ import re
 
 import yfinance as yf
 
-def load_tickers_from_file(filename: str) -> list:
+
+def load_tickers_from_file(filename: str) -> list[str]:
     tickers = []
-    with open(filename, 'r') as file:
+    with open(filename, "r") as file:
         for line in file:
             # Extraer el ticker del URL usando expresiones regulares
-            match = re.search(r'quote/([^/]+)/', line)
+            match = re.search(r"quote/([^/]+)/", line)
             if match:
                 tickers.append(match.group(1))
     return tickers
 
+
 # Cargar tickers desde el archivo
-tickers = load_tickers_from_file('tickerCol.txt')
+tickers = load_tickers_from_file("tickerCol.txt")
 
 # Create output directory if it doesn't exist
 output_dir = "output"
