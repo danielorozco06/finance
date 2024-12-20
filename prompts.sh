@@ -10,11 +10,36 @@ run_aider_query() {
     local read_args=$(echo "$tickers_files $news_files" | tr '\n' ' ' | sed 's/ $//')
     echo "Command: aider --file $read_args --message '$query' --yes-always"
     aider --file $read_args --message "$query" --yes-always
+    exit 0
 }
 
 # Lista de queries
 queries=(
-    "La fecha actual es $(date). Recrear los archivos ./output/best_stocks.md y ./output/worst_stocks.md indicando cuales son las 5 mejores y 5 peores acciones de la lista de tickers_info/ para invertir desde hoy hasta un plazo de un mes, 1 año y 4 años. Tener MUY presentes las notas de los archivos de la carpeta news/ para la toma de decisiones y los rangos de tiempo de la inversión según el contexto económico y político que se pudiese dar en esos momentos. Muy importante tener presente el contexto actual del pais, que Colombia.  Indicar los argumentos que respaldan la respuesta. Usar español"
+    "Análisis de inversión en acciones colombianas - $(date)
+
+    Generar dos archivos de análisis:
+    1. ./output/best_stocks.md: Top 5 acciones recomendadas
+    2. ./output/worst_stocks.md: 5 acciones menos recomendadas
+
+    Para cada grupo de acciones, analizar y proyectar rendimiento en:
+    - Corto plazo: 1 mes
+    - Mediano plazo: 1 año  
+    - Largo plazo: 4 años
+
+    Criterios de análisis:
+    - Información histórica de los tickers en tickers_info/
+    - Noticias y eventos relevantes en news/
+    - Contexto macroeconómico actual de Colombia
+    - Proyecciones políticas y económicas para cada horizonte temporal
+    - Riesgos y oportunidades específicos del mercado colombiano
+
+    Para cada recomendación incluir:
+    - Justificación detallada del posicionamiento
+    - Factores clave que influyen en la proyección
+    - Riesgos específicos a considerar
+    - Potencial de valorización/desvalorización estimado
+
+    Formato: Respuesta en español, estructurada y con argumentos respaldados por datos y análisis."
     )
 
 # Ejecutar cada query
