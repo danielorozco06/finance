@@ -1,32 +1,32 @@
 # Mejores acciones para invertir
 
 ## Plazo 1 mes (hasta enero 2025)
-1. CEMARGOS: Momentum alcista (52W change +63%), buenos resultados y expansión internacional
-2. BCOLOMBIA: Sólidos fundamentales, PE bajo de 5.98 y dividendo atractivo
-3. ISA: Negocio regulado estable y dividendo del 9.58%
-4. GRUPOARGOS: Fuerte recuperación y diversificación en infraestructura
-5. GEB: Utilidades predecibles y dividendo del 9.69%
+1. CEMARGOS: Momentum alcista (+63% en 52W), PE 19.1x y expansión internacional
+2. BCOLOMBIA: Sólidos fundamentales, PE 5.98x y dividendo 9.38%
+3. GRUPOARGOS: Fuerte recuperación (+67% en 52W) y diversificación
+4. ISA: Negocio regulado estable y dividendo 9.58%
+5. GEB: Utilidades predecibles y dividendo 9.69%
 
 ## Plazo 1 año (hasta diciembre 2025)
-1. CNEC: Se beneficiará de expectativas de cambio político en 2026
-2. PROMIGAS: Sector gas natural con potencial de recuperación
+1. CNEC: Principal beneficiario de expectativas de cambio político 2026
+2. PROMIGAS: Infraestructura de gas natural con potencial post-restricciones
 3. CEMARGOS: Líder en construcción con presencia internacional
 4. BCOLOMBIA: Banco líder bien posicionado para ciclo económico
-5. ISA: Activos regulados de alta calidad y expansión regional
+5. GRUPOARGOS: Exposición diversificada a recuperación económica
 
 ## Plazo 4 años (hasta 2028)
-1. CNEC: Principal beneficiario del cambio político pro-energía en 2026
-2. PROMIGAS: Infraestructura de gas clave post-2026
-3. CEMARGOS: Exposición a recuperación de construcción
+1. CNEC: Mayor beneficiario del cambio político pro-energía en 2026
+2. PROMIGAS: Infraestructura de gas estratégica post-2026
+3. CEMARGOS: Exposición a recuperación de construcción regional
 4. BCOLOMBIA: Líder financiero con visión de largo plazo
-5. ISA: Red de transmisión estratégica en la región
+5. ISA: Red de transmisión clave para integración energética
 
 ### Argumentos clave:
-- El cambio de gobierno en 2026 beneficiará especialmente al sector energético
-- Empresas con exposición internacional diversifican riesgo país
-- Sectores regulados (utilities) ofrecen estabilidad y dividendos
+- El cambio de gobierno en 2026 beneficiará al sector energético actualmente restringido
+- Empresas con exposición internacional diversifican riesgo político local
+- Sectores regulados (utilities) ofrecen estabilidad y dividendos atractivos
 - Líderes en sus sectores con ventajas competitivas sostenibles
-- Valuaciones atractivas en varios casos vs perspectivas de crecimiento
+- Valuaciones actuales atractivas vs perspectivas de mediano plazo
 # Mejores acciones para invertir
 
 ## Plazo 1 mes (hasta enero 2025)
