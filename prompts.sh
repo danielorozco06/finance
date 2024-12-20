@@ -3,9 +3,8 @@
 # Definir el query como una variable
 query="Análisis de inversión en acciones colombianas - $(date)
 
-Generar dos archivos de análisis:
-1. ./output/best_stocks.md: Top 5 acciones recomendadas
-2. ./output/worst_stocks.md: 5 acciones menos recomendadas
+Generar los archivos de análisis:
+1. ./output/best_stocks.md: Top 10 acciones recomendadas
 
 Para cada grupo de acciones, analizar y proyectar rendimiento en:
 - Corto plazo: 1 mes
