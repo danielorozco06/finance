@@ -1,10 +1,21 @@
 import csv
 import os
+import re
 
 import yfinance as yf
 
-# List of tickers to process
-tickers = ["PFDAVVNDA.CL", "BCOLOMBIA.CL"]
+def load_tickers_from_file(filename: str) -> list:
+    tickers = []
+    with open(filename, 'r') as file:
+        for line in file:
+            # Extraer el ticker del URL usando expresiones regulares
+            match = re.search(r'quote/([^/]+)/', line)
+            if match:
+                tickers.append(match.group(1))
+    return tickers
+
+# Cargar tickers desde el archivo
+tickers = load_tickers_from_file('tickerCol.txt')
 
 # Create output directory if it doesn't exist
 output_dir = "output"
@@ -17,7 +28,7 @@ csv.register_dialect(
 )
 
 
-def process_ticker(ticker_symbol):
+def process_ticker(ticker_symbol: str) -> None:
     # Get the ticker data
     data = yf.Ticker(ticker_symbol)
     info_dict = data.info
