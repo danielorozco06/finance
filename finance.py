@@ -12,7 +12,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
             # Extraer el ticker del URL usando expresiones regulares
             match = re.search(r"quote/([^/]+)/", line)
             if match:
-                tickers.append(match.group(1))s
+                tickers.append(match.group(1))
     return tickers
 
 
