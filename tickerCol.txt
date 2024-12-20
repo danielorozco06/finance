@@ -1,6 +1,5 @@
 - https://finance.yahoo.com/quote/BBVACOL.CL/
 - https://finance.yahoo.com/quote/BCOLOMBIA.CL/
-- https://finance.yahoo.com/quote/BHI.CL/
 - https://finance.yahoo.com/quote/BOGOTA.CL/
 - https://finance.yahoo.com/quote/CELSIA.CL/
 - https://finance.yahoo.com/quote/CEMARGOS.CL/
@@ -15,7 +14,6 @@
 - https://finance.yahoo.com/quote/ISA.CL/
 - https://finance.yahoo.com/quote/MINEROS.CL/
 - https://finance.yahoo.com/quote/NUTRESA.CL/
-- https://finance.yahoo.com/quote/PEI.CL/
 - https://finance.yahoo.com/quote/PFAVAL.CL/
 - https://finance.yahoo.com/quote/PFBCOLOM.CL/
 - https://finance.yahoo.com/quote/PFCEMARGOS.CL/

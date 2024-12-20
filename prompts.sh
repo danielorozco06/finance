@@ -46,6 +46,7 @@ fi
 read_args=$(echo "$tickers_files $news_files" | tr '\n' ' ' | sed 's/ $//')
 
 # Crear directorio output si no existe
+rm -rf output 
 mkdir -p output
 
 # Ejecutar el comando aider
