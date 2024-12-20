@@ -10,7 +10,6 @@ run_aider_query() {
     local read_args=$(echo "$tickers_files $news_files" | tr '\n' ' ' | sed 's/ $//')
     echo "Command: aider --file $read_args --message '$query' --yes-always"
     aider --file $read_args --message "$query" --yes-always
-    exit 0
 }
 
 # Lista de queries
