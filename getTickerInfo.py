@@ -20,7 +20,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
 tickers = load_tickers_from_file("tickerCol.txt")
 
 # Create output directory if it doesn't exist
-output_dir = "tickers_info"
+output_dir = "input/tickers_info"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
