@@ -1,115 +1,116 @@
 # Top 5 Acciones Recomendadas - Marzo 2024
 
 ## 1. CNEC (Canacol Energy)
+
 ### Justificación
-- Beneficiario directo del cambio político previsto para 2026 con políticas más favorables para el sector de hidrocarburos
-- Sólidos fundamentales financieros con P/E de 3.39x
-- Alto dividendo yield de 27.8%
+- La empresa se beneficiará significativamente del cambio de gobierno en 2026, cuando se espera que las políticas energéticas sean más favorables para el sector
+- Colombia perdió su autosuficiencia energética y comenzó a importar gas natural, lo que beneficiará a los productores locales
+- Fuerte potencial de valorización dado que cotiza cerca de mínimos históricos
 
 ### Proyección de Rendimiento
-- Corto plazo (1 mes): +5-8% 
-- Mediano plazo (6 meses): +15-20%
-- Largo plazo (2 años): +50-70%
+- Corto plazo (1 mes): +5-10% 
+- Mediano plazo (6 meses): +20-30%
+- Largo plazo (2 años): +80-100%
 
 ### Factores Clave
-- Cambio en política energética nacional post-2026
-- Bajos niveles de valoración actuales
-- Fuerte generación de caja operativa
+- Cambio de gobierno en 2026 con políticas pro-extracción
+- Crisis energética y necesidad de gas natural
+- Múltiplos de valoración atractivos (P/E de 3.91)
+- Sólido dividendo (yield 27.8%)
 
 ### Riesgos
-- Volatilidad en precios de commodities
+- Volatilidad en precios del gas natural
 - Riesgo regulatorio hasta cambio de gobierno
-- Dependencia del mercado local de gas
+- Riesgo país
 
 ## 2. CEMARGOS (Cementos Argos)
+
 ### Justificación
-- Beneficiario directo de la crisis del programa Mi Casa Ya que impulsará construcción privada
-- Valoración atractiva con P/E de 19.1x
-- Diversificación geográfica con operaciones en USA
+- La suspensión del programa Mi Casa Ya generará oportunidades de compra
+- Sólidos fundamentales con P/E de 19.1
+- Diversificación geográfica reduce riesgos
 
 ### Proyección de Rendimiento
-- Corto plazo (1 mes): +3-5%
-- Mediano plazo (6 meses): +12-15%
-- Largo plazo (2 años): +25-35%
+- Corto plazo: +3-5%
+- Mediano plazo: +15-20%
+- Largo plazo: +40-50%
 
 ### Factores Clave
-- Recuperación del sector construcción
-- Exposición a mercado estadounidense
-- Eficiencias operativas implementadas
+- Líder en el mercado de cemento
+- Presencia internacional diversificada
+- Buenos márgenes operativos
+- Dividendo atractivo (5.2%)
 
 ### Riesgos
-- Ciclo económico local adverso
-- Presiones en costos de energía
-- Competencia de importaciones
+- Desaceleración sector construcción
+- Altas tasas de interés
+- Competencia internacional
 
-## 3. GEB (Grupo Energía Bogotá)
+## 3. GRUPOARGOS (Grupo Argos)
+
 ### Justificación
-- Negocio regulado con ingresos estables
-- Atractivo dividendo yield de 9.7%
-- Valoración razonable con P/E de 6.83x
+- Holding diversificado con exposición a sectores clave
+- Cotiza con descuento significativo vs valor en libros
+- Potencial de reorganización corporativa
 
 ### Proyección de Rendimiento
-- Corto plazo (1 mes): +2-4%
-- Mediano plazo (6 meses): +8-12%
-- Largo plazo (2 años): +20-25%
+- Corto plazo: +5-8%
+- Mediano plazo: +25-30%
+- Largo plazo: +60-70%
 
 ### Factores Clave
-- Flujos de caja predecibles
-- Plan de expansión en curso
-- Política de dividendos estable
+- Diversificación en cemento, energía e infraestructura
+- P/B de 0.92 indica descuento
+- Sólido gobierno corporativo
+- Dividendo del 3.48%
+
+### Riesgos
+- Dependencia del ciclo económico
+- Exposición a regulación en múltiples sectores
+- Riesgo de ejecución en reorganización
+
+## 4. GEB (Grupo Energía Bogotá)
+
+### Justificación
+- Beneficiario directo de la crisis energética
+- Negocios regulados proveen estabilidad
+- Dividendo atractivo y sostenible
+
+### Proyección de Rendimiento
+- Corto plazo: +4-6%
+- Mediano plazo: +15-20%
+- Largo plazo: +35-45%
+
+### Factores Clave
+- Posición dominante en transmisión eléctrica
+- Flujos de caja estables y predecibles
+- Dividendo del 9.69%
+- P/E razonable de 6.83
 
 ### Riesgos
 - Riesgo regulatorio
-- Exposición a tasas de interés
-- Riesgos de ejecución de proyectos
+- Riesgo político por propiedad estatal
+- Altas tasas de interés
 
-## 4. BCOLOMBIA (Bancolombia)
+## 5. BCOLOMBIA (Bancolombia)
+
 ### Justificación
-- Líder del sector financiero
-- Valoración atractiva con P/E de 5.98x
-- Dividendo yield de 9.38%
+- Se beneficiará de eventual reducción de tasas
+- Líder en transformación digital bancaria
+- Valoración atractiva vs peers
 
 ### Proyección de Rendimiento
-- Corto plazo (1 mes): +2-4%
-- Mediano plazo (6 meses): +10-15%
-- Largo plazo (2 años): +25-30%
+- Corto plazo: +3-5%
+- Mediano plazo: +12-15%
+- Largo plazo: +30-40%
 
 ### Factores Clave
-- Calidad de cartera superior
-- Transformación digital exitosa
-- Presencia regional diversificada
+- Mayor banco del país
+- P/E bajo de 5.98
+- Dividendo del 9.38%
+- Sólidos indicadores de capital
 
 ### Riesgos
-- Ciclo crediticio
+- Calidad de cartera en entorno de altas tasas
 - Competencia fintech
-- Entorno macroeconómico
-
-## 5. GRUPOARGOS
-### Justificación
-- Holding con exposición diversificada
-- Descuento significativo vs. valor de activos
-- P/E de 9.39x atractivo para holding
-
-### Proyección de Rendimiento
-- Corto plazo (1 mes): +3-5%
-- Mediano plazo (6 meses): +10-15%
-- Largo plazo (2 años): +30-40%
-
-### Factores Clave
-- Recuperación de subsidiarias clave
-- Potencial desinversión de activos
-- Mejora en gobierno corporativo
-
-### Riesgos
-- Descuento estructural de holding
-- Dependencia de dividendos de filiales
-- Ciclo económico adverso
-
-## Contexto Macroeconómico y Político
-- Expectativa de cambio de gobierno en 2026 con orientación más pro-mercado
-- Crisis en sector vivienda por suspensión de programa Mi Casa Ya
-- Probable ciclo de reducción de tasas de interés en 2024-2025
-- Recuperación gradual del consumo y la inversión privada
-
-## Nota sobre el Análisis
-Las proyecciones consideran el contexto actual de mercado, factores macroeconómicos y la información financiera disponible. Los rendimientos son estimados y están sujetos a cambios según la evolución de las condiciones de mercado. 
+- Exposición a ciclo económico
