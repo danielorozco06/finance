@@ -5,8 +5,8 @@ Generar los archivos de análisis:
 
 Para cada grupo de acciones, analizar y proyectar rendimiento en:
 - Corto plazo: 1 mes
-- Mediano plazo: 1 año  
-- Largo plazo: 4 años
+- Mediano plazo: 6 meses  
+- Largo plazo: 2 años
 
 Criterios de análisis:
 - Información histórica de los tickers en tickers_info/
