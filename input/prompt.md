@@ -11,9 +11,6 @@ Para cada grupo de acciones, analizar y proyectar rendimiento en:
 Criterios de análisis:
 - Información histórica de los tickers en tickers_info/
 - Noticias y eventos relevantes en news/
-- Contexto macroeconómico actual de Colombia
-- Proyecciones políticas y económicas para cada horizonte temporal
-- Riesgos y oportunidades específicos del mercado colombiano
 
 Para cada recomendación incluir:
 - Justificación detallada del posicionamiento
