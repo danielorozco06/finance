@@ -1,111 +1,88 @@
-# Top 5 Acciones a Evitar - 23 de diciembre de 2024
+# Top 3 Acciones a Evitar - 23 de diciembre de 2024
 
 ## 1. NUTRESA (NUTRESA.CL)
 
-- **Proyección:**
-  - 1 día: -1%
-  - 1 semana: -3%
-  - 1 mes: -8%
-  - 1 año: -15%
+### Proyección de rendimiento:
 
-**Justificación:**
+- 1 día: -1%
+- 1 semana: -3%
+- 1 mes: -8%
+- 1 año: -15%
 
-- Valoración elevada tras rally especulativo
-- Volúmenes muy bajos indican falta de interés
-- Presión competitiva en márgenes
-- Exposición a costos de materias primas
-- Bajo potencial de crecimiento
+### Justificación:
 
-**Riesgos adicionales:**
+- Valoración elevada tras OPA del Grupo Gilinski
+- Bajo volumen de negociación
+- Presión en márgenes por inflación de costos
+- Competencia creciente en mercados clave
 
-- Integración pendiente con Grupo Gilinski
-- Entorno macroeconómico retador
-- Posible corrección técnica
+### Factores clave:
 
-## 2. MINEROS (MINEROS.CL)
+- P/E ratio elevado vs histórico
+- Presiones inflacionarias en materias primas
+- Menor crecimiento en mercados principales
+- Estructura accionaria concentrada
 
-- **Proyección:**
-  - 1 día: -2%
-  - 1 semana: -5%
-  - 1 mes: -12%
-  - 1 año: -25%
+### Riesgos específicos:
 
-**Justificación:**
-
-- Alta volatilidad sin tendencia clara
-- Dependencia de precios del oro
-- Costos operativos crecientes
-- Riesgos regulatorios y ambientales
+- Pérdida de participación de mercado
+- Presión en márgenes operativos
 - Baja liquidez de la acción
 
-**Riesgos adicionales:**
+## 2. BANCO DE BOGOTÁ (BOGOTA.CL)
 
-- Restricciones a minería
-- Conflictos sociales
-- Riesgo cambiario
+### Proyección de rendimiento:
+
+- 1 día: -0.5%
+- 1 semana: -2%
+- 1 mes: -5%
+- 1 año: -10%
+
+### Justificación:
+
+- Deterioro en calidad de cartera
+- Presión en márgenes por política monetaria
+- Competencia de fintech y bancos digitales
+- Baja liquidez de la acción
+
+### Factores clave:
+
+- Altas tasas de interés afectan crecimiento de crédito
+- Transformación digital rezagada vs competencia
+- Costos operativos elevados
+- Baja liquidez limita atractivo
+
+### Riesgos específicos:
+
+- Mayor deterioro de cartera
+- Pérdida de participación de mercado
+- Costos de transformación digital
 
 ## 3. PROMIGAS (PROMIGAS.CL)
 
-- **Proyección:**
-  - 1 día: -1%
-  - 1 semana: -4%
-  - 1 mes: -10%
-  - 1 año: -20%
+### Proyección de rendimiento:
 
-**Justificación:**
+- 1 día: -0.5%
+- 1 semana: -2%
+- 1 mes: -6%
+- 1 año: -12%
 
-- Pérdida de autosuficiencia en gas
-- Mayores costos por importación GNL
-- Presión regulatoria en tarifas
-- Bajo volumen de negociación
-- Perspectivas limitadas de crecimiento
+### Justificación:
 
-**Riesgos adicionales:**
+- Impacto negativo por pérdida de autosuficiencia de gas
+- Mayores costos por importación de GNL
+- Incertidumbre regulatoria
+- Baja liquidez de la acción
 
-- Dependencia de importaciones
-- Riesgo regulatorio
+### Factores clave:
+
+- Dependencia creciente de gas importado
+- Presión en márgenes por mayores costos
+- Marco regulatorio incierto
+- Volumen de negociación muy bajo
+
+### Riesgos específicos:
+
+- Cambios regulatorios adversos
+- Mayores costos de operación
 - Competencia de energías renovables
-
-## 4. TERPEL (TERPEL.CL)
-
-- **Proyección:**
-  - 1 día: -1%
-  - 1 semana: -3%
-  - 1 mes: -8%
-  - 1 año: -15%
-
-**Justificación:**
-
-- Presión en márgenes por regulación
-- Transición energética afecta perspectivas
-- Competencia creciente
-- Exposición a precios de combustibles
-- Valoración poco atractiva
-
-**Riesgos adicionales:**
-
-- Cambios regulatorios
-- Tendencia a electromovilidad
-- Volatilidad de commodities
-
-## 5. PFGRUPSURA (PFGRUPSURA.CL)
-
-- **Proyección:**
-  - 1 día: -1%
-  - 1 semana: -4%
-  - 1 mes: -10%
-  - 1 año: -18%
-
-**Justificación:**
-
-- Incertidumbre por proceso de escisión
-- Estructura corporativa compleja
-- Rally reciente sin fundamentos claros
-- Exposición a múltiples riesgos sectoriales
-- Posible corrección técnica
-
-**Riesgos adicionales:**
-
-- Ejecución de escisión
-- Entorno competitivo retador
-- Riesgos regulatorios
