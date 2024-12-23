@@ -11,4 +11,4 @@ Prompt: Modificar el archivo input/news/economia.md o input/news/politica.md par
 @folder > input
 Prompt: Sigue las instrucciones del archivo prompt.md
 
-Prompt: Dame un archivo donde detalles muy claramente tu opinion sobre CNEC y cuando me recomendarias invertir en ella
+Prompt: Dame un archivo .md donde detalles muy claramente tu opinion sobre CNEC y cuando me recomendarias invertir en ella
