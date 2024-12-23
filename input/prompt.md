@@ -7,9 +7,10 @@ Generar los archivos de análisis:
 
 Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
-- Corto plazo: 1 mes
-- Mediano plazo: 6 meses
-- Largo plazo: 2 años
+- 1 dia
+- 1 semana
+- 1 mes
+- 1 año
 
 Criterios de análisis:
 

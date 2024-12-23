@@ -7,60 +7,60 @@ import yfinance as yf
 
 def load_tickers_from_file(filename: str) -> list[str]:
     tickers = []
-    with open(filename, "r") as file:
+    with open(filename) as file:
         for line in file:
-            # Extraer el ticker del URL usando expresiones regulares
-            match = re.search(r"quote/([^/]+)/", line)
-            if match:
+            if match := re.search(r"quote/([^/]+)/", line):
                 tickers.append(match.group(1))
     return tickers
 
 
-# Cargar tickers desde el archivo
-tickers = load_tickers_from_file("tickerCol.txt")
+def setup_directories() -> None:
+    for directory in ["input/tickers_info", "input/tickers_value"]:
+        os.makedirs(directory, exist_ok=True)
 
-# Create output directory if it doesn't exist
-output_dir = "input/tickers_info"
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
+    if os.path.exists("output"):
+        import shutil
 
-# Create a custom dialect for proper character handling
-csv.register_dialect(
-    "custom", delimiter=",", quoting=csv.QUOTE_ALL, quotechar='"', lineterminator="\n"
-)
+        shutil.rmtree("output")
+        print("Deleted output directory")
 
 
-def process_ticker(ticker_symbol: str) -> None:
-    # Get the ticker data
+def save_ticker_info(ticker_symbol: str) -> None:
     data = yf.Ticker(ticker_symbol)
-    info_dict = data.info
+    info_dict = {
+        k: v
+        for k, v in data.info.items()
+        if k not in ["companyOfficers", "longBusinessSummary"]
+    }
 
-    # Define the CSV file path using ticker symbol
-    csv_file = f"{output_dir}/{ticker_symbol.replace('.', '_')}_info.csv"
+    csv_file = f"input/tickers_info/{ticker_symbol.replace('.', '_')}_info.csv"
 
-    # Write to CSV file
     with open(csv_file, "w", newline="", encoding="utf-8-sig") as file:
-        writer = csv.writer(file, dialect="custom")
-        # Write header and value rows
+        writer = csv.writer(file, quoting=csv.QUOTE_ALL)
         writer.writerow(["Field", "Value"])
-        for key, value in info_dict.items():
-            # Skip some properties
-            if key not in ["companyOfficers", "longBusinessSummary"]:
-                writer.writerow([key, value])
+        writer.writerows(info_dict.items())
 
     print(f"Data for {ticker_symbol} has been saved to {csv_file}")
 
 
-# Delete output directory if it exists
-if os.path.exists("output"):
-    import shutil
+def save_ticker_history(ticker_symbol: str) -> None:
+    data = yf.Ticker(ticker_symbol)
+    csv_file = f"input/tickers_value/{ticker_symbol.replace('.', '_')}_values.csv"
+    data.history(period="3mo").to_csv(csv_file)
+    print(f"Historical data for {ticker_symbol} has been saved to {csv_file}")
 
-    shutil.rmtree("output")
-    print("Deleted output directory")
 
-# Process each ticker
-for ticker in tickers:
-    try:
-        process_ticker(ticker)
-    except Exception as e:
-        print(f"Error processing {ticker}: {str(e)}")
+def main() -> None:
+    tickers = load_tickers_from_file("tickerCol.txt")
+    setup_directories()
+
+    for ticker in tickers:
+        try:
+            save_ticker_info(ticker)
+            save_ticker_history(ticker)
+        except Exception as e:
+            print(f"Error processing {ticker}: {str(e)}")
+
+
+if __name__ == "__main__":
+    main()

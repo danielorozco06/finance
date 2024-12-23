@@ -1,117 +1,106 @@
-# Top 5 Acciones a Evitar - 23 de diciembre de 2024
+# Top 5 Acciones a Evitar - 23 de diciembre 2024
 
 ## 1. CNEC.CL (Canacol Energy)
 
-- **Corto plazo (1 mes)**: -5% a -8%
-- **Mediano plazo (6 meses)**: -15% a -20%
-- **Largo plazo (2 años)**: -25% a -35%
+- **Proyección:**
+  - 1 día: -2%
+  - 1 semana: -5%
+  - 1 mes: -12%
+  - 1 año: -30%
 
 **Justificación:**
 
-- Fuerte impacto negativo por políticas restrictivas en sector hidrocarburos
+- Restricciones gubernamentales al sector hidrocarburos
 - Pérdida de autosuficiencia energética del país
-- Caída significativa en márgenes operativos
-
-**Factores clave:**
-
-- Restricciones gubernamentales para exploración
-- Importación de gas natural afectando precios
+- Alta dependencia del mercado local
+- Retrasos en licencias ambientales
 - Incertidumbre regulatoria hasta 2026
 
 **Riesgos específicos:**
 
-- Dependencia total de políticas energéticas gubernamentales
-- Pérdida de competitividad por importaciones
+- Política energética restrictiva
+- Dificultades en nuevas exploraciones
 
-## 2. PFDAVVNDA.CL (Davivienda Preferencial)
+## 2. PFDAVVNDA.CL (Banco Davivienda)
 
-- **Corto plazo (1 mes)**: -3% a -6%
-- **Mediano plazo (6 meses)**: -10% a -15%
-- **Largo plazo (2 años)**: -20% a -30%
+- **Proyección:**
+  - 1 día: -1.5%
+  - 1 semana: -4%
+  - 1 mes: -10%
+  - 1 año: -25%
 
 **Justificación:**
 
-- Márgenes operativos negativos (-16.7%)
-- ROE negativo (-6.4%)
-- Afectación por suspensión programa Mi Casa Ya
-- Deterioro en cartera hipotecaria esperado
-
-**Factores clave:**
-
-- Aumento esperado en morosidad hipotecaria
-- Incremento en costos de fondeo
-- Presión sobre márgenes por tasas de interés
+- Pérdidas netas de $1.02B
+- ROE negativo de -6.4%
+- Deterioro en calidad de cartera
+- Presión en márgenes por tasas de interés
+- Competencia agresiva en sector bancario
 
 **Riesgos específicos:**
 
-- Exposición significativa a sector hipotecario
-- Deterioro calidad de cartera
+- Exposición a crédito hipotecario
+- Costos de fondeo elevados
 
-## 3. BBVACOL.CL (BBVA Colombia)
+## 3. EXITO.CL (Almacenes Éxito)
 
-- **Corto plazo (1 mes)**: -4% a -7%
-- **Mediano plazo (6 meses)**: -12% a -18%
-- **Largo plazo (2 años)**: -20% a -30%
-
-**Justificación:**
-
-- Márgenes negativos (-5.4%)
-- ROE negativo (-1.8%)
-- Deterioro en indicadores de rentabilidad
-
-**Factores clave:**
-
-- Alta competencia en sector bancario
-- Presión sobre márgenes por tasas de interés
-- Desaceleración económica
-
-**Riesgos específicos:**
-
-- Exposición a sectores económicos afectados
-- Presión competitiva en sector bancario
-
-## 4. EXITO.CL
-
-- **Corto plazo (1 mes)**: -3% a -5%
-- **Mediano plazo (6 meses)**: -8% a -12%
-- **Largo plazo (2 años)**: -15% a -25%
+- **Proyección:**
+  - 1 día: -1.2%
+  - 1 semana: -3%
+  - 1 mes: -8%
+  - 1 año: -20%
 
 **Justificación:**
 
-- Caída significativa en confianza comercial
-- Márgenes operativos bajos (3.2%)
-- Valoración elevada con P/E de 97.6
-
-**Factores clave:**
-
-- Debilidad en consumo privado
-- Presión competitiva en retail
+- P/E elevado de 97.3
+- Márgenes operativos bajos de 3.17%
+- Presión competitiva del comercio electrónico
+- Debilidad en consumo discrecional
 - Costos operativos crecientes
 
 **Riesgos específicos:**
 
-- Exposición a deterioro en consumo
-- Presión en márgenes por inflación
+- Cambios en hábitos de consumo
+- Presión inflacionaria en costos
 
-## 5. CONCONCRET.CL (Conconcreto)
+## 4. GRUPOAVAL.CL (Grupo Aval)
 
-- **Corto plazo (1 mes)**: -2% a -4%
-- **Mediano plazo (6 meses)**: -8% a -12%
-- **Largo plazo (2 años)**: -15% a -20%
+- **Proyección:**
+  - 1 día: -1%
+  - 1 semana: -2.5%
+  - 1 mes: -7%
+  - 1 año: -18%
 
 **Justificación:**
 
-- Bajo margen operativo (1.5%)
-- Afectación por suspensión Mi Casa Ya
-- Alta exposición a sector construcción residencial
-
-**Factores clave:**
-
-- Desaceleración en sector construcción
-- Reducción en subsidios de vivienda
-- Presión en márgenes por costos
+- Exposición a múltiples sectores afectados
+- Payout ratio elevado de 187%
+- Presión en márgenes bancarios
+- Crecimiento negativo en ingresos (-2.5%)
+- Desafíos en transformación digital
 
 **Riesgos específicos:**
 
-- Dependencia de programas gubernamentales
-- Exposición a ciclo económico construcción
+- Estructura conglomerada compleja
+- Riesgos regulatorios múltiples
+
+## 5. CONCONCRET.CL (Constructora Conconcreto)
+
+- **Proyección:**
+  - 1 día: -0.8%
+  - 1 semana: -2%
+  - 1 mes: -6%
+  - 1 año: -15%
+
+**Justificación:**
+
+- Desaceleración sector construcción
+- Suspensión programa Mi Casa Ya
+- Márgenes brutos bajos de 7.55%
+- Alta dependencia de obra pública
+- Ciclo económico desfavorable
+
+**Riesgos específicos:**
+
+- Retrasos en proyectos públicos
+- Presión en costos de materiales
