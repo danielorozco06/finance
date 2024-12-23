@@ -51,6 +51,13 @@ def process_ticker(ticker_symbol: str) -> None:
     print(f"Data for {ticker_symbol} has been saved to {csv_file}")
 
 
+# Delete output directory if it exists
+if os.path.exists("output"):
+    import shutil
+
+    shutil.rmtree("output")
+    print("Deleted output directory")
+
 # Process each ticker
 for ticker in tickers:
     try:
