@@ -52,7 +52,7 @@ PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinio
 
 CONTEXTO: /output/
 
-PROMPT: Crear un archivo portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 teniendo en cuenta los siguientes criterios:
+PROMPT: Crear un archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 teniendo en cuenta los siguientes criterios:
 
 1. Máximo 4 posiciones
 2. Distribución porcentual por acción

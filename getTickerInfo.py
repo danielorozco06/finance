@@ -18,11 +18,12 @@ def setup_directories() -> None:
     for directory in ["input/tickers_info", "input/tickers_history"]:
         os.makedirs(directory, exist_ok=True)
 
-    if os.path.exists("output"):
-        import shutil
+    for directory in ["output/analysis", "output/stocks"]:
+        if os.path.exists(directory):
+            import shutil
 
-        shutil.rmtree("output")
-        print("Deleted output directory")
+            shutil.rmtree(directory)
+            print(f"Deleted {directory} directory")
 
 
 def save_ticker_info(ticker_symbol: str) -> None:
