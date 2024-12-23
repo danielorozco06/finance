@@ -11,4 +11,4 @@ Prompt: Modificar el archivo input/news/economia.md o input/news/politica.md par
 @folder > input
 Prompt: Sigue las instrucciones del archivo prompt.md
 
-Prompt: Dame un archivo .md donde detalles muy claramente tu opinion sobre CNEC y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusión.
+Prompt: Crear un archivo .md donde detalles muy claramente tu opinion sobre CNEC y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusión.
