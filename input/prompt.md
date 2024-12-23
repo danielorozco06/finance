@@ -2,12 +2,11 @@ Análisis de inversión en acciones colombianas - $(date)
 
 Generar los archivos de análisis:
 
-1. ./output/best_stocks.md: Top 5 acciones recomendadas
-2. ./output/worst_stocks.md: Top 5 acciones a evitar
+1. ./output/best_stocks.md: Top 9 acciones recomendadas
+2. ./output/worst_stocks.md: Top 9 acciones a evitar
 
 Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
-- 1 dia
 - 1 semana
 - 1 mes
 - 1 año
