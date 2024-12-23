@@ -1,149 +1,76 @@
-# Portafolio de Inversión - COP 15,000,000
+# Portafolio de Inversión - Abril 2024
 
-## Distribución por Sector
+Capital: COP 15,000,000
+Horizonte: 1 mes
 
-- Energía: 30% (COP 4,500,000)
-  - ECOPETROL: 30% (COP 4,500,000)
-- Industrial: 25% (COP 3,750,000)
-  - CONCONCRET: 25% (COP 3,750,000)
-- Financiero: 45% (COP 6,750,000)
-  - PFGRUPSURA: 25% (COP 3,750,000)
-  - PFBCOLOM: 20% (COP 3,000,000)
+## Distribución de Posiciones
 
-## Composición Detallada
+1. ECOPETROL (40%): COP 6,000,000
 
-### ECOPETROL (30%) - COP 4,500,000
+   - Entrada escalonada:
+     - 60% inmediato @ COP 1,650: COP 3,600,000
+     - 40% en pullback @ COP 1,600: COP 2,400,000
+   - Stop loss: COP 1,550 (-6.1%)
+   - Objetivos:
+     - TP1: COP 1,750 (+6.1%) - 50% posición
+     - TP2: COP 1,800 (+9.1%) - 50% posición
+   - Justificación: Valuación atractiva, alto dividend yield, soporte técnico fuerte
 
-- Precio objetivo entrada: COP 1,500-1,600
-- Capital a asignar: COP 4,500,000
-- Número de acciones: 2,812
-- Stop loss: COP 1,450
-- Objetivos:
-  - Parcial 1: COP 2,200 (30%)
-  - Parcial 2: COP 2,800 (40%)
-  - Parcial 3: COP 3,200 (30%)
-- Horizonte: 18-24 meses
-- Timing: Compra escalonada 40%/30%/30% en próximas 4 semanas
-- Dividendo esperado: 35% yield
-- Catalizadores: Cambio político 2026, precios del petróleo, nuevas exploraciones
+2. PFBCOLOM (30%): COP 4,500,000
 
-### CONCONCRET (25%) - COP 3,750,000
+   - Entrada escalonada:
+     - 70% inmediato @ COP 35,280: COP 3,150,000
+     - 30% en pullback @ COP 34,500: COP 1,350,000
+   - Stop loss: COP 34,000 (-3.6%)
+   - Objetivos:
+     - TP1: COP 36,500 (+3.5%) - 60% posición
+     - TP2: COP 37,000 (+4.9%) - 40% posición
+   - Justificación: Beneficiario directo de ciclo de reducción de tasas, soporte técnico sólido
 
-- Precio entrada: COP 380-400
-- Capital: COP 3,750,000
-- Acciones: 9,375
-- Stop loss: COP 360
-- Objetivos:
-  - Parcial 1: COP 500 (40%)
-  - Parcial 2: COP 550 (30%)
-  - Parcial 3: COP 600 (30%)
-- Horizonte: 12 meses
-- Timing: Compra escalonada 50%/50% en 2 semanas
-- Catalizadores:
-  - Fuerte momentum alcista
-  - Sector construcción beneficiado por cambio político
-  - Ruptura de resistencia histórica
+3. PFGRUPSURA (20%): COP 3,000,000
 
-### PFGRUPSURA (25%) - COP 3,750,000
+   - Entrada única @ COP 26,000
+   - Stop loss: COP 25,000 (-3.8%)
+   - Objetivos:
+     - TP1: COP 27,000 (+3.8%) - 100% posición
+   - Justificación: Momentum positivo por escisión, valuación atractiva
 
-- Precio entrada: COP 25,500-26,000
-- Capital: COP 3,750,000
-- Acciones: 144
-- Stop loss: COP 24,000
-- Objetivos:
-  - Parcial 1: COP 29,000 (50%)
-  - Parcial 2: COP 32,000 (50%)
-- Horizonte: 12-18 meses
-- Timing: Compra inmediata
-- Dividendo: 8.7% yield
-- Catalizadores:
-  - Valoración atractiva (P/E 6.8x)
-  - Proceso de escisión con Grupo Argos
-  - Exposición a sectores financiero y salud
+4. CNEC (10%): COP 1,500,000
+   - Entrada única @ COP 11,360
+   - Stop loss: COP 11,000 (-3.2%)
+   - Objetivos:
+     - TP1: COP 12,000 (+5.6%) - 100% posición
+   - Justificación: Soporte técnico cercano, alto dividend yield
 
-### PFBCOLOM (20%) - COP 3,000,000
+## Consideraciones Operativas
 
-- Precio entrada: COP 34,000-35,000
-- Capital: COP 3,000,000
-- Acciones: 86
-- Stop loss: COP 33,000
-- Objetivos:
-  - Parcial 1: COP 37,000 (50%)
-  - Parcial 2: COP 39,000 (50%)
-- Horizonte: 12-18 meses
-- Timing: Compra inmediata
-- Dividendo: 8.3% yield
-- Catalizadores:
-  - Exposición directa a ciclo de tasas
-  - Líder sector financiero
-  - Valuación razonable (P/E 10.5x)
+- Comisiones totales estimadas: COP 56,000 (7 operaciones)
 
-## Notas Adicionales
+  - 4 entradas iniciales
+  - 2 entradas en pullback
+  - 1 comisión reservada para salida parcial
 
-- Mantener 5% en efectivo para oportunidades
-- Revisar stops trimestralmente
-- Ajustar posiciones según evolución política energética
-- Reinvertir dividendos selectivamente
-- Costos de transacción: COP 8,000 por operación
-- Minimizar número de operaciones para optimizar costos
+- Capital efectivo a invertir: COP 14,944,000
 
-## Plan de Entrada (optimizado para comisiones)
+## Gestión de Riesgos
 
-1. Primera semana (2 operaciones = COP 16,000):
+1. Stops ajustados por volatilidad de cada activo
+2. Entradas escalonadas en posiciones principales
+3. Diversificación sectorial:
+   - Energía (50%)
+   - Financiero (30%)
+   - Holdings (20%)
 
-   - PFGRUPSURA: 100% posición (COP 3,750,000)
-   - PFBCOLOM: 100% posición (COP 3,000,000)
+## Expectativa de Retorno
 
-2. Segunda y tercera semana (3 operaciones = COP 24,000):
+- Escenario optimista: +5.5% (COP 825,000)
+- Escenario base: +3.8% (COP 570,000)
+- Escenario adverso: -3.5% (COP -525,000)
 
-   - ECOPETROL: entrada escalonada 40%/30%/30% (COP 4,500,000)
+## Notas Importantes
 
-3. Cuarta semana (2 operaciones = COP 16,000):
-   - CONCONCRET: entrada escalonada 50%/50% (COP 3,750,000)
-
-Total comisiones entrada: COP 56,000 (0.37% del capital)
-
-## Resumen de Rentabilidad Esperada
-
-1. Apreciación de Capital:
-
-   - ECOPETROL: 45-55% potencial
-   - CONCONCRET: 40-50% potencial
-   - PFGRUPSURA: 35-45% potencial
-   - PFBCOLOM: 25-35% potencial
-
-2. Dividendos Anuales Estimados:
-   - ECOPETROL: ~COP 1,575,000 (35%)
-   - PFGRUPSURA: ~COP 326,250 (8.7%)
-   - PFBCOLOM: ~COP 249,000 (8.3%)
-     Total dividendos estimados: ~COP 2,150,250 (14.3% yield promedio)
-
-## Riesgos Principales
-
-1. Políticos:
-
-   - Continuidad de restricciones al sector petrolero
-   - Cambios regulatorios sector financiero
-   - Política monetaria y fiscal
-
-2. Macroeconómicos:
-
-   - Volatilidad en precios del petróleo
-   - Ciclo de tasas de interés
-   - Depreciación del peso colombiano
-   - Desaceleración económica global
-
-3. Específicos:
-   - ECOPETROL: Restricciones de exploración
-   - CONCONCRET: Ciclo construcción
-   - PFGRUPSURA: Proceso de escisión
-   - PFBCOLOM: Calidad de cartera
-
-## Plan de Seguimiento
-
-- Revisión mensual de tesis de inversión
-- Ajuste trimestral de stops
-- Evaluación semestral de distribución sectorial
-- Monitoreo continuo de catalizadores políticos y económicos
-
-Nota: Rentabilidades objetivo ya consideran impacto de comisiones
+1. Mantener disciplina en stops y tomas de beneficios
+2. Monitorear catalizadores específicos de cada posición
+3. Considerar salidas anticipadas ante deterioro técnico
+4. Evaluar semanalmente necesidad de ajustes en stops
+5. Priorizar preservación de capital sobre retorno potencial
