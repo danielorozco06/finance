@@ -1,6 +1,6 @@
 # Top 5 Acciones a Evitar - 23 de diciembre de 2024
 
-## 1. ECOPETROL
+## 1. ISA
 
 - **Proyección:**
   - 1 día: -1%
@@ -10,57 +10,57 @@
 
 **Justificación:**
 
-- Restricciones gubernamentales a exploración y producción
-- Pérdida de autosuficiencia energética del país
-- Suspensión de proyectos clave como Komodo
-- Incertidumbre regulatoria hasta cambio de gobierno en 2026
+- Fuerte tendencia bajista desde octubre
+- Impacto negativo de mayores tasas de interés en valoración
+- Incertidumbre regulatoria en sector eléctrico
+- Bajos volúmenes de negociación
 
-**Riesgos adicionales:**
+**Riesgos específicos:**
 
-- Volatilidad del precio del petróleo
-- Transición energética global
+- Exposición a riesgo regulatorio en múltiples países
+- Alta sensibilidad a tasas de interés
 
-## 2. ISA
+## 2. GRUPOAVAL
 
 - **Proyección:**
   - 1 día: -0.8%
   - 1 semana: -2.5%
-  - 1 mes: -6%
+  - 1 mes: -7%
   - 1 año: -12%
 
 **Justificación:**
 
-- Tendencia bajista técnica marcada
-- Afectación por crisis energética del país
-- Presión sobre márgenes por mayores costos
-- Incertidumbre regulatoria del sector
+- Tendencia bajista consistente
+- Presión por competencia de fintech
+- Márgenes bajo presión por tasas de interés
+- Bajos volúmenes de negociación
 
-**Riesgos adicionales:**
+**Riesgos específicos:**
 
-- Exposición a riesgo cambiario
-- Necesidades de inversión significativas
+- Alta exposición a sector financiero tradicional
+- Desafíos en transformación digital
 
-## 3. GRUPOAVAL
+## 3. PFDAVVNDA (Davivienda Pref.)
 
 - **Proyección:**
   - 1 día: -0.7%
   - 1 semana: -2%
-  - 1 mes: -5%
+  - 1 mes: -6%
   - 1 año: -10%
 
 **Justificación:**
 
-- Tendencia bajista sostenida
-- Presión sobre márgenes por reducción de tasas
-- Mayor competencia en sector financiero
-- Volúmenes bajos que indican poco interés
+- Debilidad técnica persistente
+- Exposición a sector hipotecario en desaceleración
+- Suspensión programa Mi Casa Ya afecta perspectivas
+- Presión en márgenes financieros
 
-**Riesgos adicionales:**
+**Riesgos específicos:**
 
-- Exposición a calidad de cartera
-- Desafíos de transformación digital
+- Alta exposición a crédito hipotecario
+- Competencia creciente en banca digital
 
-## 4. PFDAVVNDA (Davivienda Pref.)
+## 4. GEB (Grupo Energía Bogotá)
 
 - **Proyección:**
   - 1 día: -0.5%
@@ -70,32 +70,32 @@
 
 **Justificación:**
 
-- Suspensión programa Mi Casa Ya afecta cartera hipotecaria
-- Presión sobre márgenes por reducción de tasas
 - Tendencia bajista técnica
-- Competencia creciente en banca digital
+- Impacto negativo de políticas energéticas actuales
+- Incertidumbre en nuevos proyectos
+- Bajos volúmenes de negociación
 
-**Riesgos adicionales:**
+**Riesgos específicos:**
 
-- Exposición a sector construcción
-- Costos de transformación digital
+- Alta dependencia de decisiones políticas
+- Exposición a riesgo regulatorio
 
-## 5. GEB (Grupo Energía Bogotá)
+## 5. BBVACOL
 
 - **Proyección:**
-  - 1 día: -0.5%
+  - 1 día: -0.4%
   - 1 semana: -1.5%
   - 1 mes: -4%
   - 1 año: -7%
 
 **Justificación:**
 
-- Afectación por crisis energética nacional
-- Presión sobre márgenes por mayores costos
-- Necesidades de inversión significativas
-- Incertidumbre regulatoria del sector
+- Bajo volumen de negociación
+- Pérdida de participación de mercado
+- Desafíos en transformación digital
+- Presión en márgenes por competencia
 
-**Riesgos adicionales:**
+**Riesgos específicos:**
 
-- Exposición a riesgo político local
-- Competencia creciente en sector energético
+- Baja liquidez de la acción
+- Desafíos en competitividad local

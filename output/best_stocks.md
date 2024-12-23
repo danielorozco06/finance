@@ -32,13 +32,13 @@
 
 - Fuerte ruptura alcista reciente, superando resistencias importantes
 - La escisión anunciada entre Grupo Argos y Sura generará valor
-- Múltiplos de valoración atractivos vs comparables
-- Beneficiario de menores tasas de interés
+- Sólidos fundamentales y buen gobierno corporativo
+- Beneficiario de eventual reducción de tasas de interés
 
 **Riesgos:**
 
 - Exposición a volatilidad de mercados financieros
-- Proceso de escisión podría tomar todo 2025
+- Proceso de escisión podría generar incertidumbre temporal
 
 ## 3. GRUPOARGOS (Grupo Argos)
 
@@ -50,10 +50,10 @@
 
 **Justificación:**
 
-- Beneficiario directo de la escisión con Grupo Sura
-- Portafolio diversificado en sectores clave (cemento, energía, infraestructura)
-- Valorización reciente respaldada por volumen
-- Potencial de reactivación de proyectos de infraestructura
+- Ruptura alcista importante con alto volumen
+- La escisión con Grupo Sura mejorará la estructura corporativa
+- Exposición a sectores clave: cemento, energía e infraestructura
+- Valoración atractiva respecto a comparables
 
 **Riesgos:**
 
@@ -70,15 +70,15 @@
 
 **Justificación:**
 
-- Beneficiario de precios altos del oro como activo refugio
-- Tendencia alcista sostenida en últimos meses
-- Buenos resultados operativos
-- Política de dividendos atractiva
+- Beneficiario directo de precios altos del oro
+- Tendencia alcista sostenida
+- Buenos fundamentales operativos
+- Exposición a dólar beneficia en escenario de peso débil
 
 **Riesgos:**
 
-- Exposición a volatilidad del precio del oro
-- Riesgos operativos y regulatorios en minería
+- Dependencia de precios de commodities
+- Riesgos operativos propios de la minería
 
 ## 5. BCOLOMBIA (Bancolombia)
 
@@ -90,12 +90,12 @@
 
 **Justificación:**
 
+- Principal banco del país con sólida posición de mercado
 - Se beneficiará de la reducción gradual de tasas de interés
-- Líder del sector financiero con sólidos fundamentales
-- Valoración atractiva vs comparables regionales
-- Buen gobierno corporativo y gestión de riesgos
+- Buenos niveles de solvencia y calidad de cartera
+- Valoración atractiva frente a pares regionales
 
 **Riesgos:**
 
-- Exposición a ciclo económico y calidad de cartera
+- Exposición a ciclo económico
 - Competencia creciente de fintech
