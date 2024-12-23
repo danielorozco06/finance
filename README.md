@@ -8,16 +8,16 @@ Prompt: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 # Cursor Composer
 
-@folder > input
-
 ## Prompt analisis general
 
-Prompt: Análisis de inversión en acciones colombianas - $(date)
+CONTEXTO: /input/
+
+PROMPT: Análisis de inversión en acciones colombianas - $(date)
 
 Generar los archivos de análisis:
 
-1. ./output/best_stocks.md: Top 8 acciones recomendadas
-2. ./output/worst_stocks.md: Top 8 acciones a evitar
+1. ./output/stocks/best.md: Top 8 acciones recomendadas
+2. ./output/stocks/worst.md: Top 8 acciones a evitar
    Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
 - 1 semana
@@ -37,11 +37,15 @@ Generar los archivos de análisis:
 
 ## Prompt analisis individual
 
-Prompt: Crear un archivo .md donde detalles muy claramente tu opinion sobre CNEC y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusión.
+CONTEXTO: /input/
+
+PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinion sobre $TICKER y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusión.
 
 ## Prompt portafolio de inversión
 
-Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 teniendo en cuenta los siguientes criterios:
+CONTEXTO: /output/
+
+PROMPT: Crear un archivo portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 teniendo en cuenta los siguientes criterios:
 
 1. Distribución porcentual por acción
 2. Plan de entrada escalonado:
@@ -59,8 +63,3 @@ Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de in
    - Horizonte temporal recomendado
 
 Muy importante: cada compra/venta paga 8000 COP de comisión.
-
-################
-Accion: adicionar al contexto los archivos output/best_stocks.md y output/worst_stocks.md
-
-Prompt: Corregir el portafolio teniendo en cuenta los archivo output/best_stocks.md y output/worst_stocks.md
