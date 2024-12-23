@@ -1,106 +1,169 @@
-# Top 5 Acciones Recomendadas - 23 de diciembre 2024
+# Top 7 Acciones Recomendadas - Diciembre 2024
 
 ## 1. CNEC (Canacol Energy)
 
-### Justificación
+**Recomendación: COMPRA FUERTE**
 
-- La empresa se beneficiará significativamente del cambio de gobierno en 2026, que promete impulsar la exploración y producción de gas natural
-- Colombia perdió su autosuficiencia energética y comenzó a importar gas natural, lo que aumentará los precios domésticos
-- Fuerte posición financiera con bajo nivel de deuda (ratio deuda/capital de 8.32)
-- Margen operativo saludable del 25.28%
+### Proyección de rendimiento:
 
-### Proyección de Rendimiento
+- Corto plazo (1 mes): +8-10%
+- Mediano plazo (6 meses): +25-30%
+- Largo plazo (2 años): +70-80%
 
-- Corto plazo (1 mes): +5-8% por momentum positivo del sector energético
-- Mediano plazo (6 meses): +15-20% por mejora en expectativas sectoriales
-- Largo plazo (2 años): +80-100% por cambio de gobierno y política energética favorable
+### Justificación:
 
-### Riesgos
+- Colombia perdió su autosuficiencia energética y comenzó importaciones de gas natural
+- La empresa está bien posicionada para beneficiarse del déficit proyectado de gas (8.2% en 2025 y 20.6% en 2026)
+- Probable cambio de gobierno en 2026 que favorecería la extracción de hidrocarburos
+- Sólidos fundamentales financieros con bajo nivel de deuda
+- Dividendo atractivo con yield del 27.8%
 
-- Volatilidad en precios internacionales del gas natural
-- Incertidumbre política hasta el cambio de gobierno
-- Posibles retrasos en nuevos proyectos de exploración
+### Riesgos:
+
+- Volatilidad en precios internacionales del gas
+- Riesgo regulatorio hasta cambio de gobierno
+- Riesgo geopolítico
 
 ## 2. GRUPOARGOS (Grupo Argos)
 
-### Justificación
+**Recomendación: COMPRA**
 
-- Fuerte diversificación en sectores clave (cemento, energía, infraestructura)
-- Valoración atractiva con P/E de 9.41 y P/B de 0.92
-- Crecimiento significativo del 66.67% en el último año
-- Sólidos márgenes operativos del 20.63%
+### Proyección de rendimiento:
 
-### Proyección de Rendimiento
+- Corto plazo (1 mes): +5-7%
+- Mediano plazo (6 meses): +15-20%
+- Largo plazo (2 años): +40-50%
 
-- Corto plazo: +3-5% por continuidad del momentum actual
-- Mediano plazo: +12-15% por mejora en resultados operativos
-- Largo plazo: +40-50% por recuperación del sector construcción
+### Justificación:
 
-### Riesgos
+- Fuerte posición en infraestructura y materiales de construcción
+- Valoración atractiva (P/E de 9.4x)
+- Sólido crecimiento en ingresos operativos
+- Diversificación geográfica reduce riesgos
+- Dividendo sostenible con yield del 3.48%
+
+### Riesgos:
 
 - Exposición a ciclos económicos
-- Posible desaceleración en el sector construcción
-- Riesgos regulatorios en el sector energético
+- Riesgo cambiario
+- Competencia en sector construcción
 
-## 3. MINEROS (Mineros S.A.)
+## 3. CEMARGOS (Cementos Argos)
 
-### Justificación
+**Recomendación: COMPRA**
 
-- Fuerte apreciación del 150% en el último año
-- Beneficiario directo de precios altos del oro
-- Sólidos márgenes operativos del 25.28%
-- ROE atractivo del 20.10%
+### Proyección de rendimiento:
 
-### Proyección de Rendimiento
+- Corto plazo (1 mes): +6-8%
+- Mediano plazo (6 meses): +20-25%
+- Largo plazo (2 años): +45-55%
 
-- Corto plazo: +4-6% por tendencia alcista en oro
-- Mediano plazo: +20-25% por expectativas de inflación global
-- Largo plazo: +45-55% por posicionamiento en mercado regional
+### Justificación:
 
-### Riesgos
+- Líder en mercado de cemento con presencia regional
+- Valoración atractiva (P/E de 3.9x)
+- Beneficiario directo de proyectos de infraestructura
+- Fuerte generación de flujo de caja libre
+- Dividendo atractivo con yield del 5.2%
 
-- Volatilidad en precios del oro
-- Riesgos operativos en minería
-- Exposición a regulaciones ambientales
+### Riesgos:
+
+- Sensibilidad a precios de energía
+- Exposición a ciclos de construcción
+- Competencia internacional
 
 ## 4. GEB (Grupo Energía Bogotá)
 
-### Justificación
+**Recomendación: COMPRA**
 
-- Sector defensivo con ingresos estables
-- Dividendo atractivo con yield del 9.69%
-- Sólidos márgenes EBITDA del 44.31%
-- Beneficiario de la crisis energética nacional
+### Proyección de rendimiento:
 
-### Proyección de Rendimiento
+- Corto plazo (1 mes): +4-6%
+- Mediano plazo (6 meses): +12-15%
+- Largo plazo (2 años): +30-35%
 
-- Corto plazo: +2-4% por estabilidad del negocio
-- Mediano plazo: +10-15% por crecimiento en distribución
-- Largo plazo: +30-35% por expansión regional
+### Justificación:
 
-### Riesgos
+- Negocio regulado con ingresos estables
+- Beneficiario de la transición energética
+- Sólidos márgenes operativos (32.2%)
+- Expansión regional en curso
+- Dividendo atractivo con yield del 9.7%
 
-- Sensibilidad a tasas de interés
-- Riesgos regulatorios
-- Exposición a tipo de cambio
+### Riesgos:
 
-## 5. PFGRUPSURA (Grupo SURA Preferencial)
+- Riesgo regulatorio
+- Exposición a tasas de interés
+- Riesgo político local
 
-### Justificación
+## 5. BCOLOMBIA (Bancolombia)
 
-- Valoración atractiva con P/E de 2.07
-- Fuerte recuperación del 91.45% en último año
-- Dividendo atractivo con yield del 6.13%
-- Exposición diversificada a sectores financieros y seguros
+**Recomendación: COMPRA**
 
-### Proyección de Rendimiento
+### Proyección de rendimiento:
 
-- Corto plazo: +3-5% por momentum del sector financiero
-- Mediano plazo: +15-20% por mejora en resultados
-- Largo plazo: +40-45% por recuperación de valoración histórica
+- Corto plazo (1 mes): +3-5%
+- Mediano plazo (6 meses): +10-15%
+- Largo plazo (2 años): +25-30%
 
-### Riesgos
+### Justificación:
 
-- Exposición a mercados financieros
-- Riesgos regulatorios del sector
+- Líder en sector bancario colombiano
+- Beneficiario de reducción gradual en tasas de interés
+- Valoración atractiva (P/E de 6x)
+- Fuerte posición de capital
+- Dividendo sostenible con yield del 9.4%
+
+### Riesgos:
+
+- Calidad de cartera en entorno económico débil
+- Competencia de fintech
+- Riesgo regulatorio
+
+## 6. NUTRESA (Grupo Nutresa)
+
+**Recomendación: COMPRA**
+
+### Proyección de rendimiento:
+
+- Corto plazo (1 mes): +3-4%
+- Mediano plazo (6 meses): +8-12%
+- Largo plazo (2 años): +20-25%
+
+### Justificación:
+
+- Líder en alimentos con presencia regional
+- Negocio defensivo en entorno volátil
+- Crecimiento consistente en ingresos
+- Sólidos márgenes operativos
+- Historial de dividendos estables
+
+### Riesgos:
+
+- Presión en márgenes por inflación
+- Competencia en sector alimentos
+- Riesgo cambiario
+
+## 7. PFGRUPSURA (Grupo SURA)
+
+**Recomendación: COMPRA**
+
+### Proyección de rendimiento:
+
+- Corto plazo (1 mes): +4-5%
+- Mediano plazo (6 meses): +10-15%
+- Largo plazo (2 años): +25-30%
+
+### Justificación:
+
+- Holding diversificado en sectores financiero y salud
+- Valoración atractiva (P/E de 2.1x)
+- Recuperación en resultados operativos
+- Exposición a mercados regionales
+- Dividendo atractivo con yield del 6.1%
+
+### Riesgos:
+
+- Exposición a mercados emergentes
+- Riesgo regulatorio en sector salud
 - Competencia en servicios financieros
