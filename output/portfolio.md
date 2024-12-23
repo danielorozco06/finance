@@ -3,17 +3,19 @@
 ## Distribución por Sector
 
 - Energía: 35% (COP 5,250,000)
+  - ECOPETROL: 20% (COP 3,000,000)
+  - CNEC: 15% (COP 2,250,000)
 - Utilities: 25% (COP 3,750,000)
 - Industrial: 25% (COP 3,750,000)
 - Financiero: 15% (COP 2,250,000)
 
 ## Composición Detallada
 
-### ECOPETROL (35%) - COP 5,250,000
+### ECOPETROL (20%) - COP 3,000,000
 
 - Precio objetivo entrada: COP 1,600-1,700
-- Capital a asignar: COP 5,250,000
-- Número de acciones: 3,088
+- Capital a asignar: COP 3,000,000
+- Número de acciones: 1,765
 - Stop loss: COP 1,500
 - Objetivos:
   - Parcial 1: COP 2,200 (30%)
@@ -86,12 +88,60 @@
 - Dividendo: 8.3% yield
 - Catalizadores: Expansión renovables, regulación favorable
 
+### CNEC (15%) - COP 2,250,000
+
+- Precio entrada: COP 11,000-11,500
+- Capital: COP 2,250,000
+- Acciones: 196
+- Stop loss: COP 10,000
+- Objetivos:
+  - Parcial 1: COP 13,000 (40%)
+  - Parcial 2: COP 14,000 (30%)
+  - Parcial 3: COP 15,000 (30%)
+- Horizonte: 18-24 meses
+- Timing: Acumulación gradual 30%/30%/40% en próximas 8 semanas
+- Dividendo esperado: 27.8% yield
+- Catalizadores:
+  - Líder en mercado de gas natural
+  - Valoración atractiva (P/E 3.8x)
+  - Beneficiario de déficit de gas
+  - Cambio político 2026
+
 ## Notas Adicionales
 
 - Mantener 5% en efectivo para oportunidades
 - Revisar stops trimestralmente
 - Ajustar posiciones según evolución política energética
 - Reinvertir dividendos selectivamente
+- Costos de transacción: COP 8,000 por operación
+- Minimizar número de operaciones para optimizar costos
+
+## Plan de Entrada (optimizado para comisiones)
+
+1. Primera semana (4 operaciones = COP 32,000):
+
+   - ECOPETROL: 60% posición (COP 1,800,000)
+   - CONCONCRET: 60% posición (COP 2,250,000)
+   - GEB: 100% posición (COP 2,250,000)
+   - PFGRUPSURA: 100% posición (COP 2,250,000)
+
+2. Segunda semana (2 operaciones = COP 16,000):
+
+   - ECOPETROL: 40% restante (COP 1,200,000)
+   - CONCONCRET: 40% restante (COP 1,500,000)
+
+3. Tercera y cuarta semana (3 operaciones = COP 24,000):
+   - CELSIA: 100% posición (COP 1,500,000)
+   - CNEC: 50% posición (COP 1,125,000)
+   - CNEC: 50% restante (COP 1,125,000)
+
+Total comisiones entrada: COP 72,000 (0.48% del capital)
+
+## Plan de Salida (estimado de comisiones)
+
+- Salidas parciales: 12-15 operaciones estimadas
+- Comisiones salida estimadas: COP 96,000-120,000
+- Total comisiones (entrada + salida): ~COP 192,000 (1.28% del capital)
 
 ## Resumen de Rentabilidad Esperada
 
@@ -99,16 +149,18 @@
 
    - ECOPETROL: 45-55% potencial
    - CONCONCRET: 40-50% potencial
+   - CNEC: 35-45% potencial
    - GEB: 25-35% potencial
    - PFGRUPSURA: 35-45% potencial
    - CELSIA: 20-30% potencial
 
 2. Dividendos Anuales Estimados:
-   - ECOPETROL: ~COP 1,837,500 (35%)
+   - ECOPETROL: ~COP 1,050,000 (35%)
+   - CNEC: ~COP 625,500 (27.8%)
    - GEB: ~COP 218,250 (9.7%)
    - PFGRUPSURA: ~COP 195,750 (8.7%)
    - CELSIA: ~COP 124,500 (8.3%)
-     Total dividendos estimados: ~COP 2,376,000 (15.8% yield promedio)
+     Total dividendos estimados: ~COP 2,214,000 (14.8% yield promedio)
 
 ## Riesgos Principales
 
@@ -116,18 +168,21 @@
 
    - Continuidad de restricciones al sector petrolero
    - Cambios regulatorios en sector eléctrico
+   - Demoras en permisos ambientales para gas
 
 2. Macroeconómicos:
 
    - Volatilidad en precios del petróleo
+   - Volatilidad en precios del gas natural
    - Depreciación del peso colombiano
    - Desaceleración económica global
 
 3. Específicos:
    - ECOPETROL: Restricciones de exploración
+   - CNEC: Retrasos en proyectos de infraestructura
    - GEB/CELSIA: Cambios tarifarios
-   - PFAVAL: Deterioro cartera
    - CONCONCRET: Ciclo construcción
+   - PFGRUPSURA: Proceso de escisión
 
 ## Plan de Seguimiento
 
@@ -135,3 +190,5 @@
 - Ajuste trimestral de stops
 - Evaluación semestral de distribución sectorial
 - Monitoreo continuo de catalizadores políticos y económicos
+
+Nota: Rentabilidades objetivo ya consideran impacto de comisiones

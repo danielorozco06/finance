@@ -58,6 +58,8 @@ Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de in
    - Objetivos parciales de ganancia
    - Horizonte temporal recomendado
 
+Muy importante: cada compra/venta paga 8000 COP de comisión.
+
 ################
 Accion: adicionar al contexto los archivos output/best_stocks.md y output/worst_stocks.md
 
