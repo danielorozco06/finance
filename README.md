@@ -41,7 +41,7 @@ Prompt: Crear un archivo .md donde detalles muy claramente tu opinion sobre CNEC
 
 ## Prompt portafolio de inversión
 
-Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 16,000,000 teniendo en cuenta los siguientes criterios:
+Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 teniendo en cuenta los siguientes criterios:
 
 1. Distribución porcentual por acción
 2. Plan de entrada escalonado:
@@ -57,3 +57,8 @@ Prompt: Crear un archivo ./output/portfolio.md con un portafolio detallado de in
    - Stop loss inicial
    - Objetivos parciales de ganancia
    - Horizonte temporal recomendado
+
+################
+Accion: adicionar al contexto los archivos output/best_stocks.md y output/worst_stocks.md
+
+Prompt: Corregir el portafolio teniendo en cuenta los archivo output/best_stocks.md y output/worst_stocks.md
