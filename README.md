@@ -41,17 +41,16 @@ Prompt: Crear un archivo .md donde detalles muy claramente tu opinion sobre CNEC
 
 ## Prompt portafolio de inversión
 
-Prompt: Crear un archivo .md con recomendaciones detalladas de inversión para un capital de COP 16,000,000:
+Prompt: Crear un archivo portafolio.md con un portafolio detallado de inversión para un capital de COP 16,000,000 teniendo en cuenta los siguientes criterios:
 
-1. Monto total a invertir: COP 16,000,000
-2. Distribución porcentual por acción
-3. Plan de entrada escalonado:
+1. Distribución porcentual por acción
+2. Plan de entrada escalonado:
 
    - Montos específicos
    - Precios objetivo de entrada
    - Timing recomendado (inmediato/esperar pullback)
 
-4. Para cada posición incluir:
+3. Para cada posición incluir:
 
    - Capital a asignar
    - Precio de entrada objetivo
@@ -59,14 +58,14 @@ Prompt: Crear un archivo .md con recomendaciones detalladas de inversión para u
    - Objetivos parciales de ganancia
    - Horizonte temporal recomendado
 
-5. Estrategia de gestión del portafolio:
+4. Estrategia de gestión del portafolio:
 
    - Rebalanceos recomendados
    - Ajustes por cambios de mercado
    - Manejo de dividendos
    - Rotación de posiciones
 
-6. Escenarios y contingencias:
+5. Escenarios y contingencias:
    - Plan si mercado sube/baja agresivamente
    - Ajustes por eventos corporativos
    - Estrategia de salida general
