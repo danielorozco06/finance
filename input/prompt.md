@@ -14,8 +14,10 @@ Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
 Criterios de análisis:
 
-- Información histórica de los tickers en tickers_info/
+- Información de los tickers en tickers_info/
+- Información histórica de los tickers en tickers_history/
 - Noticias y eventos relevantes en news/
+  Nota: La información histórica de los tickers es muy importante para el análisis.
 
 Para cada recomendación incluir:
 

@@ -8,6 +8,8 @@ Diciembre de 2024: El Banco de la República sorprendió al mercado al reducir s
 
 23 de diciembre de 2024: Los precios del petróleo subían el lunes, ya que los datos de inflación de EE.UU., reavivaron las esperanzas de una mayor relajación de la política monetaria
 
-23 de diciemnbre de 2024: precio del dolar en colombia es de 4374 pesos colombianos
+23 de diciembre de 2024: Grupo Argos y Grupo Sura anunciaron que su proceso de escisión por absorción, que busca terminar con la participación cruzada que han mantenido durante 46 años, se extenderá durante todo 2025. La operación permitirá que los accionistas de Argos reciban 0,23 acciones de Sura por cada acción, mientras que los de Sura recibirán 0,72 acciones de Argos. Esta decisión busca simplificar la estructura societaria y aumentar la liquidez de ambas acciones en la Bolsa de Colombia.
+
+23 de diciembre de 2024: precio del dolar en colombia es de 4374 pesos colombianos
 
 23 de diciembre de 2024: Fedesarrollo reveló que el Índice de Confianza Comercial cayó a 17,6% en noviembre, una reducción de 0,2 puntos porcentuales frente a octubre, debido principalmente a menores expectativas económicas para el próximo semestre. Por su parte, el Índice de Confianza Industrial se situó en -2,8%, cayendo 2,4 puntos respecto a octubre. La favorabilidad de las condiciones económicas mejoró ubicándose en -18,9%, mientras que las condiciones sociopolíticas para la inversión, aunque mejoraron, siguen en terreno negativo con -46,5%.
