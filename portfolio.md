@@ -2,21 +2,21 @@
 
 ## Distribución por Sector
 
-- Energía: 35% (COP 5,250,000)
-  - ECOPETROL: 20% (COP 3,000,000)
+- Energía: 30% (COP 4,500,000)
+  - ECOPETROL: 15% (COP 1,500,000)
   - CNEC: 15% (COP 2,250,000)
-- Utilities: 25% (COP 3,750,000)
+- Utilities: 20% (COP 3,000,000)
 - Industrial: 25% (COP 3,750,000)
-- Financiero: 15% (COP 2,250,000)
+- Financiero: 25% (COP 3,750,000)
 
 ## Composición Detallada
 
-### ECOPETROL (20%) - COP 3,000,000
+### ECOPETROL (15%) - COP 1,500,000
 
-- Precio objetivo entrada: COP 1,600-1,700
-- Capital a asignar: COP 3,000,000
+- Precio objetivo entrada: COP 1,500-1,600
+- Capital a asignar: COP 1,500,000
 - Número de acciones: 1,765
-- Stop loss: COP 1,500
+- Stop loss: COP 1,450
 - Objetivos:
   - Parcial 1: COP 2,200 (30%)
   - Parcial 2: COP 2,800 (40%)
@@ -26,12 +26,12 @@
 - Dividendo esperado: 35% yield
 - Catalizadores: Cambio político 2026, precios del petróleo, nuevas exploraciones
 
-### CONCONCRET (25%) - COP 3,750,000
+### CONCONCRET (20%) - COP 3,000,000
 
-- Precio entrada: COP 420-430
-- Capital: COP 3,750,000
+- Precio entrada: COP 380-400
+- Capital: COP 3,000,000
 - Acciones: 8,721
-- Stop loss: COP 380
+- Stop loss: COP 360
 - Objetivos:
   - Parcial 1: COP 500 (40%)
   - Parcial 2: COP 550 (30%)
@@ -57,10 +57,10 @@
 - Dividendo: 9.7% yield
 - Catalizadores: Estabilidad regulatoria, crecimiento en transmisión
 
-### PFGRUPSURA (15%) - COP 2,250,000
+### PFGRUPSURA (20%) - COP 3,000,000
 
 - Precio entrada: COP 25,500-26,000
-- Capital: COP 2,250,000
+- Capital: COP 3,000,000
 - Acciones: 87
 - Stop loss: COP 24,000
 - Objetivos:
@@ -107,6 +107,20 @@
   - Beneficiario de déficit de gas
   - Cambio político 2026
 
+### PFBCOLOM (5%) - COP 750,000
+
+- Precio entrada: COP 34,000-35,000
+- Capital: COP 750,000
+- Acciones: 21
+- Stop loss: COP 33,000
+- Objetivos:
+  - Parcial 1: COP 34,000 (50%)
+  - Parcial 2: COP 35,000 (50%)
+- Horizonte: 12-18 meses
+- Timing: Compra inmediata
+- Dividendo: 8.3% yield
+- Catalizadores: Exposición directa a ciclo de tasas, líder sector financiero, valuación razonable (P/E 10.5x)
+
 ## Notas Adicionales
 
 - Mantener 5% en efectivo para oportunidades
@@ -120,10 +134,9 @@
 
 1. Primera semana (4 operaciones = COP 32,000):
 
-   - ECOPETROL: 60% posición (COP 1,800,000)
-   - CONCONCRET: 60% posición (COP 2,250,000)
+   - PFGRUPSURA: 100% posición (COP 3,000,000)
+   - PFBCOLOM: 100% posición (COP 750,000)
    - GEB: 100% posición (COP 2,250,000)
-   - PFGRUPSURA: 100% posición (COP 2,250,000)
 
 2. Segunda semana (2 operaciones = COP 16,000):
 
