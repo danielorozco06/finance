@@ -69,3 +69,7 @@ PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado 
    - Horizonte temporal de 1 mes
 
 Muy importante: cada compra/venta paga 8000 COP de comisión.
+
+---
+
+PROMPT: Cuando consideras que seria buen momento para invertir en CNEC y en ECOPETROL?
