@@ -45,7 +45,7 @@ Formato: Respuesta en español, estructurada y con argumentos respaldados por da
 
 CONTEXTO: /input/
 
-PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinion sobre CNEC y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusión.
+PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinion sobre cada accion y cuando me recomendarias invertir en ella con las siguiente secciones: situacion actual, contexto macroeconomico y sectorial, fortalezas, debilidades, catalizadores futuros, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada, riesgos a monitorear y conclusion.
 
 ## Prompt portafolio de inversión
 
