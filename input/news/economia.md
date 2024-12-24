@@ -6,10 +6,10 @@ Diciembre de 2024: Colombia perdió su autosuficiencia energética de 45 años a
 
 Diciembre de 2024: El Banco de la República sorprendió al mercado al reducir su tasa de interés en solo 25 puntos básicos, ubicándola en 9.50%. La decisión fue tomada de forma dividida: cinco directores votaron por el recorte de 25 puntos, uno por 50 puntos y otro por 75 puntos básicos. El Ministro de Hacienda encargado, Diego Guevara, lamentó que no se hiciera un recorte mayor, argumentando que es necesario acelerar las reducciones para impulsar la reactivación económica del país.
 
-23 de diciembre de 2024: Los precios del petróleo subían el lunes, ya que los datos de inflación de EE.UU., reavivaron las esperanzas de una mayor relajación de la política monetaria
+24 de diciembre de 2024: Los precios del crudo cayeron debido a preocupaciones por un excedente de oferta para el próximo año y la fortaleza del dólar. Los futuros del crudo Brent bajaban 0,9% a US$72,28 el barril. Los analistas de Macquarie pronostican un excedente de oferta para 2025, estimando un precio promedio de US$70,50 por barril, por debajo del promedio de US$79,64 de este año.
 
 23 de diciembre de 2024: Grupo Argos y Grupo Sura anunciaron que su proceso de escisión por absorción, que busca terminar con la participación cruzada que han mantenido durante 46 años, se extenderá durante todo 2025. La operación permitirá que los accionistas de Argos reciban 0,23 acciones de Sura por cada acción, mientras que los de Sura recibirán 0,72 acciones de Argos. Esta decisión busca simplificar la estructura societaria y aumentar la liquidez de ambas acciones en la Bolsa de Colombia.
 
-23 de diciembre de 2024: precio del dolar en colombia es de 4374 pesos colombianos
+23 de diciembre de 2024: precio del dolar en colombia es de 4419 pesos colombianos
 
 23 de diciembre de 2024: Fedesarrollo reveló que el Índice de Confianza Comercial cayó a 17,6% en noviembre, una reducción de 0,2 puntos porcentuales frente a octubre, debido principalmente a menores expectativas económicas para el próximo semestre. Por su parte, el Índice de Confianza Industrial se situó en -2,8%, cayendo 2,4 puntos respecto a octubre. La favorabilidad de las condiciones económicas mejoró ubicándose en -18,9%, mientras que las condiciones sociopolíticas para la inversión, aunque mejoraron, siguen en terreno negativo con -46,5%.
