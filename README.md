@@ -12,9 +12,7 @@ PROMPT: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 CONTEXTO: /input/
 
-PROMPT: Análisis de inversión en acciones colombianas - $(date)
-
-Generar los archivos de análisis:
+PROMPT: Generar los archivos de análisis:
 
 1. ./output/stocks/best.md: Top 8 acciones recomendadas
 2. ./output/stocks/worst.md: Top 8 acciones a evitar
