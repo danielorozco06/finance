@@ -23,6 +23,7 @@ Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
 - 1 semana
 - 1 mes
+- 6 meses
 - 1 año
 
 Criterios de análisis:
