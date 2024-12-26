@@ -1,78 +1,82 @@
-# Análisis de ECOPETROL (ECOPETROL.CL)
+# Análisis de ECOPETROL
 
 ## Situación Actual
 
-- Principal empresa petrolera de Colombia y una de las mayores de Latinoamérica
-- Precio actual: COP 1,670
-- P/E ratio: 3.98x (muy bajo, refleja preocupaciones del mercado)
-- Dividend Yield: 35.87%
-- Capitalización de mercado: COP 68.66B
-- Control estatal (88.92% propiedad interna)
+Ecopetrol enfrenta un momento crítico en su historia operativa. La suspensión del proyecto Komodo, que buscaba perforar el pozo más profundo del mundo en el Mar Caribe colombiano, representa un revés significativo en sus planes de exploración. La compañía se encuentra en un proceso de adaptación ante la transición energética global, mientras mantiene su posición como la principal empresa petrolera de Colombia.
 
 ## Contexto Macroeconómico y Sectorial
 
-- Volatilidad en precios del petróleo por tensiones geopolíticas
-- Transición energética global presionando al sector
-- Política energética colombiana en proceso de ajuste
-- Presión por reducción de exploración de hidrocarburos
+- Precio del petróleo Brent en niveles de US$72.28 por barril, con perspectivas bajistas para 2025 (promedio esperado US$70.50)
+- Pérdida de autosuficiencia energética en Colombia
+- Inicio de importaciones de gas natural que afectará la dinámica del mercado energético
+- Entorno regulatorio complejo con demoras en licencias ambientales
+- Tipo de cambio en 4,419 COP/USD favorece los ingresos en pesos
 
 ## Fortalezas
 
 - Posición dominante en el mercado colombiano
-- Márgenes operativos sólidos (26.89%)
-- Flujo de caja robusto y dividendos atractivos
-- Integración vertical completa
-- Infraestructura establecida y reservas probadas
+- Estructura financiera sólida
+- Diversificación en toda la cadena de valor energética
+- Respaldo del gobierno colombiano como accionista mayoritario
+- Alta generación de dividendos
 
 ## Debilidades
 
-- Alta dependencia de políticas gubernamentales
-- Ratio de deuda/patrimonio elevado (116.3%)
-- Exposición a volatilidad de precios del petróleo
-- Desafíos en la transición energética
-- Crecimiento de ingresos negativo (-1.5%)
+- Alta dependencia de precios internacionales del petróleo
+- Retrasos en proyectos clave por temas regulatorios
+- Reservas limitadas y necesidad de mayor exploración
+- Exposición a riesgos políticos y regulatorios
+- Costos de producción relativamente altos en algunos campos
 
 ## Catalizadores Futuros
 
 - Potencial recuperación de precios del petróleo
-- Expansión en energías renovables
-- Mejora en eficiencia operativa
-- Desarrollo de nuevos yacimientos
-- Inversiones en hidrógeno y descarbonización
+- Desarrollo de proyectos de energías renovables
+- Oportunidades en el mercado de gas natural
+- Posible expansión internacional
+- Mejoras en eficiencia operativa
 
 ## Recomendación de Inversión
 
-- 0-6 meses: NEUTRAL - Alta volatilidad y riesgos políticos
-- 6-18 meses: COMPRA - Potencial recuperación de precios y dividendos atractivos
-- 18+ meses: MANTENER - Dependerá del éxito en transición energética
+### 0-6 meses
+
+NEUTRAL - El corto plazo presenta desafíos por los precios bajos del petróleo y la incertidumbre regulatoria.
+
+### 6-18 meses
+
+COMPRA - Potencial recuperación de precios y adaptación a nuevo entorno regulatorio.
+
+### 18+ meses
+
+COMPRA FUERTE - Oportunidad de valorización por transición energética y proyectos de largo plazo.
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: COP 1,590 (mínimo 52 semanas)
-- Resistencia: COP 2,510 (máximo 52 semanas)
-- Media móvil 50 días: COP 1,741.1
-- Media móvil 200 días: COP 2,052.925
-- Tendencia actual: Bajista
+- Soporte fuerte: 2,000 COP
+- Resistencia clave: 2,500 COP
+- Media móvil 200 días como referencia de tendencia
+- Volumen promedio diario como indicador de liquidez
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual cerca del soporte de COP 1,600
-2. Aprovechar dividendos para promediar posición
-3. Mantener exposición limitada por riesgos políticos
-4. Stop loss sugerido: 5% por debajo del soporte principal
+1. Acumulación gradual en niveles cercanos a 2,000 COP
+2. Mantener posición core de largo plazo
+3. Aprovechar volatilidad para trading táctico
+4. Diversificar exposición con otras empresas del sector energético
+5. Considerar cobertura con opciones en momentos de alta volatilidad
 
 ## Riesgos a Monitorear
 
-- Cambios en política energética gubernamental
-- Volatilidad en precios del petróleo
-- Riesgos ambientales y sociales
+- Evolución de precios internacionales del petróleo
+- Cambios en política energética del gobierno
+- Demoras adicionales en licenciamiento ambiental
 - Éxito en transición energética
-- Niveles de endeudamiento
-- Cambios en política de dividendos
+- Situación fiscal del país
+- Evolución del tipo de cambio
 
 ## Conclusión
 
-ECOPETROL presenta una valoración atractiva con múltiplos bajos y dividendos excepcionalmente altos, pero enfrenta desafíos significativos en el corto y mediano plazo. La transición energética y los cambios en la política gubernamental son los principales riesgos. Sin embargo, su posición dominante en el mercado colombiano y su capacidad de generación de flujo de caja la hacen una opción interesante para inversores que puedan tolerar la volatilidad y los riesgos políticos. La estrategia recomendada es una acumulación gradual en niveles de soporte, aprovechando los dividendos para construir posición.
+Ecopetrol representa una oportunidad de inversión atractiva para el mediano y largo plazo, a pesar de los desafíos actuales. La combinación de su posición dominante en el mercado, capacidad de adaptación y potencial de recuperación en precios del petróleo la hace interesante para inversores con tolerancia al riesgo medio-alto. La recomendación es construir posiciones gradualmente, aprovechando momentos de debilidad en el precio para acumular, manteniendo un horizonte de inversión superior a 18 meses.
 
 _Precio Objetivo Consenso: COP 1,969 (basado en 7 analistas)_
 _Recomendación Consenso: MANTENER_

@@ -1,74 +1,82 @@
-# Análisis de CELSIA (CELSIA.CL)
+# Análisis de CELSIA
 
 ## Situación Actual
 
-- Empresa líder en el sector de utilities con enfoque en energías renovables
-- Precio actual: COP 3,630
-- P/E ratio: 10.67x
-- Dividend Yield: 8.29%
-- Capitalización de mercado: COP 3.87B
-- Beta: 0.476 (baja volatilidad respecto al mercado)
+CELSIA se encuentra en un momento de transformación estratégica, enfocándose en la expansión de energías renovables y la modernización de su matriz energética. La compañía ha realizado inversiones significativas en proyectos solares y eólicos, mientras mantiene una sólida base de generación tradicional. Su reciente reorganización corporativa busca optimizar la estructura operativa y mejorar la eficiencia.
 
 ## Contexto Macroeconómico y Sectorial
 
-- Sector utilities en transformación hacia energías renovables
-- Ambiente de tasas de interés altas que afecta los márgenes financieros
-- Creciente demanda de energía en Colombia y la región
-- Presión regulatoria para la transición energética
+- Transición energética acelerada hacia fuentes renovables
+- Pérdida de autosuficiencia energética en Colombia
+- Entorno de tasas de interés altas (9.50%) impactando inversiones
+- Tipo de cambio en 4,419 COP/USD afectando costos de equipos importados
+- Creciente demanda de energía limpia por parte de grandes consumidores
 
 ## Fortalezas
 
-- Liderazgo en el sector de energías renovables
-- Sólida posición financiera con ratio deuda/patrimonio de 102.41%
-- Alto porcentaje de propiedad interna (58.66%)
-- Dividendo atractivo y sostenible (payout ratio 87.13%)
-- Beta bajo que indica estabilidad en períodos de volatilidad
+- Liderazgo en energías renovables
+- Diversificación de fuentes de generación
+- Respaldo del Grupo Argos
+- Base de clientes estable y diversificada
+- Capacidad de innovación y adaptación tecnológica
 
 ## Debilidades
 
-- Ratio de liquidez corriente bajo (0.665)
-- Alta dependencia de condiciones climáticas para generación
-- Necesidad constante de inversión en infraestructura
-- Exposición a riesgos regulatorios
+- Alta necesidad de inversión de capital
+- Exposición a variabilidad climática
+- Dependencia de equipos importados
+- Costos financieros elevados
+- Competencia creciente en el sector renovable
 
 ## Catalizadores Futuros
 
-- Expansión en proyectos de energía renovable
-- Potencial de crecimiento en nuevos mercados
-- Digitalización y modernización de la red
-- Incentivos gubernamentales para energías limpias
+- Expansión en capacidad de generación renovable
+- Desarrollo de proyectos de almacenamiento de energía
+- Oportunidades en movilidad eléctrica
+- Digitalización de servicios energéticos
+- Potencial en generación distribuida
 
 ## Recomendación de Inversión
 
-- 0-6 meses: NEUTRAL - Volatilidad esperada por condiciones macroeconómicas
-- 6-18 meses: COMPRA - Potencial de recuperación y expansión de proyectos
-- 18+ meses: COMPRA FUERTE - Beneficios de la transición energética
+### 0-6 meses
+
+NEUTRAL - Período de consolidación de inversiones y presión por costos de financiamiento.
+
+### 6-18 meses
+
+COMPRA - Materialización de beneficios de proyectos renovables y mejora en eficiencia operativa.
+
+### 18+ meses
+
+COMPRA FUERTE - Posicionamiento estratégico en transición energética y recuperación de márgenes.
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: COP 2,960 (mínimo 52 semanas)
-- Resistencia: COP 4,390 (máximo 52 semanas)
-- Media móvil 50 días: COP 3,662.6
-- Media móvil 200 días: COP 3,973.775
+- Soporte principal: 3,800 COP
+- Resistencia clave: 4,500 COP
+- Media móvil 200 días como referencia de tendencia
+- Volumen promedio diario como indicador de liquidez
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles cercanos a COP 3,600
-2. Aumentar posición en correcciones hacia soporte de COP 3,000
-3. Mantener reinversión de dividendos
-4. Stop loss sugerido: 5-7% por debajo del precio de entrada
+1. Acumulación gradual cerca de niveles de soporte
+2. Mantener posición core de largo plazo
+3. Aprovechar volatilidad para trading táctico
+4. Diversificar exposición dentro del sector energético
+5. Considerar cobertura cambiaria por importaciones
 
 ## Riesgos a Monitorear
 
-- Cambios regulatorios en el sector energético
-- Condiciones climáticas adversas
-- Aumento en tasas de interés
-- Retrasos en proyectos de expansión
-- Cambios en política de dividendos
+- Variabilidad en condiciones climáticas
+- Evolución de costos de financiamiento
+- Cambios en regulación del sector eléctrico
+- Retrasos en ejecución de proyectos
+- Competencia en el sector renovable
+- Riesgos tecnológicos y de obsolescencia
 
 ## Conclusión
 
-CELSIA representa una oportunidad de inversión atractiva para el largo plazo, especialmente para inversores que buscan exposición al sector de energías renovables con un componente de ingreso por dividendos. La combinación de su posición de liderazgo en el mercado, su estrategia de crecimiento en renovables y su dividendo sostenible la hacen una opción defensiva con potencial de apreciación. El momento actual de mercado ofrece un punto de entrada interesante, especialmente para inversores con horizonte superior a 18 meses.
+CELSIA representa una oportunidad de inversión atractiva en el sector de energías renovables y servicios públicos. Su estrategia de transformación hacia fuentes limpias, respaldada por una sólida base de activos tradicionales y el apoyo del Grupo Argos, la posiciona favorablemente para capitalizar la transición energética. Aunque enfrenta desafíos en el corto plazo por los altos costos de financiamiento y la presión competitiva, su enfoque en innovación y sostenibilidad la hace especialmente atractiva para inversores con horizonte de largo plazo. La recomendación es construir posiciones gradualmente, aprovechando momentos de debilidad en el precio para acumular.
 
 _Precio Objetivo Consenso: COP 4,875 (basado en 2 analistas)_
 _Potencial de Valorización: ~34% desde niveles actuales_
