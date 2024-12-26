@@ -67,6 +67,8 @@ PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado 
    - Stop loss inicial
    - Objetivos parciales de ganancia
 
+Comisión por operación: COP 8,000
+
 ---
 
 PROMPT: Revisar cada uno de los tickers para ver si se debe agregar o quitar del portafolio
