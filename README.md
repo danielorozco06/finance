@@ -69,4 +69,6 @@ PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado 
 
 ---
 
-PROMPT: Cuando consideras que seria buen momento para invertir en CNEC y en ECOPETROL?
+PROMPT: Revisar cada uno de los tickers para ver si se debe agregar o quitar del portafolio
+
+PROMPT: Cuando consideras que seria buen momento para invertir en CNEC?

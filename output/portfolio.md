@@ -5,49 +5,49 @@ Horizonte: 6 meses
 
 ## Distribución del Capital
 
-1. MINEROS (30%): COP 4,500,000
+1. ECOPETROL (30%): COP 4,500,000
 
    - Plan de entrada escalonado:
-     - Entrada 1: COP 2,500,000 @ 4,200 (inmediato)
-     - Entrada 2: COP 2,000,000 @ 4,000 (en pullback)
-   - Stop loss: 3,800 (-9.5%)
+     - Entrada 1: COP 3,000,000 @ 1,670 (inmediato)
+     - Entrada 2: COP 2,250,000 @ 1,600 (en pullback)
+   - Stop loss: 1,550 (-7.2%)
    - Objetivos:
-     - Parcial 1: 4,600 (+9.5%)
-     - Parcial 2: 4,900 (+16.7%)
-   - Justificación: ROE excepcional (20.1%), bajo endeudamiento, beneficiario del oro como refugio
+     - Parcial 1: 1,850 (+10.8%)
+     - Parcial 2: 1,969 (+17.9%)
+   - Justificación: Dividendo excepcional (35.87%), P/E bajo (3.98x), potencial cambio político
 
 2. ISA (25%): COP 3,750,000
 
    - Plan de entrada escalonado:
-     - Entrada 1: COP 2,250,000 @ 16,500 (inmediato)
+     - Entrada 1: COP 2,250,000 @ 16,580 (inmediato)
      - Entrada 2: COP 1,500,000 @ 16,000 (en pullback)
-   - Stop loss: 15,500 (-6.1%)
+   - Stop loss: 15,500 (-6.5%)
    - Objetivos:
-     - Parcial 1: 17,500 (+6.1%)
-     - Parcial 2: 18,500 (+12.1%)
-   - Justificación: Negocio regulado, crecimiento sólido, dividendo 9.58%
+     - Parcial 1: 18,000 (+8.6%)
+     - Parcial 2: 19,500 (+17.6%)
+   - Justificación: Crecimiento sólido (40.2%), dividendo 9.58%, negocio regulado
 
-3. GEB (25%): COP 3,750,000
+3. PFBCOLOM (25%): COP 3,750,000
 
    - Plan de entrada escalonado:
-     - Entrada 1: COP 2,000,000 @ 2,480 (inmediato)
-     - Entrada 2: COP 1,750,000 @ 2,400 (en pullback)
-   - Stop loss: 2,300 (-7.3%)
+     - Entrada 1: COP 2,250,000 @ 35,220 (inmediato)
+     - Entrada 2: COP 1,500,000 @ 34,000 (en pullback)
+   - Stop loss: 33,000 (-6.3%)
    - Objetivos:
-     - Parcial 1: 2,650 (+6.9%)
-     - Parcial 2: 2,800 (+12.9%)
-   - Justificación: Dividendo atractivo (9.69%), flujos estables, potencial de valorización
+     - Parcial 1: 37,500 (+6.5%)
+     - Parcial 2: 38,500 (+9.3%)
+   - Justificación: P/E bajo (5.54x), dividendo 10.05%, ROE 15.22%, beneficiario de tasas altas
 
-4. ECOPETROL (20%): COP 3,000,000
+4. PFGRUPSURA (20%): COP 3,000,000
 
    - Plan de entrada escalonado:
-     - Entrada 1: COP 1,750,000 @ 1,670 (inmediato)
-     - Entrada 2: COP 1,250,000 @ 1,600 (en pullback)
-   - Stop loss: 1,550 (-7.2%)
+     - Entrada 1: COP 1,350,000 @ 26,080 (inmediato)
+     - Entrada 2: COP 900,000 @ 25,000 (en pullback)
+   - Stop loss: 24,000 (-8%)
    - Objetivos:
-     - Parcial 1: 1,800 (+7.8%)
-     - Parcial 2: 1,950 (+16.8%)
-   - Justificación: Dividendo excepcional (35.87%), valuación atractiva, potencial cambio político
+     - Parcial 1: 28,000 (+7.4%)
+     - Parcial 2: 30,000 (+15%)
+   - Justificación: Valuación muy atractiva (P/E 2.07x), ROE 20.09%, dividendo 6.13%, beta defensivo
 
 ## Consideraciones de Riesgo y Costos
 
@@ -60,10 +60,10 @@ Horizonte: 6 meses
      - Total: COP 128,000 (0.85% del capital)
 
 2. Gestión de Riesgo:
-   - Stop loss promedio: -7.5%
-   - Objetivos promedio: +8% (primer parcial), +14.6% (segundo parcial)
-   - Diversificación sectorial: minería, energía, utilities
-   - Beta promedio ponderado: 0.52 (menor volatilidad que el mercado)
+   - Stop loss promedio: -8%
+   - Objetivos promedio: +9% (primer parcial), +19.4% (segundo parcial)
+   - Diversificación sectorial: energía, utilities, minería
+   - Beta promedio ponderado: 0.48 (menor volatilidad que el mercado)
 
 ## Plan de Seguimiento
 
