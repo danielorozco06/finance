@@ -7,11 +7,9 @@
 - https://finance.yahoo.com/quote/ISA.CL/
 - https://finance.yahoo.com/quote/MINEROS.CL/
 - https://finance.yahoo.com/quote/NUTRESA.CL/
-- https://finance.yahoo.com/quote/PFAVAL.CL/
 - https://finance.yahoo.com/quote/PFBCOLOM.CL/
 - https://finance.yahoo.com/quote/PFCEMARGOS.CL/
 - https://finance.yahoo.com/quote/PFGRUPOARG.CL/
 - https://finance.yahoo.com/quote/PFGRUPSURA.CL/
-- https://finance.yahoo.com/quote/PROMIGAS.CL/
 - https://finance.yahoo.com/quote/TERPEL.CL/
 
