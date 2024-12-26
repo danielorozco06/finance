@@ -14,8 +14,8 @@ CONTEXTO: /input/
 
 PROMPT: Generar los archivos de análisis:
 
-1. ./output/stocks/best.md: Top 8 acciones recomendadas
-2. ./output/stocks/worst.md: Top 8 acciones a evitar
+1. ./output/stocks/best.md: Top 7 acciones recomendadas
+2. ./output/stocks/worst.md: Top 7 acciones a evitar
 
 Para cada grupo de acciones, analizar y proyectar rendimiento en:
 
