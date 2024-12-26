@@ -8,33 +8,6 @@ PROMPT: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 # Cursor Composer
 
-## Prompt analisis general
-
-Skill: Normal
-
-CONTEXTO: /input/
-
-PROMPT: Generar los archivos de análisis pensando en un plazo de 6 meses:
-
-1. ./output/stocks/best.md: Top 7 acciones recomendadas
-2. ./output/stocks/worst.md: Top 7 acciones a evitar
-
-Criterios de análisis:
-
-- Información de los tickers en tickers_info/
-- Información histórica de los tickers en tickers_history/
-- Noticias y eventos relevantes en news/
-
-Nota: La información histórica de los tickers es muy importante para el análisis.
-
-Para cada recomendación incluir:
-
-- Justificación detallada del posicionamiento
-- Factores clave que influyen en la proyección
-- Riesgos específicos a considerar
-
-Formato: Respuesta en español, estructurada y con argumentos respaldados por datos y análisis.
-
 ## Prompt analisis individual
 
 Skill: Agent
@@ -52,15 +25,16 @@ CONTEXTO: /output/
 PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000. Tener en cuenta los siguientes criterios:
 
 1. Horizonte temporal de 6 meses
-2. Máximo 6 posiciones
-3. Distribución porcentual por acción
-4. Plan de entrada escalonado:
+2. Máximo 4 posiciones
+3. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker
+4. Distribución porcentual por acción
+5. Plan de entrada escalonado:
 
    - Montos específicos
    - Precios objetivo de entrada
    - Timing recomendado (inmediato/esperar pullback)
 
-5. Para cada posición incluir:
+6. Para cada posición incluir:
 
    - Capital a asignar
    - Precio de entrada objetivo
