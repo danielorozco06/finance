@@ -12,16 +12,10 @@ PROMPT: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 CONTEXTO: /input/
 
-PROMPT: Generar los archivos de análisis:
+PROMPT: Generar los archivos de análisis pensando en un plazo de 6 meses:
 
 1. ./output/stocks/best.md: Top 7 acciones recomendadas
 2. ./output/stocks/worst.md: Top 7 acciones a evitar
-
-Para cada grupo de acciones, analizar y proyectar rendimiento en:
-
-- 1 mes
-- 6 meses
-- 2 años
 
 Criterios de análisis:
 
@@ -36,7 +30,6 @@ Para cada recomendación incluir:
 - Justificación detallada del posicionamiento
 - Factores clave que influyen en la proyección
 - Riesgos específicos a considerar
-- Potencial de valorización/desvalorización estimado
 
 Formato: Respuesta en español, estructurada y con argumentos respaldados por datos y análisis.
 
