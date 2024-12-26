@@ -18,22 +18,50 @@ PROMPT: Actualizar para cada acción el archivo ./output/analysis/$TICKER.md con
 
 CONTEXTO: /output/
 
-PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio diversificado de inversión para un capital de COP 12,000,000. Tener en cuenta los siguientes criterios:
+PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio diversificado de inversión para un capital de COP 12,000,000.
+Tener en cuenta los siguientes criterios:
 
 1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a 6 meses
-2. Distribución porcentual por acción
-3. Plan de entrada escalonado:
 
-   - Montos específicos
-   - Precios objetivo de entrada
-   - Timing recomendado (inmediato/esperar pullback)
+2. Organizar el documento con la siguiente estructura:
 
-4. Para cada posición incluir:
+# Portafolio de Inversión
 
-   - Capital a asignar
-   - Precio de entrada objetivo
-   - Stop loss inicial
-   - Objetivos parciales de ganancia
+## 1. Composición y Justificación
+
+[Distribución por Acción con sus justificaciones]
+
+## 2. Plan de Ejecución
+
+### 2.1 Órdenes de Entrada
+
+[Órdenes límite de entrada]
+
+### 2.2 Órdenes de Protección
+
+[Stop loss por posición]
+
+### 2.3 Órdenes de Salida
+
+[Take profit por posición]
+
+## 3. Gestión del Portafolio
+
+### 3.1 Gestión de Riesgo
+
+[Stop loss global y reglas de gestión]
+
+### 3.2 Consideraciones de Ejecución
+
+[Reglas de ejecución de órdenes]
+
+### 3.3 Seguimiento y Rebalanceo
+
+[Plan de monitoreo y ajustes]
+
+## 4. Resumen y Notas
+
+[Diversificación y consideraciones importantes]
 
 ---
 
