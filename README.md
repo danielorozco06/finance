@@ -18,7 +18,7 @@ PROMPT: Actualizar para cada acción el archivo ./output/analysis/$TICKER.md con
 
 CONTEXTO: /output/
 
-PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio diversificado de inversión para un capital de COP 15,000,000. Tener en cuenta los siguientes criterios:
+PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio diversificado de inversión para un capital de COP 12,000,000. Tener en cuenta los siguientes criterios:
 
 1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a 6 meses
 2. Distribución porcentual por acción
