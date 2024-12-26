@@ -1,47 +1,44 @@
-# Análisis GRUPO BOLIVAR
+# Análisis Técnico - GRUBOLIVAR
 
 ## Fortalezas
 
-- Líder en sector financiero y seguros
-- Alta posición de efectivo (172,653 COP por acción)
-- Fuerte crecimiento de ingresos (17.1%)
 - Diversificación de negocios
+- Solidez financiera
+- Baja volatilidad
 
 ## Debilidades
 
-- Retorno sobre activos negativo (-0.064%)
-- Retorno sobre patrimonio negativo (-0.68%)
-- Márgenes operativos negativos (-1.87%)
-- Flujo de caja operativo negativo
+- Bajo volumen de negociación
+- Limitada liquidez
+- Rango lateral prolongado
 
 ## Catalizadores Futuros
 
 - Recuperación del sector financiero
-- Potencial reducción de tasas de interés
-- Mejora en eficiencia operativa
-- Expansión en servicios digitales
+- Expansión de servicios digitales
+- Posibles adquisiciones
 
 ## Precio Actual
 
-- Precio: 58,500 COP
-- Baja liquidez en el mercado
-- Descuento vs valor en libros
+- Compra: 58,500.00
+- Venta: 58,600.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: MANTENER - Presión por altas tasas
-- 6-18 meses: COMPRAR - Beneficiario de ciclo bajista tasas
-- 18+ meses: COMPRAR - Recuperación rentabilidad
+- 0-6 meses: Mantener
+- 6-18 meses: Comprar
+- 18+ meses: Comprar
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 57,000 COP
-- Soporte secundario: 55,000 COP
-- Resistencia: 60,000 COP
+- Soporte 1: 57,000.00
+- Soporte 2: 56,000.00
+- Resistencia 1: 59,000.00
+- Resistencia 2: 60,000.00
 
 ## Estrategia Recomendada
 
-1. Acumulación selectiva en soportes
-2. Aumentar exposición ante señales de reducción de tasas
-3. Mantener posición core largo plazo
-4. Stop loss bajo 54,000 COP
+1. Compras selectivas en soportes
+2. Mantener posiciones de largo plazo
+3. Trading limitado por baja liquidez
+4. Stop loss por debajo de 56,000

@@ -1,47 +1,44 @@
-# Análisis MINEROS
+# Análisis Técnico - MINEROS
 
 ## Fortalezas
 
-- Excelente retorno sobre patrimonio (20.1%)
-- Bajo nivel de deuda (ratio deuda/patrimonio 8.3%)
-- Fuerte crecimiento de ingresos (14.4%)
-- Sólido crecimiento de utilidades (44%)
+- Tendencia alcista reciente
+- Buenos volúmenes de negociación
+- Sector beneficiado por precios del oro
 
 ## Debilidades
 
-- Alta dependencia del precio del oro
-- Riesgos operativos en minería
-- Exposición a regulaciones ambientales
-- Liquidez limitada en el mercado
+- Alta volatilidad
+- Sensibilidad a precios de commodities
+- Riesgos regulatorios
 
 ## Catalizadores Futuros
 
-- Potencial alza en precios del oro por incertidumbre global
-- Expansión de operaciones internacionales
-- Mejoras en eficiencia operativa
-- Nuevos descubrimientos mineros
+- Precios del oro favorables
+- Cambio de gobierno en 2026
+- Expansión internacional
 
 ## Precio Actual
 
-- Precio: 4,235 COP
-- Precio objetivo analistas: 4,500 COP
-- Potencial alcista: ~6%
+- Compra: 4,235.00
+- Venta: 4,300.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: COMPRAR - Momentum positivo actual
-- 6-18 meses: MANTENER - Consolidación esperada
-- 18+ meses: COMPRAR - Exposición al oro como activo refugio
+- 0-6 meses: Comprar
+- 6-18 meses: Comprar
+- 18+ meses: Mantener
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 4,000 COP
-- Soporte secundario: 3,800 COP
-- Resistencia: 4,500 COP
+- Soporte 1: 4,000.00
+- Soporte 2: 3,800.00
+- Resistencia 1: 4,500.00
+- Resistencia 2: 4,800.00
 
 ## Estrategia Recomendada
 
-1. Compras parciales en niveles actuales
-2. Aumentar posiciones en caídas a 4,000 COP
-3. Mantener exposición de largo plazo al sector oro
-4. Stop loss bajo 3,700 COP
+1. Acumulación en retrocesos
+2. Trading activo en el rango
+3. Mantener posición core
+4. Stop loss por debajo de 3,800

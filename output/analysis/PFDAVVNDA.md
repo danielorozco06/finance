@@ -1,27 +1,27 @@
-# Análisis Técnico - PFBCOLOM
+# Análisis Técnico - PFDAVVNDA
 
 ## Fortalezas
 
-- Alta liquidez
-- Liderazgo en sector financiero
+- Sector financiero sólido
 - Buenos volúmenes de negociación
+- Estabilidad en precios
 
 ## Debilidades
 
-- Tendencia bajista reciente
+- Tendencia lateral prolongada
 - Sensibilidad a tasas de interés
-- Presión vendedora corto plazo
+- Volatilidad moderada
 
 ## Catalizadores Futuros
 
 - Reducción de tasas de interés
+- Digitalización bancaria
 - Recuperación económica
-- Mejora en calidad de cartera
 
 ## Precio Actual
 
-- Compra: 35,280.00
-- Venta: 35,300.00
+- Compra: 18,000.00
+- Venta: 18,100.00
 
 ## Recomendación por Horizonte Temporal
 
@@ -31,14 +31,14 @@
 
 ## Niveles Técnicos Relevantes
 
-- Soporte 1: 34,800.00
-- Soporte 2: 34,000.00
-- Resistencia 1: 36,000.00
-- Resistencia 2: 37,000.00
+- Soporte 1: 17,500.00
+- Soporte 2: 17,000.00
+- Resistencia 1: 18,500.00
+- Resistencia 2: 19,000.00
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en soportes
+1. Acumulación en soportes
 2. Mantener posición core de largo plazo
-3. Trading en el rango 34,800-36,000
-4. Stop loss por debajo de 34,000
+3. Trading en el rango 17,500-18,500
+4. Stop loss por debajo de 17,000

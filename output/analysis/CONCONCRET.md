@@ -1,47 +1,43 @@
-# Análisis CONSTRUCTORA CONCONCRETO
+# Análisis Técnico - CONCONCRET
 
 ## Fortalezas
 
-- Líder en construcción e infraestructura en Colombia
-- Buen nivel de efectivo (102.8 COP por acción)
-- Ratio deuda/patrimonio moderado (54.8%)
-- Flujo de caja operativo positivo
+- Fuerte impulso alcista reciente
+- Volúmenes extraordinarios confirmando movimiento
+- Sector construcción con potencial de recuperación
 
 ## Debilidades
 
-- Bajos márgenes brutos (7.6%)
-- Bajo retorno sobre patrimonio (1.2%)
-- Crecimiento de ingresos débil (1.4%)
-- Alta dependencia del ciclo económico
+- Alta volatilidad histórica
+- Sensibilidad a ciclos económicos
 
 ## Catalizadores Futuros
 
-- Reactivación del sector construcción
-- Nuevos proyectos de infraestructura pública
-- Potencial recuperación del sector inmobiliario
-- Diversificación hacia concesiones
+- Recuperación del sector construcción
+- Posibles nuevos proyectos de infraestructura
+- Mejora en márgenes por reducción de costos
 
 ## Precio Actual
 
-- Precio: 425 COP
-- Valoración atractiva vs activos
-- Potencial de revalorización significativo
+- Compra: 425.00
+- Venta: 430.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: COMPRAR - Valoración atractiva
-- 6-18 meses: COMPRAR - Recuperación sectorial esperada
-- 18+ meses: COMPRAR FUERTE - Ciclo positivo construcción
+- 0-6 meses: Comprar
+- 6-18 meses: Mantener
+- 18+ meses: Mantener
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 400 COP
-- Soporte secundario: 380 COP
-- Resistencia: 450 COP
+- Soporte 1: 400.00
+- Soporte 2: 380.00
+- Resistencia 1: 450.00
+- Resistencia 2: 480.00
 
 ## Estrategia Recomendada
 
-1. Acumulación agresiva en niveles actuales
-2. Aumentar posiciones en soportes
-3. Mantener exposición largo plazo al sector construcción
-4. Stop loss bajo 370 COP
+1. Aprovechar retrocesos para acumular
+2. Tomar ganancias parciales en resistencias
+3. Mantener posición core de mediano plazo
+4. Stop loss por debajo de 380

@@ -1,47 +1,43 @@
-# Análisis CANACOL
+# Análisis Técnico - CNEC
 
 ## Fortalezas
 
-- Líder en gas natural en Colombia
-- Excelentes márgenes brutos (79.3%)
-- Buenos márgenes operativos (63%)
-- Fuerte crecimiento en ingresos (19.5%)
+- Fuerte recuperación desde mínimos
+- Volúmenes significativos en movimientos alcistas
+- Sector estratégico para el país
 
 ## Debilidades
 
-- Alta dependencia del mercado colombiano
-- Exposición a riesgo regulatorio
-- Alto nivel de deuda (ratio deuda/patrimonio 209.7%)
-- Liquidez limitada en el mercado
+- Alta volatilidad
+- Dependencia de políticas energéticas gubernamentales
 
 ## Catalizadores Futuros
 
-- Déficit de gas natural en Colombia
-- Nuevos proyectos de exploración
-- Potencial expansión internacional
-- Cambio favorable en políticas energéticas 2026
+- Cambio de gobierno en 2026
+- Reactivación de proyectos de exploración
+- Mejora en precios internacionales de hidrocarburos
 
 ## Precio Actual
 
-- Precio: 11,360 COP
-- Recomendación analistas: MANTENER
-- Valoración atractiva vs comparables
+- Compra: 11,360.00
+- Venta: 11,500.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: MANTENER - Volatilidad por entorno político
-- 6-18 meses: COMPRAR - Mejora en fundamentales
-- 18+ meses: COMPRAR FUERTE - Beneficiario de cambio político
+- 0-6 meses: Mantener
+- 6-18 meses: Comprar
+- 18+ meses: Comprar Fuerte
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 11,000 COP
-- Soporte secundario: 10,500 COP
-- Resistencia: 12,000 COP
+- Soporte 1: 11,000.00
+- Soporte 2: 10,500.00
+- Resistencia 1: 12,000.00
+- Resistencia 2: 12,500.00
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posiciones bajo 11,000 COP
-3. Mantener exposición largo plazo al sector gas
-4. Stop loss bajo 10,000 COP
+1. Acumulación gradual en soportes
+2. Posicionamiento para cambio de gobierno
+3. Trading en rangos definidos
+4. Stop loss por debajo de 10,500

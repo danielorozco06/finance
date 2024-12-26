@@ -1,47 +1,44 @@
-# Análisis GRUPO ARGOS (Preferencial)
+# Análisis Técnico - PFGRUPOARG
 
 ## Fortalezas
 
-- Portafolio diversificado (cemento, energía, concesiones)
-- Activos estratégicos de alta calidad
-- Presencia regional importante
-- Potencial de desinversiones
+- Tendencia alcista reciente
+- Buenos volúmenes de negociación
+- Diversificación de negocios
 
 ## Debilidades
 
-- Estructura holding compleja
-- Descuento vs suma de partes
-- Baja liquidez en el mercado
-- Exposición a ciclos económicos
+- Alta volatilidad
+- Sensibilidad a ciclos económicos
+- Correlación con sector construcción
 
 ## Catalizadores Futuros
 
-- Proceso de escisión con Grupo Sura
-- Simplificación estructura corporativa
-- Monetización de activos
-- Reducción del descuento holding
+- Recuperación sector construcción
+- Expansión internacional
+- Mejora en márgenes operativos
 
 ## Precio Actual
 
-- Precio: 15,360 COP
-- Descuento significativo vs NAV
-- Potencial de revalorización importante
+- Compra: 15,200.00
+- Venta: 15,300.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: COMPRAR - Momentum por escisión
-- 6-18 meses: COMPRAR FUERTE - Restructuración corporativa
-- 18+ meses: COMPRAR - Valor fundamental atractivo
+- 0-6 meses: Comprar
+- 6-18 meses: Comprar
+- 18+ meses: Mantener
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 14,500 COP
-- Soporte secundario: 14,000 COP
-- Resistencia: 16,000 COP
+- Soporte 1: 14,500.00
+- Soporte 2: 14,000.00
+- Resistencia 1: 15,800.00
+- Resistencia 2: 16,000.00
 
 ## Estrategia Recomendada
 
-1. Acumulación agresiva en niveles actuales
-2. Aumentar exposición ante avances en escisión
-3. Mantener posición core largo plazo
-4. Stop loss bajo 13,500 COP
+1. Acumulación en retrocesos
+2. Trading activo en el rango
+3. Mantener posición core
+4. Stop loss por debajo de 14,000

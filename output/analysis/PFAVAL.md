@@ -1,27 +1,27 @@
-# Análisis Técnico - ISA
+# Análisis Técnico - PFAVAL
 
 ## Fortalezas
 
-- Sector energético estratégico
+- Alta liquidez
+- Sector financiero sólido
 - Buenos volúmenes de negociación
-- Solidez financiera
 
 ## Debilidades
 
 - Tendencia bajista reciente
 - Sensibilidad a tasas de interés
-- Regulación sectorial
+- Volatilidad en el corto plazo
 
 ## Catalizadores Futuros
 
-- Expansión regional
-- Proyectos de infraestructura
-- Recuperación de márgenes
+- Reducción de tasas de interés
+- Recuperación económica
+- Mejora en márgenes financieros
 
 ## Precio Actual
 
-- Compra: 16,400.00
-- Venta: 16,500.00
+- Compra: 443.00
+- Venta: 445.00
 
 ## Recomendación por Horizonte Temporal
 
@@ -31,14 +31,14 @@
 
 ## Niveles Técnicos Relevantes
 
-- Soporte 1: 16,000.00
-- Soporte 2: 15,500.00
-- Resistencia 1: 17,000.00
-- Resistencia 2: 17,500.00
+- Soporte 1: 430.00
+- Soporte 2: 420.00
+- Resistencia 1: 460.00
+- Resistencia 2: 470.00
 
 ## Estrategia Recomendada
 
 1. Acumulación gradual en soportes
 2. Mantener posición core de largo plazo
-3. Trading en el rango 16,000-17,000
-4. Stop loss por debajo de 15,500
+3. Trading en el rango 430-460
+4. Stop loss por debajo de 420

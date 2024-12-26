@@ -1,47 +1,43 @@
-# Análisis GEB (Grupo Energía Bogotá)
+# Análisis Técnico - GEB
 
 ## Fortalezas
 
-- Negocio regulado con ingresos estables
-- Buenos márgenes operativos (32.2%)
-- Sólido retorno sobre patrimonio (13.5%)
-- Diversificación geográfica en Latinoamérica
+- Sector energético estratégico
+- Buenos volúmenes de negociación
+- Tendencia alcista de largo plazo
 
 ## Debilidades
 
-- Ligera caída en ingresos (-0.9%)
-- Alto nivel de deuda (ratio deuda/patrimonio 104.6%)
-- Exposición a riesgo regulatorio
-- Baja liquidez en el mercado
+- Volatilidad reciente
+- Sensibilidad a regulaciones del sector
 
 ## Catalizadores Futuros
 
-- Expansión en energías renovables
-- Nuevos proyectos de transmisión
-- Crecimiento en mercados internacionales
-- Potencial consolidación del sector
+- Expansión regional
+- Inversiones en energías renovables
+- Crecimiento de la demanda energética
 
 ## Precio Actual
 
-- Precio: 2,495 COP
-- Precio objetivo analistas: 3,150 COP
-- Potencial alcista: ~26%
+- Compra: 2,495.00
+- Venta: 2,500.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: MANTENER - Consolidación en rango actual
-- 6-18 meses: COMPRAR - Materialización de proyectos en curso
-- 18+ meses: COMPRAR - Crecimiento sostenido largo plazo
+- 0-6 meses: Comprar
+- 6-18 meses: Comprar
+- 18+ meses: Mantener
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte principal: 2,400 COP
-- Soporte secundario: 2,350 COP
-- Resistencia: 2,600 COP
+- Soporte 1: 2,400.00
+- Soporte 2: 2,350.00
+- Resistencia 1: 2,600.00
+- Resistencia 2: 2,700.00
 
 ## Estrategia Recomendada
 
-1. Acumular en soportes cercanos a 2,400 COP
-2. Mantener posición core largo plazo
-3. Aumentar exposición en caídas significativas
-4. Stop loss bajo 2,300 COP
+1. Acumulación en zonas de soporte
+2. Mantener posición core de largo plazo
+3. Trading en el rango 2,400-2,600
+4. Stop loss por debajo de 2,350

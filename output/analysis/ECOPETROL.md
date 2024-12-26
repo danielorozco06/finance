@@ -1,47 +1,44 @@
-# Análisis ECOPETROL
+# Análisis Técnico - ECOPETROL
 
 ## Fortalezas
 
-- Empresa líder en el sector de hidrocarburos en Colombia
-- Fuerte posición financiera con EBITDA de 52.2B COP
-- Márgenes operativos saludables (26.9%)
-- Integración vertical completa en la cadena de valor
+- Alta liquidez y volumen de negociación
+- Empresa estratégica para el país
+- Dividendos consistentes
 
 ## Debilidades
 
-- Alta dependencia de políticas gubernamentales restrictivas actuales
-- Caída en crecimiento de ingresos (-1.5%)
-- Caída en crecimiento de ganancias (-28.3%)
-- Alto nivel de deuda (ratio deuda/patrimonio 116.3%)
+- Dependencia de políticas gubernamentales
+- Sensibilidad a precios del petróleo
+- Tendencia bajista de corto plazo
 
 ## Catalizadores Futuros
 
-- Cambio de gobierno en 2026 con probable giro hacia políticas pro-petróleo
-- Recuperación potencial de precios del petróleo
-- Nuevos descubrimientos y proyectos de exploración pendientes
-- Expansión internacional en curso
+- Cambio de gobierno en 2026
+- Recuperación de precios del petróleo
+- Reactivación de proyectos de exploración
 
 ## Precio Actual
 
-- Precio: 1,665 COP
-- Rango objetivo analistas: 1,620 - 2,800 COP
-- Precio medio objetivo: 1,969 COP
+- Compra: 1,675.00
+- Venta: 1,680.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: MANTENER - Alta volatilidad esperada por entorno político
-- 6-18 meses: COMPRAR - Potencial recuperación pre-cambio gobierno
-- 18+ meses: COMPRAR FUERTE - Cambio favorable en políticas energéticas
+- 0-6 meses: Mantener
+- 6-18 meses: Comprar
+- 18+ meses: Comprar Fuerte
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 1,600 COP
-- Resistencia clave: 1,800 COP
-- Resistencia secundaria: 2,000 COP
+- Soporte 1: 1,600.00
+- Soporte 2: 1,550.00
+- Resistencia 1: 1,800.00
+- Resistencia 2: 2,000.00
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles cercanos a 1,600 COP
-2. Aumentar posiciones ante señales claras de cambio político
-3. Mantener posición core largo plazo con horizonte 2026+
-4. Usar stops dinámicos bajo 1,550 COP
+1. Acumulación gradual en niveles actuales
+2. Aumentar posiciones ante cambio de gobierno
+3. Trading en el rango 1,600-1,800
+4. Stop loss por debajo de 1,550

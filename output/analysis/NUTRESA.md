@@ -1,47 +1,44 @@
-# Análisis NUTRESA
+# Análisis Técnico - NUTRESA
 
 ## Fortalezas
 
-- Líder en alimentos empacados en Colombia
-- Buenos márgenes brutos (39.2%)
-- Sólido retorno sobre patrimonio (7.4%)
-- Fuerte crecimiento de utilidades (19.2%)
+- Sector defensivo de consumo
+- Estabilidad en precios
+- Solidez financiera
 
 ## Debilidades
 
-- Caída en ingresos (-5.8%)
-- Alto nivel de deuda (ratio deuda/patrimonio 72.9%)
-- Presión en márgenes por costos de materias primas
-- Exposición a riesgo cambiario
+- Bajo volumen de negociación
+- Valoración elevada
+- Limitada liquidez
 
 ## Catalizadores Futuros
 
-- Expansión internacional en mercados estratégicos
-- Innovación en productos saludables
-- Mejoras en eficiencia operativa
-- Potencial consolidación del sector alimentos
+- Expansión internacional
+- Innovación en productos
+- Recuperación del consumo
 
 ## Precio Actual
 
-- Precio: 79,000 COP
-- Baja liquidez en el mercado
-- Valoración elevada vs comparables
+- Compra: 79,000.00
+- Venta: 79,500.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: MANTENER - Valoración alta actual
-- 6-18 meses: MANTENER - Consolidación esperada
-- 18+ meses: COMPRAR - Potencial de crecimiento internacional
+- 0-6 meses: Mantener
+- 6-18 meses: Mantener
+- 18+ meses: Comprar
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 75,000 COP
-- Soporte secundario: 71,000 COP
-- Resistencia: 80,000 COP
+- Soporte 1: 77,000.00
+- Soporte 2: 75,000.00
+- Resistencia 1: 80,000.00
+- Resistencia 2: 82,000.00
 
 ## Estrategia Recomendada
 
-1. Mantener posiciones actuales
-2. Considerar compras bajo 75,000 COP
-3. Acumulación gradual en caídas significativas
-4. Stop loss bajo 70,000 COP
+1. Mantener posiciones existentes
+2. Compras selectivas en soportes
+3. Trading limitado por baja liquidez
+4. Stop loss por debajo de 75,000

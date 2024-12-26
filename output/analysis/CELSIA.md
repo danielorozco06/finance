@@ -1,47 +1,43 @@
-# Análisis CELSIA
+# Análisis Técnico - CELSIA
 
 ## Fortalezas
 
-- Líder en energías renovables en Colombia
-- Márgenes EBITDA sólidos (24.9%)
-- Ingresos regulados estables
-- Fuerte crecimiento en ingresos (21.5%)
+- Tendencia alcista de largo plazo
+- Volúmenes crecientes en las subidas
+- Sector defensivo con ingresos estables
 
 ## Debilidades
 
-- Alto nivel de deuda (ratio deuda/patrimonio 102.4%)
-- Exposición a riesgo regulatorio
-- Dependencia de condiciones climáticas
-- Presión en márgenes operativos
+- Alta volatilidad en el corto plazo
+- Sensibilidad a cambios regulatorios
 
 ## Catalizadores Futuros
 
-- Expansión en energías renovables
-- Crecimiento en demanda energética
-- Nuevos proyectos de generación
-- Tendencia ESG favorable
+- Inversiones en energías renovables
+- Crecimiento de la demanda energética
+- Posible mejora en tarifas reguladas
 
 ## Precio Actual
 
-- Precio: 3,650 COP
-- Precio objetivo analistas: 4,875 COP
-- Potencial alcista: ~33%
+- Compra: 3,665.00
+- Venta: 3,700.00
 
-## Recomendación por Plazo
+## Recomendación por Horizonte Temporal
 
-- 0-6 meses: COMPRAR - Momentum positivo sector
-- 6-18 meses: COMPRAR - Materialización proyectos renovables
-- 18+ meses: COMPRAR FUERTE - Liderazgo en transición energética
+- 0-6 meses: Comprar
+- 6-18 meses: Comprar
+- 18+ meses: Mantener
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 3,400 COP
-- Soporte secundario: 3,200 COP
-- Resistencia: 3,800 COP
+- Soporte 1: 3,500.00
+- Soporte 2: 3,400.00
+- Resistencia 1: 3,800.00
+- Resistencia 2: 4,000.00
 
 ## Estrategia Recomendada
 
-1. Acumular en niveles actuales
-2. Aumentar exposición en soportes
-3. Mantener posición core largo plazo
-4. Stop loss bajo 3,100 COP
+1. Acumulación en zonas de soporte
+2. Mantener posición core de largo plazo
+3. Trading en el rango 3,500-3,800
+4. Stop loss por debajo de 3,400
