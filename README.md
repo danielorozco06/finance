@@ -49,16 +49,18 @@ Skill: Normal
 
 CONTEXTO: /output/
 
-PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 con horizonte temporal a 6 meses, para obtener el mayor rendimiento posible. Tener en cuenta los siguientes criterios:
+PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000. Tener en cuenta los siguientes criterios:
 
-1. Distribución porcentual por acción
-2. Plan de entrada escalonado:
+1. Horizonte temporal de 6 meses
+2. Máximo 6 posiciones
+3. Distribución porcentual por acción
+4. Plan de entrada escalonado:
 
    - Montos específicos
    - Precios objetivo de entrada
    - Timing recomendado (inmediato/esperar pullback)
 
-3. Para cada posición incluir:
+5. Para cada posición incluir:
 
    - Capital a asignar
    - Precio de entrada objetivo
