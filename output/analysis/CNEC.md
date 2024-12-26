@@ -1,66 +1,80 @@
-# Análisis de CANACOL ENERGY
+# Análisis de CNEC (CNEC.CL)
 
 ## Situación Actual
 
-- La acción cotiza alrededor de $11,360 COP
-- Empresa enfocada en exploración y producción de gas natural en Colombia
-- Márgenes operativos sólidos (63%) y buenos márgenes EBITDA (69.37%)
-- Crecimiento significativo en ingresos (+19.5% YoY)
+- Empresa líder en exploración y producción de gas natural en Colombia
+- Precio actual: COP 11,360
+- P/E ratio: 3.83x (valuación muy atractiva)
+- Dividend Yield: 27.81% (excepcionalmente alto)
+- Capitalización de mercado: COP 398.51B
+- Beta: 0.838 (volatilidad moderada)
 
 ## Contexto Macroeconómico y Sectorial
 
-- Colombia inició importaciones de gas natural por primera vez en 45 años
-- Déficit proyectado de gas natural de 8.2% en 2025 y 20.6% en 2026
-- Precios locales del gas natural aumentarán por necesidad de importación
-- Restricciones gubernamentales actuales a la exploración afectan al sector
+- Precios del gas natural volátiles
+- Demanda creciente de energía limpia
+- Transición energética favoreciendo al gas natural
+- Colombia buscando autosuficiencia energética
+- Regulación favorable para el sector gasífero
 
 ## Fortalezas
 
-- Posición estratégica en mercado de gas natural colombiano
-- Altos márgenes operativos y EBITDA
-- Fuerte crecimiento en ingresos
-- Ratios de liquidez saludables (ratio corriente 1.50)
+- Márgenes operativos excepcionales (63.00%)
+- Sólida posición de liquidez (ratio corriente: 1.505)
+- Crecimiento robusto de ingresos (19.5%)
+- ROA saludable (8.94%)
+- Márgenes EBITDA sobresalientes (69.38%)
 
 ## Debilidades
 
-- Alto nivel de endeudamiento (209.68% deuda/patrimonio)
-- Flujo de caja libre negativo (-$58.9M)
-- Dependencia del mercado colombiano
-- Exposición a riesgo regulatorio y político
+- Alto nivel de endeudamiento (deuda/patrimonio: 209.68%)
+- Flujo de caja libre negativo (-USD 58.98M)
+- ROE moderado (6.70%)
+- Caída significativa en precio (-45.38% en 52 semanas)
+- Alta dependencia del mercado colombiano
 
 ## Catalizadores Futuros
 
-- Déficit creciente de gas natural en Colombia
-- Potencial cambio de gobierno en 2026 más favorable al sector
-- Aumento en precios locales del gas natural
-- Necesidad crítica de aumentar producción nacional
+- Expansión de infraestructura de gas
+- Aumento en demanda de gas natural
+- Potenciales nuevos descubrimientos
+- Mejora en eficiencia operativa
+- Oportunidades de exportación regional
 
 ## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR - Beneficio inmediato del déficit de gas
-- 6-18 meses: MANTENER - Monitorear evolución política y regulatoria
-- 18+ meses: COMPRAR FUERTE - Anticipando cambio político favorable
+- 0-6 meses: COMPRA - Valuación atractiva y dividendos excepcionales
+- 6-18 meses: COMPRA FUERTE - Recuperación de precios y expansión
+- 18+ meses: COMPRA FUERTE - Posicionamiento en transición energética
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: $11,000-11,200
-- Resistencia: $11,800-12,000
-- Tendencia alcista de corto plazo
+- Soporte fuerte: COP 8,900 (mínimo 52 semanas)
+- Resistencia: COP 20,800 (máximo 52 semanas)
+- Media móvil 50 días: COP 10,929
+- Media móvil 200 días: COP 12,322.85
+- Tendencia actual: Alcista de corto plazo
 
 ## Estrategia Recomendada
 
-1. Entrada gradual aprovechando niveles cercanos a $11,200
-2. Aumentar posición si se confirma tendencia alcista sobre $12,000
-3. Mantener exposición de largo plazo por fundamentales del gas natural
+1. Acumulación gradual en niveles actuales
+2. Aumentar posición en correcciones hacia COP 10,500
+3. Reinversión de dividendos para maximizar retorno
+4. Stop loss sugerido: 10% por debajo del precio de entrada
 
 ## Riesgos a Monitorear
 
-- Cambios regulatorios en sector de hidrocarburos
+- Volatilidad en precios del gas natural
+- Riesgos regulatorios en sector energético
 - Niveles de endeudamiento
-- Ejecución de planes de exploración
-- Evolución de precios del gas natural
-- Riesgo político y cambios en política energética
+- Ejecución de proyectos de expansión
+- Riesgos ambientales y sociales
+- Dependencia del mercado colombiano
 
 ## Conclusión
 
-Canacol Energy representa una oportunidad atractiva en el corto y largo plazo, beneficiándose del déficit de gas natural en Colombia y potenciales cambios políticos favorables. Los fundamentales sólidos y márgenes operativos robustos compensan el alto nivel de endeudamiento. La recomendación es iniciar posiciones aprovechando niveles actuales, con visión de largo plazo sobre el sector de gas natural en Colombia.
+CNEC representa una oportunidad de inversión excepcional en el sector energético, combinando una valuación extremadamente atractiva con dividendos sobresalientes. A pesar de los desafíos en el endeudamiento y el flujo de caja libre, la compañía mantiene márgenes operativos excepcionales y un crecimiento sólido. Su posición estratégica en el mercado de gas natural, junto con la transición energética global hacia combustibles más limpios, proporciona un potencial de apreciación significativo a largo plazo.
+
+_Recomendación Consenso: MANTENER (3.33 sobre 5)_
+_Rendimiento YTD: -45.38% (oportunidad de entrada)_
+_Riesgo de Gobierno Corporativo: Bajo (2 sobre 5)_
