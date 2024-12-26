@@ -16,7 +16,7 @@ PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinio
 
 ## Prompt analisis general
 
-CONTEXTO: /output/analysis/
+CONTEXTO: /input/
 
 PROMPT: Generar los archivos de análisis:
 
