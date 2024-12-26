@@ -2,85 +2,78 @@
 
 ## Distribución por Acción
 
-1. ISA (15%) - COP 2,250,000
+1. ISA (25%) - COP 3,750,000
 
-   - Precio entrada: 15,500-16,000 COP
+   - Precio entrada: 16,000-16,400 COP
    - Stop loss: 15,000 COP
-   - Objetivos: 16,800 / 17,500 COP
-   - Timing: 50% inmediato, 50% en pullbacks
-   - Justificación: Excelentes márgenes y ROE 16.45%
+   - Objetivos: 17,000 / 18,000 COP
+   - Timing: 60% inmediato, 40% en pullbacks
+   - Justificación: COMPRAR a 6 meses, excelentes márgenes EBITDA (57.9%), ROE 16.4%, crecimiento ingresos 40.2%
 
-2. CELSIA (20%) - COP 3,000,000
+2. PFGRUPSURA (20%) - COP 3,000,000
 
-   - Precio entrada: 3,400-3,500 COP
-   - Stop loss: 3,300 COP
-   - Objetivos: 3,650 / 4,000 COP
-   - Timing: Compra inmediata
-   - Justificación: COMPRAR a 6 meses, yield 8.29%
+   - Precio entrada: 25,000-26,000 COP
+   - Stop loss: 23,500 COP
+   - Objetivos: 27,000 / 29,000 COP
+   - Timing: 70% inmediato, 30% en pullbacks
+   - Justificación: COMPRAR a 6 meses, catalizador escisión, descuento vs NAV
 
-3. CNEC (20%) - COP 3,000,000
+3. PFBCOLOM (20%) - COP 3,000,000
 
-   - Precio entrada: 11,000-11,200 COP
-   - Stop loss: 10,500 COP
-   - Objetivos: 11,500 / 12,000 COP
-   - Timing: Compra inmediata
-   - Justificación: COMPRAR a 6 meses, crisis gas natural
+   - Precio entrada: 34,800-35,200 COP
+   - Stop loss: 33,500 COP
+   - Objetivos: 36,500 / 38,000 COP
+   - Timing: 50% inmediato, 50% escalonado
+   - Justificación: COMPRAR a 6 meses, beneficiario directo de reducción de tasas
 
-4. PFBCOLOM (20%) - COP 3,000,000
+4. CELSIA (20%) - COP 3,000,000
 
-   - Precio entrada: 34,500-35,000 COP
-   - Stop loss: 33,000 COP
-   - Objetivos: 36,000 / 38,000 COP
-   - Timing: Compra escalonada
-   - Justificación: COMPRAR a 6 meses, reducción tasas
+   - Precio entrada: 3,400-3,650 COP
+   - Stop loss: 3,100 COP
+   - Objetivos: 3,800 / 4,200 COP
+   - Timing: 100% inmediato
+   - Justificación: COMPRAR a 6 meses, momentum positivo sector, potencial 33%
 
 5. MINEROS (15%) - COP 2,250,000
 
-   - Precio entrada: 4,000-4,200 COP
-   - Stop loss: 3,800 COP
-   - Objetivos: 4,500 / 5,000 COP
-   - Timing: Compra inmediata
-   - Justificación: COMPRAR a 6 meses, ROE 20.10%
-
-6. PFGRUPSURA (15%) - COP 2,250,000
-
-   - Precio entrada: 23,000-24,000 COP
-   - Stop loss: 21,500 COP
-   - Objetivos: 26,500 / 28,000 COP
-   - Timing: 70% inmediato, 30% post-anuncio escisión
-   - Justificación: COMPRAR a 6 meses, catalizador escisión generará valor
+   - Precio entrada: 4,000-4,235 COP
+   - Stop loss: 3,700 COP
+   - Objetivos: 4,500 / 4,800 COP
+   - Timing: 100% inmediato
+   - Justificación: COMPRAR a 6 meses, excelente ROE 20.1%, bajo endeudamiento
 
 ## Plan de Entrada Escalonado
 
-### Compras Inmediatas (65% - COP 9,750,000)
+### Compras Inmediatas (75% - COP 11,250,000)
 
-- CELSIA: COP 3,000,000 completo
-- CNEC: COP 3,000,000 completo
-- MINEROS: COP 2,250,000 completo
-- PFGRUPSURA: COP 1,500,000 (primera parte)
+- ISA: COP 2,250,000
+- PFGRUPSURA: COP 2,100,000
+- PFBCOLOM: COP 1,500,000
+- CELSIA: COP 3,000,000
+- MINEROS: COP 2,250,000
 
-### Compras en Pullbacks (35% - COP 5,250,000)
+### Compras en Pullbacks (25% - COP 3,750,000)
 
-- ISA: COP 2,250,000 (esperar niveles técnicos)
-- PFBCOLOM: COP 2,250,000 (esperar niveles técnicos)
-- PFGRUPSURA: COP 750,000 (post-anuncio escisión)
+- ISA: COP 1,500,000 (bajo 16,000)
+- PFGRUPSURA: COP 900,000 (bajo 25,000)
+- PFBCOLOM: COP 1,500,000 (bajo 34,800)
 
 ## Gestión de Riesgo
 
 - Stop loss individual por posición según detallado
-- Stop loss global del portafolio: -7% (COP 1,050,000)
-- Toma de beneficios: 50% en primer objetivo, trailing stop en resto
+- Stop loss global del portafolio: -8% (COP 1,200,000)
+- Toma de beneficios: 40% en primer objetivo, 60% para segundo objetivo
 
 ## Rebalanceo y Seguimiento
 
-- Revisión quincenal del portafolio
-- Ajuste de posiciones según evolución de catalizadores
+- Revisión semanal del portafolio
+- Ajuste de stops según evolución del mercado
+- Monitoreo de catalizadores específicos por acción
 - Reinversión de dividendos según oportunidades
-- Monitoreo especial de niveles técnicos para entradas escalonadas
 
 ## Notas Importantes
 
-- Portafolio enfocado en recomendaciones COMPRAR a 6 meses
-- Prioridad a empresas con fundamentales sólidos y dividendos atractivos
-- Diversificación sectorial: energía, minería, financiero
-- Balance entre valor y momentum en selección
+- Portafolio concentrado en acciones con recomendación COMPRAR a 6 meses
+- Enfoque en empresas con catalizadores claros y fundamentales sólidos
+- Diversificación: Energía (45%), Financiero (40%), Minería (15%)
+- Prioridad a liquidez y facilidad de entrada/salida
