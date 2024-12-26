@@ -16,9 +16,9 @@ PROMPT: Crear el archivo ./output/analysis/$TICKER.md donde se detalle tu opinio
 
 ## Prompt analisis general
 
-CONTEXTO: /input/
+CONTEXTO: /output/analysis/
 
-PROMPT: Generar los archivos de análisis:
+PROMPT: Teniendo en cuenta la informacion de los archivos de analisis individuales, generar los archivos a un horizonte de 0-6 meses, 6-18 meses y 18+ meses:
 
 1. ./output/stocks/best.md: Top 8 acciones recomendadas
 2. ./output/stocks/worst.md: Top 8 acciones a evitar

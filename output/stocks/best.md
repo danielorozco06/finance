@@ -1,49 +1,55 @@
 # Top 8 Acciones Recomendadas
 
-## 1. ECOPETROL
+## Horizonte 0-6 meses
 
-- **Justificación:** Valuación extremadamente atractiva (P/E 3.95x) con dividend yield de 35.87%
-- **Factores clave:** Probable cambio de gobierno en 2026 con políticas más favorables al sector petrolero
-- **Riesgos:** Alta dependencia de decisiones políticas y precios del petróleo
+1. **BANCOLOMBIA (PFBANCOLOMBIA)**
 
-## 2. PFGRUPSURA
+- Justificación: Principal beneficiario del ciclo de reducción de tasas
+- Factores clave: Liderazgo en transformación digital, calidad de cartera, Nequi
+- Riesgos: Desaceleración económica, presión competitiva fintech
 
-- **Justificación:** Fuerte descuento vs valor neto de activos y proceso de escisión en curso
-- **Factores clave:** Simplificación corporativa y potencial de revalorización post-escisión
-- **Riesgos:** Ejecución del proceso de escisión y liquidez del mercado
+2. **GRUPO ENERGÍA BOGOTÁ (GEB)**
 
-## 3. PFGRUPOARG
+- Justificación: Valor defensivo con dividendo atractivo (9.69%)
+- Factores clave: Flujos regulados predecibles, expansión en transmisión
+- Riesgos: Cambios regulatorios, ejecución de proyectos
 
-- **Justificación:** Descuento significativo vs valor de activos y catalizadores específicos
-- **Factores clave:** Proceso de escisión y ciclo de inversión en infraestructura
-- **Riesgos:** Ejecución de la escisión y ciclo económico regional
+## Horizonte 6-18 meses
 
-## 4. CNEC
+3. **ECOPETROL**
 
-- **Justificación:** Posición estratégica ante déficit energético y cambio político en 2026
-- **Factores clave:** Crecimiento en ingresos (19.5%) y márgenes brutos sólidos (79.33%)
-- **Riesgos:** Alto apalancamiento (209.68% deuda/patrimonio)
+- Justificación: Posicionamiento pre-cambio político 2026
+- Factores clave: Valuación atractiva (P/E 3.95x), dividend yield 35.87%
+- Riesgos: Volatilidad precios petróleo, restricciones exploración
 
-## 5. ISA
+4. **GRUPO SURA (PFGRUPSURA)**
 
-- **Justificación:** Excelentes márgenes operativos (56.19%) y ROE (16.45%)
-- **Factores clave:** Fuerte crecimiento en ingresos (40.2%) y dividend yield atractivo (9.58%)
-- **Riesgos:** Exposición a múltiples jurisdicciones regulatorias
+- Justificación: Catalizador específico por escisión con Grupo Argos
+- Factores clave: Descuento significativo vs valor activos, simplificación corporativa
+- Riesgos: Ejecución proceso escisión, liquidez mercado
 
-## 6. PFBANCOLOMBIA
+5. **CANACOL ENERGY (CNEC)**
 
-- **Justificación:** Líder en transformación digital con sólido ROE (15.2%)
-- **Factores clave:** Beneficiario del ciclo de reducción de tasas
-- **Riesgos:** Calidad de cartera en desaceleración económica
+- Justificación: Beneficiario déficit gas natural y cambio político
+- Factores clave: Contratos take-or-pay, márgenes operativos 63%
+- Riesgos: Aprobación licencias ambientales, apalancamiento
 
-## 7. GEB
+## Horizonte 18+ meses
 
-- **Justificación:** Perfil defensivo con dividend yield atractivo (9.69%)
-- **Factores clave:** ROE saludable (13.54%) y márgenes EBITDA sólidos (44.31%)
-- **Riesgos:** Influencia estatal en gobierno corporativo
+6. **ISA**
 
-## 8. PROMIGAS
+- Justificación: Líder infraestructura energética regional
+- Factores clave: ROE 16.45%, crecimiento ingresos 40.2% YoY
+- Riesgos: Apalancamiento elevado, exposición múltiples jurisdicciones
 
-- **Justificación:** Infraestructura crítica ante déficit de gas natural
-- **Factores clave:** Flujos estables y oportunidades en GNL e hidrógeno
-- **Riesgos:** Cambios regulatorios y competencia de energías alternativas
+7. **CELSIA**
+
+- Justificación: Liderazgo en transición energética
+- Factores clave: Diversificación fuentes generación, estrategia renovables
+- Riesgos: Costos financiamiento, exposición riesgos climáticos
+
+8. **PROMIGAS**
+
+- Justificación: Infraestructura crítica ante déficit gas natural
+- Factores clave: Monopolio natural, flujos predecibles regulados
+- Riesgos: Dependencia mercado colombiano, necesidades CAPEX

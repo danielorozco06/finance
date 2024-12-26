@@ -1,49 +1,49 @@
 # Top 8 Acciones a Evitar
 
-## 1. CONCONCRET
+1. **CONCONCRETO**
 
-- **Justificación:** Márgenes brutos muy ajustados (7.56%) y ROE bajo (1.20%)
-- **Factores clave:** Suspensión de Mi Casa Ya y presión en costos
-- **Riesgos:** Alta sensibilidad a ciclo económico y tasas de interés
+- Justificación: Rally reciente sin respaldo fundamental
+- Factores clave: ROE bajo 1.20%, márgenes brutos ajustados 7.56%
+- Riesgos: Suspensión Mi Casa Ya, desaceleración construcción
 
-## 2. PFAVAL
+2. **MINEROS**
 
-- **Justificación:** Exposición a múltiples riesgos del sector financiero
-- **Factores clave:** Presión competitiva de fintech y costos de transformación digital
-- **Riesgos:** Calidad de cartera en deterioro y gobierno corporativo
+- Justificación: Exposición múltiple a riesgos políticos
+- Factores clave: Vida limitada minas, desafíos ambientales
+- Riesgos: Restricciones minería Colombia, presión regulatoria
 
-## 3. TERPEL
+3. **GRUPO BOLÍVAR**
 
-- **Justificación:** Modelo de negocio tradicional bajo presión
-- **Factores clave:** Transición energética y cambios en patrones de movilidad
-- **Riesgos:** Regulación ambiental y adopción de vehículos eléctricos
+- Justificación: ROE negativo en periodo transición
+- Factores clave: Alta exposición Colombia, complejidad corporativa
+- Riesgos: Presión rentabilidad corto plazo, costos transformación
 
-## 4. NUTRESA
+4. **TERPEL**
 
-- **Justificación:** Valuación elevada vs comparables
-- **Factores clave:** Presiones inflacionarias en costos
-- **Riesgos:** Cambios en hábitos de consumo y competencia regional
+- Justificación: Riesgo disrupción por transición energética
+- Factores clave: Márgenes ajustados, intensidad capital
+- Riesgos: Regulación ambiental, adopción vehículos eléctricos
 
-## 5. CELSIA
+5. **GRUPO AVAL (PFAVAL)**
 
-- **Justificación:** Alto apalancamiento (102.42% deuda/patrimonio)
-- **Factores clave:** ROE moderado (5.52%) y presión en márgenes
-- **Riesgos:** Condiciones climáticas y competencia en renovables
+- Justificación: Estructura corporativa compleja, descuento persistente
+- Factores clave: Baja liquidez, exposición múltiples reguladores
+- Riesgos: Costos transformación digital, competencia fintech
 
-## 6. GRUBOLIVAR
+6. **BANCO DE BOGOTÁ (PFBCOLOM)**
 
-- **Justificación:** ROE negativo (-0.68%) en periodo de transición
-- **Factores clave:** Altos costos de transformación digital
-- **Riesgos:** Competencia en banca digital y regulación más estricta
+- Justificación: Alta exposición deuda corporativa en desaceleración
+- Factores clave: Dependencia ciclo económico, costos transformación
+- Riesgos: Calidad cartera, competencia digital
 
-## 7. PFBCOLOM
+7. **GRUPO ARGOS (PFGRUPOARG)**
 
-- **Justificación:** Menor eficiencia operativa vs pares
-- **Factores clave:** Rezago en transformación digital
-- **Riesgos:** Exposición internacional y costos tecnológicos
+- Justificación: Estructura compleja pre-escisión
+- Factores clave: Descuento holding persistente, liquidez moderada
+- Riesgos: Ejecución escisión, dependencia ciclo económico
 
-## 8. MINEROS
+8. **NUTRESA**
 
-- **Justificación:** Alta exposición a volatilidad del oro
-- **Factores clave:** Restricciones mineras en Colombia
-- **Riesgos:** Presión regulatoria ambiental y riesgo político regional
+- Justificación: Presión en márgenes por competencia y commodities
+- Factores clave: Estructura costos intensiva, baja liquidez
+- Riesgos: Volatilidad commodities, cambios hábitos consumo
