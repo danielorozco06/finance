@@ -10,6 +10,8 @@ PROMPT: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 ## Prompt analisis general
 
+Skill: Normal
+
 CONTEXTO: /input/
 
 PROMPT: Generar los archivos de análisis pensando en un plazo de 6 meses:
@@ -43,9 +45,11 @@ PROMPT: Crear los archivos ./output/analysis/$TICKER.md donde se detalle tu opin
 
 ## Prompt portafolio de inversión
 
+Skill: Normal
+
 CONTEXTO: /output/
 
-PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 con horizonte temporal de 1 mes, teniendo en cuenta los siguientes criterios:
+PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 con horizonte temporal a 6 meses, teniendo en cuenta los siguientes criterios:
 
 1. Máximo 4 posiciones
 2. Distribución porcentual por acción
