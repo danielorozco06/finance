@@ -1,107 +1,86 @@
-# Portafolio de Inversión - Colombia
+# Portafolio de Inversión - COP 15,000,000
 
-Capital: COP 15,000,000
-Horizonte: 6 meses
-Fecha: Abril 2024
+## Distribución por Acción
 
-## Resumen de Asignación
+1. ISA (15%) - COP 2,250,000
 
-1. ISA: 25% (COP 3,750,000)
-2. PFGRUPSURA: 30% (COP 4,500,000)
-3. PFGRUPOARG: 25% (COP 3,750,000)
-4. MINEROS: 20% (COP 3,000,000)
+   - Precio entrada: 15,500-16,000 COP
+   - Stop loss: 15,000 COP
+   - Objetivos: 16,800 / 17,500 COP
+   - Timing: 50% inmediato, 50% en pullbacks
+   - Justificación: Excelentes márgenes y ROE 16.45%
 
-## Plan Detallado por Posición
+2. CELSIA (20%) - COP 3,000,000
 
-### 1. ISA (25%)
+   - Precio entrada: 3,400-3,500 COP
+   - Stop loss: 3,300 COP
+   - Objetivos: 3,650 / 4,000 COP
+   - Timing: Compra inmediata
+   - Justificación: COMPRAR a 6 meses, yield 8.29%
 
-- Capital: COP 3,750,000
-- Justificación: Momentum positivo, sólidos fundamentales, excelentes márgenes
-- Plan de entrada:
-  - 60% inmediato @ COP 16,000
-  - 40% en soporte @ COP 15,500
-- Stop loss: COP 15,000 (-6.25%)
-- Objetivos:
-  - Parcial 1: +5% @ COP 16,800 (50% posición)
-  - Parcial 2: +9.4% @ COP 17,500 (30% posición)
-  - Resto: Mantener con trailing stop
+3. CNEC (20%) - COP 3,000,000
 
-### 2. PFGRUPSURA (30%)
+   - Precio entrada: 11,000-11,200 COP
+   - Stop loss: 10,500 COP
+   - Objetivos: 11,500 / 12,000 COP
+   - Timing: Compra inmediata
+   - Justificación: COMPRAR a 6 meses, crisis gas natural
 
-- Capital: COP 4,500,000
-- Justificación: Momentum positivo por escisión, valuación atractiva, dividendo >5%
-- Plan de entrada:
-  - 70% inmediato @ COP 23,000
-  - 30% en soporte @ COP 22,000
-- Stop loss: COP 21,500 (-6.5%)
-- Objetivos:
-  - Parcial 1: +15.2% @ COP 26,500 (60% posición)
-  - Parcial 2: +21.7% @ COP 28,000 (20% posición)
-  - Resto: Mantener hasta completar escisión
+4. PFBCOLOM (20%) - COP 3,000,000
 
-### 3. PFGRUPOARG (25%)
+   - Precio entrada: 34,500-35,000 COP
+   - Stop loss: 33,000 COP
+   - Objetivos: 36,000 / 38,000 COP
+   - Timing: Compra escalonada
+   - Justificación: COMPRAR a 6 meses, reducción tasas
 
-- Capital: COP 3,750,000
-- Justificación: Momentum positivo por escisión, descuento sobre NAV
-- Plan de entrada:
-  - 50% inmediato @ COP 14,000
-  - 50% escalonado entre COP 13,500-14,000
-- Stop loss: COP 13,000 (-7.1%)
-- Objetivos:
-  - Parcial 1: +10.7% @ COP 15,500 (50% posición)
-  - Parcial 2: +14.3% @ COP 16,000 (30% posición)
-  - Resto: Mantener hasta completar escisión
+5. MINEROS (15%) - COP 2,250,000
 
-### 4. MINEROS (20%)
+   - Precio entrada: 4,000-4,200 COP
+   - Stop loss: 3,800 COP
+   - Objetivos: 4,500 / 5,000 COP
+   - Timing: Compra inmediata
+   - Justificación: COMPRAR a 6 meses, ROE 20.10%
 
-- Capital: COP 3,000,000
-- Justificación: Momentum positivo en oro, bajos niveles de deuda, alto ROE
-- Plan de entrada:
-  - 60% inmediato @ COP 4,000
-  - 40% en soporte @ COP 3,800
-- Stop loss: COP 3,700 (-7.5%)
-- Objetivos:
-  - Parcial 1: +12.5% @ COP 4,500 (50% posición)
-  - Parcial 2: +25% @ COP 5,000 (30% posición)
-  - Resto: Ajustar según precio del oro
+6. PFGRUPSURA (15%) - COP 2,250,000
 
-## Consideraciones Operativas
+   - Precio entrada: 23,000-24,000 COP
+   - Stop loss: 21,500 COP
+   - Objetivos: 26,500 / 28,000 COP
+   - Timing: 70% inmediato, 30% post-anuncio escisión
+   - Justificación: COMPRAR a 6 meses, catalizador escisión generará valor
 
-1. Comisiones:
+## Plan de Entrada Escalonado
 
-   - Entrada total estimada: COP 40,000 (5 operaciones)
-   - Salida total estimada: COP 60,000 (7-8 operaciones)
-   - Total comisiones: COP 100,000 (0.67% del capital)
+### Compras Inmediatas (65% - COP 9,750,000)
 
-2. Gestión de Riesgo:
+- CELSIA: COP 3,000,000 completo
+- CNEC: COP 3,000,000 completo
+- MINEROS: COP 2,250,000 completo
+- PFGRUPSURA: COP 1,500,000 (primera parte)
 
-   - Pérdida máxima por posición: 2.9%-9.1%
-   - Stop loss móvil después del primer objetivo
-   - Diversificación sectorial: Energía, Minería, Financiero
-   - No más del 25% en un solo activo
+### Compras en Pullbacks (35% - COP 5,250,000)
 
-3. Monitoreo:
+- ISA: COP 2,250,000 (esperar niveles técnicos)
+- PFBCOLOM: COP 2,250,000 (esperar niveles técnicos)
+- PFGRUPSURA: COP 750,000 (post-anuncio escisión)
 
-   - Revisión semanal de stops y objetivos
-   - Ajuste de trailing stops en posiciones ganadoras
-   - Seguimiento a precios de commodities (oro, gas)
-   - Monitoreo de tasas de interés
+## Gestión de Riesgo
 
-4. Criterios de Salida Anticipada:
-   - Ruptura de soporte técnico clave
-   - Cambios adversos en fundamentales
-   - Deterioro significativo en precios de commodities
-   - Alcance de pérdida máxima permitida
+- Stop loss individual por posición según detallado
+- Stop loss global del portafolio: -7% (COP 1,050,000)
+- Toma de beneficios: 50% en primer objetivo, trailing stop en resto
 
-## Justificación de Selección
+## Rebalanceo y Seguimiento
 
-1. ISA: Base sólida del portafolio por fundamentales y momentum
-2. PFGRUPSURA/PFGRUPOARG: Mayor peso combinado (55%) por catalizador de escisión
-3. MINEROS: Exposición a oro como cobertura y diversificación
+- Revisión quincenal del portafolio
+- Ajuste de posiciones según evolución de catalizadores
+- Reinversión de dividendos según oportunidades
+- Monitoreo especial de niveles técnicos para entradas escalonadas
 
-## Riesgos Principales
+## Notas Importantes
 
-1. Volatilidad en commodities (oro, gas)
-2. Retraso en ciclo de reducción de tasas
-3. Deterioro en condiciones macroeconómicas
-4. Riesgos regulatorios sector energético
+- Portafolio enfocado en recomendaciones COMPRAR a 6 meses
+- Prioridad a empresas con fundamentales sólidos y dividendos atractivos
+- Diversificación sectorial: energía, minería, financiero
+- Balance entre valor y momentum en selección
