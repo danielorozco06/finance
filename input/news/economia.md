@@ -10,7 +10,7 @@ Diciembre de 2024: El Banco de la República sorprendió al mercado al reducir s
 
 24 de diciembre de 2024: Los precios del crudo cayeron debido a preocupaciones por un excedente de oferta para el próximo año y la fortaleza del dólar. Los futuros del crudo Brent bajaban 0,9% a US$72,28 el barril. Los analistas de Macquarie pronostican un excedente de oferta para 2025, estimando un precio promedio de US$70,50 por barril, por debajo del promedio de US$79,64 de este año.
 
-23 de diciembre de 2024: Grupo Argos y Grupo Sura anunciaron que su proceso de escisión por absorción, que busca terminar con la participación cruzada que han mantenido durante 46 años, se extenderá durante todo 2025. La operación permitirá que los accionistas de Argos reciban 0,23 acciones de Sura por cada acción, mientras que los de Sura recibirán 0,72 acciones de Argos. Esta decisión busca simplificar la estructura societaria y aumentar la liquidez de ambas acciones en la Bolsa de Colombia.
+23 de diciembre de 2024: Grupo Argos y Grupo Sura anunciaron que su proceso de escisión por absorción, que busca terminar con la participación cruzada que han mantenido durante 46 años, se extenderá durante todo 2025. La operación permitirá que los accionistas de Argos reciban 0,23 acciones de Sura por cada acción, mientras que los de Sura recibirán 0,72 acciones de Argos. Esta decisión busca simplificar la estructura societaria y aumentar la liquidez de ambas acciones en la Bolsa de Colombia. Esto se considera una noticia muy positiva que permitira liberar más valor.
 
 23 de diciembre de 2024: precio del dolar en colombia es de 4419 pesos colombianos
 
