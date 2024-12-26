@@ -39,6 +39,8 @@ PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio diversific
 
 PROMPT: Revisar cada uno de los tickers para ver si se debe agregar o quitar del portafolio
 
+Nota: ejecutar este prompt luego de crear el portafolio de inversión, al menos unas 3 veces para que se genere un portafolio optimo.
+
 ---
 
 PROMPT: Cuando consideras que seria buen momento para invertir en CNEC?
