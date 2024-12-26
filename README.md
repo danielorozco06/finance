@@ -31,27 +31,26 @@ Para cada recomendación incluir:
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/
+CONTEXTO: /output/analysis
 
-PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 con horizonte temporal de 1 mes, teniendo en cuenta los siguientes criterios:
+PROMPT: Actualizar el archivo ./output/portfolio.md con un portafolio detallado de inversión para un capital de COP 15,000,000 con horizonte temporal a 6 meses, que permita maximizar la rentabilidad teniendo en cuenta los siguientes criterios:
 
-1. Máximo 4 posiciones
-2. Distribución porcentual por acción
-3. Plan de entrada escalonado:
+1. Máximo 6 posiciones
+2. Tener muy presente la sección "Recomendación de Inversión" de cada ticker
+3. Distribución porcentual por acción
+4. Plan de entrada escalonado:
 
    - Montos específicos
    - Precios objetivo de entrada
    - Timing recomendado (inmediato/esperar pullback)
 
-4. Para cada posición incluir:
+5. Para cada posición incluir:
 
    - Capital a asignar
    - Precio de entrada objetivo
    - Stop loss inicial
    - Objetivos parciales de ganancia
    - Horizonte temporal de 1 mes
-
-Muy importante: cada compra/venta paga 8000 COP de comisión.
 
 ---
 
