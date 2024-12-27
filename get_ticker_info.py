@@ -40,7 +40,11 @@ def save_ticker_info(ticker_symbol: str) -> None:
 def save_ticker_history(ticker_symbol: str) -> None:
     data = yf.Ticker(ticker_symbol)
     csv_file = f"input/tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
-    data.history(period="6mo").to_csv(csv_file)
+    history_df = data.history(period="6mo")
+
+    # Keep only desired columns
+    history_df = history_df[["Open", "Close", "Volume"]]
+    history_df.to_csv(csv_file)
     print(f"Historical data for {ticker_symbol} has been saved to {csv_file}")
 
 
