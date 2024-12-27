@@ -1,44 +1,24 @@
-# Análisis GEB
-
-## Fortalezas
-
-- Monopolio natural en distribución de gas
-- Flujos de caja estables y predecibles
-- Diversificación geográfica
-- Infraestructura crítica
-
-## Debilidades
-
-- Regulación intensiva del sector
-- Alta necesidad de inversión en infraestructura
-- Exposición a riesgo regulatorio
-- Dependencia de decisiones políticas locales
+# Análisis GEB (Grupo Energía Bogotá)
 
 ## Catalizadores Futuros
 
-- Crecimiento en demanda de gas natural
-- Expansión regional
-- Inversiones en energías renovables
-- Necesidad de importación de gas
+- Importación de gas natural que podría beneficiar la infraestructura de distribución
+- Aumento en precios del servicio público por pérdida de autosuficiencia energética
+- Potencial expansión de infraestructura de gas natural para atender mayor demanda de importaciones
 
-## Precio Actual
+## Niveles Técnicos Relevantes
 
-Cierre: 2445 COP
+- Soporte: 2420 (mínimo reciente)
+- Resistencia: 2510 (máximo reciente)
+- Media móvil 50 días: ~2470
 
-## Niveles Técnicos
+## Precio Objetivo
 
-Soporte: 2420 COP
-Resistencia: 2500 COP
-Tendencia: Lateral con sesgo bajista
+- Entrada: 2400-2450
+- Salida: 2700-2800
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
-
-## Estrategia Recomendada
-
-1. Acumulación en soportes cercanos a 2420 COP
-2. Exposición gradual aprovechando volatilidad
-3. Mantener posiciones de largo plazo
+- 0-6 meses: COMPRAR - Beneficios de corto plazo por importación de gas
+- 6-12 meses: MANTENER - Estabilización de nuevos niveles de precios
+- 12-18 meses: MANTENER - Dependiente de políticas energéticas del nuevo gobierno

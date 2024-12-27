@@ -1,44 +1,25 @@
 # Análisis PFGRUPSURA
 
-## Fortalezas
-
-- Diversificación en servicios financieros
-- Presencia regional importante
-- Solidez financiera
-- Portafolio de inversiones de calidad
-
-## Debilidades
-
-- Exposición a múltiples riesgos regulatorios
-- Complejidad en estructura corporativa
-- Dependencia de mercados financieros
-- Baja liquidez relativa
-
 ## Catalizadores Futuros
 
-- Escisión con Grupo Argos en 2025
-- Simplificación de estructura corporativa
-- Potencial revalorización post-escisión
-- Mejora en gobierno corporativo
+- Proceso de escisión con Grupo Argos que se extenderá durante 2025
+- Simplificación de estructura societaria que podría liberar valor
+- Mayor liquidez esperada tras completar la escisión
+- Mejora en condiciones económicas según indicadores de confianza
 
-## Precio Actual
+## Niveles Técnicos Relevantes
 
-Cierre: 26360 COP
+- Soporte: 25200 (nivel psicológico)
+- Resistencia: 26500 (máximo reciente)
+- Media móvil 50 días: ~25800
 
-## Niveles Técnicos
+## Precio Objetivo
 
-Soporte: 25000 COP
-Resistencia: 27000 COP
-Tendencia: Alcista de corto plazo
+- Entrada: 25200-25500
+- Salida: 28000-29000
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR FUERTE
-- 18+ meses: COMPRAR
-
-## Estrategia Recomendada
-
-1. Acumulación agresiva antes de la escisión
-2. Mantener exposición durante el proceso
-3. Reevaluar posición post-escisión
+- 0-6 meses: COMPRAR - Beneficios esperados del proceso de escisión
+- 6-12 meses: MANTENER - Período de ajuste post-escisión
+- 12-18 meses: COMPRAR - Potencial valorización por estructura más simple

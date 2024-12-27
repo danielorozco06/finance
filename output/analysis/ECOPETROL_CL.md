@@ -1,44 +1,25 @@
 # Análisis ECOPETROL
 
-## Fortalezas
-
-- Principal empresa petrolera de Colombia
-- Fuerte posición de mercado y activos estratégicos
-- Respaldo del gobierno colombiano
-- Experiencia en exploración y producción
-
-## Debilidades
-
-- Alta dependencia de políticas gubernamentales
-- Restricciones actuales para nuevas exploraciones
-- Exposición a volatilidad de precios del petróleo
-- Altos costos operativos en algunos campos
-
 ## Catalizadores Futuros
 
-- Cambio de gobierno en 2026 con probable impulso a exploración
-- Potencial recuperación de precios del petróleo
-- Posible flexibilización de restricciones ambientales
-- Nuevos descubrimientos offshore
+- Cambio de gobierno en 2026 que probablemente será de derecha e impulsará fuertemente la extracción de petróleo y gas
+- Fin de restricciones a la exploración y extracción de hidrocarburos con el cambio de gobierno
+- Colombia perdió autosuficiencia energética después de 45 años, lo que podría impulsar nuevas exploraciones
+- Precios del crudo proyectados en US$70.50 para 2025 según Macquarie, por debajo del promedio de US$79.64 de 2024
 
-## Precio Actual
+## Niveles Técnicos Relevantes
 
-Cierre: 1680 COP
+- Soporte: 1650 (mínimo reciente)
+- Resistencia: 1830 (máximo reciente)
+- Media móvil 50 días: ~1780
 
-## Niveles Técnicos
+## Precio Objetivo
 
-Soporte: 1650 COP
-Resistencia: 1800 COP
-Tendencia: Bajista de corto plazo
+- Entrada: 1650-1700
+- Salida: 2000-2200
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
-
-## Estrategia Recomendada
-
-1. Acumulación gradual en niveles cercanos a 1650 COP
-2. Aumentar posiciones ante confirmación de cambio político
-3. Mantener exposición de largo plazo por potencial recuperación
+- 0-6 meses: MANTENER - Alta volatilidad esperada por incertidumbre política
+- 6-12 meses: MANTENER - Continúa incertidumbre pre-electoral
+- 12-18 meses: COMPRAR - Potencial cambio positivo en políticas energéticas con nuevo gobierno
