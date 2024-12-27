@@ -1,44 +1,34 @@
-# Análisis PFAVAL
-
-## Fortalezas
-
-- Grupo financiero diversificado
-- Presencia regional importante
-- Sólida base de capital
-- Liderazgo en banca de inversión
-
-## Debilidades
-
-- Exposición a ciclos económicos
-- Presión en márgenes financieros
-- Alta competencia sectorial
-- Dependencia del mercado colombiano
+# Análisis Preferencial Grupo Aval (PFAVAL_CL)
 
 ## Catalizadores Futuros
 
-- Reducción de tasas de interés
-- Recuperación económica
-- Expansión digital
-- Mejora en eficiencia operativa
+- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
+- Positivo: Expectativa de recuperación económica que beneficiaría al sector financiero
+- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
+- Negativo: Competencia creciente en el sector financiero digital
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 449 COP
+- Último precio: $449
+- Máximo 52 semanas: ~$498
+- Mínimo 52 semanas: ~$431
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 440 COP
-Resistencia: 460 COP
-Tendencia: Lateral con sesgo bajista
+- Soporte: $440-$445
+- Resistencia: $460-$465
+- Tendencia: Lateral con sesgo bajista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio consolidándose tras caída reciente, esperando confirmación de soporte.
 
-1. Acumulación gradual en soportes
-2. Exposición selectiva al sector financiero
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector financiero.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva con P/E de 5.8x y dividend yield de 7.5%. Líder en el sector financiero.

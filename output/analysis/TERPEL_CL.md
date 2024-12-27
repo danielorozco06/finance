@@ -1,44 +1,34 @@
-# Análisis TERPEL
-
-## Fortalezas
-
-- Líder en distribución de combustibles
-- Red de estaciones extensa
-- Infraestructura logística robusta
-- Marca reconocida
-
-## Debilidades
-
-- Exposición a precios del petróleo
-- Márgenes operativos ajustados
-- Alta competencia en el sector
-- Regulación intensiva
+# Análisis Terpel (TERPEL_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en energías alternativas
-- Crecimiento en lubricantes
-- Optimización de red
-- Recuperación de movilidad
+- Positivo: Expectativa de menores precios del petróleo para 2025 (US$70.50/barril según Macquarie)
+- Positivo: Recuperación esperada del consumo con menores tasas de interés
+- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
+- Negativo: Presión en márgenes por alta competencia en el sector
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 11360 COP
+- Último precio: $11,360
+- Máximo 52 semanas: ~$11,360
+- Mínimo 52 semanas: ~$6,862
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 11000 COP
-Resistencia: 11500 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $11,000-$11,200
+- Resistencia: $11,400-$11,600
+- Tendencia: Alcista de largo plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio en máximos históricos, podría experimentar toma de utilidades.
 
-1. Acumulación en niveles actuales
-2. Aumentar posiciones en soportes
-3. Mantener exposición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Beneficiario de menores precios del petróleo y recuperación del consumo.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Líder en distribución de combustibles con red estratégica y valoración atractiva.

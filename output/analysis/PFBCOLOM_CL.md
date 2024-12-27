@@ -1,44 +1,34 @@
-# Análisis PFBCOLOM
-
-## Fortalezas
-
-- Banco líder en Colombia
-- Alta calidad de cartera
-- Diversificación regional
-- Plataforma digital robusta
-
-## Debilidades
-
-- Presión en márgenes de interés
-- Alta competencia en sector bancario
-- Exposición a ciclos económicos
-- Costos de transformación digital
+# Análisis Preferencial Bancolombia (PFBCOLOM_CL)
 
 ## Catalizadores Futuros
 
-- Reducción de tasas de interés
-- Expansión en banca digital
-- Mejora en eficiencia operativa
-- Recuperación económica
+- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
+- Positivo: Expectativa de recuperación económica que beneficiaría al sector bancario
+- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
+- Negativo: Aumento del salario mínimo de 9.54% para 2025 que podría presionar la inflación
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 35280 COP
+- Último precio: $35,220
+- Máximo 52 semanas: ~$35,520
+- Mínimo 52 semanas: ~$33,934
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 34500 COP
-Resistencia: 36000 COP
-Tendencia: Lateral
+- Soporte: $34,500-$34,800
+- Resistencia: $35,500-$35,800
+- Tendencia: Alcista de corto plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio cerca de máximos recientes, podría experimentar toma de utilidades.
 
-1. Acumulación en soportes técnicos
-2. Exposición gradual al sector
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector bancario.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Líder del sector financiero con valoración atractiva (P/E 6.2x) y dividend yield de 5.8%.

@@ -1,44 +1,34 @@
-# Análisis CONCONCRET
-
-## Fortalezas
-
-- Líder en construcción y desarrollo inmobiliario
-- Diversificación de ingresos por segmentos
-- Experiencia en proyectos complejos
-- Backlog significativo de contratos
-
-## Debilidades
-
-- Alta sensibilidad a ciclos económicos
-- Márgenes operativos ajustados
-- Exposición a costos de materiales
-- Alta necesidad de capital de trabajo
+# Análisis Constructora Conconcreto (CONCONCRET_CL)
 
 ## Catalizadores Futuros
 
-- Recuperación del sector construcción
-- Nuevos proyectos de infraestructura
-- Expansión en segmento industrial
-- Mejora en condiciones macroeconómicas
+- Positivo: Expectativa de reducción de tasas de interés que podría reactivar el sector construcción
+- Positivo: Potencial reactivación de proyectos de infraestructura pública en 2025
+- Negativo: Suspensión de nuevas postulaciones al programa Mi Casa Ya
+- Negativo: Desaceleración del sector construcción por altas tasas de interés
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 460 COP
+- Último precio: $460
+- Máximo 52 semanas: $460
+- Mínimo 52 semanas: $260
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 420 COP
-Resistencia: 480 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $420-$430
+- Resistencia: $460-$470
+- Tendencia: Alcista de corto y mediano plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - El precio ha subido significativamente y podría experimentar toma de utilidades.
 
-1. Acumulación en niveles actuales
-2. Aumentar posiciones en soportes
-3. Mantener exposición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La expectativa de menores tasas de interés debería beneficiar al sector construcción.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva considerando la recuperación esperada del sector construcción y su posición de liderazgo en el mercado.

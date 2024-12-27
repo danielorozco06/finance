@@ -1,44 +1,34 @@
-# Análisis GRUBOLIVAR
-
-## Fortalezas
-
-- Grupo financiero diversificado
-- Liderazgo en seguros
-- Sólida posición de mercado
-- Experiencia en el sector
-
-## Debilidades
-
-- Alta exposición al sector asegurador
-- Dependencia del mercado colombiano
-- Competencia creciente
-- Baja liquidez en el mercado
+# Análisis Grupo Bolívar (GRUBOLIVAR_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en servicios digitales
-- Diversificación de ingresos
-- Mejora en eficiencia operativa
-- Recuperación económica
+- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
+- Positivo: Expectativa de recuperación económica que beneficiaría al sector financiero y asegurador
+- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
+- Negativo: Suspensión del programa Mi Casa Ya que afecta al negocio hipotecario
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 59940 COP
+- Último precio: $59,940
+- Máximo 52 semanas: ~$60,182
+- Mínimo 52 semanas: ~$55,600
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 58000 COP
-Resistencia: 60000 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $58,000-$58,500
+- Resistencia: $60,000-$60,500
+- Tendencia: Alcista de corto plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio cerca de máximos históricos, podría experimentar toma de utilidades.
 
-1. Acumulación en soportes
-2. Exposición selectiva al sector
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La expectativa de menores tasas de interés beneficiaría al sector financiero.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Conglomerado financiero líder con diversificación de ingresos y valoración atractiva.

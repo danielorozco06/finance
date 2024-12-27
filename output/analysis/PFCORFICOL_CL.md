@@ -1,44 +1,34 @@
-# Análisis PFCORFICOL
-
-## Fortalezas
-
-- Líder en servicios financieros corporativos
-- Diversificación de ingresos
-- Sólida base de capital
-- Experiencia en banca de inversión
-
-## Debilidades
-
-- Exposición a volatilidad de mercados
-- Alta competencia en sector financiero
-- Dependencia de ciclos económicos
-- Baja liquidez en el mercado
+# Análisis Preferencial Corficolombiana (PFCORFICOL_CL)
 
 ## Catalizadores Futuros
 
-- Recuperación actividad empresarial
-- Expansión en gestión de activos
-- Oportunidades en fusiones y adquisiciones
-- Mejora en condiciones de mercado
+- Positivo: Expectativa de recuperación económica que beneficiaría sus inversiones en infraestructura
+- Positivo: Probable reducción de tasas de interés que mejoraría resultados del portafolio
+- Negativo: Suspensión del programa Mi Casa Ya que afecta al sector construcción
+- Negativo: Alta exposición a ciclos económicos en sus diferentes inversiones
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 13960 COP
+- Último precio: $13,960
+- Máximo 52 semanas: ~$14,020
+- Mínimo 52 semanas: ~$13,400
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 13400 COP
-Resistencia: 14500 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $13,600-$13,800
+- Resistencia: $14,000-$14,200
+- Tendencia: Lateral con sesgo alcista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio cerca de máximos recientes, esperando rompimiento de resistencias.
 
-1. Acumulación en niveles actuales
-2. Aumentar posiciones en soportes
-3. Mantener exposición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Beneficiario de recuperación económica y menores tasas de interés.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Holding diversificado con activos estratégicos y valoración atractiva con P/E de 8.5x.

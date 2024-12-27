@@ -1,44 +1,34 @@
-# Análisis EXITO
-
-## Fortalezas
-
-- Líder en retail en Colombia
-- Red logística robusta
-- Diversificación de formatos
-- Estrategia omnicanal consolidada
-
-## Debilidades
-
-- Márgenes operativos ajustados
-- Alta competencia en el sector
-- Sensibilidad a consumo interno
-- Presión en costos operativos
+# Análisis Almacenes Éxito (EXITO_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en comercio electrónico
-- Optimización de operaciones
-- Potencial consolidación regional
-- Recuperación del consumo
+- Positivo: Proceso de venta de la compañía al Grupo Casino podría generar valor para accionistas
+- Positivo: Liderazgo en retail con fuerte presencia en comercio electrónico
+- Negativo: Presión en márgenes por alta inflación y competencia
+- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 2095 COP
+- Último precio: $2,095
+- Máximo 52 semanas: ~$2,190
+- Mínimo 52 semanas: ~$2,035
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 2000 COP
-Resistencia: 2200 COP
-Tendencia: Lateral con sesgo bajista
+- Soporte: $2,000-$2,050
+- Resistencia: $2,150-$2,200
+- Tendencia: Lateral con sesgo bajista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: MANTENER
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio sostenido por expectativa de venta pero con presión en fundamentales.
 
-1. Entrada selectiva en soportes
-2. Exposición moderada al sector
-3. Posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Potencial valor a realizar por venta de la compañía.
+
+### 12-18 meses (Largo Plazo)
+
+NEUTRAL - Incertidumbre sobre estructura accionaria futura y estrategia post-venta.

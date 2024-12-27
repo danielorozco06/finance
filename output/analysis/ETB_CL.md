@@ -1,44 +1,34 @@
-# Análisis ETB
-
-## Fortalezas
-
-- Infraestructura de fibra óptica
-- Base de clientes estable
-- Respaldo del Distrito Capital
-- Baja deuda financiera
-
-## Debilidades
-
-- Alta competencia en el sector
-- Limitada expansión geográfica
-- Baja rentabilidad histórica
-- Gobierno corporativo complejo
+# Análisis ETB (ETB_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en servicios digitales
-- Potencial privatización
-- Mejora en eficiencia operativa
-- Crecimiento en segmento empresarial
+- Positivo: Potencial venta de la compañía por parte del Distrito de Bogotá
+- Positivo: Inversiones en expansión de red de fibra óptica y 5G
+- Negativo: Alta competencia en el sector de telecomunicaciones
+- Negativo: Pérdida continua de participación de mercado frente a operadores más grandes
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 74 COP
+- Último precio: $74
+- Máximo 52 semanas: ~$108
+- Mínimo 52 semanas: $74
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 70 COP
-Resistencia: 80 COP
-Tendencia: Lateral
+- Soporte fuerte: $72-$74
+- Resistencia clave: $80-$82
+- Tendencia: Bajista de largo plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: MANTENER
-- 18+ meses: MANTENER
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+VENTA - Tendencia bajista clara sin catalizadores positivos inmediatos.
 
-1. Exposición limitada
-2. Entrada selectiva en soportes
-3. Monitorear cambios corporativos
+### 6-12 meses (Mediano Plazo)
+
+NEUTRAL - Potencial especulativo por venta de la compañía, pero fundamentales débiles.
+
+### 12-18 meses (Largo Plazo)
+
+NEUTRAL - La compañía necesita una reestructuración profunda o un comprador estratégico para mejorar su posición competitiva.

@@ -1,44 +1,34 @@
-# Análisis PFDAVVNDA
-
-## Fortalezas
-
-- Banco líder en innovación digital
-- Alta eficiencia operativa
-- Fuerte posición en banca personal
-- Plataforma tecnológica robusta
-
-## Debilidades
-
-- Mayor exposición a crédito de consumo
-- Costos de fondeo superiores al promedio
-- Dependencia del mercado colombiano
-- Presión en márgenes por competencia
+# Análisis Preferencial Davivienda (PFDAVVNDA_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en banca digital
-- Reducción de tasas de interés
-- Mejora en eficiencia operativa
-- Recuperación económica
+- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
+- Positivo: Expectativa de recuperación económica que beneficiaría al sector bancario
+- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
+- Negativo: Suspensión del programa Mi Casa Ya que afecta al negocio hipotecario
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 17840 COP
+- Último precio: $17,840
+- Máximo 52 semanas: ~$18,100
+- Mínimo 52 semanas: ~$17,580
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 17500 COP
-Resistencia: 18500 COP
-Tendencia: Lateral con sesgo bajista
+- Soporte: $17,500-$17,600
+- Resistencia: $18,000-$18,200
+- Tendencia: Lateral con sesgo bajista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio consolidándose en rango lateral, esperando definición de tendencia.
 
-1. Acumulación gradual en soportes
-2. Exposición selectiva al sector financiero
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector bancario.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva con P/E de 5.9x y dividend yield de 6.2%. Fuerte posición en banca digital.

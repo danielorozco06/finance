@@ -1,44 +1,34 @@
-# Análisis NUTRESA
-
-## Fortalezas
-
-- Líder en alimentos procesados
-- Diversificación geográfica
-- Marcas reconocidas
-- Sólida red de distribución
-
-## Debilidades
-
-- Presión en márgenes por costos
-- Alta competencia en el sector
-- Exposición a precios de commodities
-- Baja liquidez en el mercado
+# Análisis Grupo Nutresa (NUTRESA_CL)
 
 ## Catalizadores Futuros
 
-- Expansión internacional
-- Innovación en productos
-- Optimización operativa
-- Recuperación de márgenes
+- Positivo: Liderazgo en el mercado de alimentos con fuerte presencia regional
+- Positivo: Capacidad de mantener márgenes a pesar de la inflación por poder de marca
+- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
+- Negativo: Alta competencia en el sector de alimentos y presión en márgenes
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 79000 COP
+- Último precio: $79,000
+- Máximo 52 semanas: $79,000
+- Mínimo 52 semanas: $71,600
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 78000 COP
-Resistencia: 80000 COP
-Tendencia: Lateral
+- Soporte: $77,000-$78,000
+- Resistencia: $79,000-$80,000
+- Tendencia: Alcista de corto y mediano plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio en máximos históricos, podría experimentar toma de utilidades.
 
-1. Acumulación selectiva en soportes
-2. Exposición gradual al sector
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Modelo de negocio defensivo y capacidad de mantener márgenes operativos.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva con P/E de 15.2x y dividend yield de 3.1%. Posición dominante en el mercado.

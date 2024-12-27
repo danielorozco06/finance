@@ -1,44 +1,34 @@
-# Análisis ISA
-
-## Fortalezas
-
-- Líder en transmisión eléctrica regional
-- Ingresos regulados y estables
-- Diversificación geográfica
-- Infraestructura estratégica
-
-## Debilidades
-
-- Alta regulación sectorial
-- Necesidades importantes de CAPEX
-- Exposición a riesgo político
-- Dependencia de decisiones regulatorias
+# Análisis ISA (ISA_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en Brasil y Perú
-- Inversiones en digitalización
-- Nuevos proyectos de transmisión
-- Sinergias con Ecopetrol
+- Positivo: Colombia perdió autosuficiencia energética, beneficiando a empresas de transmisión eléctrica
+- Positivo: Plan de expansión en transmisión eléctrica en Latinoamérica
+- Negativo: Mayores costos de financiamiento por altas tasas de interés
+- Negativo: Riesgo regulatorio en los diferentes países donde opera
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 16700 COP
+- Último precio: $16,520
+- Máximo 52 semanas: ~$16,920
+- Mínimo 52 semanas: ~$16,200
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 16200 COP
-Resistencia: 17000 COP
-Tendencia: Lateral con sesgo alcista
+- Soporte: $16,200-$16,300
+- Resistencia: $16,800-$17,000
+- Tendencia: Lateral con sesgo alcista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio consolidándose en rango lateral, esperando definición de tendencia.
 
-1. Acumulación en soportes
-2. Exposición gradual al sector
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Beneficiario directo de la crisis energética y necesidades de inversión en transmisión.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Modelo de negocio defensivo, dividend yield atractivo (~6%) y sólida posición en el mercado regional.

@@ -1,44 +1,34 @@
-# Análisis PFGRUPOARG
-
-## Fortalezas
-
-- Portafolio diversificado de activos
-- Posición dominante en cemento e infraestructura
-- Generación de flujo de caja estable
-- Experiencia en gestión de concesiones
-
-## Debilidades
-
-- Exposición a ciclos económicos
-- Alta intensidad de capital
-- Estructura corporativa compleja
-- Dependencia del sector construcción
+# Análisis Preferencial Grupo Argos (PFGRUPOARG_CL)
 
 ## Catalizadores Futuros
 
-- Escisión con Grupo Sura en 2025
-- Potencial revalorización post-escisión
-- Simplificación de estructura corporativa
-- Mejora en valoración de activos
+- Positivo: Proceso de escisión con Grupo Sura que simplificará estructura y liberará valor
+- Positivo: Expectativa de recuperación del sector construcción por menores tasas de interés
+- Negativo: Suspensión del programa Mi Casa Ya que afecta al negocio de cemento
+- Negativo: Alta exposición a ciclos económicos en sus diferentes negocios
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 15300 COP
+- Último precio: $15,300
+- Máximo 52 semanas: ~$15,400
+- Mínimo 52 semanas: ~$13,820
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 14800 COP
-Resistencia: 15500 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $14,800-$15,000
+- Resistencia: $15,400-$15,600
+- Tendencia: Alcista de corto y mediano plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR FUERTE
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+COMPRA - Catalizador positivo por proceso de escisión con Grupo Sura.
 
-1. Acumulación gradual antes de la escisión
-2. Aumentar exposición en soportes técnicos
-3. Mantener posiciones durante el proceso de escisión
+### 6-12 meses (Mediano Plazo)
+
+COMPRA FUERTE - Beneficiario de recuperación económica y menores tasas de interés.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva post-escisión y expectativa de recuperación en sus sectores clave.

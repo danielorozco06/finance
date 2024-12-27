@@ -1,44 +1,34 @@
-# Análisis CNEC
-
-## Fortalezas
-
-- Líder en construcción de infraestructura
-- Backlog sólido de proyectos
-- Experiencia en grandes obras
-- Diversificación geográfica
-
-## Debilidades
-
-- Alta dependencia de inversión pública
-- Márgenes operativos ajustados
-- Exposición a sobrecostos
-- Ciclos largos de cobro
+# Análisis Canacol Energy (CNEC_CL)
 
 ## Catalizadores Futuros
 
-- Plan de infraestructura nacional
-- Recuperación sector construcción
-- Nuevas concesiones viales
-- Expansión regional
+- Positivo: Colombia perdió autosuficiencia energética y comenzó a importar gas natural, lo que beneficia a productores locales
+- Positivo: Probable cambio de gobierno en 2026 con políticas más favorables para el sector de hidrocarburos
+- Negativo: Restricciones actuales del gobierno para la exploración y explotación de hidrocarburos
+- Negativo: Riesgo de mayores impuestos al sector de hidrocarburos
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 10920 COP
+- Último precio: $10,920
+- Máximo 52 semanas: ~$13,260
+- Mínimo 52 semanas: ~$10,920
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 10500 COP
-Resistencia: 11500 COP
-Tendencia: Bajista de corto plazo
+- Soporte fuerte: $10,800-$11,000
+- Resistencia clave: $12,500-$13,000
+- Tendencia: Bajista de corto y mediano plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio en mínimos pero sin catalizadores positivos inmediatos. Alta presión vendedora.
 
-1. Acumulación gradual en soportes
-2. Exposición selectiva por proyectos
-3. Mantener posición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - La crisis energética en Colombia debería impulsar los precios del gas natural y beneficiar a la compañía.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Expectativa de cambio en políticas energéticas con nuevo gobierno. Valoración atractiva en niveles actuales.

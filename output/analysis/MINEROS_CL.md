@@ -1,44 +1,34 @@
-# Análisis MINEROS
-
-## Fortalezas
-
-- Productor de oro diversificado
-- Bajos costos operativos
-- Experiencia en minería aluvial
-- Sólida posición financiera
-
-## Debilidades
-
-- Exposición a precios del oro
-- Riesgos ambientales y sociales
-- Alta intensidad de capital
-- Dependencia de permisos mineros
+# Análisis Mineros S.A. (MINEROS_CL)
 
 ## Catalizadores Futuros
 
-- Potencial alza en precios del oro
-- Expansión de operaciones
-- Mejora en eficiencia operativa
-- Nuevos descubrimientos mineros
+- Positivo: Expectativa de precios del oro estables/al alza por incertidumbre económica global
+- Positivo: Probable cambio de gobierno en 2026 con políticas más favorables para el sector minero
+- Negativo: Restricciones actuales del gobierno para la minería
+- Negativo: Riesgo de mayores impuestos al sector minero
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 4255 COP
+- Último precio: $4,255
+- Máximo 52 semanas: ~$4,520
+- Mínimo 52 semanas: ~$4,085
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 4200 COP
-Resistencia: 4500 COP
-Tendencia: Lateral con sesgo alcista
+- Soporte: $4,200-$4,250
+- Resistencia: $4,500-$4,550
+- Tendencia: Lateral con sesgo bajista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio en rango lateral, afectado por incertidumbre regulatoria.
 
-1. Acumulación en niveles actuales
-2. Aumentar exposición en correcciones
-3. Mantener posición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Potencial recuperación por mejores precios del oro y expectativa de cambio político.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Valoración atractiva y expectativa de mejora en el entorno regulatorio post 2026.

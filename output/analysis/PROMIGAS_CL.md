@@ -1,44 +1,34 @@
-# Análisis PROMIGAS
-
-## Fortalezas
-
-- Líder en transporte y distribución de gas
-- Flujos de caja estables
-- Infraestructura estratégica
-- Contratos de largo plazo
-
-## Debilidades
-
-- Alta regulación sectorial
-- Necesidades importantes de CAPEX
-- Exposición a riesgo regulatorio
-- Dependencia del mercado colombiano
+# Análisis Promigas (PROMIGAS_CL)
 
 ## Catalizadores Futuros
 
-- Crecimiento en demanda de gas natural
-- Expansión en infraestructura
-- Importación de GNL
-- Potencial consolidación sectorial
+- Positivo: Colombia perdió autosuficiencia energética y comenzó a importar gas natural
+- Positivo: Infraestructura clave para la distribución de gas natural importado
+- Negativo: Mayores costos de financiamiento por altas tasas de interés
+- Negativo: Riesgo regulatorio en tarifas de distribución de gas
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 7450 COP
+- Último precio: $7,450
+- Máximo 52 semanas: ~$7,800
+- Mínimo 52 semanas: ~$7,398
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 7300 COP
-Resistencia: 7800 COP
-Tendencia: Lateral con sesgo bajista
+- Soporte: $7,300-$7,400
+- Resistencia: $7,800-$8,000
+- Tendencia: Lateral con sesgo bajista
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: MANTENER
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - Precio consolidándose en rango lateral, esperando catalizadores.
 
-1. Acumulación en soportes
-2. Exposición gradual al sector
-3. Mantener posiciones de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Beneficiario directo de la crisis energética y necesidad de infraestructura de gas.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Modelo de negocio defensivo, dividend yield atractivo (~6%) y posición estratégica en el sector.

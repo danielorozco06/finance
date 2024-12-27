@@ -1,44 +1,34 @@
-# Análisis CELSIA
-
-## Fortalezas
-
-- Líder en energías renovables
-- Flujos de caja predecibles
-- Diversificación geográfica
-- Respaldo del Grupo Argos
-
-## Debilidades
-
-- Alta exposición a riesgo climático
-- Necesidades importantes de CAPEX
-- Dependencia regulatoria
-- Competencia creciente en renovables
+# Análisis Celsia (CELSIA_CL)
 
 ## Catalizadores Futuros
 
-- Expansión en energías renovables
-- Crecimiento en demanda energética
-- Inversiones en transmisión
-- Potencial consolidación del sector
+- Positivo: Fuerte posicionamiento en energías renovables en línea con la transición energética
+- Positivo: Colombia perdió autosuficiencia energética, lo que podría beneficiar a generadores establecidos
+- Negativo: Riesgo de fenómeno de El Niño que podría afectar la generación hidroeléctrica
+- Negativo: Altos niveles de deuda (ratio deuda/patrimonio de 102%)
 
-## Precio Actual
+## Precios Recientes
 
-Cierre: 3685 COP
+- Último precio: $3,680
+- Máximo 52 semanas: ~$3,700
+- Mínimo 52 semanas: ~$2,731
 
-## Niveles Técnicos
+## Niveles Técnicos Relevantes
 
-Soporte: 3500 COP
-Resistencia: 3700 COP
-Tendencia: Alcista de corto plazo
+- Soporte: $3,500-$3,550
+- Resistencia: $3,700-$3,750
+- Tendencia: Alcista de mediano plazo
 
-## Recomendación por Plazo
+## Recomendación de Inversión
 
-- 0-6 meses: COMPRAR
-- 6-18 meses: COMPRAR
-- 18+ meses: COMPRAR FUERTE
+### 0-6 meses (Corto Plazo)
 
-## Estrategia Recomendada
+NEUTRAL - El precio está en máximos históricos y podría experimentar toma de utilidades.
 
-1. Acumulación en niveles actuales
-2. Aumentar posiciones en correcciones
-3. Mantener exposición de largo plazo
+### 6-12 meses (Mediano Plazo)
+
+COMPRA - Beneficiario directo de la crisis energética en Colombia y altos precios de energía.
+
+### 12-18 meses (Largo Plazo)
+
+COMPRA FUERTE - Posicionamiento estratégico en renovables y expectativa de crecimiento sostenido. P/E razonable de 10.8x y dividend yield atractivo de 8.29%.
