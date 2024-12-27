@@ -1,56 +1,44 @@
-# Análisis Grupo Bolívar
+# Análisis GRUBOLIVAR
 
 ## Fortalezas
 
-- Conglomerado financiero diversificado
-- Liderazgo en sector seguros y banca
-- Sólida posición patrimonial
-- Gestión conservadora de riesgos
+- Grupo financiero diversificado
+- Liderazgo en seguros
+- Sólida posición de mercado
+- Experiencia en el sector
 
 ## Debilidades
 
-- Baja liquidez de la acción
-- Alta exposición al sector financiero colombiano
-- Sensibilidad a ciclos económicos
-- Estructura corporativa compleja
+- Alta exposición al sector asegurador
+- Dependencia del mercado colombiano
+- Competencia creciente
+- Baja liquidez en el mercado
 
 ## Catalizadores Futuros
 
-- Potencial recuperación del sector financiero
-- Sinergias entre subsidiarias
 - Expansión en servicios digitales
-- Probable mejora en condiciones macroeconómicas
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 57,000 COP
-- Resistencia: 59,000 COP
-- Media móvil relevante: 58,000 COP
+- Diversificación de ingresos
+- Mejora en eficiencia operativa
+- Recuperación económica
 
 ## Precio Actual
 
-- Precio de cierre: 58,740 COP
-- Tendencia alcista de corto plazo
-- Volumen de negociación muy bajo
+Cierre: 59940 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 58000 COP
+Resistencia: 60000 COP
+Tendencia: Alcista de corto plazo
 
-NEUTRAL - Limitada liquidez dificulta operativa
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación sector financiero
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y modelo de negocio sólido
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual por baja liquidez
-2. Aumentar posición en correcciones hacia 57,000 COP
-3. Stop loss sugerido en 56,000 COP
-4. Objetivo de precio inicial: 65,000 COP
-5. Mantener posición core por fundamentales sólidos
+1. Acumulación en soportes
+2. Exposición selectiva al sector
+3. Mantener posiciones de largo plazo

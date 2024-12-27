@@ -1,56 +1,44 @@
-# Análisis Preferencial Corficolombiana
+# Análisis PFCORFICOL
 
 ## Fortalezas
 
-- Portafolio diversificado de inversiones
-- Exposición a sectores estratégicos
-- Sólida posición financiera
-- Participación en proyectos de infraestructura
+- Líder en servicios financieros corporativos
+- Diversificación de ingresos
+- Sólida base de capital
+- Experiencia en banca de inversión
 
 ## Debilidades
 
-- Alta dependencia del sector financiero
-- Baja liquidez de la acción
-- Exposición a riesgos regulatorios
-- Sensibilidad a ciclos económicos
+- Exposición a volatilidad de mercados
+- Alta competencia en sector financiero
+- Dependencia de ciclos económicos
+- Baja liquidez en el mercado
 
 ## Catalizadores Futuros
 
-- Desarrollo de proyectos de infraestructura
-- Potencial recuperación económica
-- Posible cambio de gobierno favorable en 2026
-- Oportunidades de inversión en nuevos sectores
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 13,400 COP
-- Resistencia: 14,000 COP
-- Media móvil relevante: 13,700 COP
+- Recuperación actividad empresarial
+- Expansión en gestión de activos
+- Oportunidades en fusiones y adquisiciones
+- Mejora en condiciones de mercado
 
 ## Precio Actual
 
-- Precio de cierre: 13,600 COP
-- Tendencia lateral con sesgo bajista
-- Volumen de negociación bajo
+Cierre: 13960 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 13400 COP
+Resistencia: 14500 COP
+Tendencia: Alcista de corto plazo
 
-NEUTRAL - Falta de catalizadores inmediatos
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación por ciclo económico
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y portafolio estratégico
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 13,400 COP
-3. Stop loss sugerido en 13,000 COP
-4. Objetivo de precio inicial: 15,000 COP
-5. Mantener posición core por calidad de activos
+1. Acumulación en niveles actuales
+2. Aumentar posiciones en soportes
+3. Mantener exposición de largo plazo

@@ -1,56 +1,44 @@
-# Análisis Grupo Éxito
+# Análisis EXITO
 
 ## Fortalezas
 
 - Líder en retail en Colombia
-- Diversificación en formatos comerciales
-- Fuerte presencia en comercio electrónico
-- Red logística consolidada
+- Red logística robusta
+- Diversificación de formatos
+- Estrategia omnicanal consolidada
 
 ## Debilidades
 
-- Alta sensibilidad a ciclos económicos
-- Presión competitiva de hard discounters
 - Márgenes operativos ajustados
-- Dependencia del consumo interno
+- Alta competencia en el sector
+- Sensibilidad a consumo interno
+- Presión en costos operativos
 
 ## Catalizadores Futuros
 
-- Proceso de venta del grupo en curso
-- Potencial prima por cambio de control
 - Expansión en comercio electrónico
-- Recuperación del consumo privado
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 2,000 COP
-- Resistencia: 2,200 COP
-- Media móvil relevante: 2,100 COP
+- Optimización de operaciones
+- Potencial consolidación regional
+- Recuperación del consumo
 
 ## Precio Actual
 
-- Precio de cierre: 2,035 COP
-- Tendencia bajista de corto plazo
-- Volumen de negociación moderado
+Cierre: 2095 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 2000 COP
+Resistencia: 2200 COP
+Tendencia: Lateral con sesgo bajista
 
-COMPRA - Potencial beneficio por operación corporativa
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-NEUTRAL - Incertidumbre post-transacción
-
-### Largo Plazo (18+ meses)
-
-NEUTRAL - Pendiente definición de estrategia del nuevo controlador
+- 0-6 meses: MANTENER
+- 6-18 meses: MANTENER
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Entrada especulativa por potencial OPA
-2. Mantener exposición limitada al 5% del portafolio
-3. Stop loss sugerido en 1,900 COP
-4. Objetivo de precio inicial: 2,400 COP
-5. Reevaluar posición post-transacción
+1. Entrada selectiva en soportes
+2. Exposición moderada al sector
+3. Posiciones de largo plazo

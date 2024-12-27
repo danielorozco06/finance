@@ -1,56 +1,44 @@
-# Análisis Preferencial Grupo Aval
+# Análisis PFAVAL
 
 ## Fortalezas
 
-- Mayor holding financiero de Colombia
-- Diversificación en múltiples entidades bancarias
-- Sólida posición de mercado
-- Amplia red de distribución
+- Grupo financiero diversificado
+- Presencia regional importante
+- Sólida base de capital
+- Liderazgo en banca de inversión
 
 ## Debilidades
 
-- Alta exposición al sector financiero local
-- Sensibilidad a ciclos económicos
-- Estructura corporativa compleja
-- Presión en márgenes por competencia
+- Exposición a ciclos económicos
+- Presión en márgenes financieros
+- Alta competencia sectorial
+- Dependencia del mercado colombiano
 
 ## Catalizadores Futuros
 
-- Potencial reducción de tasas de interés
-- Recuperación económica esperada
-- Posible cambio de gobierno favorable en 2026
-- Digitalización de servicios financieros
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 440 COP
-- Resistencia: 460 COP
-- Media móvil relevante: 450 COP
+- Reducción de tasas de interés
+- Recuperación económica
+- Expansión digital
+- Mejora en eficiencia operativa
 
 ## Precio Actual
 
-- Precio de cierre: 449 COP
-- Tendencia lateral con sesgo alcista
-- Volumen de negociación moderado
+Cierre: 449 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 440 COP
+Resistencia: 460 COP
+Tendencia: Lateral con sesgo bajista
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación sector financiero
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y posición dominante
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 440 COP
-3. Stop loss sugerido en 430 COP
-4. Objetivo de precio inicial: 500 COP
-5. Mantener posición core por liderazgo sectorial
+1. Acumulación gradual en soportes
+2. Exposición selectiva al sector financiero
+3. Mantener posiciones de largo plazo

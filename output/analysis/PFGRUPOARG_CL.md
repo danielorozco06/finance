@@ -1,56 +1,44 @@
-# Análisis Preferencial Grupo Argos
+# Análisis PFGRUPOARG
 
 ## Fortalezas
 
-- Holding diversificado en sectores clave
-- Activos de alta calidad en infraestructura
-- Presencia regional significativa
-- Sólida posición financiera
+- Portafolio diversificado de activos
+- Posición dominante en cemento e infraestructura
+- Generación de flujo de caja estable
+- Experiencia en gestión de concesiones
 
 ## Debilidades
 
-- Alta dependencia del ciclo económico
+- Exposición a ciclos económicos
+- Alta intensidad de capital
 - Estructura corporativa compleja
-- Descuento holding vs. suma de partes
-- Exposición a riesgos regulatorios
+- Dependencia del sector construcción
 
 ## Catalizadores Futuros
 
-- Recuperación en sector construcción
-- Potencial monetización de activos
-- Simplificación estructura corporativa
-- Mejora en condiciones macroeconómicas
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 14,900 COP
-- Resistencia: 15,500 COP
-- Media móvil relevante: 15,200 COP
+- Escisión con Grupo Sura en 2025
+- Potencial revalorización post-escisión
+- Simplificación de estructura corporativa
+- Mejora en valoración de activos
 
 ## Precio Actual
 
-- Precio de cierre: 15,240 COP
-- Tendencia lateral con sesgo alcista
-- Volumen de negociación moderado
+Cierre: 15300 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 14800 COP
+Resistencia: 15500 COP
+Tendencia: Alcista de corto plazo
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación sectorial
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y activos estratégicos
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR FUERTE
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 14,900 COP
-3. Stop loss sugerido en 14,500 COP
-4. Objetivo de precio inicial: 16,500 COP
-5. Mantener posición core por calidad de activos
+1. Acumulación gradual antes de la escisión
+2. Aumentar exposición en soportes técnicos
+3. Mantener posiciones durante el proceso de escisión

@@ -2,55 +2,43 @@
 
 ## Fortalezas
 
-- Empresa de telecomunicaciones con infraestructura propia
-- Base de clientes estable en Bogotá
-- Inversiones en fibra óptica
+- Infraestructura de fibra óptica
+- Base de clientes estable
 - Respaldo del Distrito Capital
+- Baja deuda financiera
 
 ## Debilidades
 
-- Alta competencia en el sector telecomunicaciones
+- Alta competencia en el sector
 - Limitada expansión geográfica
-- Necesidad constante de inversión en tecnología
-- Baja liquidez en el mercado accionario
+- Baja rentabilidad histórica
+- Gobierno corporativo complejo
 
 ## Catalizadores Futuros
 
-- Crecimiento en demanda de servicios de internet
-- Expansión de red de fibra óptica
-- Potenciales alianzas estratégicas
-- Digitalización acelerada post-pandemia
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 72 COP
-- Resistencia: 76 COP
-- Media móvil relevante: 74 COP
+- Expansión en servicios digitales
+- Potencial privatización
+- Mejora en eficiencia operativa
+- Crecimiento en segmento empresarial
 
 ## Precio Actual
 
-- Precio de cierre: 74 COP
-- Tendencia lateral de mediano plazo
-- Volumen de negociación estable pero bajo
+Cierre: 74 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 70 COP
+Resistencia: 80 COP
+Tendencia: Lateral
 
-NEUTRAL - Falta de catalizadores inmediatos
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-NEUTRAL - Incertidumbre en sector telecomunicaciones
-
-### Largo Plazo (18+ meses)
-
-COMPRA - Valoración atractiva y potencial de crecimiento
+- 0-6 meses: MANTENER
+- 6-18 meses: MANTENER
+- 18+ meses: MANTENER
 
 ## Estrategia Recomendada
 
-1. Entrada gradual cerca del soporte de 72 COP
-2. Aumentar posición si supera resistencia de 76 COP
-3. Stop loss sugerido en 70 COP
-4. Objetivo de precio inicial: 80 COP
-5. Mantener posición de largo plazo por potencial de sector
+1. Exposición limitada
+2. Entrada selectiva en soportes
+3. Monitorear cambios corporativos

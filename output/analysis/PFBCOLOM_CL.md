@@ -1,56 +1,44 @@
-# Análisis Preferencial Bancolombia
+# Análisis PFBCOLOM
 
 ## Fortalezas
 
-- Mayor banco de Colombia por activos
-- Presencia regional en Centroamérica
-- Liderazgo en transformación digital
-- Sólidos indicadores de capital
+- Banco líder en Colombia
+- Alta calidad de cartera
+- Diversificación regional
+- Plataforma digital robusta
 
 ## Debilidades
 
-- Alta exposición a ciclos económicos
-- Sensibilidad a tasas de interés
-- Presión competitiva en márgenes
-- Riesgos regulatorios del sector
+- Presión en márgenes de interés
+- Alta competencia en sector bancario
+- Exposición a ciclos económicos
+- Costos de transformación digital
 
 ## Catalizadores Futuros
 
-- Potencial reducción de tasas en 2024
+- Reducción de tasas de interés
 - Expansión en banca digital
-- Recuperación económica regional
-- Posible cambio de gobierno favorable en 2026
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 35,000 COP
-- Resistencia: 36,000 COP
-- Media móvil relevante: 35,500 COP
+- Mejora en eficiencia operativa
+- Recuperación económica
 
 ## Precio Actual
 
-- Precio de cierre: 35,260 COP
-- Tendencia lateral con sesgo alcista
-- Volumen de negociación alto
+Cierre: 35280 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 34500 COP
+Resistencia: 36000 COP
+Tendencia: Lateral
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Beneficios de reducción de tasas
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Liderazgo y transformación digital
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 35,000 COP
-3. Stop loss sugerido en 34,000 COP
-4. Objetivo de precio inicial: 38,000 COP
-5. Mantener posición core por liderazgo sectorial
+1. Acumulación en soportes técnicos
+2. Exposición gradual al sector
+3. Mantener posiciones de largo plazo

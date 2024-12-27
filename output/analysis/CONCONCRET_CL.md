@@ -1,56 +1,44 @@
-# Análisis Constructora Conconcreto
+# Análisis CONCONCRET
 
 ## Fortalezas
 
-- Empresa líder en el sector construcción en Colombia
-- Diversificación en diferentes segmentos de construcción
-- Amplia experiencia en proyectos de infraestructura
-- Cartera de proyectos diversificada
+- Líder en construcción y desarrollo inmobiliario
+- Diversificación de ingresos por segmentos
+- Experiencia en proyectos complejos
+- Backlog significativo de contratos
 
 ## Debilidades
 
 - Alta sensibilidad a ciclos económicos
-- Dependencia del gasto público en infraestructura
 - Márgenes operativos ajustados
-- Alta competencia en el sector
+- Exposición a costos de materiales
+- Alta necesidad de capital de trabajo
 
 ## Catalizadores Futuros
 
-- Recuperación significativa en el precio de la acción (+40% en diciembre)
-- Potenciales nuevos proyectos de infraestructura
-- Posible impulso al sector construcción con nuevo gobierno en 2026
-- Necesidad de desarrollo de infraestructura en Colombia
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 400 COP
-- Resistencia: 450 COP
-- Media móvil relevante: 425 COP
+- Recuperación del sector construcción
+- Nuevos proyectos de infraestructura
+- Expansión en segmento industrial
+- Mejora en condiciones macroeconómicas
 
 ## Precio Actual
 
-- Precio de cierre: 429 COP
-- Tendencia alcista de corto plazo
-- Volumen de negociación alto y creciente
+Cierre: 460 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 420 COP
+Resistencia: 480 COP
+Tendencia: Alcista de corto plazo
 
-COMPRA - Momentum positivo y ruptura técnica alcista
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación del sector construcción
-
-### Largo Plazo (18+ meses)
-
-NEUTRAL - Mantener cautela por ciclicidad del sector
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Entrada parcial en niveles actuales
-2. Aumentar posición en correcciones hacia 400 COP
-3. Stop loss sugerido en 380 COP
-4. Objetivo de precio inicial: 500 COP
-5. Tomar beneficios parciales en resistencias importantes
+1. Acumulación en niveles actuales
+2. Aumentar posiciones en soportes
+3. Mantener exposición de largo plazo

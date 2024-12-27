@@ -1,56 +1,44 @@
-# Análisis Preferencial Grupo Sura
+# Análisis PFGRUPSURA
 
 ## Fortalezas
 
-- Líder en servicios financieros en Latinoamérica
-- Portafolio diversificado de inversiones
-- Fuerte presencia regional
-- Sólida posición patrimonial
+- Diversificación en servicios financieros
+- Presencia regional importante
+- Solidez financiera
+- Portafolio de inversiones de calidad
 
 ## Debilidades
 
-- Alta exposición a mercados emergentes
-- Sensibilidad a ciclos económicos
-- Estructura corporativa compleja
-- Presión competitiva en seguros
+- Exposición a múltiples riesgos regulatorios
+- Complejidad en estructura corporativa
+- Dependencia de mercados financieros
+- Baja liquidez relativa
 
 ## Catalizadores Futuros
 
-- Recuperación económica regional
-- Potencial simplificación corporativa
-- Expansión en gestión de activos
-- Posible mejora en valoración de participadas
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 25,500 COP
-- Resistencia: 26,500 COP
-- Media móvil relevante: 26,000 COP
+- Escisión con Grupo Argos en 2025
+- Simplificación de estructura corporativa
+- Potencial revalorización post-escisión
+- Mejora en gobierno corporativo
 
 ## Precio Actual
 
-- Precio de cierre: 26,040 COP
-- Tendencia alcista de corto plazo
-- Volumen de negociación moderado
+Cierre: 26360 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 25000 COP
+Resistencia: 27000 COP
+Tendencia: Alcista de corto plazo
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Potencial recuperación por ciclo económico
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y posición dominante
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR FUERTE
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 25,500 COP
-3. Stop loss sugerido en 25,000 COP
-4. Objetivo de precio inicial: 28,000 COP
-5. Mantener posición core por fundamentales sólidos
+1. Acumulación agresiva antes de la escisión
+2. Mantener exposición durante el proceso
+3. Reevaluar posición post-escisión

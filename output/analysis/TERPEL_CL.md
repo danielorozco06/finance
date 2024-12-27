@@ -1,56 +1,44 @@
-# Análisis Terpel
+# Análisis TERPEL
 
 ## Fortalezas
 
-- Líder en distribución de combustibles en Colombia
-- Red de estaciones más grande del país
-- Sólida infraestructura logística
-- Respaldo de COPEC como accionista controlante
+- Líder en distribución de combustibles
+- Red de estaciones extensa
+- Infraestructura logística robusta
+- Marca reconocida
 
 ## Debilidades
 
-- Alta dependencia del consumo de combustibles
-- Sensibilidad a precios internacionales
+- Exposición a precios del petróleo
 - Márgenes operativos ajustados
-- Exposición a regulación de precios
+- Alta competencia en el sector
+- Regulación intensiva
 
 ## Catalizadores Futuros
 
-- Recuperación en movilidad y transporte
 - Expansión en energías alternativas
-- Crecimiento en tiendas de conveniencia
-- Potencial mejora regulatoria en 2026
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 11,200 COP
-- Resistencia: 11,500 COP
-- Media móvil relevante: 11,350 COP
+- Crecimiento en lubricantes
+- Optimización de red
+- Recuperación de movilidad
 
 ## Precio Actual
 
-- Precio de cierre: 11,360 COP
-- Tendencia lateral con sesgo alcista
-- Volumen de negociación bajo
+Cierre: 11360 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 11000 COP
+Resistencia: 11500 COP
+Tendencia: Alcista de corto plazo
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Recuperación en consumo de combustibles
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Posición dominante en distribución
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 11,200 COP
-3. Stop loss sugerido en 11,000 COP
-4. Objetivo de precio inicial: 12,000 COP
-5. Mantener posición core por liderazgo sectorial
+1. Acumulación en niveles actuales
+2. Aumentar posiciones en soportes
+3. Mantener exposición de largo plazo

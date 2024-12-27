@@ -1,56 +1,44 @@
-# Análisis Grupo Nutresa
+# Análisis NUTRESA
 
 ## Fortalezas
 
-- Líder en alimentos procesados en Colombia
-- Diversificación geográfica y de productos
-- Marcas reconocidas y bien posicionadas
-- Sólida estructura financiera
+- Líder en alimentos procesados
+- Diversificación geográfica
+- Marcas reconocidas
+- Sólida red de distribución
 
 ## Debilidades
 
+- Presión en márgenes por costos
 - Alta competencia en el sector
-- Presión en márgenes por costos de insumos
-- Exposición a riesgo cambiario
-- Baja liquidez de la acción
+- Exposición a precios de commodities
+- Baja liquidez en el mercado
 
 ## Catalizadores Futuros
 
-- Expansión en mercados internacionales
-- Innovación en productos saludables
-- Potencial recuperación de márgenes
-- Sinergias operativas con Grupo Gilinski
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 77,000 COP
-- Resistencia: 80,000 COP
-- Media móvil relevante: 78,500 COP
+- Expansión internacional
+- Innovación en productos
+- Optimización operativa
+- Recuperación de márgenes
 
 ## Precio Actual
 
-- Precio de cierre: 79,000 COP
-- Tendencia alcista de corto plazo
-- Volumen de negociación bajo
+Cierre: 79000 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 78000 COP
+Resistencia: 80000 COP
+Tendencia: Lateral
 
-NEUTRAL - Valoración ajustada a niveles actuales
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Beneficios de estrategia de expansión
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Posición dominante en mercado de alimentos
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en correcciones
-2. Aumentar posición por debajo de 77,000 COP
-3. Stop loss sugerido en 75,000 COP
-4. Objetivo de precio inicial: 85,000 COP
-5. Mantener posición core por calidad del negocio
+1. Acumulación selectiva en soportes
+2. Exposición gradual al sector
+3. Mantener posiciones de largo plazo

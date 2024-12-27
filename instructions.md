@@ -12,7 +12,7 @@ PROMPT: Modificar el archivo input/news/economia.md o input/news/politica.md par
 
 CONTEXTO: /input/
 
-PROMPT: Actualizar para cada acción el archivo ./output/analysis/$TICKER.md con las siguientes secciones: fortalezas, debilidades, catalizadores futuros, precio de compra/venta actual, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada. Nota: no incluir dividendos.
+PROMPT: Actualizar para cada acción el archivo ./output/analysis/$TICKER.md con las siguientes secciones: fortalezas, debilidades, catalizadores futuros, precio de compra/venta, recomendacion de inversion (0-6 meses, 6-18 meses y 18+ meses), niveles tecnicos relevantes, estrategia recomendada. Nota: no incluir dividendos.
 
 ## Prompt portafolio de inversión
 

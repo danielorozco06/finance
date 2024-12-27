@@ -2,55 +2,43 @@
 
 ## Fortalezas
 
-- Líder en transmisión de energía en Latinoamérica
-- Diversificación geográfica en múltiples países
-- Flujos de caja predecibles y estables
-- Respaldo de Ecopetrol como accionista controlante
+- Líder en transmisión eléctrica regional
+- Ingresos regulados y estables
+- Diversificación geográfica
+- Infraestructura estratégica
 
 ## Debilidades
 
-- Exposición a riesgo regulatorio en varios países
-- Alta necesidad de inversión de capital
-- Sensibilidad a tasas de interés
-- Dependencia de decisiones gubernamentales
+- Alta regulación sectorial
+- Necesidades importantes de CAPEX
+- Exposición a riesgo político
+- Dependencia de decisiones regulatorias
 
 ## Catalizadores Futuros
 
-- Plan de expansión regional
-- Inversiones en energías renovables
+- Expansión en Brasil y Perú
+- Inversiones en digitalización
+- Nuevos proyectos de transmisión
 - Sinergias con Ecopetrol
-- Potencial mejora en condiciones regulatorias
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 16,000 COP
-- Resistencia: 17,000 COP
-- Media móvil relevante: 16,500 COP
 
 ## Precio Actual
 
-- Precio de cierre: 16,440 COP
-- Tendencia lateral con sesgo bajista
-- Volumen de negociación moderado
+Cierre: 16700 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 16200 COP
+Resistencia: 17000 COP
+Tendencia: Lateral con sesgo alcista
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Beneficios de plan de expansión regional
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Posición estratégica en infraestructura energética
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 16,000 COP
-3. Stop loss sugerido en 15,500 COP
-4. Objetivo de precio inicial: 18,000 COP
-5. Mantener posición core por perfil defensivo
+1. Acumulación en soportes
+2. Exposición gradual al sector
+3. Mantener posiciones de largo plazo

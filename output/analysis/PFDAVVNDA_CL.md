@@ -1,56 +1,44 @@
-# Análisis Preferencial Davivienda
+# Análisis PFDAVVNDA
 
 ## Fortalezas
 
-- Tercer banco más grande de Colombia
-- Liderazgo en crédito hipotecario
-- Fuerte presencia en Centroamérica
-- Innovación en banca digital (Daviplata)
+- Banco líder en innovación digital
+- Alta eficiencia operativa
+- Fuerte posición en banca personal
+- Plataforma tecnológica robusta
 
 ## Debilidades
 
-- Alta exposición al mercado hipotecario
-- Sensibilidad a tasas de interés
-- Competencia creciente en banca digital
-- Presión en márgenes por costos de fondeo
+- Mayor exposición a crédito de consumo
+- Costos de fondeo superiores al promedio
+- Dependencia del mercado colombiano
+- Presión en márgenes por competencia
 
 ## Catalizadores Futuros
 
-- Potencial reducción de tasas en 2024
-- Crecimiento en banca digital
-- Recuperación del sector inmobiliario
-- Posible mejora en condiciones crediticias
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 17,800 COP
-- Resistencia: 18,200 COP
-- Media móvil relevante: 18,000 COP
+- Expansión en banca digital
+- Reducción de tasas de interés
+- Mejora en eficiencia operativa
+- Recuperación económica
 
 ## Precio Actual
 
-- Precio de cierre: 17,840 COP
-- Tendencia lateral con sesgo alcista
-- Volumen de negociación moderado
+Cierre: 17840 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 17500 COP
+Resistencia: 18500 COP
+Tendencia: Lateral con sesgo bajista
 
-NEUTRAL - Consolidación en rango actual
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Beneficios de ciclo de tasas favorable
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Valoración atractiva y posición competitiva
+- 0-6 meses: MANTENER
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR
 
 ## Estrategia Recomendada
 
-1. Acumulación gradual en niveles actuales
-2. Aumentar posición en correcciones hacia 17,800 COP
-3. Stop loss sugerido en 17,500 COP
-4. Objetivo de precio inicial: 19,500 COP
-5. Mantener posición core por fundamentales sólidos
+1. Acumulación gradual en soportes
+2. Exposición selectiva al sector financiero
+3. Mantener posiciones de largo plazo

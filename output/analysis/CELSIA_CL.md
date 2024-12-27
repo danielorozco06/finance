@@ -1,56 +1,44 @@
-# Análisis Celsia
+# Análisis CELSIA
 
 ## Fortalezas
 
-- Posición dominante en el sector energético colombiano
-- Negocio estable con ingresos recurrentes
-- Beneficiario de la transición energética
-- Alta inversión en energías renovables
+- Líder en energías renovables
+- Flujos de caja predecibles
+- Diversificación geográfica
+- Respaldo del Grupo Argos
 
 ## Debilidades
 
-- Alta sensibilidad a regulaciones del sector energético
-- Exposición a riesgos climáticos
-- Necesidad constante de inversiones de capital
-- Dependencia de condiciones hidrológicas
+- Alta exposición a riesgo climático
+- Necesidades importantes de CAPEX
+- Dependencia regulatoria
+- Competencia creciente en renovables
 
 ## Catalizadores Futuros
 
-- Creciente demanda de energía en Colombia
-- Expansión en proyectos de energía renovable
-- Posible mejora regulatoria con cambio de gobierno en 2026
-- Potencial consolidación del sector energético
-
-## Niveles Técnicos Relevantes
-
-- Soporte: 3,500 COP
-- Resistencia: 3,700 COP
-- Media móvil relevante: 3,600 COP
+- Expansión en energías renovables
+- Crecimiento en demanda energética
+- Inversiones en transmisión
+- Potencial consolidación del sector
 
 ## Precio Actual
 
-- Precio de cierre: 3,630 COP
-- Tendencia alcista de corto plazo
-- Volumen de negociación moderado
+Cierre: 3685 COP
 
-## Recomendación de Inversión
+## Niveles Técnicos
 
-### Corto Plazo (0-6 meses)
+Soporte: 3500 COP
+Resistencia: 3700 COP
+Tendencia: Alcista de corto plazo
 
-COMPRA - Momentum técnico positivo y estabilidad en el sector
+## Recomendación por Plazo
 
-### Mediano Plazo (6-18 meses)
-
-COMPRA - Beneficios esperados de inversiones en curso
-
-### Largo Plazo (18+ meses)
-
-COMPRA FUERTE - Posicionamiento estratégico en transición energética
+- 0-6 meses: COMPRAR
+- 6-18 meses: COMPRAR
+- 18+ meses: COMPRAR FUERTE
 
 ## Estrategia Recomendada
 
-1. Entrada en niveles actuales con posición inicial moderada
-2. Aumentar exposición en correcciones hacia 3,500 COP
-3. Stop loss sugerido en 3,400 COP
-4. Objetivo de precio inicial: 4,000 COP
-5. Mantener exposición core para beneficiarse del crecimiento sectorial
+1. Acumulación en niveles actuales
+2. Aumentar posiciones en correcciones
+3. Mantener exposición de largo plazo
