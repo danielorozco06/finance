@@ -1,148 +1,149 @@
-# Portafolio de Inversión - COP 12,000,000
+# Portafolio de Inversión - COP 12,000,000 (Marzo 2024)
 
 ## 1. Composición y Justificación
 
-### CELSIA (25%) - COP 3,000,000
+### PFCORFICOL (25%) - COP 3,000,000
+
+- Sector: Financiero
+- Recomendación: COMPRA a 6 meses
+- Justificación: Tendencia alcista de corto plazo, sólidos fundamentales
+- Riesgo/Retorno: +8.5% potencial alcista / -4.0% riesgo bajista
+
+### CELSIA (20%) - COP 2,400,000
 
 - Sector: Energía/Utilities
 - Recomendación: COMPRA a 6 meses
-- Justificación: Momentum técnico positivo, sector estable, beneficios esperados de inversiones en curso
-- Riesgo/Retorno: +10.2% potencial alcista / -6.3% riesgo bajista
+- Justificación: Tendencia alcista de corto plazo, expansión en renovables
+- Riesgo/Retorno: +7.5% potencial alcista / -5.0% riesgo bajista
 
-### CONCONCRET (20%) - COP 2,400,000
+### TERPEL (20%) - COP 2,400,000
 
-- Sector: Construcción
+- Sector: Energía
 - Recomendación: COMPRA a 6 meses
-- Justificación: Momentum positivo (+40% en diciembre), ruptura técnica alcista
-- Riesgo/Retorno: +16.5% potencial alcista / -11.4% riesgo bajista
+- Justificación: Tendencia alcista de corto plazo, recuperación de movilidad
+- Riesgo/Retorno: +6.5% potencial alcista / -3.2% riesgo bajista
 
 ### MINEROS (20%) - COP 2,400,000
 
 - Sector: Minería
 - Recomendación: COMPRA a 6 meses
-- Justificación: Momentum positivo en oro, gestión activa por volatilidad del sector
-- Riesgo/Retorno: +10.5% potencial alcista / -8% riesgo bajista
+- Justificación: Exposición al oro, tendencia alcista
+- Riesgo/Retorno: +7.0% potencial alcista / -4.5% riesgo bajista
 
-### PFGRUPSURA (20%) - COP 2,400,000
+### CONCONCRET (15%) - COP 1,800,000
 
-- Sector: Financiero
+- Sector: Construcción
 - Recomendación: COMPRA a 6 meses
-- Justificación: Potencial recuperación sector financiero, catalizador de escisión
-- Riesgo/Retorno: +7.5% potencial alcista / -4% riesgo bajista
-
-### ISA (15%) - COP 1,800,000
-
-- Sector: Energía/Utilities
-- Recomendación: COMPRA a 6 meses
-- Justificación: Beneficios de plan de expansión regional, flujos estables
-- Riesgo/Retorno: +9.5% potencial alcista / -5.7% riesgo bajista
+- Justificación: Recuperación sector construcción, momentum positivo
+- Riesgo/Retorno: +8.0% potencial alcista / -5.5% riesgo bajista
 
 ### Distribución Sectorial
 
-- Energía/Utilities: 40%
-- Construcción: 20%
+- Financiero: 25%
+- Energía: 40%
 - Minería: 20%
-- Financiero: 20%
+- Construcción: 15%
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-#### CELSIA (COP 3,000,000)
+#### PFCORFICOL (COP 3,000,000)
 
-- Orden 1: Límite a 3,630 COP (COP 1,800,000)
-- Orden 2: Límite a 3,500 COP (COP 1,200,000)
+- Orden 1: Límite a 13,800 COP (COP 1,800,000)
+- Orden 2: Límite a 13,400 COP (COP 1,200,000)
 - Timing: 60% inmediato, 40% en pullback
 
-#### CONCONCRET (COP 2,400,000)
+#### CELSIA (COP 2,400,000)
 
-- Orden 1: Límite a 429 COP (COP 1,680,000)
-- Orden 2: Límite a 400 COP (COP 720,000)
-- Timing: 70% inmediato, 30% en pullback
+- Orden 1: Límite a 3,685 COP (COP 1,440,000)
+- Orden 2: Límite a 3,500 COP (COP 960,000)
+- Timing: 60% inmediato, 40% en pullback
+
+#### TERPEL (COP 2,400,000)
+
+- Orden 1: Límite a 11,360 COP (COP 1,440,000)
+- Orden 2: Límite a 11,000 COP (COP 960,000)
+- Timing: 60% inmediato, 40% en pullback
 
 #### MINEROS (COP 2,400,000)
 
-- Orden única: Límite a 4,345 COP (COP 2,400,000)
-- Timing: 100% inmediato
-
-#### PFGRUPSURA (COP 2,400,000)
-
-- Orden 1: Límite a 26,040 COP (COP 1,440,000)
-- Orden 2: Límite a 25,500 COP (COP 960,000)
+- Orden 1: Límite a 4,255 COP (COP 1,440,000)
+- Orden 2: Límite a 4,200 COP (COP 960,000)
 - Timing: 60% inmediato, 40% en pullback
 
-#### ISA (COP 1,800,000)
+#### CONCONCRET (COP 1,800,000)
 
-- Orden 1: Límite a 16,440 COP (COP 900,000)
-- Orden 2: Límite a 16,000 COP (COP 900,000)
-- Timing: 50% inmediato, 50% en pullback
+- Orden 1: Límite a 460 COP (COP 1,080,000)
+- Orden 2: Límite a 420 COP (COP 720,000)
+- Timing: 60% inmediato, 40% en pullback
 
 ### 2.2 Órdenes de Protección
 
-#### CELSIA
+#### PFCORFICOL
 
-- Stop Loss: 3,400 COP (-6.3%)
-- Valor en Riesgo: COP 189,000
+- Stop Loss: 13,400 COP (-4.0%)
+- Valor en Riesgo: COP 120,000
 - Activación: Después de llenar órdenes de entrada
 
-#### CONCONCRET
+#### CELSIA
 
-- Stop Loss: 380 COP (-11.4%)
-- Valor en Riesgo: COP 273,600
+- Stop Loss: 3,500 COP (-5.0%)
+- Valor en Riesgo: COP 120,000
 - Activación: Inmediata después de cada compra
+
+#### TERPEL
+
+- Stop Loss: 11,000 COP (-3.2%)
+- Valor en Riesgo: COP 76,800
+- Activación: Después de posición completa
 
 #### MINEROS
 
-- Stop Loss: 4,000 COP (-8.0%)
-- Valor en Riesgo: COP 192,000
-- Activación: Después de posición completa
-
-#### PFGRUPSURA
-
-- Stop Loss: 25,000 COP (-4.0%)
-- Valor en Riesgo: COP 96,000
+- Stop Loss: 4,200 COP (-4.5%)
+- Valor en Riesgo: COP 108,000
 - Activación: Después de cada orden de entrada
 
-#### ISA
+#### CONCONCRET
 
-- Stop Loss: 15,500 COP (-5.7%)
-- Valor en Riesgo: COP 102,600
+- Stop Loss: 420 COP (-5.5%)
+- Valor en Riesgo: COP 99,000
 - Activación: Después de cada orden de entrada
 
 ### 2.3 Órdenes de Salida
 
+#### PFCORFICOL
+
+- TP1: 14,500 COP (+5.1%) - 60% posición
+- TP2: 15,000 COP (+8.5%) - 40% posición
+
 #### CELSIA
 
-- TP1: 3,800 COP (+4.7%) - 60% posición
-- TP2: 4,000 COP (+10.2%) - 40% posición
+- TP1: 3,800 COP (+3.1%) - 60% posición
+- TP2: 3,960 COP (+7.5%) - 40% posición
 
-#### CONCONCRET
+#### TERPEL
 
-- TP1: 450 COP (+4.9%) - 60% posición
-- TP2: 500 COP (+16.5%) - 40% posición
+- TP1: 11,600 COP (+2.1%) - 60% posición
+- TP2: 12,100 COP (+6.5%) - 40% posición
 
 #### MINEROS
 
-- TP1: 4,500 COP (+3.6%) - 60% posición
-- TP2: 4,800 COP (+10.5%) - 40% posición
+- TP1: 4,400 COP (+3.4%) - 60% posición
+- TP2: 4,550 COP (+7.0%) - 40% posición
 
-#### PFGRUPSURA
+#### CONCONCRET
 
-- TP1: 27,000 COP (+3.7%) - 60% posición
-- TP2: 28,000 COP (+7.5%) - 40% posición
-
-#### ISA
-
-- TP1: 17,000 COP (+3.4%) - 60% posición
-- TP2: 18,000 COP (+9.5%) - 40% posición
+- TP1: 480 COP (+4.3%) - 60% posición
+- TP2: 497 COP (+8.0%) - 40% posición
 
 ## 3. Gestión del Portafolio
 
 ### 3.1 Gestión de Riesgo
 
 - Stop loss global del portafolio: -8% (COP 960,000)
-- Valor en Riesgo máximo por posición: COP 273,600 (CONCONCRET)
-- Valor en Riesgo total del portafolio: COP 853,200 (7.11%)
+- Valor en Riesgo máximo por posición: COP 120,000 (PFCORFICOL/CELSIA)
+- Valor en Riesgo total del portafolio: COP 523,800 (4.37%)
 - Ajuste de stops: Semanal según evolución de precios
 - No ampliar stops más allá del riesgo inicial planificado
 
@@ -160,9 +161,11 @@
 - Monitoreo diario de niveles técnicos relevantes
 - Evaluación quincenal de niveles de entrada pendientes
 - Seguimiento especial a catalizadores específicos:
-  - PFGRUPSURA: Proceso de escisión
-  - CELSIA: Inversiones en curso
+  - PFCORFICOL: Recuperación actividad empresarial
+  - CELSIA: Inversiones en renovables
   - MINEROS: Precio del oro
+  - TERPEL: Recuperación de movilidad
+  - CONCONCRET: Recuperación sector construcción
 
 ## 4. Resumen y Notas
 
@@ -171,5 +174,5 @@
 - Exposición controlada a riesgo por posición
 - Prioridad a acciones con catalizadores específicos
 - Balance entre sectores cíclicos y defensivos
-- Potencial de retorno promedio: +10.8%
-- Riesgo promedio por posición: -7.1%
+- Potencial de retorno promedio: +7.5%
+- Riesgo promedio por posición: -4.44%
