@@ -1,4 +1,4 @@
-# Portafolio de Inversión - COP 12,000,000 (Marzo 2024)
+# Portafolio de Inversión - COP 12,000,000
 
 ## 1. Composición y Justificación
 
