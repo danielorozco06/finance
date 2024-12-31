@@ -1,97 +1,113 @@
-# Portafolio de Inversión - COP 6,000,000
+# Portafolio de Inversión a 6 Meses
 
 ## 1. Composición y Justificación
 
 ### PFGRUPSURA (25%) - COP 1,500,000
 
-- Sector: Financiero/Holding
-- Recomendación: COMPRA a 6 meses
-- Justificación: Escisión con Grupo Argos que liberará valor, catalizador importante a corto plazo
-- Riesgo/Retorno: +7.6% potencial alcista / -2.0% riesgo bajista
+- Precio entrada sugerido: 26,020
+- Justificación: Proceso de escisión con Grupo Argos durante 2025
+- Recomendación: COMPRA FUERTE con objetivo 29,000
+- Catalizador: Liberación de valor por simplificación societaria
+- Alta liquidez y potencial de valorización
 
-### CELSIA (25%) - COP 1,500,000
+### PFGRUPOARG (20%) - COP 1,200,000
 
-- Sector: Energía/Utilities
-- Recomendación: COMPRA a 6 meses
-- Justificación: Beneficios por altos precios de energía debido a El Niño, inversiones en renovables
-- Riesgo/Retorno: +8.7% potencial alcista / -4.9% riesgo bajista
+- Precio entrada sugerido: 15,440
+- Justificación: Beneficiario directo de escisión con Grupo Sura
+- Recomendación: COMPRA FUERTE con objetivo 17,500
+- Catalizador: Mismo proceso de escisión durante 2025
+- Potencial de revalorización post-escisión
 
-### GEB (20%) - COP 1,200,000
+### ECOPETROL (20%) - COP 1,200,000
 
-- Sector: Energía/Gas
-- Recomendación: COMPRA a 6 meses
-- Justificación: Beneficiario de crisis energética, expansión en transmisión
-- Riesgo/Retorno: +10.7% potencial alcista / -1.6% riesgo bajista
+- Precio entrada sugerido: 1,675
+- Justificación: Potencial cambio de gobierno en 2026 favorable al sector
+- Recomendación: COMPRA con objetivo 2,000
+- Catalizador: Expectativa de políticas más favorables al sector
+- Alta liquidez y dividendos atractivos
 
-### ISA (15%) - COP 900,000
+### CELSIA (20%) - COP 1,200,000
 
-- Sector: Energía/Utilities
-- Recomendación: COMPRA a 6 meses
-- Justificación: Negocio defensivo, expansión regional, sinergias con Ecopetrol
-- Riesgo/Retorno: +4.8% potencial alcista / -3.0% riesgo bajista
+- Precio entrada sugerido: 3,680
+- Justificación: Líder en energías renovables y crisis energética
+- Recomendación: COMPRA FUERTE con objetivo 4,200
+- Catalizador: Déficit energético estructural
+- Excelente posicionamiento en el sector
 
-### MINEROS (15%) - COP 900,000
+### CNEC (15%) - COP 900,000
 
-- Sector: Minería/Materiales
-- Recomendación: COMPRA a 6 meses
-- Justificación: Alza en precios del oro, expansión internacional
-- Riesgo/Retorno: +10.5% potencial alcista / -6.0% riesgo bajista
-
-### Distribución Sectorial
-
-- Energía/Utilities: 60%
-- Financiero/Holding: 25%
-- Minería/Materiales: 15%
+- Precio entrada sugerido: 11,100
+- Justificación: Beneficiario de crisis de gas natural
+- Recomendación: COMPRA con objetivo 12,500
+- Catalizador: Pérdida de autosuficiencia energética
+- Exposición al sector gas natural
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-Para cada posición:
-
-- 60% entrada inmediata a precios de mercado
-- 40% en pullbacks a soportes técnicos
+- Entrada escalonada en 2 meses:
+  - 40% primera semana
+  - 30% primer mes
+  - 30% segundo mes
 
 ### 2.2 Órdenes de Protección
 
-Stop loss por posición:
-
-- PFGRUPSURA: -2.0%
-- CELSIA: -4.9%
-- GEB: -1.6%
-- ISA: -3.0%
+- PFGRUPSURA: Stop loss en 24,000 (-7.8%)
+- PFGRUPOARG: Stop loss en 14,500 (-6.1%)
+- ECOPETROL: Stop loss en 1,550 (-7.5%)
+- CELSIA: Stop loss en 3,400 (-7.6%)
+- CNEC: Stop loss en 10,500 (-5.4%)
 
 ### 2.3 Órdenes de Salida
 
-Para cada posición:
+- Take Profit 1 (50%): +15%
+- Take Profit 2 (50%): Objetivos individuales
 
-- Take Profit 1: +5% (60% de la posición)
-- Take Profit 2: Según objetivo individual (40% restante)
+## 3. Gestión del Portafolio
 
-## 3. Justificación de la Estrategia
+### 3.1 Gestión de Riesgo
 
-1. Enfoque en sector energético (75%) debido a:
+- Stop loss global del portafolio: -8%
+- Máxima pérdida permitida por posición: -10%
+- Diversificación entre sectores regulados y no regulados
+- Correlación controlada entre activos
 
-   - Crisis energética por El Niño
-   - Pérdida de autosuficiencia en gas natural
-   - Potencial cambio de gobierno en 2026
+### 3.2 Consideraciones de Ejecución
 
-2. Exposición a PFGRUPSURA (25%) por:
+- Entradas graduales en 2 meses
+- Aprovechar correcciones para completar posiciones
+- Monitoreo de volumen y liquidez
+- Atención a fechas de resultados trimestrales
 
-   - Catalizador inmediato de escisión con Grupo Argos
-   - Potencial de liberación de valor
-   - Perfil defensivo del holding
+### 3.3 Seguimiento y Rebalanceo
 
-3. Gestión de Riesgos:
-   - Diversificación entre utilities y gas natural
-   - Stops ajustados por volatilidad individual
-   - Exposición limitada a sectores más volátiles
+- Revisión mensual de posiciones
+- Rebalanceo trimestral si necesario
+- Seguimiento a cambios regulatorios
+- Monitoreo de ambiente político
 
-## 4. Seguimiento y Rebalanceo
+## 4. Resumen y Notas
 
-- Revisión semanal de posiciones
-- Ajuste de stops según evolución de precios
+### Distribución Sectorial
+
+- Holdings: 45%
+- Energía/Hidrocarburos: 35%
+- Utilities: 20%
+
+### Justificación de la Estrategia
+
+1. Exposición a catalizador corporativo GRUPSURA-GRUPOARG
+2. Posicionamiento ante cambio político 2026
+3. Beneficio de crisis energética estructural
+4. Balance entre sectores regulados y cíclicos
+
+### Consideraciones Importantes
+
+- Portafolio estratégico a 6 meses
+- Stops más amplios por horizonte temporal
 - Monitoreo especial de:
-  - Proceso de escisión GRUPSURA
-  - Situación energética nacional
-  - Indicadores macroeconómicos relevantes
+  - Proceso de escisión GRUPSURA-GRUPOARG
+  - Ambiente político pre-electoral
+  - Crisis energética y de gas natural
+  - Resultados trimestrales corporativos
