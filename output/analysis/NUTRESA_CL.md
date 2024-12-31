@@ -1,25 +1,27 @@
 # Grupo Nutresa
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Expansión internacional en mercados clave
-- Innovación en productos saludables
-- Mejora en márgenes por estabilización de costos de materias primas
+- Expansión internacional
+- Innovación en productos
+- Eficiencias operativas y control de costos
 
-## Niveles Técnicos
-
-- Soporte: 78,000
-- Resistencia: 80,000
-- Media móvil 30 días: 79,000
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 79,000
-- Máximo 52 semanas: 79,500
-- Mínimo 52 semanas: 71,600
+- Máximo 30 días: 79,000
+- Mínimo 30 días: 71,600
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: MANTENER - Rango esperado 78,000-81,000
-- 6-12 meses: MANTENER - Objetivo 82,000
-- 12-18 meses: MANTENER - Objetivo 84,000
+- Soporte fuerte: 78,000
+- Resistencia fuerte: 79,500
+- Media móvil 30 días: 78,500
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Neutral
+- 0-6 meses: Compra
+- 6-12 meses: Compra
+- 12-18 meses: Compra

@@ -1,25 +1,27 @@
 # Preferencial Grupo Sura
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Escisión con Grupo Argos que liberará valor
-- Mejora en resultados de filiales
-- Potencial venta de activos no estratégicos
+- Proceso de escisión con Grupo Argos en 2025
+- Expectativa de crecimiento económico moderado
+- Potencial liberación de valor por simplificación societaria
 
-## Niveles Técnicos
-
-- Soporte: 25,500
-- Resistencia: 26,500
-- Media móvil 30 días: 26,000
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 26,020
-- Máximo 52 semanas: 26,340
-- Mínimo 52 semanas: 22,000
+- Máximo 30 días: 26,340
+- Mínimo 30 días: 23,005
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: COMPRAR - Rango esperado 26,000-28,000
-- 6-12 meses: COMPRAR - Objetivo 29,000
-- 12-18 meses: COMPRAR - Objetivo 31,000
+- Soporte fuerte: 23,000
+- Resistencia fuerte: 26,500
+- Media móvil 30 días: 24,750
+
+## Recomendación de Inversión
+
+- 0-1 semana: Compra
+- 0-1 mes: Compra
+- 0-6 meses: Compra fuerte
+- 6-12 meses: Compra fuerte
+- 12-18 meses: Compra fuerte

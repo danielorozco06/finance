@@ -1,25 +1,27 @@
 # Mineros
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Potencial alza en precios del oro por incertidumbre global
-- Expansión de operaciones en Nicaragua y Argentina
-- Mejora en eficiencia operacional
+- Volatilidad en precios de materias primas
+- Expectativa de mejora en precios del oro
+- Potenciales nuevos proyectos mineros
 
-## Niveles Técnicos
-
-- Soporte: 4,000
-- Resistencia: 4,500
-- Media móvil 30 días: 4,300
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 4,255
-- Máximo 52 semanas: 4,520
-- Mínimo 52 semanas: 3,500
+- Máximo 30 días: 4,520
+- Mínimo 30 días: 4,225
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: COMPRAR - Rango esperado 4,200-4,700
-- 6-12 meses: COMPRAR - Objetivo 5,000
-- 12-18 meses: COMPRAR - Objetivo 5,500
+- Soporte fuerte: 4,200
+- Resistencia fuerte: 4,500
+- Media móvil 30 días: 4,350
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Neutral
+- 0-6 meses: Compra
+- 6-12 meses: Compra
+- 12-18 meses: Compra fuerte

@@ -1,25 +1,27 @@
 # Celsia
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Inversiones en energías renovables y expansión de capacidad instalada
-- Beneficios por altos precios de energía debido a El Niño
-- Crecimiento en negocios de transmisión y distribución
+- Expansión en energías renovables
+- Inversiones en infraestructura eléctrica
+- Beneficios por transición energética en Colombia
 
-## Niveles Técnicos
-
-- Soporte: 3,500
-- Resistencia: 3,800
-- Media móvil 30 días: 3,620
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 3,680
-- Máximo 52 semanas: 3,720
-- Mínimo 52 semanas: 3,400
+- Máximo 30 días: 3,685
+- Mínimo 30 días: 3,500
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: COMPRAR - Rango esperado 3,700-4,000
-- 6-12 meses: COMPRAR - Objetivo 4,400
-- 12-18 meses: COMPRAR - Objetivo 4,800
+- Soporte fuerte: 3,475
+- Resistencia fuerte: 3,700
+- Media móvil 30 días: 3,550
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Compra
+- 0-6 meses: Compra fuerte
+- 6-12 meses: Compra fuerte
+- 12-18 meses: Compra fuerte

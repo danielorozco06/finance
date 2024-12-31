@@ -1,25 +1,27 @@
 # Canacol Energy
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Cambio de gobierno en 2026 que favorecería sector de hidrocarburos
-- Déficit de gas natural en Colombia que aumenta demanda
-- Potencial expansión de infraestructura de transporte de gas
+- Cambio de gobierno en 2026 con políticas más favorables al sector
+- Suspensión del proyecto Komodo afecta negativamente
+- Pérdida de autosuficiencia energética en Colombia puede beneficiar
 
-## Niveles Técnicos
-
-- Soporte: 10,900
-- Resistencia: 11,500
-- Media móvil 30 días: 11,200
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 11,100
-- Máximo 52 semanas: 12,600
-- Mínimo 52 semanas: 10,500
+- Máximo 30 días: 11,500
+- Mínimo 30 días: 10,900
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: MANTENER - Rango esperado 10,800-11,800
-- 6-12 meses: COMPRAR - Objetivo 12,500
-- 12-18 meses: COMPRAR FUERTE - Objetivo 14,000
+- Soporte fuerte: 10,900
+- Resistencia fuerte: 11,500
+- Media móvil 30 días: 11,200
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Compra
+- 0-6 meses: Compra
+- 6-12 meses: Compra fuerte
+- 12-18 meses: Compra fuerte

@@ -1,25 +1,27 @@
 # ETB
 
-## Catalizadores
+## Catalizadores Futuros
 
 - Potencial privatización de la compañía
 - Inversiones en infraestructura de fibra óptica
-- Crecimiento en servicios corporativos
+- Competencia agresiva en el sector telecomunicaciones
 
-## Niveles Técnicos
-
-- Soporte: 70
-- Resistencia: 80
-- Media móvil 30 días: 74
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 74
-- Máximo 52 semanas: 108
-- Mínimo 52 semanas: 70
+- Máximo 30 días: 74
+- Mínimo 30 días: 74
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: MANTENER - Rango esperado 70-80
-- 6-12 meses: MANTENER - Objetivo 85
-- 12-18 meses: MANTENER - Objetivo 90
+- Soporte fuerte: 74
+- Resistencia fuerte: 75
+- Media móvil 30 días: 74
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Neutral
+- 0-6 meses: Neutral
+- 6-12 meses: Neutral
+- 12-18 meses: Neutral

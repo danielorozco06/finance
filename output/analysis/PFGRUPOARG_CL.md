@@ -1,25 +1,27 @@
 # Preferencial Grupo Argos
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Escisión con Grupo Sura que simplificará estructura corporativa
-- Recuperación del sector cemento y energía
-- Potencial venta de activos no estratégicos
+- Proceso de escisión con Grupo Sura en 2025
+- Expectativa de recuperación del sector construcción
+- Potencial liberación de valor por simplificación societaria
 
-## Niveles Técnicos
-
-- Soporte: 14,000
-- Resistencia: 15,500
-- Media móvil 30 días: 15,000
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 15,440
-- Máximo 52 semanas: 15,480
-- Mínimo 52 semanas: 13,800
+- Máximo 30 días: 15,480
+- Mínimo 30 días: 13,820
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: COMPRAR - Rango esperado 15,000-16,500
-- 6-12 meses: COMPRAR - Objetivo 17,500
-- 12-18 meses: COMPRAR - Objetivo 19,000
+- Soporte fuerte: 14,000
+- Resistencia fuerte: 15,500
+- Media móvil 30 días: 14,700
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Compra
+- 0-6 meses: Compra fuerte
+- 6-12 meses: Compra fuerte
+- 12-18 meses: Compra fuerte

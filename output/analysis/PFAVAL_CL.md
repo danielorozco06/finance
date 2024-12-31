@@ -1,25 +1,27 @@
 # Preferencial Grupo Aval
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Beneficio por reducción de tasas de interés
-- Mejora en calidad de cartera
-- Transformación digital del grupo
+- Posible mejora en márgenes por tasas de interés en 2024
+- Expectativa de crecimiento económico moderado
+- Potencial consolidación del sector financiero
 
-## Niveles Técnicos
-
-- Soporte: 440
-- Resistencia: 460
-- Media móvil 30 días: 450
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 446
-- Máximo 52 semanas: 500
-- Mínimo 52 semanas: 430
+- Máximo 30 días: 458
+- Mínimo 30 días: 431
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: MANTENER - Rango esperado 440-480
-- 6-12 meses: COMPRAR - Objetivo 500
-- 12-18 meses: COMPRAR - Objetivo 550
+- Soporte fuerte: 430
+- Resistencia fuerte: 460
+- Media móvil 30 días: 445
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Compra
+- 0-6 meses: Compra
+- 6-12 meses: Compra
+- 12-18 meses: Compra fuerte

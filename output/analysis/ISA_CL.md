@@ -1,25 +1,27 @@
 # ISA
 
-## Catalizadores
+## Catalizadores Futuros
 
-- Expansión en proyectos de transmisión en Latinoamérica
-- Sinergias con Ecopetrol como accionista controlante
-- Crecimiento en negocios de telecomunicaciones y vías
+- Expansión en transmisión de energía en la región
+- Inversiones en infraestructura eléctrica
+- Pérdida de autosuficiencia energética en Colombia puede beneficiar
 
-## Niveles Técnicos
-
-- Soporte: 16,200
-- Resistencia: 17,000
-- Media móvil 30 días: 16,500
-
-## Precios Relevantes
+## Precios Recientes
 
 - Último precio: 16,700
-- Máximo 52 semanas: 16,920
-- Mínimo 52 semanas: 16,200
+- Máximo 30 días: 16,920
+- Mínimo 30 días: 16,200
 
-## Recomendación
+## Niveles Técnicos Relevantes
 
-- 0-6 meses: COMPRAR - Rango esperado 16,500-17,500
-- 6-12 meses: COMPRAR - Objetivo 18,000
-- 12-18 meses: COMPRAR - Objetivo 19,000
+- Soporte fuerte: 16,200
+- Resistencia fuerte: 17,000
+- Media móvil 30 días: 16,600
+
+## Recomendación de Inversión
+
+- 0-1 semana: Neutral
+- 0-1 mes: Compra
+- 0-6 meses: Compra
+- 6-12 meses: Compra fuerte
+- 12-18 meses: Compra fuerte
