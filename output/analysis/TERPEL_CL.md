@@ -1,34 +1,25 @@
-# Análisis Terpel (TERPEL_CL)
+# Análisis Terpel
 
 ## Catalizadores Futuros
 
-- Positivo: Expectativa de menores precios del petróleo para 2025 (US$70.50/barril según Macquarie)
-- Positivo: Recuperación esperada del consumo con menores tasas de interés
-- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
-- Negativo: Presión en márgenes por alta competencia en el sector
+- Beneficiario de recuperación en movilidad y transporte
+- Potencial expansión en estaciones de carga eléctrica
+- Riesgo por políticas restrictivas al sector de hidrocarburos
 
 ## Precios Recientes
 
-- Último precio: $11,360
-- Máximo 52 semanas: ~$11,360
-- Mínimo 52 semanas: ~$6,862
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $11,000-$11,200
-- Resistencia: $11,400-$11,600
-- Tendencia: Alcista de largo plazo
+- Último precio: 11500.0
+- Mínimo 30 días: 10880.0
+- Máximo 30 días: 11500.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por políticas energéticas actuales
+- 6-12 meses: COMPRAR - Anticipando cambio en políticas sectoriales
+- 12-18 meses: COMPRAR FUERTE - Beneficiario de nuevo gobierno pro-hidrocarburos
 
-NEUTRAL - Precio en máximos históricos, podría experimentar toma de utilidades.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Beneficiario de menores precios del petróleo y recuperación del consumo.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Líder en distribución de combustibles con red estratégica y valoración atractiva.
+- Soporte principal: 10880.0
+- Resistencia inmediata: 11500.0
+- Resistencia clave: 12000.0

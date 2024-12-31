@@ -1,34 +1,25 @@
-# Análisis Preferencial Grupo Argos (PFGRUPOARG_CL)
+# Análisis Grupo Argos Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Proceso de escisión con Grupo Sura que simplificará estructura y liberará valor
-- Positivo: Expectativa de recuperación del sector construcción por menores tasas de interés
-- Negativo: Suspensión del programa Mi Casa Ya que afecta al negocio de cemento
-- Negativo: Alta exposición a ciclos económicos en sus diferentes negocios
+- Proceso de escisión con Grupo Sura que simplificará estructura societaria
+- Potencial liberación de valor por eliminación de participaciones cruzadas
+- Beneficiario de potencial reactivación de infraestructura y construcción
 
 ## Precios Recientes
 
-- Último precio: $15,300
-- Máximo 52 semanas: ~$15,400
-- Mínimo 52 semanas: ~$13,820
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $14,800-$15,000
-- Resistencia: $15,400-$15,600
-- Tendencia: Alcista de corto y mediano plazo
+- Último precio: 15440.0
+- Mínimo 30 días: 13820.0
+- Máximo 30 días: 15480.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: COMPRAR - Catalizador positivo por proceso de escisión
+- 6-12 meses: COMPRAR FUERTE - Beneficios de nueva estructura corporativa
+- 12-18 meses: COMPRAR FUERTE - Mayor visibilidad de valor fundamental
 
-COMPRA - Catalizador positivo por proceso de escisión con Grupo Sura.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA FUERTE - Beneficiario de recuperación económica y menores tasas de interés.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva post-escisión y expectativa de recuperación en sus sectores clave.
+- Soporte principal: 13820.0
+- Resistencia inmediata: 15480.0
+- Resistencia clave: 16000.0

@@ -1,34 +1,25 @@
-# Análisis Promigas (PROMIGAS_CL)
+# Análisis Promigas
 
 ## Catalizadores Futuros
 
-- Positivo: Colombia perdió autosuficiencia energética y comenzó a importar gas natural
-- Positivo: Infraestructura clave para la distribución de gas natural importado
-- Negativo: Mayores costos de financiamiento por altas tasas de interés
-- Negativo: Riesgo regulatorio en tarifas de distribución de gas
+- Beneficiario directo de la crisis de gas natural en Colombia
+- Potencial expansión de infraestructura de transporte de gas
+- Primera importación de GNL en Colombia prevista para 2024
 
 ## Precios Recientes
 
-- Último precio: $7,450
-- Máximo 52 semanas: ~$7,800
-- Mínimo 52 semanas: ~$7,398
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $7,300-$7,400
-- Resistencia: $7,800-$8,000
-- Tendencia: Lateral con sesgo bajista
+- Último precio: 7450.0
+- Mínimo 30 días: 7398.0
+- Máximo 30 días: 7800.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: COMPRAR - Crisis energética favorece negocio de gas
+- 6-12 meses: COMPRAR FUERTE - Posicionamiento estratégico en infraestructura
+- 12-18 meses: COMPRAR FUERTE - Beneficiario de nuevas políticas energéticas
 
-NEUTRAL - Precio consolidándose en rango lateral, esperando catalizadores.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Beneficiario directo de la crisis energética y necesidad de infraestructura de gas.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Modelo de negocio defensivo, dividend yield atractivo (~6%) y posición estratégica en el sector.
+- Soporte principal: 7398.0
+- Resistencia inmediata: 7800.0
+- Resistencia clave: 8000.0

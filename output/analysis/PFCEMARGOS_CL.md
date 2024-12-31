@@ -1,34 +1,25 @@
-# Análisis Preferencial Cementos Argos (PFCEMARGOS_CL)
+# Análisis Cementos Argos Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Expectativa de reducción de tasas de interés que podría reactivar el sector construcción
-- Positivo: Potencial reactivación de proyectos de infraestructura pública en 2025
-- Negativo: Suspensión de nuevas postulaciones al programa Mi Casa Ya que afecta la demanda
-- Negativo: Desaceleración del sector construcción por altas tasas de interés actuales
+- Impacto negativo por suspensión del programa Mi Casa Ya
+- Potencial recuperación por ciclo de reducción de tasas de interés
+- Beneficiario de posible reactivación de infraestructura en 2025
 
 ## Precios Recientes
 
-- Último precio: No disponible
-- Máximo 52 semanas: No disponible
-- Mínimo 52 semanas: No disponible
-
-## Niveles Técnicos Relevantes
-
-- Soporte: No disponible
-- Resistencia: No disponible
-- Tendencia: No disponible
+- Último precio: 3850.0
+- Mínimo 30 días: 3700.0
+- Máximo 30 días: 3900.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por desaceleración del sector construcción
+- 6-12 meses: COMPRAR - Anticipando recuperación del sector
+- 12-18 meses: COMPRAR FUERTE - Beneficiario de reactivación de infraestructura
 
-NEUTRAL - Sector construcción afectado por altas tasas de interés y suspensión de Mi Casa Ya.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - La expectativa de menores tasas de interés debería beneficiar al sector construcción.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Líder en el mercado de cemento con presencia regional y expectativa de recuperación del sector construcción.
+- Soporte principal: 3700.0
+- Resistencia inmediata: 3900.0
+- Resistencia clave: 4000.0

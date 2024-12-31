@@ -1,34 +1,25 @@
-# Análisis Mineros S.A. (MINEROS_CL)
+# Análisis Mineros
 
 ## Catalizadores Futuros
 
-- Positivo: Expectativa de precios del oro estables/al alza por incertidumbre económica global
-- Positivo: Probable cambio de gobierno en 2026 con políticas más favorables para el sector minero
-- Negativo: Restricciones actuales del gobierno para la minería
-- Negativo: Riesgo de mayores impuestos al sector minero
+- Beneficiario de precios estables del oro como activo refugio
+- Potencial expansión de operaciones en Nicaragua y Argentina
+- Riesgo por mayores costos operativos debido a inflación
 
 ## Precios Recientes
 
-- Último precio: $4,255
-- Máximo 52 semanas: ~$4,520
-- Mínimo 52 semanas: ~$4,085
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $4,200-$4,250
-- Resistencia: $4,500-$4,550
-- Tendencia: Lateral con sesgo bajista
+- Último precio: 4255.0
+- Mínimo 30 días: 4225.0
+- Máximo 30 días: 4520.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por altos costos operativos
+- 6-12 meses: COMPRAR - Expectativa de estabilidad en precios del oro
+- 12-18 meses: COMPRAR - Potencial mejora en eficiencia operativa
 
-NEUTRAL - Precio en rango lateral, afectado por incertidumbre regulatoria.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Potencial recuperación por mejores precios del oro y expectativa de cambio político.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva y expectativa de mejora en el entorno regulatorio post 2026.
+- Soporte principal: 4225.0
+- Resistencia inmediata: 4520.0
+- Resistencia clave: 4600.0

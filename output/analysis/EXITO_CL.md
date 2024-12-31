@@ -1,34 +1,25 @@
-# Análisis Almacenes Éxito (EXITO_CL)
+# Análisis Grupo Éxito
 
 ## Catalizadores Futuros
 
-- Positivo: Proceso de venta de la compañía al Grupo Casino podría generar valor para accionistas
-- Positivo: Liderazgo en retail con fuerte presencia en comercio electrónico
-- Negativo: Presión en márgenes por alta inflación y competencia
-- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
+- Salida de la Bolsa de Nueva York en enero 2025
+- Presión en márgenes por aumento del salario mínimo (9.54%)
+- Riesgo por desaceleración del consumo ante alta inflación
 
 ## Precios Recientes
 
-- Último precio: $2,095
-- Máximo 52 semanas: ~$2,190
-- Mínimo 52 semanas: ~$2,035
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $2,000-$2,050
-- Resistencia: $2,150-$2,200
-- Tendencia: Lateral con sesgo bajista
+- Último precio: 2095.0
+- Mínimo 30 días: 2035.0
+- Máximo 30 días: 2190.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Incertidumbre por salida de NYSE
+- 6-12 meses: MANTENER - Presión en márgenes operativos
+- 12-18 meses: COMPRAR - Potencial recuperación del consumo
 
-NEUTRAL - Precio sostenido por expectativa de venta pero con presión en fundamentales.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Potencial valor a realizar por venta de la compañía.
-
-### 12-18 meses (Largo Plazo)
-
-NEUTRAL - Incertidumbre sobre estructura accionaria futura y estrategia post-venta.
+- Soporte principal: 2035.0
+- Resistencia inmediata: 2190.0
+- Resistencia clave: 2200.0

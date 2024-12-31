@@ -1,34 +1,25 @@
-# Análisis Preferencial Davivienda (PFDAVVNDA_CL)
+# Análisis Davivienda Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
-- Positivo: Expectativa de recuperación económica que beneficiaría al sector bancario
-- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
-- Negativo: Suspensión del programa Mi Casa Ya que afecta al negocio hipotecario
+- Potencial beneficio del ciclo de reducción de tasas de interés
+- Riesgo por suspensión del programa Mi Casa Ya que afecta créditos hipotecarios
+- Expectativa de mejora en calidad de cartera con recuperación económica
 
 ## Precios Recientes
 
-- Último precio: $17,840
-- Máximo 52 semanas: ~$18,100
-- Mínimo 52 semanas: ~$17,580
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $17,500-$17,600
-- Resistencia: $18,000-$18,200
-- Tendencia: Lateral con sesgo bajista
+- Último precio: 17560.0
+- Mínimo 30 días: 17560.0
+- Máximo 30 días: 18520.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por desaceleración del sector construcción
+- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
+- 12-18 meses: COMPRAR FUERTE - Recuperación del sector hipotecario
 
-NEUTRAL - Precio consolidándose en rango lateral, esperando definición de tendencia.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector bancario.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva con P/E de 5.9x y dividend yield de 6.2%. Fuerte posición en banca digital.
+- Soporte principal: 17560.0
+- Resistencia inmediata: 18000.0
+- Resistencia clave: 18520.0

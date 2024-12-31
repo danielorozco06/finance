@@ -1,34 +1,25 @@
-# Análisis ISA (ISA_CL)
+# Análisis ISA
 
 ## Catalizadores Futuros
 
-- Positivo: Colombia perdió autosuficiencia energética, beneficiando a empresas de transmisión eléctrica
-- Positivo: Plan de expansión en transmisión eléctrica en Latinoamérica
-- Negativo: Mayores costos de financiamiento por altas tasas de interés
-- Negativo: Riesgo regulatorio en los diferentes países donde opera
+- Beneficiario directo de la crisis energética en Colombia
+- Potencial expansión en proyectos de transmisión eléctrica
+- Posición estratégica en interconexión regional
 
 ## Precios Recientes
 
-- Último precio: $16,520
-- Máximo 52 semanas: ~$16,920
-- Mínimo 52 semanas: ~$16,200
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $16,200-$16,300
-- Resistencia: $16,800-$17,000
-- Tendencia: Lateral con sesgo alcista
+- Último precio: 16700.0
+- Mínimo 30 días: 16200.0
+- Máximo 30 días: 16920.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: COMPRAR - Beneficiario de crisis energética
+- 6-12 meses: COMPRAR FUERTE - Posición estratégica en transmisión
+- 12-18 meses: COMPRAR FUERTE - Expansión de infraestructura energética
 
-NEUTRAL - Precio consolidándose en rango lateral, esperando definición de tendencia.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Beneficiario directo de la crisis energética y necesidades de inversión en transmisión.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Modelo de negocio defensivo, dividend yield atractivo (~6%) y sólida posición en el mercado regional.
+- Soporte principal: 16200.0
+- Resistencia inmediata: 16920.0
+- Resistencia clave: 17000.0

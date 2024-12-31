@@ -1,34 +1,25 @@
-# Análisis Preferencial Grupo Aval (PFAVAL_CL)
+# Análisis Grupo Aval Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
-- Positivo: Expectativa de recuperación económica que beneficiaría al sector financiero
-- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
-- Negativo: Competencia creciente en el sector financiero digital
+- Potencial beneficio del ciclo de reducción de tasas de interés iniciado por el Banco de la República
+- Expectativa de mejora en calidad de cartera con recuperación económica en 2025
+- Riesgo por exposición a sectores afectados por políticas actuales (energético, construcción)
 
 ## Precios Recientes
 
-- Último precio: $449
-- Máximo 52 semanas: ~$498
-- Mínimo 52 semanas: ~$431
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $440-$445
-- Resistencia: $460-$465
-- Tendencia: Lateral con sesgo bajista
+- Último precio: 446.0
+- Mínimo 30 días: 431.0
+- Máximo 30 días: 458.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por desaceleración económica y alta inflación
+- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
+- 12-18 meses: COMPRAR FUERTE - Valoración atractiva y expectativa de recuperación económica
 
-NEUTRAL - Precio consolidándose tras caída reciente, esperando confirmación de soporte.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector financiero.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva con P/E de 5.8x y dividend yield de 7.5%. Líder en el sector financiero.
+- Soporte principal: 431.0
+- Resistencia inmediata: 458.0
+- Resistencia clave: 470.0

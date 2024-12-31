@@ -1,34 +1,25 @@
-# Análisis Preferencial Grupo Sura (PFGRUPSURA_CL)
+# Análisis Grupo Sura Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Proceso de escisión con Grupo Argos que simplificará estructura y liberará valor
-- Positivo: Expectativa de recuperación económica que beneficiaría al sector financiero y asegurador
-- Negativo: Alta inflación y tasas de interés que pueden afectar resultados de inversiones
-- Negativo: Exposición a volatilidad de mercados financieros regionales
+- Proceso de escisión con Grupo Argos que simplificará estructura societaria
+- Potencial liberación de valor por eliminación de participaciones cruzadas
+- Expectativa de mayor liquidez en la acción post escisión
 
 ## Precios Recientes
 
-- Último precio: $26,360
-- Máximo 52 semanas: ~$26,360
-- Mínimo 52 semanas: ~$22,887
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $25,000-$25,500
-- Resistencia: $26,500-$27,000
-- Tendencia: Alcista de corto y mediano plazo
+- Último precio: 26020.0
+- Mínimo 30 días: 23000.0
+- Máximo 30 días: 26340.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: COMPRAR - Catalizador positivo por proceso de escisión
+- 6-12 meses: COMPRAR FUERTE - Beneficios de nueva estructura corporativa
+- 12-18 meses: COMPRAR FUERTE - Mayor visibilidad de valor fundamental
 
-COMPRA - Catalizador positivo por proceso de escisión con Grupo Argos.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA FUERTE - Beneficiario de recuperación económica y simplificación corporativa.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva post-escisión y sólido portafolio de inversiones en sectores clave.
+- Soporte principal: 23000.0
+- Resistencia inmediata: 26340.0
+- Resistencia clave: 27000.0

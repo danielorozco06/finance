@@ -1,34 +1,25 @@
-# Análisis Grupo Nutresa (NUTRESA_CL)
+# Análisis Grupo Nutresa
 
 ## Catalizadores Futuros
 
-- Positivo: Liderazgo en el mercado de alimentos con fuerte presencia regional
-- Positivo: Capacidad de mantener márgenes a pesar de la inflación por poder de marca
-- Negativo: Aumento del salario mínimo de 9.54% para 2025 que impactará costos operativos
-- Negativo: Alta competencia en el sector de alimentos y presión en márgenes
+- Beneficiario de la reducción en precios de materias primas alimenticias
+- Potencial expansión internacional en mercados estratégicos
+- Riesgo por alta inflación que afecta el consumo de alimentos
 
 ## Precios Recientes
 
-- Último precio: $79,000
-- Máximo 52 semanas: $79,000
-- Mínimo 52 semanas: $71,600
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $77,000-$78,000
-- Resistencia: $79,000-$80,000
-- Tendencia: Alcista de corto y mediano plazo
+- Último precio: 79000.0
+- Mínimo 30 días: 71600.0
+- Máximo 30 días: 79000.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por alta inflación y menor consumo
+- 6-12 meses: COMPRAR - Expectativa de normalización de costos
+- 12-18 meses: COMPRAR - Beneficiario de recuperación económica
 
-NEUTRAL - Precio en máximos históricos, podría experimentar toma de utilidades.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - Modelo de negocio defensivo y capacidad de mantener márgenes operativos.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva con P/E de 15.2x y dividend yield de 3.1%. Posición dominante en el mercado.
+- Soporte principal: 71600.0
+- Resistencia inmediata: 79000.0
+- Resistencia clave: 80000.0

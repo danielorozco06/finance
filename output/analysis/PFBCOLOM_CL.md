@@ -1,34 +1,25 @@
-# Análisis Preferencial Bancolombia (PFBCOLOM_CL)
+# Análisis Bancolombia Preferencial
 
 ## Catalizadores Futuros
 
-- Positivo: Probable reducción de tasas de interés por parte del Banco de la República en 2025
-- Positivo: Expectativa de recuperación económica que beneficiaría al sector bancario
-- Negativo: Alta inflación y tasas de interés actuales que pueden afectar la calidad de cartera
-- Negativo: Aumento del salario mínimo de 9.54% para 2025 que podría presionar la inflación
+- Potencial beneficio del ciclo de reducción de tasas de interés
+- Expectativa de mejora en calidad de cartera con recuperación económica
+- Riesgo por exposición a sectores afectados (construcción, energético)
 
 ## Precios Recientes
 
-- Último precio: $35,220
-- Máximo 52 semanas: ~$35,520
-- Mínimo 52 semanas: ~$33,934
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $34,500-$34,800
-- Resistencia: $35,500-$35,800
-- Tendencia: Alcista de corto plazo
+- Último precio: 35180.0
+- Mínimo 30 días: 33933.0
+- Máximo 30 días: 35520.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por altas tasas y desaceleración económica
+- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
+- 12-18 meses: COMPRAR FUERTE - Líder del sector con valoración atractiva
 
-NEUTRAL - Precio cerca de máximos recientes, podría experimentar toma de utilidades.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - La expectativa de reducción de tasas de interés debería beneficiar al sector bancario.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Líder del sector financiero con valoración atractiva (P/E 6.2x) y dividend yield de 5.8%.
+- Soporte principal: 33933.0
+- Resistencia inmediata: 35520.0
+- Resistencia clave: 36000.0

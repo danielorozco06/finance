@@ -1,34 +1,25 @@
-# Análisis Constructora Conconcreto (CONCONCRET_CL)
+# Análisis Conconcreto
 
 ## Catalizadores Futuros
 
-- Positivo: Expectativa de reducción de tasas de interés que podría reactivar el sector construcción
-- Positivo: Potencial reactivación de proyectos de infraestructura pública en 2025
-- Negativo: Suspensión de nuevas postulaciones al programa Mi Casa Ya
-- Negativo: Desaceleración del sector construcción por altas tasas de interés
+- Impacto negativo por suspensión del programa Mi Casa Ya
+- Potencial recuperación por ciclo de reducción de tasas de interés
+- Expectativa de reactivación del sector construcción en 2025
 
 ## Precios Recientes
 
-- Último precio: $460
-- Máximo 52 semanas: $460
-- Mínimo 52 semanas: $260
-
-## Niveles Técnicos Relevantes
-
-- Soporte: $420-$430
-- Resistencia: $460-$470
-- Tendencia: Alcista de corto y mediano plazo
+- Último precio: 486.0
+- Mínimo 30 días: 419.0
+- Máximo 30 días: 486.0
 
 ## Recomendación de Inversión
 
-### 0-6 meses (Corto Plazo)
+- 0-6 meses: MANTENER - Presión por desaceleración del sector construcción
+- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
+- 12-18 meses: COMPRAR FUERTE - Potencial recuperación del sector inmobiliario
 
-NEUTRAL - El precio ha subido significativamente y podría experimentar toma de utilidades.
+## Niveles Técnicos Relevantes
 
-### 6-12 meses (Mediano Plazo)
-
-COMPRA - La expectativa de menores tasas de interés debería beneficiar al sector construcción.
-
-### 12-18 meses (Largo Plazo)
-
-COMPRA FUERTE - Valoración atractiva considerando la recuperación esperada del sector construcción y su posición de liderazgo en el mercado.
+- Soporte principal: 419.0
+- Resistencia inmediata: 486.0
+- Resistencia clave: 500.0
