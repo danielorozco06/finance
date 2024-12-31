@@ -22,7 +22,7 @@ PROMPT: Actualizar el archivo ./output/portfolioXmeses.md con un portafolio dive
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a 6 meses. Importante evitar tickers sin recomendacion de compra en el periodo indicado.
+1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante evitar tickers sin recomendacion de compra en el periodo indicado.
 2. Organizar el documento con la siguiente estructura:
 
 # Portafolio de Inversión
