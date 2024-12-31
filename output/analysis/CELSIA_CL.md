@@ -1,25 +1,25 @@
-# Análisis CELSIA
+# Celsia
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario de la crisis energética por su enfoque en energías renovables
-- Potencial incremento en demanda por pérdida de autosuficiencia energética
-- Posible expansión en proyectos de energía renovable ante restricciones a hidrocarburos
+- Inversiones en energías renovables y expansión de capacidad instalada
+- Beneficios por altos precios de energía debido a El Niño
+- Crecimiento en negocios de transmisión y distribución
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 3680.0
-- Mínimo 30 días: 3475.0
-- Máximo 30 días: 3685.0
+- Soporte: 3,500
+- Resistencia: 3,800
+- Media móvil 30 días: 3,620
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: COMPRAR - Beneficiario directo de la crisis energética
-- 6-12 meses: COMPRAR - Posicionamiento estratégico en renovables
-- 12-18 meses: MANTENER - Evaluar impacto de nuevas políticas energéticas
+- Último precio: 3,680
+- Máximo 52 semanas: 3,720
+- Mínimo 52 semanas: 3,400
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 3475.0
-- Resistencia inmediata: 3685.0
-- Resistencia clave: 3720.0
+- 0-6 meses: COMPRAR - Rango esperado 3,700-4,000
+- 6-12 meses: COMPRAR - Objetivo 4,400
+- 12-18 meses: COMPRAR - Objetivo 4,800

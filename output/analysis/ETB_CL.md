@@ -1,25 +1,25 @@
-# Análisis ETB
+# ETB
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Potencial expansión en servicios de fibra óptica
-- Beneficiario de digitalización y mayor demanda de internet
-- Riesgo por alta competencia en el sector de telecomunicaciones
+- Potencial privatización de la compañía
+- Inversiones en infraestructura de fibra óptica
+- Crecimiento en servicios corporativos
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 74.0
-- Mínimo 30 días: 74.0
-- Máximo 30 días: 74.0
+- Soporte: 70
+- Resistencia: 80
+- Media móvil 30 días: 74
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por alta competencia sectorial
-- 6-12 meses: MANTENER - Necesidad de mayores inversiones en infraestructura
-- 12-18 meses: COMPRAR - Potencial consolidación en mercado de fibra óptica
+- Último precio: 74
+- Máximo 52 semanas: 108
+- Mínimo 52 semanas: 70
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 74.0
-- Resistencia inmediata: 75.0
-- Resistencia clave: 80.0
+- 0-6 meses: MANTENER - Rango esperado 70-80
+- 6-12 meses: MANTENER - Objetivo 85
+- 12-18 meses: MANTENER - Objetivo 90

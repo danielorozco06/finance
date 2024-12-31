@@ -1,25 +1,25 @@
-# Análisis Grupo Nutresa
+# Grupo Nutresa
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario de la reducción en precios de materias primas alimenticias
-- Potencial expansión internacional en mercados estratégicos
-- Riesgo por alta inflación que afecta el consumo de alimentos
+- Expansión internacional en mercados clave
+- Innovación en productos saludables
+- Mejora en márgenes por estabilización de costos de materias primas
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 79000.0
-- Mínimo 30 días: 71600.0
-- Máximo 30 días: 79000.0
+- Soporte: 78,000
+- Resistencia: 80,000
+- Media móvil 30 días: 79,000
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por alta inflación y menor consumo
-- 6-12 meses: COMPRAR - Expectativa de normalización de costos
-- 12-18 meses: COMPRAR - Beneficiario de recuperación económica
+- Último precio: 79,000
+- Máximo 52 semanas: 79,500
+- Mínimo 52 semanas: 71,600
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 71600.0
-- Resistencia inmediata: 79000.0
-- Resistencia clave: 80000.0
+- 0-6 meses: MANTENER - Rango esperado 78,000-81,000
+- 6-12 meses: MANTENER - Objetivo 82,000
+- 12-18 meses: MANTENER - Objetivo 84,000

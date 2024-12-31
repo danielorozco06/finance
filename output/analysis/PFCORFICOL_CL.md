@@ -1,25 +1,25 @@
-# Análisis Corficolombiana Preferencial
+# Preferencial Corficolombiana
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario de proyectos de infraestructura y concesiones viales
-- Exposición positiva al sector energético a través de Promigas
-- Riesgo por altos costos de financiamiento en nuevos proyectos
+- Beneficios por proyectos de infraestructura en ejecución
+- Potencial venta de activos no estratégicos
+- Diversificación en sectores de energía y agroindustria
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 14280.0
-- Mínimo 30 días: 13400.0
-- Máximo 30 días: 14460.0
+- Soporte: 13,400
+- Resistencia: 14,500
+- Media móvil 30 días: 14,000
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por altas tasas de interés
-- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas y reactivación de infraestructura
-- 12-18 meses: COMPRAR FUERTE - Potencial recuperación de inversiones en energía
+- Último precio: 14,280
+- Máximo 52 semanas: 14,460
+- Mínimo 52 semanas: 13,400
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 13400.0
-- Resistencia inmediata: 14460.0
-- Resistencia clave: 15000.0
+- 0-6 meses: MANTENER - Rango esperado 14,000-15,000
+- 6-12 meses: COMPRAR - Objetivo 15,500
+- 12-18 meses: COMPRAR - Objetivo 16,500

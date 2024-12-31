@@ -1,25 +1,25 @@
-# Análisis Cementos Argos Preferencial
+# Preferencial Cementos Argos
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Impacto negativo por suspensión del programa Mi Casa Ya
-- Potencial recuperación por ciclo de reducción de tasas de interés
-- Beneficiario de posible reactivación de infraestructura en 2025
+- Recuperación del sector construcción en Colombia y EE.UU.
+- Beneficios por reducción en costos de energía y materias primas
+- Potencial desinversión de activos no estratégicos
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 3850.0
-- Mínimo 30 días: 3700.0
-- Máximo 30 días: 3900.0
+- Soporte: 6,800
+- Resistencia: 7,200
+- Media móvil 30 días: 7,000
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por desaceleración del sector construcción
-- 6-12 meses: COMPRAR - Anticipando recuperación del sector
-- 12-18 meses: COMPRAR FUERTE - Beneficiario de reactivación de infraestructura
+- Último precio: 7,100
+- Máximo 52 semanas: 7,500
+- Mínimo 52 semanas: 6,500
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 3700.0
-- Resistencia inmediata: 3900.0
-- Resistencia clave: 4000.0
+- 0-6 meses: MANTENER - Rango esperado 6,800-7,400
+- 6-12 meses: COMPRAR - Objetivo 7,800
+- 12-18 meses: COMPRAR - Objetivo 8,500

@@ -1,25 +1,25 @@
-# Análisis Mineros
+# Mineros
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario de precios estables del oro como activo refugio
-- Potencial expansión de operaciones en Nicaragua y Argentina
-- Riesgo por mayores costos operativos debido a inflación
+- Potencial alza en precios del oro por incertidumbre global
+- Expansión de operaciones en Nicaragua y Argentina
+- Mejora en eficiencia operacional
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 4255.0
-- Mínimo 30 días: 4225.0
-- Máximo 30 días: 4520.0
+- Soporte: 4,000
+- Resistencia: 4,500
+- Media móvil 30 días: 4,300
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por altos costos operativos
-- 6-12 meses: COMPRAR - Expectativa de estabilidad en precios del oro
-- 12-18 meses: COMPRAR - Potencial mejora en eficiencia operativa
+- Último precio: 4,255
+- Máximo 52 semanas: 4,520
+- Mínimo 52 semanas: 3,500
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 4225.0
-- Resistencia inmediata: 4520.0
-- Resistencia clave: 4600.0
+- 0-6 meses: COMPRAR - Rango esperado 4,200-4,700
+- 6-12 meses: COMPRAR - Objetivo 5,000
+- 12-18 meses: COMPRAR - Objetivo 5,500

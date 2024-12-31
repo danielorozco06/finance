@@ -1,25 +1,25 @@
-# Análisis Grupo Aval Preferencial
+# Preferencial Grupo Aval
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Potencial beneficio del ciclo de reducción de tasas de interés iniciado por el Banco de la República
-- Expectativa de mejora en calidad de cartera con recuperación económica en 2025
-- Riesgo por exposición a sectores afectados por políticas actuales (energético, construcción)
+- Beneficio por reducción de tasas de interés
+- Mejora en calidad de cartera
+- Transformación digital del grupo
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 446.0
-- Mínimo 30 días: 431.0
-- Máximo 30 días: 458.0
+- Soporte: 440
+- Resistencia: 460
+- Media móvil 30 días: 450
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por desaceleración económica y alta inflación
-- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
-- 12-18 meses: COMPRAR FUERTE - Valoración atractiva y expectativa de recuperación económica
+- Último precio: 446
+- Máximo 52 semanas: 500
+- Mínimo 52 semanas: 430
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 431.0
-- Resistencia inmediata: 458.0
-- Resistencia clave: 470.0
+- 0-6 meses: MANTENER - Rango esperado 440-480
+- 6-12 meses: COMPRAR - Objetivo 500
+- 12-18 meses: COMPRAR - Objetivo 550

@@ -1,25 +1,25 @@
-# Análisis Conconcreto
+# Constructora Conconcreto
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Impacto negativo por suspensión del programa Mi Casa Ya
-- Potencial recuperación por ciclo de reducción de tasas de interés
-- Expectativa de reactivación del sector construcción en 2025
+- Recuperación del sector construcción en Colombia
+- Potenciales nuevos contratos de infraestructura
+- Mejora en márgenes por estabilización de costos de materiales
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 486.0
-- Mínimo 30 días: 419.0
-- Máximo 30 días: 486.0
+- Soporte: 420
+- Resistencia: 500
+- Media móvil 30 días: 460
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por desaceleración del sector construcción
-- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
-- 12-18 meses: COMPRAR FUERTE - Potencial recuperación del sector inmobiliario
+- Último precio: 486
+- Máximo 52 semanas: 490
+- Mínimo 52 semanas: 300
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 419.0
-- Resistencia inmediata: 486.0
-- Resistencia clave: 500.0
+- 0-6 meses: MANTENER - Rango esperado 450-520
+- 6-12 meses: COMPRAR - Objetivo 550
+- 12-18 meses: COMPRAR - Objetivo 600

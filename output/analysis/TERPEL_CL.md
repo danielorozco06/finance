@@ -1,25 +1,25 @@
-# Análisis Terpel
+# Terpel
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario de recuperación en movilidad y transporte
-- Potencial expansión en estaciones de carga eléctrica
-- Riesgo por políticas restrictivas al sector de hidrocarburos
+- Recuperación en volúmenes de combustible
+- Expansión en estaciones de servicio eléctricas
+- Crecimiento en negocios no combustibles
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 11500.0
-- Mínimo 30 días: 10880.0
-- Máximo 30 días: 11500.0
+- Soporte: 11,300
+- Resistencia: 11,700
+- Media móvil 30 días: 11,500
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por políticas energéticas actuales
-- 6-12 meses: COMPRAR - Anticipando cambio en políticas sectoriales
-- 12-18 meses: COMPRAR FUERTE - Beneficiario de nuevo gobierno pro-hidrocarburos
+- Último precio: 11,500
+- Máximo 52 semanas: 11,500
+- Mínimo 52 semanas: 10,500
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 10880.0
-- Resistencia inmediata: 11500.0
-- Resistencia clave: 12000.0
+- 0-6 meses: MANTENER - Rango esperado 11,300-12,000
+- 6-12 meses: COMPRAR - Objetivo 12,500
+- 12-18 meses: COMPRAR - Objetivo 13,000

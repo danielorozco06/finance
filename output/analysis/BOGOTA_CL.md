@@ -1,25 +1,25 @@
-# Análisis Banco de Bogotá
+# Banco de Bogotá
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Potencial beneficio de la reducción de tasas de interés por parte del Banco de la República
-- Posible mejora en la cartera de créditos ante expectativa de recuperación económica
-- Riesgo por alta exposición al sector de hidrocarburos y energético
+- Posible mejora en márgenes por reducción de tasas de interés del Banco de la República en 2024
+- Expansión de operaciones digitales y modernización tecnológica
+- Potencial crecimiento en cartera de créditos por recuperación económica
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 26860.0
-- Mínimo 30 días: 25961.0
-- Máximo 30 días: 26860.0
+- Soporte: 25,900
+- Resistencia: 27,200
+- Media móvil 30 días: 26,400
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por altas tasas de interés y desaceleración económica
-- 6-12 meses: COMPRAR - Anticipando ciclo de reducción de tasas
-- 12-18 meses: COMPRAR - Potencial recuperación económica post cambio de gobierno
+- Último precio: 26,860
+- Máximo 52 semanas: 31,000
+- Mínimo 52 semanas: 25,800
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 25960.0
-- Resistencia inmediata: 26860.0
-- Resistencia clave: 27500.0
+- 0-6 meses: MANTENER - Rango esperado 26,000-28,000
+- 6-12 meses: COMPRAR - Objetivo 29,500
+- 12-18 meses: COMPRAR - Objetivo 32,000

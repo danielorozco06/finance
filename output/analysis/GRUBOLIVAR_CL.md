@@ -1,25 +1,25 @@
-# Análisis Grupo Bolívar
+# Grupo Bolívar
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Potencial beneficio de reducción de tasas vía Davivienda
-- Diversificación en seguros como protección ante ciclo económico
-- Riesgo por exposición al sector construcción e hipotecario
+- Beneficio por reducción de tasas de interés
+- Crecimiento en bancaseguros
+- Expansión digital y tecnológica
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 60400.0
-- Mínimo 30 días: 55600.0
-- Máximo 30 días: 60400.0
+- Soporte: 58,000
+- Resistencia: 61,000
+- Media móvil 30 días: 59,500
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por desaceleración económica
-- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas
-- 12-18 meses: COMPRAR FUERTE - Recuperación del sector financiero y construcción
+- Último precio: 60,400
+- Máximo 52 semanas: 61,000
+- Mínimo 52 semanas: 54,000
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 55600.0
-- Resistencia inmediata: 60400.0
-- Resistencia clave: 61000.0
+- 0-6 meses: MANTENER - Rango esperado 58,000-62,000
+- 6-12 meses: COMPRAR - Objetivo 65,000
+- 12-18 meses: COMPRAR - Objetivo 68,000

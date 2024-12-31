@@ -1,25 +1,25 @@
-# Análisis Bancolombia Preferencial
+# Preferencial Bancolombia
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Potencial beneficio del ciclo de reducción de tasas de interés
-- Expectativa de mejora en calidad de cartera con recuperación económica
-- Riesgo por exposición a sectores afectados (construcción, energético)
+- Beneficio por reducción de tasas de interés
+- Expansión en banca digital
+- Crecimiento en operaciones centroamericanas
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 35180.0
-- Mínimo 30 días: 33933.0
-- Máximo 30 días: 35520.0
+- Soporte: 34,500
+- Resistencia: 35,500
+- Media móvil 30 días: 35,000
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: MANTENER - Presión por altas tasas y desaceleración económica
-- 6-12 meses: COMPRAR - Beneficiario de reducción de tasas de interés
-- 12-18 meses: COMPRAR FUERTE - Líder del sector con valoración atractiva
+- Último precio: 35,180
+- Máximo 52 semanas: 35,900
+- Mínimo 52 semanas: 33,900
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 33933.0
-- Resistencia inmediata: 35520.0
-- Resistencia clave: 36000.0
+- 0-6 meses: COMPRAR - Rango esperado 35,000-37,000
+- 6-12 meses: COMPRAR - Objetivo 38,000
+- 12-18 meses: COMPRAR - Objetivo 40,000

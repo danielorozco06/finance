@@ -1,25 +1,25 @@
-# Análisis Canacol Energy
+# Canacol Energy
 
-## Catalizadores Futuros
+## Catalizadores
 
-- Beneficiario directo de la crisis de gas natural en Colombia
-- Primera importación de GNL en Colombia en noviembre 2024
-- Potencial cambio en políticas energéticas con nuevo gobierno en 2026
+- Cambio de gobierno en 2026 que favorecería sector de hidrocarburos
+- Déficit de gas natural en Colombia que aumenta demanda
+- Potencial expansión de infraestructura de transporte de gas
 
-## Precios Recientes
+## Niveles Técnicos
 
-- Último precio: 11100.0
-- Mínimo 30 días: 10900.0
-- Máximo 30 días: 11500.0
+- Soporte: 10,900
+- Resistencia: 11,500
+- Media móvil 30 días: 11,200
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-6 meses: COMPRAR - Crisis energética favorece precios del gas natural
-- 6-12 meses: COMPRAR FUERTE - Posicionamiento estratégico en mercado de gas
-- 12-18 meses: COMPRAR FUERTE - Potencial beneficio de nuevas políticas energéticas
+- Último precio: 11,100
+- Máximo 52 semanas: 12,600
+- Mínimo 52 semanas: 10,500
 
-## Niveles Técnicos Relevantes
+## Recomendación
 
-- Soporte principal: 10900.0
-- Resistencia inmediata: 11500.0
-- Resistencia clave: 12000.0
+- 0-6 meses: MANTENER - Rango esperado 10,800-11,800
+- 6-12 meses: COMPRAR - Objetivo 12,500
+- 12-18 meses: COMPRAR FUERTE - Objetivo 14,000
