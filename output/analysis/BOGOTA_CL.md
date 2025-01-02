@@ -1,27 +1,26 @@
-# Análisis Banco de Bogotá (BOGOTA.CL)
+# Análisis BOGOTA
 
 ## Catalizadores Futuros
 
-- Posible mejora en márgenes de intermediación por reducción de tasas del Banco de la República
-- Expectativa de crecimiento en cartera de crédito para 2025 por mejora en condiciones económicas
-- Potencial expansión en Centro América a través de BAC Credomatic
+- Próximo pago de dividendo en marzo 2025 ($121 por acción, yield 0.45%)
+- Potencial beneficio de tasas de interés más bajas en 2025
+- Expectativa de mejora en cartera de créditos por recuperación económica
+- Buen nivel de solvencia (ratio deuda/patrimonio saludable)
+
+## Precios Recientes
+
+- Último precio: $26,860
+- Rango último mes: $25,941 - $26,860
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Esperando dividendo
+- Mediano plazo (0-6 meses): COMPRA - Beneficio por ciclo de tasas
+- Largo plazo (6-12 meses): COMPRA - Valuación atractiva vs sector
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 26,240 (mínimo reciente)
-- Resistencia inmediata: 26,860 (último cierre)
-- Resistencia clave: 27,687 (máximo de enero)
-- Media móvil 50 días: ~26,700
-
-## Precios Relevantes
-
-- Último cierre: 26,860
-- Máximo 30 días: 26,860
-- Mínimo 30 días: 25,941
-- Precio objetivo analistas: 40,700
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación en rango 26,000-27,000
-- 0-6 meses: COMPRAR - Potencial alcista por expectativa de reducción de tasas
-- 6-12 meses: COMPRAR FUERTE - Target 40,700 según analistas
+- Soporte 1: $26,000
+- Soporte 2: $25,500
+- Resistencia 1: $27,500
+- Resistencia 2: $28,500

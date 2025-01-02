@@ -1,27 +1,26 @@
-# Análisis ETB (ETB.CL)
+# Análisis ETB
 
 ## Catalizadores Futuros
 
 - Baja liquidez limita potencial de valorización
-- Sin catalizadores significativos identificados
-- Necesidad de modernización infraestructura
+- Necesidad de inversiones significativas en infraestructura 5G
+- Presión competitiva en sector telecomunicaciones
+- Resultados operativos débiles con márgenes bajo presión
+
+## Precios Recientes
+
+- Último precio: $74
+- Rango último mes: $74 - $74 (muy baja liquidez)
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Baja liquidez
+- Mediano plazo (0-6 meses): MANTENER - Sin catalizadores claros
+- Largo plazo (6-12 meses): MANTENER - Desafíos estructurales
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 74 (último cierre)
-- Resistencia inmediata: 79
-- Resistencia clave: 85
-- Media móvil 50 días: ~74.5
-
-## Precios Relevantes
-
-- Último cierre: 74
-- Máximo 30 días: 74
-- Mínimo 30 días: 74
-- Sin precio objetivo de analistas
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Baja liquidez
-- 0-6 meses: MANTENER - Sin catalizadores claros
-- 6-12 meses: MANTENER - Necesidad de mejoras operativas
+- Soporte 1: $70
+- Soporte 2: $65
+- Resistencia 1: $80
+- Resistencia 2: $85

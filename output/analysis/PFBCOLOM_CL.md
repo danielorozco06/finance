@@ -1,27 +1,26 @@
-# Análisis Preferencial Bancolombia (PFBCOLOM.CL)
+# Análisis PFBCOLOM
 
 ## Catalizadores Futuros
 
-- Beneficio por ciclo bajista tasas de interés
-- Expansión digital continua
-- Mejora calidad cartera esperada
+- Próximo pago de dividendo en marzo 2025
+- Beneficio por ciclo de reducción de tasas de interés
+- Mejora esperada en calidad de cartera crediticia
+- Expansión en banca digital y eficiencias operativas
+
+## Precios Recientes
+
+- Último precio: $35,300
+- Rango último mes: $33,934 - $35,520
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
+- Mediano plazo (0-6 meses): COMPRA - Beneficio ciclo tasas
+- Largo plazo (6-12 meses): COMPRA - Líder sector bancario
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 33,934 (mínimo diciembre)
-- Resistencia inmediata: 35,300 (último cierre)
-- Resistencia clave: 35,884 (máximo reciente)
-- Media móvil 50 días: ~34,800
-
-## Precios Relevantes
-
-- Último cierre: 35,300
-- Máximo 30 días: 35,884
-- Mínimo 30 días: 33,934
-- Sin consenso analistas disponible
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación en rango
-- 0-6 meses: COMPRAR - Beneficio reducción tasas
-- 6-12 meses: COMPRAR FUERTE - Líder sector financiero
+- Soporte 1: $34,000
+- Soporte 2: $33,000
+- Resistencia 1: $36,000
+- Resistencia 2: $37,000

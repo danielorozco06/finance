@@ -1,27 +1,26 @@
-# Análisis ISA (ISA.CL)
+# Análisis ISA
 
 ## Catalizadores Futuros
 
-- Expansión regional en transmisión eléctrica
-- Beneficios por crisis energética Colombia
-- Sinergias con Ecopetrol como matriz
+- Beneficio por crisis energética y necesidad de infraestructura
+- Expansión en transmisión eléctrica en Brasil y Perú
+- Próximo pago de dividendo en marzo 2025
+- Posición dominante en interconexión regional
+
+## Precios Recientes
+
+- Último precio: $16,700
+- Rango último mes: $16,200 - $16,920
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
+- Mediano plazo (0-6 meses): COMPRA - Beneficio crisis energética
+- Largo plazo (6-12 meses): COMPRA - Expansión regional
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 16,200 (mínimo diciembre)
-- Resistencia inmediata: 16,700 (último cierre)
-- Resistencia clave: 16,800 (máximo reciente)
-- Media móvil 50 días: ~16,500
-
-## Precios Relevantes
-
-- Último cierre: 16,700
-- Máximo 30 días: 16,800
-- Mínimo 30 días: 16,200
-- Sin consenso analistas disponible
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación en rango actual
-- 0-6 meses: COMPRAR - Beneficios crisis energética
-- 6-12 meses: COMPRAR - Expansión regional continua
+- Soporte 1: $16,200
+- Soporte 2: $16,000
+- Resistencia 1: $17,000
+- Resistencia 2: $17,500

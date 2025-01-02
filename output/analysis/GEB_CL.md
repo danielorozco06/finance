@@ -1,27 +1,26 @@
-# Análisis Grupo Energía Bogotá (GEB.CL)
+# Análisis GEB
 
 ## Catalizadores Futuros
 
-- Beneficiario de pérdida autosuficiencia energética Colombia
-- Expansión en transmisión eléctrica regional
-- Potencial beneficio por mayores importaciones de gas
+- Pérdida de autosuficiencia energética beneficia operaciones de gas
+- Expansión en transmisión eléctrica regional en curso
+- Próximo pago de dividendo en marzo 2025
+- Posición estratégica en mercado energético con alta demanda
+
+## Precios Recientes
+
+- Último precio: $2,500
+- Rango último mes: $2,420 - $2,510
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
+- Mediano plazo (0-6 meses): COMPRA - Beneficio crisis energética
+- Largo plazo (6-12 meses): COMPRA - Crecimiento en transmisión
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 2,420 (mínimo diciembre)
-- Resistencia inmediata: 2,500 (último cierre)
-- Resistencia clave: 2,510 (máximo reciente)
-- Media móvil 50 días: ~2,470
-
-## Precios Relevantes
-
-- Último cierre: 2,500
-- Máximo 30 días: 2,510
-- Mínimo 30 días: 2,420
-- Precio objetivo analistas: 3,150 (promedio)
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación en niveles actuales
-- 0-6 meses: COMPRAR - Beneficios por crisis energética
-- 6-12 meses: COMPRAR FUERTE - Alto potencial según analistas
+- Soporte 1: $2,400
+- Soporte 2: $2,350
+- Resistencia 1: $2,600
+- Resistencia 2: $2,700

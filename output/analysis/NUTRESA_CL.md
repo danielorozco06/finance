@@ -1,27 +1,26 @@
-# Análisis Grupo Nutresa (NUTRESA.CL)
+# Análisis NUTRESA
 
 ## Catalizadores Futuros
 
-- Expansión internacional continua
-- Mejora en márgenes por estabilización costos
-- Innovación en productos saludables
+- Baja liquidez por alta concentración accionaria
+- Expansión internacional en curso
+- Beneficio por estabilización de costos de materias primas
+- Sólido posicionamiento en mercado regional de alimentos
+
+## Precios Recientes
+
+- Último precio: $79,000
+- Rango último mes: $71,600 - $79,000
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Baja liquidez
+- Mediano plazo (0-6 meses): MANTENER - Valoración alta
+- Largo plazo (6-12 meses): MANTENER - Sin catalizadores claros
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 71,600 (mínimo diciembre)
-- Resistencia inmediata: 79,000 (último cierre)
-- Resistencia clave: 79,500 (máximo reciente)
-- Media móvil 50 días: ~78,500
-
-## Precios Relevantes
-
-- Último cierre: 79,000
-- Máximo 30 días: 79,500
-- Mínimo 30 días: 71,600
-- Sin consenso analistas disponible
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación en máximos
-- 0-6 meses: MANTENER - Valoración exigente
-- 6-12 meses: MANTENER - Esperar corrección
+- Soporte 1: $75,000
+- Soporte 2: $71,000
+- Resistencia 1: $80,000
+- Resistencia 2: $82,000

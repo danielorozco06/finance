@@ -1,27 +1,26 @@
-# Análisis Preferencial Aval (PFAVAL.CL)
+# Análisis PFAVAL
 
 ## Catalizadores Futuros
 
-- Beneficio por reducción tasas de interés
-- Mejora esperada en calidad de cartera
-- Potencial recuperación económica 2025
+- Próximo pago de dividendo en febrero 2025
+- Beneficio por reducción de tasas de interés del Banco República
+- Potencial recuperación en comisiones por mayor actividad bursátil
+- Expansión en banca digital y fintech
+
+## Precios Recientes
+
+- Último precio: $453
+- Rango último mes: $431 - $458
+
+## Recomendación de Inversión
+
+- Corto plazo (0-1 mes): MANTENER - Esperando dividendo
+- Mediano plazo (0-6 meses): COMPRA - Ciclo favorable de tasas
+- Largo plazo (6-12 meses): COMPRA - Transformación digital
 
 ## Niveles Técnicos Relevantes
 
-- Soporte: 431 (mínimo diciembre)
-- Resistencia inmediata: 453 (último cierre)
-- Resistencia clave: 458 (máximo reciente)
-- Media móvil 50 días: ~445
-
-## Precios Relevantes
-
-- Último cierre: 453
-- Máximo 30 días: 458
-- Mínimo 30 días: 431
-- Sin consenso analistas disponible
-
-## Recomendación
-
-- 0-1 mes: MANTENER - Consolidación reciente
-- 0-6 meses: COMPRAR - Beneficio reducción tasas
-- 6-12 meses: COMPRAR - Mejora sector financiero
+- Soporte 1: $440
+- Soporte 2: $430
+- Resistencia 1: $460
+- Resistencia 2: $480
