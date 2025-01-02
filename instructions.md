@@ -16,19 +16,17 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 CONTEXTO: /input/
 
-PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones: catalizadores futuros, precios de compra/venta mas recientes, recomendacion de inversion (0-1 mes, 0-6 meses, 6-12 meses), niveles tecnicos relevantes. Nota: hoy es 2025-01-02.
+PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones: catalizadores futuros, precios de compra/venta mas recientes, recomendacion de inversion (0-1 mes, 0-6 meses, 6-12 meses y etiquetas de MANTENER, COMPRAR, COMPRA FUERTE), niveles tecnicos relevantes. Nota: hoy es 2025-01-02.
 
 ## Prompt portafolio de inversión
 
 CONTEXTO: /output/, /input/news.md, /input/dividendos.md
 
-PROMPT:Modificar el archivo ./output/portfolioXmeses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000.
+PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000. Importante: hoy es 2025-01-02.
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante evitar tickers sin recomendacion de compra en el periodo indicado.
-
-Importante: X es 1 mes y hoy es 2025-01-02.
+1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers sin recomendacion de compra en el periodo indicado.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -40,15 +38,15 @@ Importante: X es 1 mes y hoy es 2025-01-02.
 
 ## 2. Plan de Ejecución
 
-Nota: indicar cantidad de acciones, tipo de orden, precios ordenes de entrada y salida.
+Nota: prioriozar compras y ventas escalonadas.
 
 ### 2.1 Órdenes de Entrada
 
-[Órdenes de entrada]
+[Órdenes de entrada con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
 
 ### 2.2 Órdenes de Protección y Salida
 
-[Stop loss por posición y ordenes de salida]
+[Stop loss por posición y ordenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
 
 ## 3. Gestión del Portafolio
 
@@ -63,10 +61,6 @@ Nota: indicar cantidad de acciones, tipo de orden, precios ordenes de entrada y 
 ### 3.3 Seguimiento y Rebalanceo
 
 [Plan de monitoreo y ajustes]
-
-## 4. Resumen y Notas
-
-[Diversificación y consideraciones importantes]
 
 ---
 
