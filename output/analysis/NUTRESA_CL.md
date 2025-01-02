@@ -1,26 +1,26 @@
-# Análisis NUTRESA
+# Análisis Grupo Nutresa
 
 ## Catalizadores Futuros
 
-- Baja liquidez por alta concentración accionaria
-- Expansión internacional en curso
 - Beneficio por estabilización de costos de materias primas
-- Sólido posicionamiento en mercado regional de alimentos
+- Expansión internacional en curso
+- Sector defensivo ante incertidumbre económica
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $79,000
-- Rango último mes: $71,600 - $79,000
+- Máximo 6 meses: $79,500 (nov 2024)
+- Mínimo 6 meses: $71,600 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $78,000
+- Resistencia inmediata: $80,000
+- Resistencia clave: $82,000
+- Media móvil 200 días: $78,500
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Baja liquidez
-- Mediano plazo (0-6 meses): MANTENER - Valoración alta
-- Largo plazo (6-12 meses): MANTENER - Sin catalizadores claros
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $75,000
-- Soporte 2: $71,000
-- Resistencia 1: $80,000
-- Resistencia 2: $82,000
+- 0-1 mes: MANTENER - Consolidación en rango actual
+- 0-6 meses: COMPRAR - Sector defensivo atractivo
+- 6-12 meses: COMPRAR - Perspectivas favorables largo plazo

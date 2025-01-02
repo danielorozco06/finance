@@ -1,26 +1,26 @@
-# Análisis GEB
+# Análisis Grupo Energía Bogotá
 
 ## Catalizadores Futuros
 
-- Pérdida de autosuficiencia energética beneficia operaciones de gas
-- Expansión en transmisión eléctrica regional en curso
-- Próximo pago de dividendo en marzo 2025
-- Posición estratégica en mercado energético con alta demanda
+- Beneficiario directo de crisis energética nacional
+- Importancia estratégica en distribución de gas natural
+- Potencial de expansión regional
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $2,500
-- Rango último mes: $2,420 - $2,510
+- Máximo 6 meses: $2,600 (dic 2024)
+- Mínimo 6 meses: $2,420 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $2,400
+- Resistencia inmediata: $2,600
+- Resistencia clave: $2,800
+- Media móvil 200 días: $2,450
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
-- Mediano plazo (0-6 meses): COMPRA - Beneficio crisis energética
-- Largo plazo (6-12 meses): COMPRA - Crecimiento en transmisión
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $2,400
-- Soporte 2: $2,350
-- Resistencia 1: $2,600
-- Resistencia 2: $2,700
+- 0-1 mes: COMPRAR - Beneficio inmediato por crisis energética
+- 0-6 meses: COMPRAR - Posición estratégica en sector gas
+- 6-12 meses: COMPRAR - Perspectivas favorables largo plazo

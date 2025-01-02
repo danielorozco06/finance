@@ -1,26 +1,26 @@
-# Análisis PFGRUPOARG
+# Análisis Preferencial Grupo Argos
 
 ## Catalizadores Futuros
 
+- Próximo pago de dividendo de $159 (1.03%) el 10 de enero 2025
 - Proceso de escisión con Grupo Sura durante 2025
-- Próximo pago de dividendo en enero 2025 ($159 por acción, yield 1.03%)
-- Potencial liberación de valor post-escisión
-- Mejora esperada en sector cemento y energía
+- Potencial liberación de valor por simplificación estructura
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $15,440
-- Rango último mes: $13,820 - $15,440
+- Máximo 6 meses: $15,440 (dic 2024)
+- Mínimo 6 meses: $13,500 (nov 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $15,000
+- Resistencia inmediata: $15,500
+- Resistencia clave: $16,000
+- Media móvil 200 días: $14,500
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Esperando dividendo
-- Mediano plazo (0-6 meses): COMPRA - Beneficios escisión
-- Largo plazo (6-12 meses): COMPRA - Valuación atractiva
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $14,500
-- Soporte 2: $14,000
-- Resistencia 1: $15,500
-- Resistencia 2: $16,000
+- 0-1 mes: COMPRAR - Momentum por escisión anunciada
+- 0-6 meses: COMPRAR - Beneficio proceso escisión
+- 6-12 meses: COMPRAR FUERTE - Liberación de valor esperada

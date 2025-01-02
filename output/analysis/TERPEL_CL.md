@@ -1,26 +1,26 @@
-# Análisis TERPEL
+# Análisis Terpel
 
 ## Catalizadores Futuros
 
-- Beneficio por pérdida de autosuficiencia energética
-- Expansión en estaciones de servicio eléctrico
-- Crecimiento en mercado de gas natural vehicular
-- Mejora en márgenes por estabilización precios combustibles
+- Beneficio por normalización márgenes combustibles
+- Expansión en negocio de energía eléctrica
+- Red de estaciones dominante en Colombia
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $11,500
-- Rango último mes: $11,040 - $11,500
+- Máximo 6 meses: $11,500 (dic 2024)
+- Mínimo 6 meses: $10,880 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $11,000
+- Resistencia inmediata: $11,600
+- Resistencia clave: $12,000
+- Media móvil 200 días: $11,200
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
-- Mediano plazo (0-6 meses): COMPRA - Beneficio crisis energética
-- Largo plazo (6-12 meses): COMPRA - Liderazgo en transición energética
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $11,000
-- Soporte 2: $10,800
-- Resistencia 1: $11,600
-- Resistencia 2: $12,000
+- 0-1 mes: MANTENER - Consolidación en máximos recientes
+- 0-6 meses: COMPRAR - Mejora en márgenes esperada
+- 6-12 meses: COMPRAR - Posición dominante en distribución

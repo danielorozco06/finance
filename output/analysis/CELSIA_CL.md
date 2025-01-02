@@ -1,26 +1,26 @@
-# Análisis CELSIA
+# Análisis Celsia
 
 ## Catalizadores Futuros
 
-- Pérdida de autosuficiencia energética del país beneficia a generadores
-- Próximo pago de dividendo en abril 2025 ($310 por acción, yield 8.29%)
-- Fuerte posición en energías renovables alineada con tendencias globales
-- Potencial beneficio por mayores precios de energía por importación de gas
+- Expansión en energías renovables
+- Beneficios por crisis energética y pérdida de autosuficiencia de gas en Colombia
+- Potencial incremento tarifario por escasez energética
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $3,710
-- Rango último mes: $3,500 - $3,710
+- Máximo 6 meses: $3,700 (ene 2025)
+- Mínimo 6 meses: $3,475 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $3,450
+- Soporte secundario: $3,500
+- Resistencia inmediata: $3,750
+- Resistencia clave: $4,000
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
-- Mediano plazo (0-6 meses): COMPRA - Beneficio por crisis energética
-- Largo plazo (6-12 meses): COMPRA - Liderazgo en renovables
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $3,500
-- Soporte 2: $3,400
-- Resistencia 1: $3,800
-- Resistencia 2: $4,000
+- 0-1 mes: COMPRAR - Momentum alcista reciente
+- 0-6 meses: COMPRAR - Beneficios por crisis energética
+- 6-12 meses: MANTENER - Evaluar impacto de posibles cambios regulatorios

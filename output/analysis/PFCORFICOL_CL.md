@@ -1,26 +1,26 @@
-# Análisis PFCORFICOL
+# Análisis Preferencial Corficolombiana
 
 ## Catalizadores Futuros
 
-- Próximo pago de dividendo en febrero 2025
-- Beneficio por reducción gradual de tasas de interés
-- Crecimiento en banca de inversión y mercado de capitales
-- Expansión regional en curso
+- Exposición al sector energético beneficia en crisis actual
+- Portafolio diversificado reduce riesgos
+- Potencial beneficio por ciclo bajista de tasas
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $14,280
-- Rango último mes: $13,400 - $14,460
+- Máximo 6 meses: $14,600 (nov 2024)
+- Mínimo 6 meses: $13,400 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $13,500
+- Resistencia inmediata: $14,500
+- Resistencia clave: $15,000
+- Media móvil 200 días: $14,000
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando ganancias
-- Mediano plazo (0-6 meses): COMPRA - Ciclo favorable tasas
-- Largo plazo (6-12 meses): COMPRA - Expansión regional
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $13,500
-- Soporte 2: $13,000
-- Resistencia 1: $14,500
-- Resistencia 2: $15,000
+- 0-1 mes: MANTENER - Consolidación en rango actual
+- 0-6 meses: COMPRAR - Beneficio por crisis energética
+- 6-12 meses: COMPRAR - Portafolio diversificado atractivo

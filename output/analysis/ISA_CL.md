@@ -2,25 +2,25 @@
 
 ## Catalizadores Futuros
 
-- Beneficio por crisis energética y necesidad de infraestructura
-- Expansión en transmisión eléctrica en Brasil y Perú
-- Próximo pago de dividendo en marzo 2025
-- Posición dominante en interconexión regional
+- Beneficiario de crisis energética nacional
+- Rol estratégico en transmisión eléctrica
+- Expansión regional en curso
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $16,700
-- Rango último mes: $16,200 - $16,920
+- Máximo 6 meses: $16,700 (ene 2025)
+- Mínimo 6 meses: $16,200 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $16,200
+- Resistencia inmediata: $17,000
+- Resistencia clave: $17,500
+- Media móvil 200 días: $16,400
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando niveles
-- Mediano plazo (0-6 meses): COMPRA - Beneficio crisis energética
-- Largo plazo (6-12 meses): COMPRA - Expansión regional
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $16,200
-- Soporte 2: $16,000
-- Resistencia 1: $17,000
-- Resistencia 2: $17,500
+- 0-1 mes: MANTENER - Consolidación en máximos
+- 0-6 meses: COMPRAR - Beneficio por crisis energética
+- 6-12 meses: COMPRAR - Posición dominante en sector estratégico

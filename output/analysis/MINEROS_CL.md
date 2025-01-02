@@ -1,26 +1,26 @@
-# Análisis MINEROS
+# Análisis Mineros
 
 ## Catalizadores Futuros
 
-- Precios del oro en máximos históricos
-- Expectativa de debilidad del dólar beneficia commodities
-- Potencial mejora en regulación minera con cambio de gobierno
-- Eficiencias operativas en proceso de implementación
+- Próximo pago de dividendo de 0.02 USD el 15 de enero 2025
+- Expectativas de precios estables del oro en 2025
+- Potencial beneficio por debilidad del peso colombiano
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $4,255
-- Rango último mes: $4,225 - $4,520
+- Máximo 6 meses: $4,520 (dic 2024)
+- Mínimo 6 meses: $4,200 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $4,200
+- Resistencia inmediata: $4,500
+- Resistencia clave: $4,700
+- Media móvil 200 días: $4,300
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Consolidando ganancias
-- Mediano plazo (0-6 meses): COMPRA - Momentum en precio del oro
-- Largo plazo (6-12 meses): COMPRA - Mejora regulatoria esperada
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $4,200
-- Soporte 2: $4,000
-- Resistencia 1: $4,500
-- Resistencia 2: $4,800
+- 0-1 mes: MANTENER - Consolidación en rango actual
+- 0-6 meses: MANTENER - Sin catalizadores claros
+- 6-12 meses: COMPRAR - Cobertura ante debilidad peso colombiano

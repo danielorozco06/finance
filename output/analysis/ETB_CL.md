@@ -2,25 +2,25 @@
 
 ## Catalizadores Futuros
 
-- Baja liquidez limita potencial de valorización
-- Necesidad de inversiones significativas en infraestructura 5G
-- Presión competitiva en sector telecomunicaciones
-- Resultados operativos débiles con márgenes bajo presión
+- Sin catalizadores relevantes identificados
+- Baja liquidez limita potencial de movimientos
+- Sector telecomunicaciones maduro con limitado crecimiento
 
-## Precios Recientes
+## Precios Relevantes
 
 - Último precio: $74
-- Rango último mes: $74 - $74 (muy baja liquidez)
+- Máximo 6 meses: $106 (ago 2024)
+- Mínimo 6 meses: $74 (dic 2024)
+
+## Niveles Técnicos
+
+- Soporte principal: $70
+- Resistencia inmediata: $80
+- Resistencia principal: $90
+- Media móvil 200 días: $85
 
 ## Recomendación de Inversión
 
-- Corto plazo (0-1 mes): MANTENER - Baja liquidez
-- Mediano plazo (0-6 meses): MANTENER - Sin catalizadores claros
-- Largo plazo (6-12 meses): MANTENER - Desafíos estructurales
-
-## Niveles Técnicos Relevantes
-
-- Soporte 1: $70
-- Soporte 2: $65
-- Resistencia 1: $80
-- Resistencia 2: $85
+- 0-1 mes: MANTENER - Baja liquidez
+- 0-6 meses: MANTENER - Sin catalizadores claros
+- 6-12 meses: MANTENER - Sector sin perspectivas de crecimiento
