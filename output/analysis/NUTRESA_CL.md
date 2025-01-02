@@ -1,26 +1,29 @@
-# Análisis Grupo Nutresa
+# Análisis Grupo Nutresa (NUTRESA.CL)
 
 ## Catalizadores Futuros
 
-- Beneficio por estabilización de costos de materias primas
-- Expansión internacional en curso
-- Sector defensivo ante incertidumbre económica
+- Beneficio por reducción en precios de materias primas
+- Expansión internacional continua
+- Potencial nueva OPA por parte de Gilinski
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $79,000
-- Máximo 6 meses: $79,500 (nov 2024)
-- Mínimo 6 meses: $71,600 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $78,000
-- Resistencia inmediata: $80,000
-- Resistencia clave: $82,000
-- Media móvil 200 días: $78,500
+- Último precio (2024-12-30): 79,000
+- Máximo 30 días: 79,000
+- Mínimo 30 días: 71,600
+- Volumen promedio 30 días: 17,273 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación en rango actual
-- 0-6 meses: COMPRAR - Sector defensivo atractivo
-- 6-12 meses: COMPRAR - Perspectivas favorables largo plazo
+- 0-1 mes: NEUTRAL
+- 0-6 meses: NEUTRAL
+- 6-12 meses: COMPRA
+
+Justificación: La acción muestra estabilidad en precios pero baja liquidez. El potencial de una nueva OPA mantiene el interés.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 78,000
+- Soporte medio: 79,000
+- Resistencia cercana: 80,000
+- Resistencia fuerte: 82,000

@@ -1,26 +1,29 @@
-# Análisis Ecopetrol
+# Análisis Ecopetrol (ECOPETROL.CL)
 
 ## Catalizadores Futuros
 
-- Expectativa de cambio de gobierno en 2026 más favorable al sector
-- Precios del crudo presionados por exceso de oferta en 2025
-- Suspensión proyecto Komodo afecta perspectivas de corto plazo
+- Cambio de gobierno en 2026 con política favorable al sector
+- Dividendo próximo de $602.66 (35.98%)
+- Expectativa de recuperación en precios del petróleo
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $1,800
-- Máximo 6 meses: $1,830 (nov 2024)
-- Mínimo 6 meses: $1,650 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $1,650
-- Resistencia inmediata: $1,850
-- Resistencia clave: $2,000
-- Media móvil 200 días: $1,780
+- Último precio (2025-01-02): 1,800
+- Máximo 30 días: 1,800
+- Mínimo 30 días: 1,650
+- Volumen promedio 30 días: 2,595,607 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación en rango $1,700-$1,850
-- 0-6 meses: MANTENER - Presión por precios del crudo
-- 6-12 meses: COMPRAR - Anticipando cambio político favorable
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La acción muestra recuperación tras tocar mínimos. El cambio de gobierno en 2026 y la expectativa de mejores precios del petróleo son catalizadores importantes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 1,650
+- Soporte medio: 1,700
+- Resistencia cercana: 1,850
+- Resistencia fuerte: 1,900

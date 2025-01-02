@@ -1,26 +1,29 @@
-# Análisis Preferencial Grupo Argos
+# Análisis Preferencial Grupo Argos (PFGRUPOARG.CL)
 
 ## Catalizadores Futuros
 
-- Próximo pago de dividendo de $159 (1.03%) el 10 de enero 2025
+- Próximo pago de dividendo de $159 (1.03%) el 10 ene 2025
 - Proceso de escisión con Grupo Sura durante 2025
-- Potencial liberación de valor por simplificación estructura
+- Potencial destrabe de valor por simplificación societaria
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $15,440
-- Máximo 6 meses: $15,440 (dic 2024)
-- Mínimo 6 meses: $13,500 (nov 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $15,000
-- Resistencia inmediata: $15,500
-- Resistencia clave: $16,000
-- Media móvil 200 días: $14,500
+- Último precio (2024-12-31): 15,440
+- Máximo 30 días: 15,440
+- Mínimo 30 días: 13,820
+- Volumen promedio 30 días: 45,052 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: COMPRAR - Momentum por escisión anunciada
-- 0-6 meses: COMPRAR - Beneficio proceso escisión
-- 6-12 meses: COMPRAR FUERTE - Liberación de valor esperada
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA FUERTE
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La escisión con Grupo Sura es un catalizador muy positivo que permitirá liberar valor. La acción muestra fuerte tendencia alcista.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 14,800
+- Soporte medio: 15,200
+- Resistencia cercana: 15,500
+- Resistencia fuerte: 16,000

@@ -1,26 +1,29 @@
-# Análisis Grupo Energía Bogotá
+# Análisis Grupo Energía Bogotá (GEB.CL)
 
 ## Catalizadores Futuros
 
-- Beneficiario directo de crisis energética nacional
-- Importancia estratégica en distribución de gas natural
-- Potencial de expansión regional
+- Crisis energética beneficia operaciones de transmisión y gas
+- Expansión en proyectos de energías renovables
+- Beneficios por pérdida de autosuficiencia energética del país
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $2,500
-- Máximo 6 meses: $2,600 (dic 2024)
-- Mínimo 6 meses: $2,420 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $2,400
-- Resistencia inmediata: $2,600
-- Resistencia clave: $2,800
-- Media móvil 200 días: $2,450
+- Último precio (2025-01-02): 2,500
+- Máximo 30 días: 2,510
+- Mínimo 30 días: 2,420
+- Volumen promedio 30 días: 131,891 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: COMPRAR - Beneficio inmediato por crisis energética
-- 0-6 meses: COMPRAR - Posición estratégica en sector gas
-- 6-12 meses: COMPRAR - Perspectivas favorables largo plazo
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La crisis energética y necesidad de infraestructura benefician directamente al GEB. La acción muestra tendencia alcista estable.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 2,420
+- Soporte medio: 2,450
+- Resistencia cercana: 2,510
+- Resistencia fuerte: 2,600

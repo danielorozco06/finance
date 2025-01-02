@@ -1,26 +1,29 @@
-# Análisis Constructora Conconcreto
+# Análisis Constructora Conconcreto (CONCONCRET.CL)
 
 ## Catalizadores Futuros
 
-- Suspensión programa Mi Casa Ya podría afectar negativamente
-- Posible reactivación de proyectos de infraestructura en 2025
-- Expectativa de reducción de tasas beneficiará sector constructor
+- Recuperación del sector construcción tras suspensión de Mi Casa Ya
+- Potencial reactivación de proyectos de infraestructura en 2025
+- Expectativas de reducción de tasas de interés
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $524
-- Máximo 6 meses: $524 (ene 2025)
-- Mínimo 6 meses: $305 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte inmediato: $480
-- Soporte principal: $450
-- Resistencia inmediata: $550
-- Media móvil 200 días: $380
+- Último precio (2025-01-02): 524
+- Máximo 30 días: 524
+- Mínimo 30 días: 419
+- Volumen promedio 30 días: 978,395 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: TOMA DE UTILIDADES - Fuerte rally reciente
-- 0-6 meses: MANTENER - Consolidación necesaria tras subida
-- 6-12 meses: COMPRAR - Beneficio por ciclo bajista de tasas
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La acción muestra un fuerte impulso alcista desde diciembre. La expectativa de menores tasas y reactivación del sector construcción son catalizadores importantes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 445
+- Soporte medio: 470
+- Resistencia cercana: 530
+- Resistencia fuerte: 550

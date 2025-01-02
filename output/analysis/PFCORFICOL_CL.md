@@ -1,26 +1,29 @@
-# Análisis Preferencial Corficolombiana
+# Análisis Preferencial Corficolombiana (PFCORFICOL.CL)
 
 ## Catalizadores Futuros
 
-- Exposición al sector energético beneficia en crisis actual
-- Portafolio diversificado reduce riesgos
-- Potencial beneficio por ciclo bajista de tasas
+- Beneficio por cambio de gobierno en 2026
+- Recuperación de proyectos de infraestructura
+- Potencial venta de activos no estratégicos
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $14,280
-- Máximo 6 meses: $14,600 (nov 2024)
-- Mínimo 6 meses: $13,400 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $13,500
-- Resistencia inmediata: $14,500
-- Resistencia clave: $15,000
-- Media móvil 200 días: $14,000
+- Último precio (2024-12-31): 14,280
+- Máximo 30 días: 14,460
+- Mínimo 30 días: 13,400
+- Volumen promedio 30 días: 11,981 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación en rango actual
-- 0-6 meses: COMPRAR - Beneficio por crisis energética
-- 6-12 meses: COMPRAR - Portafolio diversificado atractivo
+- 0-1 mes: NEUTRAL
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La acción muestra recuperación tras caídas. El cambio de gobierno y reactivación de infraestructura son catalizadores importantes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 13,400
+- Soporte medio: 13,800
+- Resistencia cercana: 14,500
+- Resistencia fuerte: 15,000

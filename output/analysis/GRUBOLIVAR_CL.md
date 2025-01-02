@@ -1,26 +1,29 @@
-# Análisis Grupo Bolívar
+# Análisis Grupo Bolívar (GRUBOLIVAR.CL)
 
 ## Catalizadores Futuros
 
-- Próximo pago de dividendo de $207 (0.34%) el 17 de marzo 2025
-- Beneficiario de ciclo bajista de tasas de interés
-- Potencial mejora en calidad de cartera por estabilización económica
+- Próximo pago de dividendo de $207 (0.34%) el 17 mar 2025
+- Beneficio del ciclo de reducción de tasas de interés
+- Potencial recuperación del sector construcción
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $60,520
-- Máximo 6 meses: $60,520 (ene 2025)
-- Mínimo 6 meses: $55,600 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $58,000
-- Resistencia inmediata: $61,000
-- Resistencia clave: $62,500
-- Media móvil 200 días: $58,500
+- Último precio (2025-01-02): 60,520
+- Máximo 30 días: 60,520
+- Mínimo 30 días: 55,600
+- Volumen promedio 30 días: 4,624 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación tras máximos recientes
-- 0-6 meses: COMPRAR - Beneficio por ciclo bajista de tasas
-- 6-12 meses: COMPRAR - Perspectivas favorables sector financiero
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La acción muestra fuerte tendencia alcista. El ciclo de reducción de tasas y la recuperación del sector construcción son catalizadores importantes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 58,000
+- Soporte medio: 59,000
+- Resistencia cercana: 61,000
+- Resistencia fuerte: 62,000

@@ -1,26 +1,29 @@
-# Análisis Terpel
+# Análisis Terpel (TERPEL.CL)
 
 ## Catalizadores Futuros
 
-- Beneficio por normalización márgenes combustibles
-- Expansión en negocio de energía eléctrica
-- Red de estaciones dominante en Colombia
+- Recuperación en márgenes por estabilización de precios
+- Expansión en estaciones de servicio eléctrico
+- Beneficio por normalización de precios del petróleo
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $11,500
-- Máximo 6 meses: $11,500 (dic 2024)
-- Mínimo 6 meses: $10,880 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $11,000
-- Resistencia inmediata: $11,600
-- Resistencia clave: $12,000
-- Media móvil 200 días: $11,200
+- Último precio (2024-12-30): 11,500
+- Máximo 30 días: 11,500
+- Mínimo 30 días: 11,040
+- Volumen promedio 30 días: 6,926 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación en máximos recientes
-- 0-6 meses: COMPRAR - Mejora en márgenes esperada
-- 6-12 meses: COMPRAR - Posición dominante en distribución
+- 0-1 mes: NEUTRAL
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA
+
+Justificación: La acción muestra tendencia alcista moderada. La estabilización de precios del petróleo beneficiará los márgenes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 11,000
+- Soporte medio: 11,200
+- Resistencia cercana: 11,600
+- Resistencia fuerte: 12,000

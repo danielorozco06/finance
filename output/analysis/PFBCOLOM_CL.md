@@ -1,26 +1,29 @@
-# Análisis Preferencial Bancolombia
+# Análisis Preferencial Bancolombia (PFBCOLOM.CL)
 
 ## Catalizadores Futuros
 
-- Beneficiario directo del ciclo bajista de tasas
+- Beneficio del ciclo de reducción de tasas de interés
+- Expansión digital y eficiencia operativa
 - Mejora esperada en calidad de cartera
-- Liderazgo en transformación digital bancaria
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $35,300
-- Máximo 6 meses: $35,884 (nov 2024)
-- Mínimo 6 meses: $33,933 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $34,000
-- Resistencia inmediata: $36,000
-- Resistencia clave: $37,000
-- Media móvil 200 días: $35,000
+- Último precio (2025-01-02): 35,300
+- Máximo 30 días: 35,520
+- Mínimo 30 días: 33,934
+- Volumen promedio 30 días: 320,339 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Consolidación en rango actual
-- 0-6 meses: COMPRAR - Beneficio por ciclo bajista de tasas
-- 6-12 meses: COMPRAR - Líder sector financiero colombiano
+- 0-1 mes: COMPRA
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+Justificación: La acción muestra tendencia alcista sólida. El ciclo de reducción de tasas y la transformación digital son catalizadores importantes.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 34,200
+- Soporte medio: 34,600
+- Resistencia cercana: 35,500
+- Resistencia fuerte: 36,000

@@ -16,7 +16,7 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 CONTEXTO: /input/
 
-PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones: catalizadores futuros, precios de compra/venta mas recientes, recomendacion de inversion (0-1 mes, 0-6 meses, 6-12 meses y etiquetas de MANTENER, COMPRAR, COMPRA FUERTE), niveles tecnicos relevantes. Nota: hoy es 2025-01-02.
+PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones: catalizadores futuros, precios de compra/venta mas recientes, recomendacion de inversion (0-1 mes, 0-6 meses, 6-12 meses y etiquetas de NEUTRAL, COMPRA, COMPRA FUERTE), niveles tecnicos relevantes. Nota: hoy es 2025-01-02.
 
 ## Prompt portafolio de inversión
 
@@ -26,7 +26,7 @@ PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.m
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER en el periodo indicado y priorizar tickers con etiqueta COMPRA FUERTE.
+1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta NEUTRAL en el periodo indicado y priorizar tickers con etiqueta COMPRA FUERTE.
 
 2. Organizar el documento con la siguiente estructura:
 

@@ -1,26 +1,29 @@
-# Análisis ETB
+# Análisis ETB (ETB.CL)
 
 ## Catalizadores Futuros
 
-- Sin catalizadores relevantes identificados
-- Baja liquidez limita potencial de movimientos
-- Sector telecomunicaciones maduro con limitado crecimiento
+- Potencial venta de la compañía por parte del Distrito
+- Modernización de infraestructura de telecomunicaciones
+- Expansión en servicios digitales y fibra óptica
 
-## Precios Relevantes
+## Precios Recientes
 
-- Último precio: $74
-- Máximo 6 meses: $106 (ago 2024)
-- Mínimo 6 meses: $74 (dic 2024)
-
-## Niveles Técnicos
-
-- Soporte principal: $70
-- Resistencia inmediata: $80
-- Resistencia principal: $90
-- Media móvil 200 días: $85
+- Último precio (2024-12-27): 74
+- Máximo 30 días: 74
+- Mínimo 30 días: 74
+- Volumen promedio 30 días: 43,685 acciones
 
 ## Recomendación de Inversión
 
-- 0-1 mes: MANTENER - Baja liquidez
-- 0-6 meses: MANTENER - Sin catalizadores claros
-- 6-12 meses: MANTENER - Sector sin perspectivas de crecimiento
+- 0-1 mes: NEUTRAL
+- 0-6 meses: NEUTRAL
+- 6-12 meses: NEUTRAL
+
+Justificación: La acción muestra muy baja liquidez y nula volatilidad. Sin catalizadores claros en el corto plazo más allá de especulaciones sobre su venta.
+
+## Niveles Técnicos
+
+- Soporte fuerte: 72
+- Soporte medio: 74
+- Resistencia cercana: 76
+- Resistencia fuerte: 80
