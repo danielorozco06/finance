@@ -26,7 +26,7 @@ PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.m
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers sin recomendacion de compra en el periodo indicado.
+1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER en el periodo indicado y priorizar tickers con etiqueta COMPRA FUERTE.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -47,20 +47,6 @@ Nota: prioriozar compras y ventas escalonadas.
 ### 2.2 Órdenes de Protección y Salida
 
 [Stop loss por posición y ordenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
-
-## 3. Gestión del Portafolio
-
-### 3.1 Gestión de Riesgo
-
-[Stop loss global y reglas de gestión]
-
-### 3.2 Consideraciones de Ejecución
-
-[Reglas de ejecución de órdenes]
-
-### 3.3 Seguimiento y Rebalanceo
-
-[Plan de monitoreo y ajustes]
 
 ---
 
