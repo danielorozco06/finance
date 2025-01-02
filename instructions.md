@@ -1,3 +1,7 @@
+# Dividendos
+
+Actualizar manualmente el archivo input/dividendos.md con los dividendos de los tickers.
+
 # Tickers
 
 Ejecutar el script getTickerInfo.py para obtener la información de los tickers.
