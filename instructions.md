@@ -20,13 +20,15 @@ PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md c
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/ e /input/news.md
+CONTEXTO: /output/, /input/news.md, /input/dividendos.md
 
-PROMPT: Actualizar el archivo ./output/portfolioXmeses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000.
+PROMPT:Modificar el archivo ./output/portfolioXmeses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000.
 
 Tener en cuenta los siguientes criterios:
 
 1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante evitar tickers sin recomendacion de compra en el periodo indicado.
+
+Importante: X es 1 mes y hoy es 2025-01-02.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -48,7 +50,7 @@ Tener en cuenta los siguientes criterios:
 
 ### 2.3 Órdenes de Salida
 
-[Take profit por posición]
+[Ordenes límite de salida]
 
 ## 3. Gestión del Portafolio
 
