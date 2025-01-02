@@ -1,27 +1,27 @@
-# Grupo Nutresa
+# Análisis Grupo Nutresa (NUTRESA.CL)
 
 ## Catalizadores Futuros
 
-- Expansión internacional
-- Innovación en productos
-- Eficiencias operativas y control de costos
-
-## Precios Recientes
-
-- Último precio: 79,000
-- Máximo 30 días: 79,000
-- Mínimo 30 días: 71,600
+- Expansión internacional continua
+- Mejora en márgenes por estabilización costos
+- Innovación en productos saludables
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 78,000
-- Resistencia fuerte: 79,500
-- Media móvil 30 días: 78,500
+- Soporte: 71,600 (mínimo diciembre)
+- Resistencia inmediata: 79,000 (último cierre)
+- Resistencia clave: 79,500 (máximo reciente)
+- Media móvil 50 días: ~78,500
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Neutral
-- 0-6 meses: Compra
-- 6-12 meses: Compra
-- 12-18 meses: Compra
+- Último cierre: 79,000
+- Máximo 30 días: 79,500
+- Mínimo 30 días: 71,600
+- Sin consenso analistas disponible
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Consolidación en máximos
+- 0-6 meses: MANTENER - Valoración exigente
+- 6-12 meses: MANTENER - Esperar corrección

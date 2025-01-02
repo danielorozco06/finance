@@ -1,27 +1,27 @@
-# Ecopetrol
+# Análisis Ecopetrol (ECOPETROL.CL)
 
 ## Catalizadores Futuros
 
-- Cambio de gobierno en 2026 con políticas más favorables al sector
-- Caída en precios del crudo afecta negativamente
-- Pérdida de autosuficiencia energética en Colombia
-
-## Precios Recientes
-
-- Último precio: 1,675
-- Máximo 30 días: 1,830
-- Mínimo 30 días: 1,650
+- Caída en precios del crudo afecta perspectivas corto plazo
+- Restricciones gubernamentales actuales limitan crecimiento
+- Potencial cambio positivo en políticas sector con nuevo gobierno en 2026
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 1,650
-- Resistencia fuerte: 1,800
-- Media móvil 30 días: 1,720
+- Soporte fuerte: 1,650 (mínimo diciembre)
+- Resistencia inmediata: 1,800 (último cierre)
+- Resistencia clave: 1,830 (máximo reciente)
+- Media móvil 50 días: ~1,750
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Compra
-- 0-6 meses: Compra
-- 6-12 meses: Compra fuerte
-- 12-18 meses: Compra fuerte
+- Último cierre: 1,800
+- Máximo 30 días: 1,830
+- Mínimo 30 días: 1,650
+- Precio objetivo analistas: 1,969 (promedio)
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Volatilidad por precios del crudo
+- 0-6 meses: MANTENER - Presión regulatoria continúa
+- 6-12 meses: COMPRAR - Expectativa cambio político favorable

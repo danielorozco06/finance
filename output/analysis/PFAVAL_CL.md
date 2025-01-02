@@ -1,27 +1,27 @@
-# Preferencial Grupo Aval
+# Análisis Preferencial Aval (PFAVAL.CL)
 
 ## Catalizadores Futuros
 
-- Posible mejora en márgenes por tasas de interés en 2024
-- Expectativa de crecimiento económico moderado
-- Potencial consolidación del sector financiero
-
-## Precios Recientes
-
-- Último precio: 446
-- Máximo 30 días: 458
-- Mínimo 30 días: 431
+- Beneficio por reducción tasas de interés
+- Mejora esperada en calidad de cartera
+- Potencial recuperación económica 2025
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 430
-- Resistencia fuerte: 460
-- Media móvil 30 días: 445
+- Soporte: 431 (mínimo diciembre)
+- Resistencia inmediata: 453 (último cierre)
+- Resistencia clave: 458 (máximo reciente)
+- Media móvil 50 días: ~445
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Compra
-- 0-6 meses: Compra
-- 6-12 meses: Compra
-- 12-18 meses: Compra fuerte
+- Último cierre: 453
+- Máximo 30 días: 458
+- Mínimo 30 días: 431
+- Sin consenso analistas disponible
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Consolidación reciente
+- 0-6 meses: COMPRAR - Beneficio reducción tasas
+- 6-12 meses: COMPRAR - Mejora sector financiero

@@ -1,27 +1,27 @@
-# Constructora Conconcreto
+# Análisis Conconcreto (CONCONCRET.CL)
 
 ## Catalizadores Futuros
 
-- Suspensión del programa Mi Casa Ya afecta negativamente
-- Expectativa de recuperación del sector construcción en 2024
-- Potenciales nuevos proyectos de infraestructura
-
-## Precios Recientes
-
-- Último precio: 486
-- Máximo 30 días: 470
-- Mínimo 30 días: 419
+- Suspensión programa Mi Casa Ya afecta sector construcción
+- Potencial recuperación sector construcción en 2025
+- Expectativa de nuevos proyectos de infraestructura
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 420
-- Resistencia fuerte: 500
-- Media móvil 30 días: 445
+- Soporte: 419 (mínimo diciembre)
+- Resistencia inmediata: 524 (último cierre)
+- Resistencia clave: 486 (máximo previo)
+- Media móvil 50 días: ~450
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Compra
-- 0-1 mes: Compra
-- 0-6 meses: Compra fuerte
-- 6-12 meses: Compra fuerte
-- 12-18 meses: Compra fuerte
+- Último cierre: 524
+- Máximo 30 días: 486
+- Mínimo 30 días: 419
+- Precio objetivo analistas: 550
+
+## Recomendación
+
+- 0-1 mes: TOMAR BENEFICIOS - Fuerte subida reciente
+- 0-6 meses: MANTENER - Sector en recuperación gradual
+- 6-12 meses: COMPRAR - Potencial mejora sector construcción

@@ -1,27 +1,27 @@
-# Terpel
+# Análisis Terpel (TERPEL.CL)
 
 ## Catalizadores Futuros
 
-- Expansión de red de estaciones de servicio
-- Inversiones en energías alternativas
-- Expectativa de recuperación en consumo de combustibles
-
-## Precios Recientes
-
-- Último precio: 11,500
-- Máximo 30 días: 11,500
-- Mínimo 30 días: 11,040
+- Beneficio por importaciones gas natural
+- Expansión red de estaciones
+- Desarrollo negocio energías alternativas
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 11,000
-- Resistencia fuerte: 11,600
-- Media móvil 30 días: 11,250
+- Soporte: 11,040 (mínimo diciembre)
+- Resistencia inmediata: 11,500 (último cierre)
+- Resistencia clave: 11,500 (máximo reciente)
+- Media móvil 50 días: ~11,200
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Compra
-- 0-6 meses: Compra
-- 6-12 meses: Compra
-- 12-18 meses: Compra fuerte
+- Último cierre: 11,500
+- Máximo 30 días: 11,500
+- Mínimo 30 días: 11,040
+- Sin consenso analistas disponible
+
+## Recomendación
+
+- 0-1 mes: MANTENER - En resistencia clave
+- 0-6 meses: COMPRAR - Beneficio importación gas
+- 6-12 meses: COMPRAR - Expansión continua

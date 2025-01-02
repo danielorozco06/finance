@@ -1,27 +1,27 @@
-# ETB
+# Análisis ETB (ETB.CL)
 
 ## Catalizadores Futuros
 
-- Potencial privatización de la compañía
-- Inversiones en infraestructura de fibra óptica
-- Competencia agresiva en el sector telecomunicaciones
-
-## Precios Recientes
-
-- Último precio: 74
-- Máximo 30 días: 74
-- Mínimo 30 días: 74
+- Baja liquidez limita potencial de valorización
+- Sin catalizadores significativos identificados
+- Necesidad de modernización infraestructura
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 74
-- Resistencia fuerte: 75
-- Media móvil 30 días: 74
+- Soporte: 74 (último cierre)
+- Resistencia inmediata: 79
+- Resistencia clave: 85
+- Media móvil 50 días: ~74.5
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Neutral
-- 0-6 meses: Neutral
-- 6-12 meses: Neutral
-- 12-18 meses: Neutral
+- Último cierre: 74
+- Máximo 30 días: 74
+- Mínimo 30 días: 74
+- Sin precio objetivo de analistas
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Baja liquidez
+- 0-6 meses: MANTENER - Sin catalizadores claros
+- 6-12 meses: MANTENER - Necesidad de mejoras operativas

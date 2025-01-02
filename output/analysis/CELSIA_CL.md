@@ -1,27 +1,27 @@
-# Celsia
+# Análisis Celsia (CELSIA.CL)
 
 ## Catalizadores Futuros
 
-- Expansión en energías renovables
-- Inversiones en infraestructura eléctrica
-- Beneficios por transición energética en Colombia
-
-## Precios Recientes
-
-- Último precio: 3,680
-- Máximo 30 días: 3,685
-- Mínimo 30 días: 3,500
+- Expansión en proyectos de energías renovables
+- Beneficios potenciales por el fenómeno de El Niño en generación térmica
+- Inversiones planificadas en distribución eléctrica para 2025
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 3,475
-- Resistencia fuerte: 3,700
-- Media móvil 30 días: 3,550
+- Soporte: 3,475 (mínimo diciembre)
+- Resistencia inmediata: 3,710 (último cierre)
+- Resistencia clave: 3,685 (máximo reciente)
+- Media móvil 50 días: ~3,550
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Compra
-- 0-6 meses: Compra fuerte
-- 6-12 meses: Compra fuerte
-- 12-18 meses: Compra fuerte
+- Último cierre: 3,710
+- Máximo 30 días: 3,685
+- Mínimo 30 días: 3,475
+- Precio objetivo analistas: 4,875 (promedio)
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Consolidación en niveles actuales
+- 0-6 meses: COMPRAR - Potencial alcista por proyectos renovables
+- 6-12 meses: COMPRAR FUERTE - Target 4,875 según consenso analistas

@@ -1,27 +1,27 @@
-# Mineros
+# Análisis Mineros (MINEROS.CL)
 
 ## Catalizadores Futuros
 
-- Volatilidad en precios de materias primas
-- Expectativa de mejora en precios del oro
-- Potenciales nuevos proyectos mineros
-
-## Precios Recientes
-
-- Último precio: 4,255
-- Máximo 30 días: 4,520
-- Mínimo 30 días: 4,225
+- Volatilidad precios del oro afecta resultados
+- Expansión operaciones en Nicaragua
+- Mejoras operativas en Colombia
 
 ## Niveles Técnicos Relevantes
 
-- Soporte fuerte: 4,200
-- Resistencia fuerte: 4,500
-- Media móvil 30 días: 4,350
+- Soporte: 4,225 (mínimo diciembre)
+- Resistencia inmediata: 4,255 (último cierre)
+- Resistencia clave: 4,520 (máximo reciente)
+- Media móvil 50 días: ~4,350
 
-## Recomendación de Inversión
+## Precios Relevantes
 
-- 0-1 semana: Neutral
-- 0-1 mes: Neutral
-- 0-6 meses: Compra
-- 6-12 meses: Compra
-- 12-18 meses: Compra fuerte
+- Último cierre: 4,255
+- Máximo 30 días: 4,520
+- Mínimo 30 días: 4,225
+- Sin consenso analistas disponible
+
+## Recomendación
+
+- 0-1 mes: MANTENER - Volatilidad precios oro
+- 0-6 meses: MANTENER - Esperar resultados operativos
+- 6-12 meses: COMPRAR - Mejoras operativas esperadas
