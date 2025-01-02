@@ -40,17 +40,15 @@ Importante: X es 1 mes y hoy es 2025-01-02.
 
 ## 2. Plan de Ejecución
 
+Nota: indicar cantidad de acciones, tipo de orden, precios ordenes de entrada y salida.
+
 ### 2.1 Órdenes de Entrada
 
-[Órdenes límite de entrada]
+[Órdenes de entrada]
 
-### 2.2 Órdenes de Protección
+### 2.2 Órdenes de Protección y Salida
 
-[Stop loss por posición]
-
-### 2.3 Órdenes de Salida
-
-[Ordenes límite de salida]
+[Stop loss por posición y ordenes de salida]
 
 ## 3. Gestión del Portafolio
 

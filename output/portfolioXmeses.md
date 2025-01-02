@@ -38,43 +38,125 @@
 
 ### 2.1 Órdenes de Entrada (URGENTE - HOY 02/01)
 
-- PFGRUPOARG: 100% a mercado HOY (pre ex-dividendo mañana)
-- CELSIA: 50% hoy, 50% después del 10 de enero
-- GEB: 70% hoy, 30% próxima semana
-- MINEROS: 50% hoy, 50% después del dividendo
+#### PFGRUPOARG (COP 2,100,000)
 
-### 2.2 Órdenes de Protección
+- Cantidad total: 136 acciones (2,099,840 COP)
+- Orden 1: Comprar 136 acciones
+  - Tipo: Orden mercado
+  - Precio máximo: 15,440
+  - Timing: HOY pre-mercado (ex-dividendo mañana)
 
-- PFGRUPOARG: Stop loss en 15,000 (-2.8%)
-- CELSIA: Stop loss en 3,600 (-3.0%)
-- GEB: Stop loss en 2,420 (-3.2%)
-- MINEROS: Stop loss en 4,100 (-3.6%)
+#### CELSIA (COP 1,800,000)
 
-### 2.3 Órdenes de Salida
+- Cantidad total: 485 acciones (1,799,350 COP)
+- Orden 1: Comprar 243 acciones
+  - Tipo: Orden límite
+  - Precio: 3,710
+  - Validez: Hoy
+- Orden 2: Comprar 242 acciones
+  - Tipo: Orden límite
+  - Precio: 3,710
+  - Timing: Después del 10 de enero
+
+#### GEB (COP 1,200,000)
+
+- Cantidad total: 480 acciones (1,200,000 COP)
+- Orden 1: Comprar 336 acciones (70%)
+  - Tipo: Orden límite
+  - Precio: 2,500
+  - Validez: Hoy
+- Orden 2: Comprar 144 acciones (30%)
+  - Tipo: Orden límite
+  - Precio: 2,500
+  - Timing: Próxima semana
+
+#### MINEROS (COP 900,000)
+
+- Cantidad total: 211 acciones (897,805 COP)
+- Orden 1: Comprar 106 acciones
+  - Tipo: Orden límite
+  - Precio: 4,255
+  - Validez: Hoy
+- Orden 2: Comprar 105 acciones
+  - Tipo: Orden límite
+  - Precio: 4,255
+  - Timing: Después del dividendo
+
+Total inversión: COP 5,996,995
+Efectivo remanente: COP 3,005
+
+### 2.2 Órdenes de Protección y Salida
 
 #### PFGRUPOARG
 
-- Take Profit 1: Vender 60% en 15,800 (+2.3%)
-- Take Profit 2: Vender 40% en 16,000 (+3.6%)
-- Stop loss: 15,000 (-2.8%)
+- Stop Loss:
+  - Tipo: Stop market
+  - Cantidad: 136 acciones
+  - Precio activación: 15,000 (-2.8%)
+  - Validez: GTC
+- Take Profit 1:
+  - Tipo: Límite GTC
+  - Cantidad: 82 acciones (60%)
+  - Precio: 15,800 (+2.3%)
+- Take Profit 2:
+  - Tipo: Límite GTC
+  - Cantidad: 54 acciones (40%)
+  - Precio: 16,000 (+3.6%)
 
 #### CELSIA
 
-- Take Profit 1: Vender 60% en 3,850 (+3.8%)
-- Take Profit 2: Vender 40% en 3,900 (+5.1%)
-- Stop loss: 3,600 (-3.0%)
+- Stop Loss:
+  - Tipo: Stop market
+  - Cantidad: 485 acciones
+  - Precio activación: 3,600 (-3.0%)
+  - Validez: GTC
+- Take Profit 1:
+  - Tipo: Límite GTC
+  - Cantidad: 291 acciones (60%)
+  - Precio: 3,850 (+3.8%)
+- Take Profit 2:
+  - Tipo: Límite GTC
+  - Cantidad: 194 acciones (40%)
+  - Precio: 3,900 (+5.1%)
 
 #### GEB
 
-- Take Profit 1: Vender 60% en 2,580 (+3.2%)
-- Take Profit 2: Vender 40% en 2,600 (+4.0%)
-- Stop loss: 2,420 (-3.2%)
+- Stop Loss:
+  - Tipo: Stop market
+  - Cantidad: 480 acciones
+  - Precio activación: 2,420 (-3.2%)
+  - Validez: GTC
+- Take Profit 1:
+  - Tipo: Límite GTC
+  - Cantidad: 288 acciones (60%)
+  - Precio: 2,580 (+3.2%)
+- Take Profit 2:
+  - Tipo: Límite GTC
+  - Cantidad: 192 acciones (40%)
+  - Precio: 2,600 (+4.0%)
 
 #### MINEROS
 
-- Take Profit 1: Vender 60% en 4,400 (+3.4%)
-- Take Profit 2: Vender 40% en 4,500 (+5.8%)
-- Stop loss: 4,100 (-3.6%)
+- Stop Loss:
+  - Tipo: Stop market
+  - Cantidad: 211 acciones
+  - Precio activación: 4,100 (-3.6%)
+  - Validez: GTC
+- Take Profit 1:
+  - Tipo: Límite GTC
+  - Cantidad: 127 acciones (60%)
+  - Precio: 4,400 (+3.4%)
+- Take Profit 2:
+  - Tipo: Límite GTC
+  - Cantidad: 84 acciones (40%)
+  - Precio: 4,500 (+5.8%)
+
+Notas sobre órdenes:
+
+- Órdenes de entrada: Ajustar precios según condiciones de mercado
+- Take Profit: Activar una vez completada la posición
+- Stop Loss: Activar una vez completada la posición
+- Todas las órdenes deben ser monitoreadas en tiempo real
 
 ## 3. Gestión del Portafolio
 
