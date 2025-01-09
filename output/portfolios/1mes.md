@@ -2,89 +2,71 @@
 
 ## 1. Composición y Justificación
 
-### GRUBOLIVAR (40% - COP 2,400,000)
-- Catalizador inmediato: fusión con Scotiabank anunciada el 7 enero
-- Próximo dividendo de $207 (0.34%) el 15 enero 2025
-- Momentum alcista por anuncio de fusión
+### GRUBOLIVAR (50% - COP 3,000,000)
+- Catalizador inmediato: fusión con Scotiabank ya anunciada (hace 2 días)
+- Etiqueta: COMPRA FUERTE (0-6 meses)
+- Momentum alcista por anuncio reciente de fusión
 - Soporte fuerte en $62,000
 
-### PFDAVVNDA (35% - COP 2,100,000)
+### PFDAVVNDA (30% - COP 1,800,000)
 - Beneficiario directo de la fusión Davivienda-Scotiabank
-- Potencial de sinergias y eficiencias operativas
+- Etiqueta: COMPRA FUERTE (0-6 meses)
+- Momentum positivo por anuncio reciente
 - Soporte en $19,000
-- Momentum positivo por anuncio de fusión
 
-### CNEC (25% - COP 1,500,000)
-- Beneficiario directo de crisis energética y pérdida autosuficiencia
+### CNEC (20% - COP 1,200,000)
+- Etiqueta: COMPRA (0-6 meses)
+- Beneficiario directo de crisis energética
 - Soporte técnico en $11,500
-- Potencial alcista por necesidad de gas natural
 - Momentum positivo en sector energético
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-CELSIA (COP 2,400,000):
+GRUBOLIVAR (COP 3,000,000):
+- 40% (COP 1,200,000): Orden límite a $64,500 - 18 acciones
+- 30% (COP 900,000): Orden límite a $64,800 - 14 acciones
+- 30% (COP 900,000): Orden límite a $65,000 - 14 acciones
+Total: 46 acciones
 
-- 40% (COP 960,000): Orden límite a $3,710 - 258 acciones
-- 30% (COP 720,000): Orden límite a $3,680 - 195 acciones
-- 30% (COP 720,000): Orden límite a $3,650 - 197 acciones
-  Total: 650 acciones
+PFDAVVNDA (COP 1,800,000):
+- 40% (COP 720,000): Orden límite a $19,500 - 37 acciones
+- 30% (COP 540,000): Orden límite a $19,700 - 27 acciones
+- 30% (COP 540,000): Orden límite a $19,900 - 27 acciones
+Total: 91 acciones
 
-GEB (COP 1,800,000):
-
-- 50% (COP 900,000): Orden límite a $2,500 - 360 acciones
-- 50% (COP 900,000): Orden límite a $2,480 - 362 acciones
-  Total: 722 acciones
-
-PFGRUPOARG (COP 1,800,000):
-
-- 50% (COP 900,000): Orden límite a $15,440 - 58 acciones
-- 50% (COP 900,000): Orden límite a $15,400 - 58 acciones
-  Total: 116 acciones
+CNEC (COP 1,200,000):
+- 40% (COP 480,000): Orden límite a $12,400 - 38 acciones
+- 30% (COP 360,000): Orden límite a $12,500 - 29 acciones
+- 30% (COP 360,000): Orden límite a $12,600 - 29 acciones
+Total: 96 acciones
 
 ### 2.2 Órdenes de Protección y Salida
 
-CELSIA:
-
-- Stop loss: Orden stop a $3,500 para 650 acciones (-5.7%)
+GRUBOLIVAR:
+- Stop loss: Orden stop a $62,000 para 46 acciones (-3.6%)
 - Take profit escalonado:
-  - 30% (195 acciones): Orden límite a $3,800
-  - 40% (260 acciones): Orden límite a $3,850
-  - 30% (195 acciones): Orden límite a $3,900
+  * 30% (14 acciones): Orden límite a $66,000 (+2.3%)
+  * 40% (18 acciones): Orden límite a $67,000 (+3.8%)
+  * 30% (14 acciones): Orden límite a $68,000 (+5.3%)
 
-GEB:
-
-- Stop loss: Orden stop a $2,420 para 722 acciones (-3.2%)
+PFDAVVNDA:
+- Stop loss: Orden stop a $19,000 para 91 acciones (-2.5%)
 - Take profit escalonado:
-  - 50% (361 acciones): Orden límite a $2,600
-  - 50% (361 acciones): Orden límite a $2,650
+  * 30% (27 acciones): Orden límite a $20,500 (+4.1%)
+  * 40% (37 acciones): Orden límite a $21,000 (+6.6%)
+  * 30% (27 acciones): Orden límite a $21,500 (+9.1%)
 
-PFGRUPOARG:
-
-- Stop loss: Orden stop a $15,000 para 116 acciones (-2.8%)
+CNEC:
+- Stop loss: Orden stop a $11,500 para 96 acciones (-8.0%)
 - Take profit escalonado:
-  - 50% (58 acciones): Orden límite a $15,700
-  - 50% (58 acciones): Orden límite a $15,900
+  * 30% (29 acciones): Orden límite a $13,000 (+4.0%)
+  * 40% (38 acciones): Orden límite a $13,500 (+8.0%)
+  * 30% (29 acciones): Orden límite a $14,000 (+12.0%)
 
-## 3. Gestión del Portafolio
+## 3. Consideraciones Adicionales
 
-### 3.1 Gestión de Riesgo
-
-- Stop loss global del portafolio: -4%
-- Máxima exposición por posición: 40%
-- No aumentar posiciones con pérdidas superiores al 2%
-
-### 3.2 Consideraciones de Ejecución
-
-- Ejecutar órdenes de entrada de forma escalonada
-- Priorizar horarios de mayor liquidez (apertura y cierre)
-- Usar órdenes límite para evitar deslizamiento
-- Monitorear volumen negociado para evitar impacto en precio
-
-### 3.3 Seguimiento y Rebalanceo
-
-- Revisión diaria de niveles técnicos y stops
-- Ajuste de stops a breakeven cuando posición gane +2%
-- Evaluación semanal de catalizadores y noticias relevantes
-- Rebalanceo si alguna posición supera 45% del portafolio
+- Monitoreo diario de noticias sobre fusión Davivienda-Scotiabank
+- Revisión semanal de soportes y resistencias
+- Ajuste de stops a breakeven cuando posiciones ganen +2%
