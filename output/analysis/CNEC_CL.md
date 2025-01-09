@@ -1,30 +1,33 @@
-# Análisis Canacol Energy (CNEC.CL)
+# Análisis CNEC
 
 ## Catalizadores Futuros
+- POSITIVO (2026): Cambio de gobierno que favorecería el sector de gas natural
+- POSITIVO (2025-H2): Aumento en demanda de gas por pérdida de autosuficiencia energética
+- NEGATIVO (2025-H1): Competencia de gas importado puede presionar precios
+- NEGATIVO (2025): Restricciones actuales del gobierno para nuevas exploraciones
 
-- Cambio de gobierno en 2026 con política más favorable al sector
-- Crisis de gas natural en Colombia beneficia a productores locales
-- Pérdida de autosuficiencia energética del país
+## Precios Relevantes
+- Precio actual: $12,440
+- Máximo 6 meses: $19,600 
+- Mínimo 6 meses: $10,900
+- Precio objetivo promedio: No disponible
 
-## Precios Recientes
+## Niveles Técnicos
+- Resistencia fuerte: $14,000
+- Resistencia: $13,000
+- Soporte: $11,500
+- Soporte fuerte: $11,000
 
-- Último precio (2025-01-02): No registra operaciones
-- Último cierre (2024-12-31): 11,100
-- Máximo 30 días: 11,360
-- Mínimo 30 días: 10,900
-- Volumen promedio 30 días: 6,926 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: NEUTRAL
+## Recomendación
+- 0-1 mes: COMPRA
 - 0-6 meses: COMPRA
 - 6-12 meses: COMPRA FUERTE
 
-Justificación: La crisis energética y escasez de gas natural benefician directamente a Canacol. El cambio de gobierno en 2026 podría impulsar significativamente el sector.
+### Justificación
+- Corto plazo: Rebote técnico desde soportes tras fuerte caída
+- Mediano plazo: Beneficiario directo de la crisis energética del país
+- Largo plazo: Cambio de gobierno y necesidad de gas natural favorecerán a la empresa
 
-## Niveles Técnicos
-
-- Soporte fuerte: 10,900
-- Soporte medio: 11,000
-- Resistencia cercana: 11,500
-- Resistencia fuerte: 11,800
+### Etiquetas
+- COMPRA FUERTE (6-12 meses)
+- COMPRA (0-6 meses)

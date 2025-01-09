@@ -1,29 +1,33 @@
-# Análisis Terpel (TERPEL.CL)
+# Análisis TERPEL
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Beneficiario de importaciones de gas natural
+- POSITIVO (2025+): Expansión en estaciones de carga eléctrica
+- NEGATIVO (2025-H1): Volatilidad en precios de combustibles
+- NEGATIVO (2025): Pérdida de autosuficiencia energética afecta márgenes
 
-- Recuperación en márgenes por estabilización de precios
-- Expansión en estaciones de servicio eléctrico
-- Beneficio por normalización de precios del petróleo
+## Precios Relevantes
+- Precio actual: $11,580
+- Máximo 52 semanas: $11,720
+- Mínimo 52 semanas: $10,880
+- Precio objetivo promedio: $12,500
 
-## Precios Recientes
+## Niveles Técnicos
+- Resistencia fuerte: $12,000
+- Resistencia: $11,700
+- Soporte: $11,300
+- Soporte fuerte: $11,000
 
-- Último precio (2024-12-30): 11,500
-- Máximo 30 días: 11,500
-- Mínimo 30 días: 11,040
-- Volumen promedio 30 días: 6,926 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: NEUTRAL
+## Recomendación
+- 0-1 mes: MANTENER
 - 0-6 meses: COMPRA
 - 6-12 meses: COMPRA
 
-Justificación: La acción muestra tendencia alcista moderada. La estabilización de precios del petróleo beneficiará los márgenes.
+### Justificación
+- Corto plazo: Consolidación cerca de máximos históricos
+- Mediano plazo: Beneficiario de crisis energética
+- Largo plazo: Posicionamiento en transición energética
 
-## Niveles Técnicos
-
-- Soporte fuerte: 11,000
-- Soporte medio: 11,200
-- Resistencia cercana: 11,600
-- Resistencia fuerte: 12,000
+### Etiquetas
+- COMPRA (6-12 meses)
+- COMPRA (0-6 meses)

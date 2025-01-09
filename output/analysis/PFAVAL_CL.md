@@ -1,29 +1,33 @@
-# Análisis Preferencial Grupo Aval (PFAVAL.CL)
+# Análisis PFAVAL
 
 ## Catalizadores Futuros
+- POSITIVO (2025-H2): Ciclo bajista de tasas beneficiará al sector
+- POSITIVO (2025+): Recuperación económica impulsará negocio bancario
+- NEGATIVO (2025-H1): Desaceleración económica afecta cartera
+- NEGATIVO (2025): Alta competencia en sector financiero
 
-- Próximo pago de dividendo de $2.0 (0.45%) el 3 mar 2025
-- Beneficio del ciclo de reducción de tasas de interés
-- Potencial recuperación del sector financiero
+## Precios Relevantes
+- Precio actual: $463
+- Máximo 52 semanas: $500
+- Mínimo 52 semanas: $430
+- Precio objetivo promedio: $520
 
-## Precios Recientes
+## Niveles Técnicos
+- Resistencia fuerte: $480
+- Resistencia: $470
+- Soporte: $450
+- Soporte fuerte: $440
 
-- Último precio (2025-01-02): 453
-- Máximo 30 días: 458
-- Mínimo 30 días: 431
-- Volumen promedio 30 días: 639,595 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: NEUTRAL
+## Recomendación
+- 0-1 mes: MANTENER
 - 0-6 meses: COMPRA
 - 6-12 meses: COMPRA
 
-Justificación: La acción muestra recuperación tras caídas recientes. El ciclo de reducción de tasas beneficiará al sector financiero.
+### Justificación
+- Corto plazo: Consolidación en rango lateral
+- Mediano plazo: Valoración atractiva vs comparables
+- Largo plazo: Beneficiario de ciclo económico positivo
 
-## Niveles Técnicos
-
-- Soporte fuerte: 431
-- Soporte medio: 445
-- Resistencia cercana: 460
-- Resistencia fuerte: 470
+### Etiquetas
+- COMPRA (6-12 meses)
+- COMPRA (0-6 meses)

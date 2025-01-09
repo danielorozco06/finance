@@ -1,29 +1,33 @@
-# Análisis Preferencial Grupo Argos (PFGRUPOARG.CL)
+# Análisis PFGRUPOARG
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Escisión con Grupo Sura mejorará transparencia
+- POSITIVO (2025+): Mayor liquidez post-escisión
+- NEGATIVO (2025-H1): Desaceleración en sector cemento
+- NEGATIVO (2025): Incertidumbre en valoración durante proceso de escisión
 
-- Próximo pago de dividendo de $159 (1.03%) el 10 ene 2025
-- Proceso de escisión con Grupo Sura durante 2025
-- Potencial destrabe de valor por simplificación societaria
-
-## Precios Recientes
-
-- Último precio (2024-12-31): 15,440
-- Máximo 30 días: 15,440
-- Mínimo 30 días: 13,820
-- Volumen promedio 30 días: 45,052 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: COMPRA
-- 0-6 meses: COMPRA FUERTE
-- 6-12 meses: COMPRA FUERTE
-
-Justificación: La escisión con Grupo Sura es un catalizador muy positivo que permitirá liberar valor. La acción muestra fuerte tendencia alcista.
+## Precios Relevantes
+- Precio actual: $14,840
+- Máximo 52 semanas: $15,500
+- Mínimo 52 semanas: $8,500
+- Precio objetivo promedio: $16,000
 
 ## Niveles Técnicos
+- Resistencia fuerte: $15,500
+- Resistencia: $15,200
+- Soporte: $14,500
+- Soporte fuerte: $14,000
 
-- Soporte fuerte: 14,800
-- Soporte medio: 15,200
-- Resistencia cercana: 15,500
-- Resistencia fuerte: 16,000
+## Recomendación
+- 0-1 mes: MANTENER
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA FUERTE
+
+### Justificación
+- Corto plazo: Consolidación tras rally de fin de año
+- Mediano plazo: Escisión como catalizador principal
+- Largo plazo: Mayor visibilidad y liquidez post-escisión
+
+### Etiquetas
+- COMPRA FUERTE (6-12 meses)
+- COMPRA (0-6 meses)

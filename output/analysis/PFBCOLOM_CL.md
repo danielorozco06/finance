@@ -1,29 +1,33 @@
-# Análisis Preferencial Bancolombia (PFBCOLOM.CL)
+# Análisis PFBCOLOM
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Consolidación sector bancario tras fusión Davivienda-Scotiabank
+- POSITIVO (2025-H2): Ciclo bajista de tasas beneficiará márgenes
+- NEGATIVO (2025-H1): Deterioro de cartera por desaceleración
+- NEGATIVO (2025): Presión competitiva en sector financiero
 
-- Beneficio del ciclo de reducción de tasas de interés
-- Expansión digital y eficiencia operativa
-- Mejora esperada en calidad de cartera
-
-## Precios Recientes
-
-- Último precio (2025-01-02): 35,300
-- Máximo 30 días: 35,520
-- Mínimo 30 días: 33,934
-- Volumen promedio 30 días: 320,339 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: COMPRA
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA FUERTE
-
-Justificación: La acción muestra tendencia alcista sólida. El ciclo de reducción de tasas y la transformación digital son catalizadores importantes.
+## Precios Relevantes
+- Precio actual: $35,160
+- Máximo 52 semanas: $35,600
+- Mínimo 52 semanas: $33,900
+- Precio objetivo promedio: $37,000
 
 ## Niveles Técnicos
+- Resistencia fuerte: $36,000
+- Resistencia: $35,500
+- Soporte: $34,500
+- Soporte fuerte: $34,000
 
-- Soporte fuerte: 34,200
-- Soporte medio: 34,600
-- Resistencia cercana: 35,500
-- Resistencia fuerte: 36,000
+## Recomendación
+- 0-1 mes: MANTENER
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA
+
+### Justificación
+- Corto plazo: Consolidación cerca de máximos recientes
+- Mediano plazo: Valoración atractiva vs sector
+- Largo plazo: Líder en banca digital y eficiencia
+
+### Etiquetas
+- COMPRA (6-12 meses)
+- COMPRA (0-6 meses)

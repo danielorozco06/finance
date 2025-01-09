@@ -1,29 +1,33 @@
-# Análisis Celsia (CELSIA.CL)
+# Análisis CELSIA
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Mayor demanda energética por pérdida de autosuficiencia de gas
+- POSITIVO (2025+): Liderazgo en energías renovables alineado con política gubernamental
+- NEGATIVO (2025-H1): Posible impacto en márgenes por mayores costos de generación
+- NEGATIVO (2025): Riesgo de regulación adversa en tarifas eléctricas
 
-- Expansión en energías renovables
-- Beneficios por crisis energética y pérdida de autosuficiencia de gas
-- Potencial incremento tarifario por escasez energética
-
-## Precios Recientes
-
-- Último precio (2025-01-02): 3,710
-- Máximo 30 días: 3,710
-- Mínimo 30 días: 3,475
-- Volumen promedio 30 días: 219,306 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: COMPRA
-- 0-6 meses: COMPRA FUERTE
-- 6-12 meses: COMPRA FUERTE
-
-Justificación: La crisis energética del país y la pérdida de autosuficiencia en gas natural beneficiarán a las empresas del sector eléctrico. Celsia está bien posicionada en renovables.
+## Precios Relevantes
+- Precio actual: $3,755
+- Máximo 52 semanas: $4,500
+- Mínimo 52 semanas: $2,900
+- Precio objetivo promedio: $4,875
 
 ## Niveles Técnicos
+- Resistencia fuerte: $4,000
+- Resistencia: $3,800
+- Soporte: $3,500
+- Soporte fuerte: $3,300
 
-- Soporte fuerte: 3,500
-- Soporte medio: 3,600
-- Resistencia cercana: 3,750
-- Resistencia fuerte: 3,800
+## Recomendación
+- 0-1 mes: MANTENER
+- 0-6 meses: COMPRA
+- 6-12 meses: COMPRA
+
+### Justificación
+- Corto plazo: Consolidación en niveles actuales tras fuerte rally
+- Mediano plazo: Beneficiario de la transición energética
+- Largo plazo: Posicionamiento estratégico en renovables
+
+### Etiquetas
+- COMPRA (6-12 meses)
+- COMPRA (0-6 meses)

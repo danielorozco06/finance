@@ -1,29 +1,33 @@
-# Análisis ETB (ETB.CL)
+# Análisis ETB
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Expansión en servicios de fibra óptica
+- POSITIVO (2025+): Crecimiento en segmento empresarial
+- NEGATIVO (2025-H1): Alta competencia en sector telecomunicaciones
+- NEGATIVO (2025): Presión en márgenes por inversiones en red
 
-- Potencial venta de la compañía por parte del Distrito
-- Modernización de infraestructura de telecomunicaciones
-- Expansión en servicios digitales y fibra óptica
-
-## Precios Recientes
-
-- Último precio (2024-12-27): 74
-- Máximo 30 días: 74
-- Mínimo 30 días: 74
-- Volumen promedio 30 días: 43,685 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: NEUTRAL
-- 0-6 meses: NEUTRAL
-- 6-12 meses: NEUTRAL
-
-Justificación: La acción muestra muy baja liquidez y nula volatilidad. Sin catalizadores claros en el corto plazo más allá de especulaciones sobre su venta.
+## Precios Relevantes
+- Precio actual: $74
+- Máximo 52 semanas: $106
+- Mínimo 52 semanas: $74
+- Precio objetivo promedio: No disponible
 
 ## Niveles Técnicos
+- Resistencia fuerte: $80
+- Resistencia: $76
+- Soporte: $72
+- Soporte fuerte: $70
 
-- Soporte fuerte: 72
-- Soporte medio: 74
-- Resistencia cercana: 76
-- Resistencia fuerte: 80
+## Recomendación
+- 0-1 mes: MANTENER
+- 0-6 meses: MANTENER
+- 6-12 meses: MANTENER
+
+### Justificación
+- Corto plazo: Soporte en mínimos históricos
+- Mediano plazo: Desafíos competitivos significativos
+- Largo plazo: Necesidad de alta inversión en infraestructura
+
+### Etiquetas
+- MANTENER (6-12 meses)
+- MANTENER (0-6 meses)

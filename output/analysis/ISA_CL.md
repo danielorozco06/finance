@@ -1,29 +1,33 @@
-# Análisis ISA (ISA.CL)
+# Análisis ISA
 
 ## Catalizadores Futuros
+- POSITIVO (2025): Mayor demanda de transmisión por crisis energética
+- POSITIVO (2025+): Expansión regional en proyectos de infraestructura
+- NEGATIVO (2025-H1): Presión regulatoria en tarifas de transmisión
+- NEGATIVO (2025): Riesgo político en concesiones regionales
 
-- Crisis energética beneficia negocio de transmisión
-- Expansión en proyectos de infraestructura eléctrica
-- Sinergias con Ecopetrol como accionista controlante
+## Precios Relevantes
+- Precio actual: $17,100
+- Máximo 52 semanas: $17,300
+- Mínimo 52 semanas: $16,200
+- Precio objetivo promedio: $18,500
 
-## Precios Recientes
+## Niveles Técnicos
+- Resistencia fuerte: $17,500
+- Resistencia: $17,300
+- Soporte: $16,700
+- Soporte fuerte: $16,500
 
-- Último precio (2025-01-02): 16,700
-- Máximo 30 días: 16,920
-- Mínimo 30 días: 16,200
-- Volumen promedio 30 días: 157,139 acciones
-
-## Recomendación de Inversión
-
-- 0-1 mes: NEUTRAL
+## Recomendación
+- 0-1 mes: MANTENER
 - 0-6 meses: COMPRA
 - 6-12 meses: COMPRA
 
-Justificación: La crisis energética beneficia el negocio de transmisión. La acción muestra tendencia alcista moderada.
+### Justificación
+- Corto plazo: Consolidación cerca de máximos recientes
+- Mediano plazo: Beneficiario de crisis energética regional
+- Largo plazo: Posición dominante en transmisión eléctrica
 
-## Niveles Técnicos
-
-- Soporte fuerte: 16,200
-- Soporte medio: 16,500
-- Resistencia cercana: 16,900
-- Resistencia fuerte: 17,200
+### Etiquetas
+- COMPRA (6-12 meses)
+- COMPRA (0-6 meses)
