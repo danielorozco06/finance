@@ -2,26 +2,23 @@
 
 ## 1. Composición y Justificación
 
-### CNEC (35% - COP 2,100,000)
+### GRUBOLIVAR (40% - COP 2,400,000)
+- Beneficiario principal de fusión con Scotiabank
+- Sinergias y eficiencias operativas durante 2025
+- Dividendos mensuales de $207 (0.34%)
+- Potencial de revalorización por integración
 
-- Principal beneficiario de la crisis energética y pérdida de autosuficiencia de gas
-- Potencial alcista por expectativa de cambio político favorable
-- Soporte sólido en $10,900
-- Tendencia alcista con objetivo $12,000
+### PFGRUPSURA (35% - COP 2,100,000)
+- Catalizador por proceso de escisión durante 2025
+- Simplificación de estructura societaria
+- Potencial liberación de valor
+- Soporte técnico en $25,000
 
-### BOGOTA (35% - COP 2,100,000)
-
-- Beneficiario directo del ciclo bajista de tasas iniciado en diciembre 2024
-- Dividendos mensuales de $121 (0.45%)
-- Potencial alcista hacia $30,000 por mejora en perspectivas económicas
-- Soporte fuerte en $25,900
-
-### PFGRUPSURA (30% - COP 1,800,000)
-
-- Catalizador por proceso de escisión con Grupo Argos durante 2025
-- Beneficio por ciclo bajista de tasas en portafolio financiero
-- Soporte en $25,000 con tendencia alcista
-- Potencial liberación de valor por simplificación estructura
+### PFDAVVNDA (25% - COP 1,500,000)
+- Beneficiario directo de fusión con Scotiabank
+- Ciclo bajista de tasas iniciado en diciembre 2024
+- Potencial de sinergias operativas
+- Soporte en $19,000
 
 ## 2. Plan de Ejecución
 

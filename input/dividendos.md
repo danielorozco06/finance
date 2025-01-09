@@ -1,3 +1,6 @@
+# NOTAS
+- Los dividendos de la acción se reciben el día de la fecha dividendos si y solo si eres propietario de la acción durante la fecha ex-dividendo. 
+
 # ENERO 2025
 
 ## GRUPOARGOS

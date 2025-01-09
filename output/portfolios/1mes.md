@@ -2,26 +2,23 @@
 
 ## 1. Composición y Justificación
 
-### CELSIA (40% - COP 2,400,000)
+### GRUBOLIVAR (40% - COP 2,400,000)
+- Catalizador inmediato: fusión con Scotiabank anunciada el 7 enero
+- Próximo dividendo de $207 (0.34%) el 15 enero 2025
+- Momentum alcista por anuncio de fusión
+- Soporte fuerte en $62,000
 
-- Momentum alcista reciente
-- Beneficiario directo de la crisis energética nacional
-- Próximo dividendo de $77.5 (2.09%) el 23 de enero 2025
-- Soporte fuerte en $3,450 con bajo riesgo de caída
+### PFDAVVNDA (35% - COP 2,100,000)
+- Beneficiario directo de la fusión Davivienda-Scotiabank
+- Potencial de sinergias y eficiencias operativas
+- Soporte en $19,000
+- Momentum positivo por anuncio de fusión
 
-### GEB (30% - COP 1,800,000)
-
-- Beneficiario directo de crisis energética y pérdida de autosuficiencia de gas
-- Posición estratégica en distribución de gas natural
-- Soporte sólido en $2,400
-- Potencial alcista hacia $2,600
-
-### PFGRUPOARG (30% - COP 1,800,000)
-
-- Momentum positivo por anuncio de escisión con Grupo Sura
-- Próximo dividendo de $159 (1.03%) el 10 de enero 2025
-- Soporte en $15,000 con tendencia alcista
-- Catalizador inmediato por proceso de escisión
+### CNEC (25% - COP 1,500,000)
+- Beneficiario directo de crisis energética y pérdida autosuficiencia
+- Soporte técnico en $11,500
+- Potencial alcista por necesidad de gas natural
+- Momentum positivo en sector energético
 
 ## 2. Plan de Ejecución
 

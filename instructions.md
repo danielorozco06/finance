@@ -26,7 +26,7 @@ PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.m
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta NEUTRAL en el periodo indicado y priorizar tickers con etiqueta COMPRA FUERTE.
+1. Tener muy presente la seccion "Recomendación de Inversión" de cada ticker en el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER en el periodo indicado y priorizar tickers con etiqueta COMPRA FUERTE.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -57,3 +57,10 @@ Nota: ejecutar este prompt luego de crear el portafolio de inversión, al menos 
 ---
 
 PROMPT: Cuando consideras que seria buen momento para invertir en CNEC?
+
+
+# Analisis contra portafolio actual
+
+CONTEXTO: output/, dividendos.md y news.md
+
+PROMPT: Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual de la persona, que deberia hacer para optimizar el portafolio?

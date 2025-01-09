@@ -3,25 +3,22 @@
 ## 1. Composición y Justificación
 
 ### ECOPETROL (40% - COP 2,400,000)
-
-- Catalizador principal: cambio de gobierno en 2026 con políticas favorables al sector
+- Catalizador principal: cambio de gobierno en 2026
 - Valuación atractiva por presión actual en precios del crudo
-- Soporte técnico sólido en $1,650
-- Potencial de revalorización significativo ante cambio político
+- Beneficiario de eventual flexibilización exploración
+- Soporte técnico en $1,650
 
-### NUTRESA (35% - COP 2,100,000)
-
-- Sector defensivo ideal para horizonte largo plazo
-- Beneficio por estabilización de costos de materias primas
-- Expansión internacional continua
-- Dividendos consistentes y valuación atractiva
-
-### ISA (25% - COP 1,500,000)
-
-- Posición dominante en sector estratégico de transmisión eléctrica
+### CNEC (35% - COP 2,100,000)
 - Beneficiario estructural de crisis energética
-- Expansión regional en curso
-- Flujos de caja estables y predecibles
+- Potencial cambio regulatorio favorable en 2026
+- Demanda creciente de gas natural
+- Soporte en $11,500
+
+### PFGRUPSURA (25% - COP 1,500,000)
+- Beneficiario de escisión y simplificación societaria
+- Potencial liberación de valor post-escisión
+- Exposición diversificada a recuperación económica
+- Soporte en $25,000
 
 ## 2. Plan de Ejecución
 
