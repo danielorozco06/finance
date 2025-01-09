@@ -63,5 +63,5 @@ PROMPT: Cuando consideras que seria buen momento para invertir en CNEC?
 
 CONTEXTO: output/, dividendos.md y news.md
 
-PROMPT: Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual de la persona, modificar el archivo para optimizar el portafolio en la secciones de "Dividendos" y "Valores Límite y Fechas Recomendadas para Ventas"?
+PROMPT: Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual, modificar el archivo para optimizar el portafolio en la secciones de "Dividendos" y "Valores Límite y Fechas Recomendadas para Ventas"? Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
 
