@@ -25,21 +25,21 @@
 ### 2.1 Órdenes de Entrada
 
 GRUBOLIVAR (COP 3,000,000):
-- 40% (COP 1,200,000): Orden límite a $64,500 - 18 acciones
-- 30% (COP 900,000): Orden límite a $64,800 - 14 acciones
-- 30% (COP 900,000): Orden límite a $65,000 - 14 acciones
+- 40% (COP 1,200,000): Orden límite a $64,300 - 18 acciones
+- 30% (COP 900,000): Orden límite a $64,100 - 14 acciones
+- 30% (COP 900,000): Orden límite a $63,900 - 14 acciones
 Total: 46 acciones
 
 PFDAVVNDA (COP 1,800,000):
-- 40% (COP 720,000): Orden límite a $19,500 - 37 acciones
-- 30% (COP 540,000): Orden límite a $19,700 - 27 acciones
-- 30% (COP 540,000): Orden límite a $19,900 - 27 acciones
+- 40% (COP 720,000): Orden límite a $19,480 - 36 acciones
+- 30% (COP 540,000): Orden límite a $19,300 - 27 acciones
+- 30% (COP 540,000): Orden límite a $19,100 - 28 acciones
 Total: 91 acciones
 
 CNEC (COP 1,200,000):
-- 40% (COP 480,000): Orden límite a $12,400 - 38 acciones
-- 30% (COP 360,000): Orden límite a $12,500 - 29 acciones
-- 30% (COP 360,000): Orden límite a $12,600 - 29 acciones
+- 40% (COP 480,000): Orden límite a $12,440 - 38 acciones
+- 30% (COP 360,000): Orden límite a $12,300 - 29 acciones
+- 30% (COP 360,000): Orden límite a $12,200 - 29 acciones
 Total: 96 acciones
 
 ### 2.2 Órdenes de Protección y Salida

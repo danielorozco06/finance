@@ -1,4 +1,4 @@
-# Portafolio de Inversión a 6 Meses
+# Portafolio de Inversión
 
 ## 1. Composición y Justificación
 
@@ -25,26 +25,45 @@
 ### 2.1 Órdenes de Entrada
 
 PFGRUPSURA (COP 2,400,000):
-- 40% (COP 960,000): Orden límite a $26,000 - 36 acciones
-- 30% (COP 720,000): Orden límite a $25,800 - 27 acciones
-- 30% (COP 720,000): Orden límite a $25,600 - 28 acciones
-Total: 91 acciones
+- 40% (COP 960,000): Orden límite a $25,880 - 37 acciones
+- 30% (COP 720,000): Orden límite a $25,700 - 28 acciones
+- 30% (COP 720,000): Orden límite a $25,500 - 28 acciones
+Total: 93 acciones
 
 MINEROS (COP 2,100,000):
-- 50% (COP 1,050,000): Orden límite a $4,550 - 230 acciones
-- 50% (COP 1,050,000): Orden límite a $4,500 - 233 acciones
-Total: 463 acciones
+- 40% (COP 840,000): Orden límite a $4,535 - 185 acciones
+- 30% (COP 630,000): Orden límite a $4,500 - 140 acciones
+- 30% (COP 630,000): Orden límite a $4,450 - 141 acciones
+Total: 466 acciones
 
 GEB (COP 1,500,000):
-- 100% (COP 1,500,000): Orden límite a $2,530 - 592 acciones
+- 40% (COP 600,000): Orden límite a $2,520 - 238 acciones
+- 30% (COP 450,000): Orden límite a $2,500 - 180 acciones
+- 30% (COP 450,000): Orden límite a $2,480 - 181 acciones
+Total: 599 acciones
 
-### 2.2 Órdenes de Protección
+### 2.2 Órdenes de Protección y Salida
 
-- Stop loss global: -5%
-- Stops individuales:
-  * PFGRUPSURA: $25,000 (-3.4%)
-  * MINEROS: $4,400 (-3%)
-  * GEB: $2,450 (-3.2%)
+PFGRUPSURA:
+- Stop loss: Orden stop a $25,000 para 93 acciones (-3.4%)
+- Take profit escalonado:
+  * 30% (28 acciones): Orden límite a $27,000 (+4.3%)
+  * 40% (37 acciones): Orden límite a $27,500 (+6.3%)
+  * 30% (28 acciones): Orden límite a $28,000 (+8.2%)
+
+MINEROS:
+- Stop loss: Orden stop a $4,400 para 466 acciones (-3.0%)
+- Take profit escalonado:
+  * 30% (140 acciones): Orden límite a $4,700 (+3.6%)
+  * 40% (185 acciones): Orden límite a $4,800 (+5.8%)
+  * 30% (141 acciones): Orden límite a $4,900 (+8.0%)
+
+GEB:
+- Stop loss: Orden stop a $2,450 para 599 acciones (-2.8%)
+- Take profit escalonado:
+  * 30% (180 acciones): Orden límite a $2,600 (+3.2%)
+  * 40% (238 acciones): Orden límite a $2,650 (+5.2%)
+  * 30% (181 acciones): Orden límite a $2,700 (+7.1%)
 
 ## 3. Consideraciones Adicionales
 

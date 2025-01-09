@@ -22,7 +22,7 @@ PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md c
 
 CONTEXTO: /output/, /input/news.md, /input/dividendos.md
 
-PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000. Importante: hoy es 2025-01-09.
+PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 6,000,000. Importante: hoy es 2025-01-09 y tener muy presente los precios actuales de las acciones.
 
 Tener en cuenta los siguientes criterios:
 
