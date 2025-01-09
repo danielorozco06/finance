@@ -63,4 +63,5 @@ PROMPT: Cuando consideras que seria buen momento para invertir en CNEC?
 
 CONTEXTO: output/, dividendos.md y news.md
 
-PROMPT: Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual de la persona, que deberia hacer para optimizar el portafolio?
+PROMPT: Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual de la persona, modificar el archivo para optimizar el portafolio en la secciones de "Dividendos" y "Valores Límite y Fechas Recomendadas para Ventas"?
+
