@@ -12,6 +12,7 @@
 - https://finance.yahoo.com/quote/PFAVAL.CL/
 - https://finance.yahoo.com/quote/PFBCOLOM.CL/
 - https://finance.yahoo.com/quote/PFCORFICOL.CL/
+- https://finance.yahoo.com/quote/PFDAVVNDA.CL/
 - https://finance.yahoo.com/quote/PFGRUPOARG.CL/
 - https://finance.yahoo.com/quote/PFGRUPSURA.CL/
 - https://finance.yahoo.com/quote/TERPEL.CL/
