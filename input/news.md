@@ -1,5 +1,8 @@
 # Noticias Relevantes
 
+## 2025-01-07 - Davivienda y Scotiabank Colpatria anuncian fusión
+Davivienda y Scotiabank Colpatria firmaron un acuerdo para integrar sus operaciones en Colombia, Costa Rica y Panamá. Scotiabank recibirá aproximadamente un 20% de participación en la entidad fusionada y tendrá representación en la junta directiva. La operación, que requiere aprobación de la Superintendencia Financiera, podría completarse en 2026. Se estima que los activos combinados alcanzarán los 60.000 millones de dólares, con un 70% en Colombia y 30% en Centroamérica.
+
 ## 2024-12-30 - Grupo Éxito anuncia su salida de la Bolsa de Nueva York
 
 Grupo Éxito, una de las mayores cadenas minoristas de Colombia con más de 500 tiendas, confirmó su retiro de la Bolsa de Valores de Nueva York (NYSE) efectivo en enero de 2025. La compañía, que registró ingresos operacionales de 15.73 billones de pesos en 2023 y se posiciona como la octava empresa más grande del país, presentó el Formulario 25 ante la SEC para retirar sus American Depositary Shares (ADS). El último día de negociación en NYSE será el 9 de enero de 2025, seguido por operaciones en el mercado mostrador hasta el 17 de enero. Esta decisión marca un hito significativo para la empresa, ahora propiedad del Grupo Calleja.
