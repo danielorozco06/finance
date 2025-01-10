@@ -1,33 +1,25 @@
-# Análisis PFBCOLOM
+# Análisis Preferencial Bancolombia
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Consolidación sector bancario tras fusión Davivienda-Scotiabank
-- POSITIVO (2025-H2): Ciclo bajista de tasas beneficiará márgenes
-- NEGATIVO (2025-H1): Deterioro de cartera por desaceleración
-- NEGATIVO (2025): Presión competitiva en sector financiero
+- Liderazgo en utilidades del sector bancario ($4.6 billones a oct-2024)
+- Reducción de tasas de interés beneficiará cartera de crédito
+- Inflación controlada favorece al sector financiero
+- Expansión digital y eficiencias operativas
 
-## Precios Relevantes
-- Precio actual: $35,160
-- Máximo 52 semanas: $35,600
-- Mínimo 52 semanas: $33,900
-- Precio objetivo promedio: $37,000
+## Precios Recientes
+- Último precio: $35,360 (2025-01-09)
+- Máximo 30 días: $35,520
+- Mínimo 30 días: $34,245
 
 ## Niveles Técnicos
+- Soporte fuerte: $34,500
 - Resistencia fuerte: $36,000
-- Resistencia: $35,500
-- Soporte: $34,500
-- Soporte fuerte: $34,000
+- Media móvil 50 días: $34,800
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $35,500)
+- 0-6 meses: COMPRA (precio objetivo $37,000)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $40,000)
 
-### Justificación
-- Corto plazo: Consolidación cerca de máximos recientes
-- Mediano plazo: Valoración atractiva vs sector
-- Largo plazo: Líder en banca digital y eficiencia
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: Sólido liderazgo en sector bancario con excelentes resultados. La reducción de tasas y control de inflación son catalizadores positivos.

@@ -1,33 +1,25 @@
-# Análisis MINEROS
+# Análisis Mineros
 
 ## Catalizadores Futuros
-- POSITIVO (2025-H2): Expectativa de mayores precios del oro
-- POSITIVO (2025+): Expansión de operaciones en Nicaragua
-- NEGATIVO (2025-H1): Restricciones ambientales en Colombia
-- NEGATIVO (2025): Costos operativos presionados por inflación
+- Precios del oro en máximos históricos
+- Incertidumbre geopolítica global favorece activos refugio
+- Restricciones gubernamentales a minería en Colombia
+- Operaciones diversificadas en Nicaragua y Argentina
 
-## Precios Relevantes
-- Precio actual: $4,535
-- Máximo 52 semanas: $4,600
-- Mínimo 52 semanas: $3,500
-- Precio objetivo promedio: $5,000
+## Precios Recientes
+- Último precio: $4,525 (2025-01-09)
+- Máximo 30 días: $4,530
+- Mínimo 30 días: $4,225
 
 ## Niveles Técnicos
-- Resistencia fuerte: $4,700
-- Resistencia: $4,600
-- Soporte: $4,400
-- Soporte fuerte: $4,200
+- Soporte fuerte: $4,300
+- Resistencia fuerte: $4,600
+- Media móvil 50 días: $4,400
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA FUERTE
+- 0-1 mes: MANTENER (precio objetivo $4,600)
+- 0-6 meses: COMPRA (precio objetivo $5,000)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $5,500)
 
-### Justificación
-- Corto plazo: Consolidación tras fuerte rally
-- Mediano plazo: Beneficiario de incertidumbre global
-- Largo plazo: Expansión internacional reduce riesgo país
-
-### Etiquetas
-- COMPRA FUERTE (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: Los precios récord del oro y la diversificación geográfica apoyan la valoración. La acción muestra momentum positivo.

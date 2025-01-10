@@ -1,33 +1,25 @@
-# Análisis PFAVAL
+# Análisis Preferencial Aval
 
 ## Catalizadores Futuros
-- POSITIVO (2025-H2): Ciclo bajista de tasas beneficiará al sector
-- POSITIVO (2025+): Recuperación económica impulsará negocio bancario
-- NEGATIVO (2025-H1): Desaceleración económica afecta cartera
-- NEGATIVO (2025): Alta competencia en sector financiero
+- Reducción gradual de tasas de interés beneficia al sector financiero
+- Inflación en descenso (5.2%) favorece al sector bancario
+- Sólidos resultados del grupo financiero
+- Exposición a mercados centroamericanos
 
-## Precios Relevantes
-- Precio actual: $463
-- Máximo 52 semanas: $500
-- Mínimo 52 semanas: $430
-- Precio objetivo promedio: $520
+## Precios Recientes
+- Último precio: $460 (2025-01-09)
+- Máximo 30 días: $465
+- Mínimo 30 días: $431
 
 ## Niveles Técnicos
-- Resistencia fuerte: $480
-- Resistencia: $470
-- Soporte: $450
-- Soporte fuerte: $440
+- Soporte fuerte: $445
+- Resistencia fuerte: $470
+- Media móvil 50 días: $452
+- Tendencia: Lateral alcista
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $465)
+- 0-6 meses: COMPRA (precio objetivo $490)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $520)
 
-### Justificación
-- Corto plazo: Consolidación en rango lateral
-- Mediano plazo: Valoración atractiva vs comparables
-- Largo plazo: Beneficiario de ciclo económico positivo
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: El sector financiero se beneficiará de la reducción de tasas. El dividendo (7%) ofrece valor mientras se materializa el potencial alcista.

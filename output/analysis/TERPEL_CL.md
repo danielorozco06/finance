@@ -1,33 +1,25 @@
-# Análisis TERPEL
+# Análisis Terpel
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Beneficiario de importaciones de gas natural
-- POSITIVO (2025+): Expansión en estaciones de carga eléctrica
-- NEGATIVO (2025-H1): Volatilidad en precios de combustibles
-- NEGATIVO (2025): Pérdida de autosuficiencia energética afecta márgenes
+- Crisis energética beneficia márgenes en distribución de combustibles
+- Expansión en estaciones de carga eléctrica
+- Recuperación del consumo de combustibles post-pandemia
+- Inversiones en modernización de red de estaciones
 
-## Precios Relevantes
-- Precio actual: $11,580
-- Máximo 52 semanas: $11,720
-- Mínimo 52 semanas: $10,880
-- Precio objetivo promedio: $12,500
+## Precios Recientes
+- Último precio: $11,580 (2025-01-09)
+- Máximo 30 días: $11,720
+- Mínimo 30 días: $11,360
 
 ## Niveles Técnicos
-- Resistencia fuerte: $12,000
-- Resistencia: $11,700
-- Soporte: $11,300
-- Soporte fuerte: $11,000
+- Soporte fuerte: $11,400
+- Resistencia fuerte: $11,800
+- Media móvil 50 días: $11,500
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $11,700)
+- 0-6 meses: COMPRA (precio objetivo $12,500)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $13,500)
 
-### Justificación
-- Corto plazo: Consolidación cerca de máximos históricos
-- Mediano plazo: Beneficiario de crisis energética
-- Largo plazo: Posicionamiento en transición energética
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: La crisis energética y la recuperación del consumo de combustibles benefician a la empresa. La diversificación hacia movilidad eléctrica ofrece potencial.

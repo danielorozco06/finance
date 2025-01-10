@@ -1,33 +1,25 @@
-# Análisis GEB
+# Análisis Grupo Energía Bogotá
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Mayor demanda energética por pérdida de autosuficiencia
-- POSITIVO (2025+): Expansión en transmisión eléctrica regional
-- NEGATIVO (2025-H1): Presión regulatoria en tarifas de distribución
-- NEGATIVO (2025): Riesgo político en concesiones de gas natural
+- Crisis energética nacional beneficia operaciones de gas natural
+- Expansión en transmisión eléctrica regional
+- Pérdida de autosuficiencia energética en Colombia
+- Inversiones en energías renovables
 
-## Precios Relevantes
-- Precio actual: $2,520
-- Máximo 52 semanas: $2,600
-- Mínimo 52 semanas: $2,000
-- Precio objetivo promedio: $2,800
+## Precios Recientes
+- Último precio: $2,510 (2025-01-09)
+- Máximo 30 días: $2,520
+- Mínimo 30 días: $2,420
 
 ## Niveles Técnicos
+- Soporte fuerte: $2,450
 - Resistencia fuerte: $2,600
-- Resistencia: $2,550
-- Soporte: $2,450
-- Soporte fuerte: $2,400
+- Media móvil 50 días: $2,480
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $2,550)
+- 0-6 meses: COMPRA (precio objetivo $2,800)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $3,200)
 
-### Justificación
-- Corto plazo: Consolidación cerca de máximos históricos
-- Mediano plazo: Beneficiario de crisis energética
-- Largo plazo: Posición estratégica en transmisión regional
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: La empresa está bien posicionada para beneficiarse de la crisis energética y muestra solidez financiera. El dividendo (7.5%) ofrece valor.

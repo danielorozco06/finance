@@ -1,33 +1,25 @@
-# Análisis PFDAVVNDA
+# Análisis Preferencial Davivienda
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Fusión con Scotiabank genera valor y sinergias
-- POSITIVO (2025-H2): Beneficio de ciclo bajista de tasas
-- NEGATIVO (2025-H1): Costos de integración post-fusión
-- NEGATIVO (2025): Riesgo de ejecución en proceso de fusión
+- Fusión anunciada con Scotiabank Colpatria fortalecerá posición competitiva
+- Sinergias estimadas por integración de operaciones en Colombia y Centroamérica
+- Reducción de tasas de interés beneficiará cartera de crédito
+- Inflación controlada (5.2%) favorece al sector financiero
 
-## Precios Relevantes
-- Precio actual: $19,480
-- Máximo 6 meses: $21,000
-- Mínimo 6 meses: $17,500
-- Precio objetivo promedio: $22,000
+## Precios Recientes
+- Último precio: $19,100 (2025-01-09)
+- Máximo 30 días: $19,540
+- Mínimo 30 días: $17,560
 
 ## Niveles Técnicos
-- Resistencia fuerte: $20,000
-- Resistencia: $19,800
-- Soporte: $19,000
 - Soporte fuerte: $18,500
+- Resistencia fuerte: $20,000
+- Media móvil 50 días: $18,800
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: COMPRA
-- 0-6 meses: COMPRA FUERTE
-- 6-12 meses: COMPRA FUERTE
+- 0-1 mes: MANTENER (precio objetivo $19,500)
+- 0-6 meses: COMPRA (precio objetivo $21,000)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $23,000)
 
-### Justificación
-- Corto plazo: Momentum positivo por anuncio de fusión
-- Mediano plazo: Sinergias y eficiencias post-fusión
-- Largo plazo: Mayor escala y competitividad regional
-
-### Etiquetas
-- COMPRA FUERTE (6-12 meses)
-- COMPRA FUERTE (0-6 meses) 
+Justificación: La fusión con Scotiabank Colpatria será un catalizador importante para la valoración. La reducción de tasas y el control de inflación beneficiarán al sector financiero. 

@@ -1,33 +1,25 @@
-# Análisis BOGOTA
+# Análisis Banco de Bogotá
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Fusión Davivienda-Scotiabank fortalece sector bancario
-- POSITIVO (2025-H2): Expectativa de reducción de tasas de interés
-- NEGATIVO (2025-H1): Desaceleración económica impacta cartera
-- NEGATIVO (2025): Alta competencia en sector financiero
+- Fusión anunciada entre Davivienda y Scotiabank Colpatria que podría beneficiar indirectamente al sector bancario
+- Reducción de tasas de interés por parte del Banco de la República que podría impulsar el crédito
+- Inflación en descenso (5.2% en 2024) que favorece al sector financiero
+- Banco de Bogotá reportó sólidas utilidades a octubre 2024 ($1 billón)
 
-## Precios Relevantes
-- Precio actual: $26,460
-- Máximo 52 semanas: $31,000
-- Mínimo 52 semanas: $25,900
-- Dividendo próximo: $121 (0.45%)
+## Precios Recientes
+- Último precio: $26,900 (2025-01-09)
+- Máximo 30 días: $27,000 
+- Mínimo 30 días: $26,240
 
 ## Niveles Técnicos
-- Resistencia fuerte: $28,000
-- Resistencia: $27,000
-- Soporte: $26,000
-- Soporte fuerte: $25,500
+- Soporte fuerte: $26,500
+- Resistencia fuerte: $27,500
+- Media móvil 50 días: $26,700
+- Tendencia: Alcista de corto plazo
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: MANTENER
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $27,200)
+- 0-6 meses: COMPRA (precio objetivo $28,500)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $30,000)
 
-### Justificación
-- Corto plazo: Consolidación en rango lateral
-- Mediano plazo: Valoración atractiva pero sin catalizadores inmediatos
-- Largo plazo: Beneficiario de eventual ciclo bajista de tasas
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- MANTENER (0-6 meses)
+Justificación: El banco muestra solidez financiera y el sector bancario se beneficiará de la reducción gradual de tasas. La acción muestra momentum alcista.

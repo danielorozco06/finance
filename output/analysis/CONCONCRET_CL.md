@@ -1,33 +1,25 @@
-# Análisis CONCONCRET
+# Análisis Constructora Conconcreto
 
 ## Catalizadores Futuros
-- POSITIVO (2025-H1): Fuerte incremento en contratos de infraestructura
-- POSITIVO (2025): Recuperación del sector construcción tras crisis
-- NEGATIVO (2025): Suspensión programa Mi Casa Ya afecta sector vivienda
-- NEGATIVO (2025-H1): Altas tasas de interés impactan financiamiento
+- Suspensión del programa Mi Casa Ya que afecta negativamente al sector
+- Crisis presupuestal del gobierno que limita inversión en infraestructura
+- Posible recuperación del sector construcción en 2026 con cambio de gobierno
+- Altas tasas de interés afectando el sector inmobiliario
 
-## Precios Relevantes
-- Precio actual: $683
-- Máximo 6 meses: $700
-- Mínimo 6 meses: $300
-- Precio objetivo promedio: $550
+## Precios Recientes
+- Último precio: $668 (2025-01-09)
+- Máximo 30 días: $668
+- Mínimo 30 días: $419
 
 ## Niveles Técnicos
+- Soporte fuerte: $550
 - Resistencia fuerte: $700
-- Resistencia: $650
-- Soporte: $550
-- Soporte fuerte: $450
+- Media móvil 50 días: $500
+- Tendencia: Fuertemente alcista
 
 ## Recomendación
-- 0-1 mes: VENTA
-- 0-6 meses: MANTENER
-- 6-12 meses: MANTENER
+- 0-1 mes: VENTA (precio objetivo $600)
+- 0-6 meses: MANTENER (precio objetivo $650)
+- 6-12 meses: COMPRA (precio objetivo $800)
 
-### Justificación
-- Corto plazo: Sobrecompra técnica tras rally de +100% en 1 mes
-- Mediano plazo: Valoración actual refleja expectativas positivas
-- Largo plazo: Sector enfrenta desafíos estructurales
-
-### Etiquetas
-- VENTA (0-1 mes)
-- MANTENER (6-12 meses)
+Justificación: A pesar del rally reciente, los fundamentales del sector son débiles a corto plazo. Se recomienda tomar ganancias y esperar mejor punto de entrada.

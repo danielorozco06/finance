@@ -1,32 +1,28 @@
-# Análisis PFGRUPSURA
+# Análisis Preferencial Grupo Sura
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Proceso de escisión con Grupo Argos liberará valor
-- POSITIVO (2025+): Simplificación de estructura societaria
-- NEGATIVO (2025-H1): Costos asociados al proceso de escisión
-- NEGATIVO (2025): Incertidumbre en valoración post-escisión
+- Proceso de escisión con Grupo Argos durante 2025
+- Fortalecimiento del negocio asegurador
+- Exposición a mercados latinoamericanos en crecimiento
+- Potencial venta de activos no estratégicos
 
-## Precios Relevantes
-- Precio actual: $25,880
-- Máximo 52 semanas: $26,340
-- Mínimo 52 semanas: $14,000
-- Precio objetivo promedio: $28,000
+## Precios Recientes
+- Último precio: $25,980 (2025-01-09)
+- Máximo 30 días: $26,340
+- Mínimo 30 días: $25,880
 
 ## Niveles Técnicos
-- Resistencia fuerte: $27,000
-- Resistencia: $26,500
-- Soporte: $25,000
-- Soporte fuerte: $24,000
+- Soporte fuerte: $25,500
+- Resistencia fuerte: $26,500
+- Media móvil 50 días: $26,000
+- Tendencia: Lateral alcista
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA FUERTE
+- 0-1 mes: MANTENER (precio objetivo $26,200)
+- 0-6 meses: COMPRA (precio objetivo $27,500)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $29,000)
 
-### Justificación
-- Corto plazo: Consolidación tras fuerte rally de fin de año
-- Mediano plazo: Escisión con Grupo Argos como catalizador
-- Largo plazo: Valoración atractiva post-simplificación societaria
+Justificación: La escisión con Grupo Argos y el enfoque en el negocio financiero generarán valor. Sólida posición en mercados regionales.
 
 ### Etiquetas
 - COMPRA FUERTE (6-12 meses)

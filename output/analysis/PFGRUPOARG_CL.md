@@ -1,33 +1,25 @@
-# Análisis PFGRUPOARG
+# Análisis Preferencial Grupo Argos
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Escisión con Grupo Sura mejorará transparencia
-- POSITIVO (2025+): Mayor liquidez post-escisión
-- NEGATIVO (2025-H1): Desaceleración en sector cemento
-- NEGATIVO (2025): Incertidumbre en valoración durante proceso de escisión
+- Proceso de escisión con Grupo Sura se extenderá durante 2025
+- Recuperación del sector cemento en 2026
+- Inversiones en energías renovables
+- Expansión en concesiones viales
 
-## Precios Relevantes
-- Precio actual: $14,840
-- Máximo 52 semanas: $15,500
-- Mínimo 52 semanas: $8,500
-- Precio objetivo promedio: $16,000
+## Precios Recientes
+- Último precio: $14,800 (2025-01-09)
+- Máximo 30 días: $15,500
+- Mínimo 30 días: $14,800
 
 ## Niveles Técnicos
-- Resistencia fuerte: $15,500
-- Resistencia: $15,200
-- Soporte: $14,500
-- Soporte fuerte: $14,000
+- Soporte fuerte: $14,500
+- Resistencia fuerte: $15,800
+- Media móvil 50 días: $15,100
+- Tendencia: Lateral bajista
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA FUERTE
+- 0-1 mes: MANTENER (precio objetivo $15,000)
+- 0-6 meses: COMPRA (precio objetivo $16,000)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $17,500)
 
-### Justificación
-- Corto plazo: Consolidación tras rally de fin de año
-- Mediano plazo: Escisión como catalizador principal
-- Largo plazo: Mayor visibilidad y liquidez post-escisión
-
-### Etiquetas
-- COMPRA FUERTE (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: La escisión con Grupo Sura desbloqueará valor. El portafolio diversificado ofrece exposición a sectores clave de la economía.

@@ -1,33 +1,25 @@
-# Análisis ECOPETROL
+# Análisis Ecopetrol
 
 ## Catalizadores Futuros
-- POSITIVO (2026): Cambio de gobierno que favorecería la exploración y producción de petróleo
-- POSITIVO (2025-H2): Potencial recuperación de precios del petróleo según analistas
-- NEGATIVO (2025-H1): Restricciones gubernamentales actuales para exploración
-- NEGATIVO (2025): Pérdida de autosuficiencia energética que requiere importaciones
+- Probable cambio de gobierno en 2026 que impulsaría la exploración petrolera
+- Suspensión del proyecto Komodo por demoras en licencias ambientales
+- Precios del petróleo bajo presión por exceso de oferta global
+- Restricciones actuales a exploración por políticas gubernamentales
 
-## Precios Relevantes
-- Precio actual: $1,810
-- Máximo 52 semanas: $2,200
-- Mínimo 52 semanas: $1,620
-- Precio objetivo promedio: $1,830.5
+## Precios Recientes
+- Último precio: $1,815 (2025-01-09)
+- Máximo 30 días: $1,845
+- Mínimo 30 días: $1,650
 
 ## Niveles Técnicos
-- Resistencia fuerte: $2,000
-- Resistencia: $1,900
-- Soporte: $1,750
-- Soporte fuerte: $1,650
+- Soporte fuerte: $1,750
+- Resistencia fuerte: $1,900
+- Media móvil 50 días: $1,780
+- Tendencia: Lateral alcista
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: MANTENER
-- 6-12 meses: COMPRA FUERTE
+- 0-1 mes: MANTENER (precio objetivo $1,850)
+- 0-6 meses: COMPRA (precio objetivo $2,100)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $2,500)
 
-### Justificación
-- Corto plazo: La acción se encuentra en un canal lateral entre $1,750-$1,900
-- Mediano plazo: Riesgos políticos actuales limitan el potencial alcista
-- Largo plazo: Cambio de gobierno en 2026 sería muy positivo para la compañía
-
-### Etiquetas
-- COMPRA FUERTE (6-12 meses)
-- MANTENER (0-6 meses)
+Justificación: Las perspectivas mejoran significativamente con el probable cambio de gobierno en 2026. El dividendo actual (32.75%) ofrece protección a la baja.

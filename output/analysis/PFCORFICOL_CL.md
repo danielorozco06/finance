@@ -1,33 +1,25 @@
-# Análisis PFCORFICOL
+# Análisis Preferencial Corficolombiana
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Recuperación del sector financiero
-- POSITIVO (2025-H2): Ciclo bajista de tasas beneficiará rentabilidad
-- NEGATIVO (2025-H1): Desaceleración económica afecta cartera
-- NEGATIVO (2025): Alta competencia en sector financiero
+- Avances en proyectos de infraestructura 4G y 5G
+- Inversiones en sector energético beneficiadas por crisis actual
+- Diversificación en sectores estratégicos
+- Exposición al sector hotelero en recuperación
 
-## Precios Relevantes
-- Precio actual: $14,400
-- Máximo 52 semanas: $14,800
-- Mínimo 52 semanas: $13,400
-- Precio objetivo promedio: $15,500
+## Precios Recientes
+- Último precio: $14,400 (2025-01-09)
+- Máximo 30 días: $14,480
+- Mínimo 30 días: $13,400
 
 ## Niveles Técnicos
-- Resistencia fuerte: $14,800
-- Resistencia: $14,600
-- Soporte: $14,200
 - Soporte fuerte: $14,000
+- Resistencia fuerte: $14,800
+- Media móvil 50 días: $14,200
+- Tendencia: Alcista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: COMPRA
-- 6-12 meses: COMPRA
+- 0-1 mes: MANTENER (precio objetivo $14,600)
+- 0-6 meses: COMPRA (precio objetivo $15,500)
+- 6-12 meses: COMPRA FUERTE (precio objetivo $16,500)
 
-### Justificación
-- Corto plazo: Consolidación en rango lateral
-- Mediano plazo: Valoración atractiva vs sector
-- Largo plazo: Beneficiario de ciclo económico positivo
-
-### Etiquetas
-- COMPRA (6-12 meses)
-- COMPRA (0-6 meses)
+Justificación: Portfolio diversificado con exposición a sectores clave. La crisis energética y proyectos de infraestructura son catalizadores positivos.

@@ -1,33 +1,25 @@
 # Análisis ETB
 
 ## Catalizadores Futuros
-- POSITIVO (2025): Expansión en servicios de fibra óptica
-- POSITIVO (2025+): Crecimiento en segmento empresarial
-- NEGATIVO (2025-H1): Alta competencia en sector telecomunicaciones
-- NEGATIVO (2025): Presión en márgenes por inversiones en red
+- Posible privatización con cambio de gobierno en 2026
+- Inversiones en expansión de red de fibra óptica
+- Alta competencia en el sector de telecomunicaciones
+- Presión en márgenes por necesidad de inversión en infraestructura
 
-## Precios Relevantes
-- Precio actual: $74
-- Máximo 52 semanas: $106
-- Mínimo 52 semanas: $74
-- Precio objetivo promedio: No disponible
+## Precios Recientes
+- Último precio: $74 (2025-01-09)
+- Máximo 30 días: $74
+- Mínimo 30 días: $74
 
 ## Niveles Técnicos
-- Resistencia fuerte: $80
-- Resistencia: $76
-- Soporte: $72
-- Soporte fuerte: $70
+- Soporte fuerte: $72
+- Resistencia fuerte: $76
+- Media móvil 50 días: $74
+- Tendencia: Lateral sin movimiento
 
 ## Recomendación
-- 0-1 mes: MANTENER
-- 0-6 meses: MANTENER
-- 6-12 meses: MANTENER
+- 0-1 mes: MANTENER (precio objetivo $74)
+- 0-6 meses: MANTENER (precio objetivo $75)
+- 6-12 meses: COMPRA (precio objetivo $85)
 
-### Justificación
-- Corto plazo: Soporte en mínimos históricos
-- Mediano plazo: Desafíos competitivos significativos
-- Largo plazo: Necesidad de alta inversión en infraestructura
-
-### Etiquetas
-- MANTENER (6-12 meses)
-- MANTENER (0-6 meses)
+Justificación: La acción muestra muy baja liquidez y volatilidad. El potencial alcista está ligado a una posible privatización con el cambio de gobierno.
