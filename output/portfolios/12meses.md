@@ -3,23 +3,23 @@
 ## 1. Composición y Justificación
 
 ### ECOPETROL (45% - COP 2,250,000)
-- Etiqueta: COMPRA FUERTE (6-12 meses)
-- Catalizador principal: Cambio de gobierno en 2026
-- Beneficiario de flexibilización en exploración
-- Potencial recuperación precios del petróleo
-- Soporte técnico en $1,650
+- Etiqueta: COMPRA FUERTE
+- Precio objetivo: $2,500 (+37.7%)
+- Catalizador: Cambio gobierno 2026
+- Dividendo actual: 32.75%
+- Soporte fuerte en $1,750
 
 ### CNEC (35% - COP 1,750,000)
-- Etiqueta: COMPRA FUERTE (6-12 meses)
-- Beneficiario directo de crisis energética
-- Potencial cambio regulatorio favorable en 2026
-- Expansión en distribución de gas natural
-- Soporte en $11,500
+- Etiqueta: COMPRA FUERTE
+- Precio objetivo: $15,000 (+27.1%)
+- Crisis energética nacional
+- Cambio regulatorio 2026
+- Soporte en $11,400
 
 ### PFGRUPSURA (20% - COP 1,000,000)
-- Etiqueta: COMPRA FUERTE (6-12 meses)
-- Catalizador: Escisión con Grupo Argos en 2025
-- Simplificación de estructura societaria
+- Etiqueta: COMPRA FUERTE
+- Precio objetivo: $29,000 (+11.6%)
+- Escisión Grupo Argos 2025
 - Mayor liquidez post-escisión
 - Soporte en $25,000
 
@@ -34,15 +34,15 @@ ECOPETROL (COP 2,250,000):
 Total: 1,261 acciones
 
 CNEC (COP 1,750,000):
-- 40% (COP 700,000): Orden límite a $12,440 - 56 acciones
-- 30% (COP 525,000): Orden límite a $12,200 - 43 acciones
-- 30% (COP 525,000): Orden límite a $12,000 - 43 acciones
-Total: 142 acciones
+- 40% (COP 700,000): Orden límite a $11,780 - 59 acciones
+- 30% (COP 525,000): Orden límite a $11,700 - 44 acciones
+- 30% (COP 525,000): Orden límite a $11,600 - 45 acciones
+Total: 148 acciones
 
 PFGRUPSURA (COP 1,000,000):
-- 40% (COP 400,000): Orden límite a $25,880 - 15 acciones
-- 30% (COP 300,000): Orden límite a $25,600 - 11 acciones
-- 30% (COP 300,000): Orden límite a $25,400 - 11 acciones
+- 40% (COP 400,000): Orden límite a $25,960 - 15 acciones
+- 30% (COP 300,000): Orden límite a $25,800 - 11 acciones
+- 30% (COP 300,000): Orden límite a $25,700 - 11 acciones
 Total: 37 acciones
 
 ### 2.2 Órdenes de Protección y Salida
@@ -52,21 +52,21 @@ ECOPETROL:
 - Take profit escalonado:
   * 30% (378 acciones): Orden límite a $2,000 (+10.5%)
   * 40% (505 acciones): Orden límite a $2,200 (+21.5%)
-  * 30% (378 acciones): Orden límite a $2,400 (+32.6%)
+  * 30% (378 acciones): Orden límite a $2,500 (+38.1%)
 
 CNEC:
-- Stop loss: Orden stop a $11,000 para 142 acciones (-11.6%)
+- Stop loss: Orden stop a $11,000 para 148 acciones (-6.6%)
 - Take profit escalonado:
-  * 30% (43 acciones): Orden límite a $13,500 (+8.5%)
-  * 40% (56 acciones): Orden límite a $14,500 (+16.6%)
-  * 30% (43 acciones): Orden límite a $15,500 (+24.6%)
+  * 30% (44 acciones): Orden límite a $13,000 (+10.4%)
+  * 40% (60 acciones): Orden límite a $14,000 (+18.8%)
+  * 30% (44 acciones): Orden límite a $15,000 (+27.3%)
 
 PFGRUPSURA:
-- Stop loss: Orden stop a $24,000 para 37 acciones (-7.3%)
+- Stop loss: Orden stop a $25,000 para 37 acciones (-3.7%)
 - Take profit escalonado:
-  * 30% (11 acciones): Orden límite a $28,000 (+8.2%)
-  * 40% (15 acciones): Orden límite a $29,000 (+12.1%)
-  * 30% (11 acciones): Orden límite a $30,000 (+15.9%)
+  * 30% (11 acciones): Orden límite a $27,000 (+4.0%)
+  * 40% (15 acciones): Orden límite a $28,000 (+7.9%)
+  * 30% (11 acciones): Orden límite a $29,000 (+11.7%)
 
 ## 3. Consideraciones Adicionales
 

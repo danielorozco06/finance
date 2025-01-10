@@ -26,7 +26,7 @@ Nota: hoy es 2025-01-10.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/, /input/news.md, /input/dividendos.md
+CONTEXTO: /output/, news.md, dividendos.md
 
 PROMPT:
 Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener muy presente la seccion "Precios recientes" y aumentar lo maximo posible el retorno de la inversion.
