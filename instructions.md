@@ -16,13 +16,21 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 CONTEXTO: /input/
 
-PROMPT: Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones: catalizadores futuros, precios de compra/venta mas recientes, recomendacion de inversion (0-1 mes, 0-6 meses, 6-12 meses y etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE), niveles tecnicos relevantes. Nota: hoy es 2025-01-09.
+PROMPT: 
+Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones:
+- Catalizadores futuros
+- Precios recientes: último precio, máximo 1 mes, mínimo 1 mes, máximo 6 meses, mínimo 6 meses, máximo 1 año, mínimo 1 año
+- Niveles técnicos relevantes: soporte fuerte, resistencia fuerte, media móvil 50 días, tendencia 1 mes, tendencia 6 meses, tendencia 1 año
+- Recomendación de inversión: 1 mes, 6 meses y 12 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
+Nota: hoy es 2025-01-10.
 
 ## Prompt portafolio de inversión
 
 CONTEXTO: /output/, /input/news.md, /input/dividendos.md
 
-PROMPT:Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Importante: hoy es 2025-01-09, tener muy presente los precios actuales de las acciones y aumentar lo maximo posible el retorno de la inversion.
+PROMPT:
+Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener muy presente la seccion "Precios recientes" y aumentar lo maximo posible el retorno de la inversion.
+Nota: hoy es 2025-01-10.
 
 Tener en cuenta los siguientes criterios:
 

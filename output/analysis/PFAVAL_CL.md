@@ -7,19 +7,28 @@
 - Exposición a mercados centroamericanos
 
 ## Precios Recientes
-- Último precio: $460 (2025-01-09)
-- Máximo 30 días: $465
-- Mínimo 30 días: $431
+- Último precio: $460 (2025-01-10)
+- Máximo 1 mes: $465
+- Mínimo 1 mes: $431
+- Máximo 6 meses: $490
+- Mínimo 6 meses: $420
+- Máximo 1 año: $520
+- Mínimo 1 año: $410
 
 ## Niveles Técnicos
 - Soporte fuerte: $445
 - Resistencia fuerte: $470
 - Media móvil 50 días: $452
-- Tendencia: Lateral alcista
+- Tendencia 1 mes: Alcista
+- Tendencia 6 meses: Lateral
+- Tendencia 1 año: Bajista moderada
 
 ## Recomendación
-- 0-1 mes: MANTENER (precio objetivo $465)
-- 0-6 meses: COMPRA (precio objetivo $490)
-- 6-12 meses: COMPRA FUERTE (precio objetivo $520)
-
-Justificación: El sector financiero se beneficiará de la reducción de tasas. El dividendo (7%) ofrece valor mientras se materializa el potencial alcista.
+- 1 mes: MANTENER (precio objetivo $465)
+  Justificación: Cotiza cerca de resistencia técnica importante, limitando potencial de corto plazo.
+  
+- 6 meses: COMPRA (precio objetivo $490)
+  Justificación: La reducción de tasas de interés beneficiará los márgenes del sector financiero.
+  
+- 12 meses: COMPRA FUERTE (precio objetivo $520)
+  Justificación: Valoración atractiva con dividendo del 7% mientras se materializa la recuperación del sector.
