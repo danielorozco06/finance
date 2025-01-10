@@ -8,7 +8,7 @@ Ejecutar el script getTickerInfo.py para obtener la información de los tickers.
 
 # Aider
 
-PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un parrafo corto de la siguiente noticia con fecha:
+PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un parrafo corto de la siguiente noticia con fecha en orden cronologico:
 
 # Cursor Composer
 
