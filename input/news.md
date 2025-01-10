@@ -1,5 +1,8 @@
 # Noticias Relevantes
 
+## 2025-01-09 - Precios del gas natural aumentan 68% en 5 años y podrían subir más
+Asoenergía alertó que los precios del gas natural en Colombia han aumentado 68% en los últimos 5 años, pasando de 4.71 USD/MBTU en 2019 a 7.93 USD/MBTU en 2024. Se espera que los precios continúen aumentando debido a la escasez proyectada, que podría alcanzar el 40% de la demanda total del mercado en el último trimestre de 2025. El sector industrial ha sido particularmente afectado, con un aumento del 32% en los precios en los últimos 5 años.
+
 ## 2025-01-09 - Inflación cierra 2024 en 5.2%, la más baja desde 2021
 
 La inflación en Colombia cerró 2024 en 5.2%, su nivel más bajo desde noviembre de 2021, según datos del DANE. Aunque por encima de la meta del 3%, representa una reducción significativa frente al 9.28% de 2023. Los principales contribuyentes fueron alojamiento y servicios públicos (2.13 puntos), restaurantes y hoteles (0.85 puntos), y transporte (0.70 puntos). El Banco de la República prevé que la inflación continuará ajustándose hacia la meta en 2025, aunque a un ritmo más lento.
