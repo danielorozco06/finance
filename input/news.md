@@ -1,5 +1,12 @@
 # Noticias Relevantes
 
+## 2025-01-09 - Inflación cierra 2024 en 5.2%, la más baja desde 2021
+
+La inflación en Colombia cerró 2024 en 5.2%, su nivel más bajo desde noviembre de 2021, según datos del DANE. Aunque por encima de la meta del 3%, representa una reducción significativa frente al 9.28% de 2023. Los principales contribuyentes fueron alojamiento y servicios públicos (2.13 puntos), restaurantes y hoteles (0.85 puntos), y transporte (0.70 puntos). El Banco de la República prevé que la inflación continuará ajustándose hacia la meta en 2025, aunque a un ritmo más lento.
+
+## 2025-01-07 - Bancos con mayores utilidades a octubre 2024
+Bancolombia, Banco de Bogotá y Davivienda lideraron las utilidades del sector bancario en octubre 2024, con ganancias de $4,6 billones, $1 billón y $576.877 millones respectivamente, según la Superintendencia Financiera. Otros bancos destacados fueron Banco Popular con $412.345 millones, Banco de Occidente con $389.210 millones, y Banco Caja Social con $287.456 millones en utilidades. El sector en general reportó utilidades por $6,8 billones, aunque 12 de 30 bancos registraron pérdidas, siendo BBVA Colombia el más afectado con $265.154 millones en números rojos, seguido por Banco Falabella con $187.543 millones y Banco Pichincha con $123.456 millones en pérdidas.
+
 ## 2025-01-07 - Davivienda y Scotiabank Colpatria anuncian fusión
 Davivienda y Scotiabank Colpatria firmaron un acuerdo para integrar sus operaciones en Colombia, Costa Rica y Panamá. Scotiabank recibirá aproximadamente un 20% de participación en la entidad fusionada y tendrá representación en la junta directiva. La operación, que requiere aprobación de la Superintendencia Financiera, podría completarse en 2026. Se estima que los activos combinados alcanzarán los 60.000 millones de dólares, con un 70% en Colombia y 30% en Centroamérica.
 
@@ -34,13 +41,6 @@ Colombia perdió su autosuficiencia energética de 45 años al iniciar importaci
 ## 2024-12-09 - Banco de la República reduce tasa de interés
 
 El Banco de la República sorprendió al mercado al reducir su tasa de interés en solo 25 puntos básicos, ubicándola en 9.50%. La decisión fue tomada de forma dividida: cinco directores votaron por el recorte de 25 puntos, uno por 50 puntos y otro por 75 puntos básicos.
-
-## 2025-01-07 - Bancos con mayores utilidades a octubre 2024
-Bancolombia, Banco de Bogotá y Davivienda lideraron las utilidades del sector bancario en octubre 2024, con ganancias de $4,6 billones, $1 billón y $576.877 millones respectivamente, según la Superintendencia Financiera. Otros bancos destacados fueron Banco Popular con $412.345 millones, Banco de Occidente con $389.210 millones, y Banco Caja Social con $287.456 millones en utilidades. El sector en general reportó utilidades por $6,8 billones, aunque 12 de 30 bancos registraron pérdidas, siendo BBVA Colombia el más afectado con $265.154 millones en números rojos, seguido por Banco Falabella con $187.543 millones y Banco Pichincha con $123.456 millones en pérdidas.
-
-## 2025-01-09 - Inflación cierra 2024 en 5.2%, la más baja desde 2021
-
-La inflación en Colombia cerró 2024 en 5.2%, su nivel más bajo desde noviembre de 2021, según datos del DANE. Aunque por encima de la meta del 3%, representa una reducción significativa frente al 9.28% de 2023. Los principales contribuyentes fueron alojamiento y servicios públicos (2.13 puntos), restaurantes y hoteles (0.85 puntos), y transporte (0.70 puntos). El Banco de la República prevé que la inflación continuará ajustándose hacia la meta en 2025, aunque a un ritmo más lento.
 
 ## Contexto Político y Económico
 
