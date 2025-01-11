@@ -1,38 +1,36 @@
-# Análisis Preferencial Grupo Sura
+# Análisis de PFGRUPSURA_CL
+Fecha de análisis: 2025-01-11
 
-## Catalizadores Futuros
-- Proceso de escisión con Grupo Argos durante 2025
-- Fortalecimiento del negocio asegurador
-- Exposición a mercados latinoamericanos en crecimiento
-- Potencial venta de activos no estratégicos
+## Catalizadores futuros
+- Anuncio de proceso de escisión por absorción con Grupo Argos que terminará con la participación cruzada de 46 años.
+- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector financiero y de seguros.
+- La fusión Davivienda-Scotiabank podría generar oportunidades de consolidación en el sector financiero donde tiene participación.
+- El probable cambio de gobierno en 2026 podría mejorar el entorno para el sector financiero y de inversiones.
 
-## Precios Recientes
-- Último precio: $25,980 (2025-01-10)
-- Máximo 1 mes: $26,340
-- Mínimo 1 mes: $25,880
-- Máximo 6 meses: $27,500
-- Mínimo 6 meses: $25,000
-- Máximo 1 año: $28,500
-- Mínimo 1 año: $24,500
+## Precios recientes
+- Último precio: $26,080
+- Máximo 1 mes: $26,060 (2 ene)
+- Mínimo 1 mes: $25,880 (8 ene)
+- Máximo 6 meses: $26,340 (27 dic)
+- Mínimo 6 meses: $16,173 (22 ene)
+- Máximo 1 año: $26,340 (27 dic)
+- Mínimo 1 año: $14,304 (10 ene)
 
-## Niveles Técnicos
-- Soporte fuerte: $25,500
-- Resistencia fuerte: $26,500
-- Media móvil 50 días: $26,000
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Lateral
-- Tendencia 1 año: Bajista moderada
+## Niveles técnicos relevantes
+- Soporte fuerte: $25,500 (zona de consolidación reciente)
+- Resistencia fuerte: $26,500 (nivel psicológico)
+- Media móvil 50 días: $25,800
+- Tendencia 1 mes: Lateral alcista
+- Tendencia 6 meses: Alcista fuerte
+- Tendencia 1 año: Alcista fuerte
 
-## Recomendación
-- 1 mes: MANTENER (precio objetivo $26,200)
-  Justificación: Momentum positivo pero limitado por resistencia técnica cercana.
+## Recomendación de inversión
 
-- 6 meses: COMPRA (precio objetivo $27,500)
-  Justificación: La escisión con Grupo Argos y potencial venta de activos generarán valor.
+### 1 mes: MANTENER
+Justificación: Aunque la tendencia de largo plazo es alcista, el precio está consolidando en niveles altos. El proceso de escisión con Grupo Argos podría generar volatilidad en el corto plazo.
 
-- 12 meses: COMPRA FUERTE (precio objetivo $29,000)
-  Justificación: Valoración atractiva considerando el enfoque en el negocio financiero y la sólida posición en mercados regionales.
+### 6 meses: COMPRA
+Justificación: La escisión con Grupo Argos y la normalización de tasas de interés deberían generar valor. La compañía mantiene una sólida posición en el sector financiero y de seguros.
 
-### Etiquetas
-- COMPRA FUERTE (12 meses)
-- COMPRA (6 meses)
+### 12 meses: COMPRA FUERTE
+Justificación: La combinación de la escisión estratégica, mejora en condiciones macroeconómicas y probable cambio de gobierno sugieren un potencial alcista significativo. La simplificación de la estructura corporativa debería destrabar valor.

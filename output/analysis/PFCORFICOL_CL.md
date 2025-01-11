@@ -1,34 +1,36 @@
-# Análisis Preferencial Corficolombiana
+# Análisis de PFCORFICOL_CL
+Fecha de análisis: 2025-01-11
 
-## Catalizadores Futuros
-- Avances en proyectos de infraestructura 4G y 5G
-- Inversiones en sector energético beneficiadas por crisis actual
-- Diversificación en sectores estratégicos
-- Exposición al sector hotelero en recuperación
+## Catalizadores futuros
+- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector financiero y de inversiones.
+- La fusión Davivienda-Scotiabank podría generar oportunidades de inversión y asesoría financiera.
+- El probable cambio de gobierno en 2026 podría mejorar el entorno para inversiones y mercado de capitales.
+- La pérdida de autosuficiencia energética y la crisis del sector podrían generar oportunidades de inversión en infraestructura.
 
-## Precios Recientes
-- Último precio: $14,400 (2025-01-10)
-- Máximo 1 mes: $14,480
-- Mínimo 1 mes: $13,400
-- Máximo 6 meses: $15,200
-- Mínimo 6 meses: $13,200
-- Máximo 1 año: $16,000
-- Mínimo 1 año: $13,000
+## Precios recientes
+- Último precio: $14,400
+- Máximo 1 mes: $14,480 (8 ene)
+- Mínimo 1 mes: $13,400 (20 dic)
+- Máximo 6 meses: $14,480 (8 ene)
+- Mínimo 6 meses: $13,400 (20 dic)
+- Máximo 1 año: $14,480 (8 ene)
+- Mínimo 1 año: $12,900 (8 feb)
 
-## Niveles Técnicos
-- Soporte fuerte: $14,000
-- Resistencia fuerte: $14,800
+## Niveles técnicos relevantes
+- Soporte fuerte: $14,000 (nivel psicológico)
+- Resistencia fuerte: $14,500 (máximos recientes)
 - Media móvil 50 días: $14,200
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Lateral bajista
-- Tendencia 1 año: Bajista moderada
+- Tendencia 1 mes: Lateral alcista
+- Tendencia 6 meses: Alcista
+- Tendencia 1 año: Alcista
 
-## Recomendación
-- 1 mes: MANTENER (precio objetivo $14,600)
-  Justificación: Momentum positivo pero se acerca a resistencia técnica importante.
+## Recomendación de inversión
 
-- 6 meses: COMPRA (precio objetivo $15,500)
-  Justificación: Los avances en proyectos de infraestructura y la crisis energética impulsarán resultados.
+### 1 mes: MANTENER
+Justificación: La acción muestra estabilidad en niveles altos con sesgo alcista. Los buenos resultados del sector financiero dan soporte, pero el potencial alcista inmediato parece limitado.
 
-- 12 meses: COMPRA FUERTE (precio objetivo $16,500)
-  Justificación: Portfolio diversificado con exposición a sectores clave y valoración atractiva a largo plazo.
+### 6 meses: COMPRA
+Justificación: La normalización de tasas de interés y la mejora en indicadores macroeconómicos deberían beneficiar al sector financiero. La compañía está bien posicionada para aprovechar oportunidades en el mercado de capitales.
+
+### 12 meses: COMPRA FUERTE
+Justificación: La perspectiva de cambio de gobierno en 2026, junto con la normalización monetaria y las oportunidades en infraestructura energética, sugieren un potencial alcista significativo. La empresa tiene experiencia en estructuración de inversiones en sectores clave.

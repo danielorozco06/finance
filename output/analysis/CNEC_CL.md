@@ -1,31 +1,36 @@
-# Análisis Canacol Energy
+# Análisis de CNEC_CL
+Fecha de análisis: 2025-01-11
 
-## Catalizadores Futuros
-- Pérdida de autosuficiencia energética en Colombia que beneficia a productores de gas
-- Probable cambio de gobierno en 2026 que favorecería la exploración y producción
-- Aumento en demanda de gas natural por crisis energética
-- Precios internacionales del gas natural en recuperación
+## Catalizadores futuros
+- Aumento significativo en el precio del petróleo (Brent superando US$80) tras nuevas sanciones de EE.UU. contra Rusia.
+- Probable cambio de gobierno en 2026 hacia una administración más favorable a la industria petrolera.
+- La pérdida de autosuficiencia energética del país y la escasez proyectada de gas natural podrían llevar a políticas más favorables para el sector.
+- Declaración de inviabilidad del pozo Komodo-1 por restricciones ambientales refleja las dificultades actuales del sector, pero podría cambiar con nuevo gobierno.
 
-## Precios Recientes
-- Último precio: $11,800 (2025-01-10)
-- Máximo 1 mes: $11,800
-- Mínimo 1 mes: $11,100
-- Máximo 6 meses: $12,500
-- Mínimo 6 meses: $10,800
-- Máximo 1 año: $13,200
-- Mínimo 1 año: $10,500
+## Precios recientes
+- Último precio: $11,600
+- Máximo 1 mes: $11,800 (9 ene)
+- Mínimo 1 mes: $11,060 (19 dic)
+- Máximo 6 meses: $12,680 (10 dic)
+- Mínimo 6 meses: $11,060 (19 dic)
+- Máximo 1 año: $20,060 (15 ene)
+- Mínimo 1 año: $11,060 (19 dic)
 
-## Niveles Técnicos
-- Soporte fuerte: $11,400
-- Resistencia fuerte: $12,000
-- Media móvil 50 días: $11,500
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Lateral
-- Tendencia 1 año: Bajista moderada
+## Niveles técnicos relevantes
+- Soporte fuerte: $11,000 (nivel psicológico y zona de soporte)
+- Resistencia fuerte: $12,500 (zona de congestión reciente)
+- Media móvil 50 días: $11,420
+- Tendencia 1 mes: Lateral alcista
+- Tendencia 6 meses: Bajista
+- Tendencia 1 año: Bajista fuerte
 
-## Recomendación
-- 1 mes: COMPRA (precio objetivo $12,200)
-- 6 meses: COMPRA FUERTE (precio objetivo $13,500)
-- 12 meses: COMPRA FUERTE (precio objetivo $15,000)
+## Recomendación de inversión
 
-Justificación: La crisis energética y el probable cambio de gobierno beneficiarán significativamente a Canacol. La acción muestra momentum alcista.
+### 1 mes: MANTENER
+Justificación: A pesar del repunte en precios del petróleo, las restricciones gubernamentales actuales limitan el potencial alcista en el corto plazo. El soporte en $11,000 parece sólido.
+
+### 6 meses: VENTA
+Justificación: La tendencia bajista continúa siendo fuerte y las políticas restrictivas del gobierno actual seguirán presionando al sector. Los precios del petróleo podrían moderarse según proyecciones de Macquarie.
+
+### 12 meses: COMPRA FUERTE
+Justificación: La perspectiva de cambio de gobierno en 2026 hacia una administración pro-industria petrolera podría generar una fuerte recuperación. Los niveles actuales representan mínimos históricos y ofrecen una atractiva relación riesgo/beneficio para inversión a largo plazo.

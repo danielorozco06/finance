@@ -20,10 +20,10 @@ CONTEXTO: /input/
 PROMPT: 
 Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones:
 - Catalizadores futuros
-- Precios recientes: último precio, máximo 1 mes, mínimo 1 mes, máximo 6 meses, mínimo 6 meses, máximo 1 año, mínimo 1 año
+- Precios recientes: último precio, máximo 1 mes, mínimo 1 mes, máximo 6 meses, mínimo 6 meses, máximo 1 año y mínimo 1 año, cada uno con fecha en formato YYYY-MM-DD.
 - Niveles técnicos relevantes: soporte fuerte, resistencia fuerte, media móvil 50 días, tendencia 1 mes, tendencia 6 meses, tendencia 1 año
-- Recomendación de inversión: 1 mes, 6 meses y 12 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
-Nota: Hoy es 2025-01-10.
+- Recomendación de inversión: 1 mes, 6 meses y 12 meses. Con precio objetivo coordinado con los valores de los precios recientes. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
+Nota: Hoy es 2025-01-11.
 
 ## Prompt portafolio de inversión
 

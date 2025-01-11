@@ -1,34 +1,36 @@
-# Análisis Preferencial Bancolombia
+# Análisis de PFBCOLOM_CL
+Fecha de análisis: 2025-01-11
 
-## Catalizadores Futuros
-- Liderazgo en utilidades del sector bancario ($4.6 billones a oct-2024)
-- Reducción de tasas de interés beneficiará cartera de crédito
-- Inflación controlada favorece al sector financiero
-- Expansión digital y eficiencias operativas
+## Catalizadores futuros
+- La fusión anunciada entre Davivienda y Scotiabank Colpatria podría generar oportunidades de consolidación en el sector bancario.
+- Banco de Bogotá reportó sólidas utilidades a octubre 2024 ($1 billón), reflejando la fortaleza del grupo.
+- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés del Banco de la República (9.50%) benefician al sector financiero.
+- El probable cambio de gobierno en 2026 podría mejorar el entorno para el sector bancario.
 
-## Precios Recientes
-- Último precio: $35,360 (2025-01-10)
-- Máximo 1 mes: $35,520
-- Mínimo 1 mes: $34,245
-- Máximo 6 meses: $37,000
-- Mínimo 6 meses: $33,500
-- Máximo 1 año: $38,500
-- Mínimo 1 año: $32,800
+## Precios recientes
+- Último precio: $35,180
+- Máximo 1 mes: $35,500 (7 ene)
+- Mínimo 1 mes: $33,933 (18 dic)
+- Máximo 6 meses: $35,500 (7 ene)
+- Mínimo 6 meses: $33,933 (18 dic)
+- Máximo 1 año: $35,182 (10 dic)
+- Mínimo 1 año: $27,630 (31 ene)
 
-## Niveles Técnicos
-- Soporte fuerte: $34,500
-- Resistencia fuerte: $36,000
+## Niveles técnicos relevantes
+- Soporte fuerte: $34,500 (zona de consolidación reciente)
+- Resistencia fuerte: $36,000 (nivel psicológico)
 - Media móvil 50 días: $34,800
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Lateral
-- Tendencia 1 año: Bajista moderada
+- Tendencia 1 mes: Lateral alcista
+- Tendencia 6 meses: Alcista
+- Tendencia 1 año: Alcista
 
-## Recomendación
-- 1 mes: MANTENER (precio objetivo $35,500)
-  Justificación: Cotiza cerca de resistencias técnicas importantes que limitan el potencial inmediato.
+## Recomendación de inversión
 
-- 6 meses: COMPRA (precio objetivo $37,000)
-  Justificación: La reducción de tasas y control de inflación impulsarán el crecimiento de la cartera crediticia.
+### 1 mes: MANTENER
+Justificación: La acción muestra estabilidad en niveles altos con sesgo alcista. La fusión Davivienda-Scotiabank y los buenos resultados del sector dan soporte, pero el potencial alcista inmediato parece limitado.
 
-- 12 meses: COMPRA FUERTE (precio objetivo $40,000)
-  Justificación: Sólido liderazgo en sector bancario con excelentes resultados y valoración atractiva a largo plazo.
+### 6 meses: COMPRA
+Justificación: La normalización de tasas de interés y la mejora en indicadores macroeconómicos deberían beneficiar al sector bancario. La solidez fundamental del grupo respalda la recomendación.
+
+### 12 meses: COMPRA FUERTE
+Justificación: La perspectiva de cambio de gobierno en 2026, junto con la normalización monetaria y la posible consolidación del sector bancario, sugieren un potencial alcista significativo. El grupo mantiene una posición de liderazgo en el sector financiero.

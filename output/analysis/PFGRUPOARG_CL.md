@@ -1,34 +1,36 @@
-# Análisis Preferencial Grupo Argos
+# Análisis de PFGRUPOARG_CL
+Fecha de análisis: 2025-01-11
 
-## Catalizadores Futuros
-- Proceso de escisión con Grupo Sura se extenderá durante 2025
-- Recuperación del sector cemento en 2026
-- Inversiones en energías renovables
-- Expansión en concesiones viales
+## Catalizadores futuros
+- Anuncio de proceso de escisión por absorción con Grupo Sura que terminará con la participación cruzada de 46 años.
+- Los accionistas de Argos recibirán 0.23 acciones de Sura por cada acción, lo que podría generar valor.
+- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector de inversiones.
+- El probable cambio de gobierno en 2026 podría mejorar el entorno empresarial y de inversiones.
 
-## Precios Recientes
-- Último precio: $14,800 (2025-01-10)
-- Máximo 1 mes: $15,500
-- Mínimo 1 mes: $14,800
-- Máximo 6 meses: $16,200
-- Mínimo 6 meses: $14,500
-- Máximo 1 año: $17,000
-- Mínimo 1 año: $14,000
+## Precios recientes
+- Último precio: $14,660
+- Máximo 1 mes: $15,200 (7 ene)
+- Mínimo 1 mes: $14,252 (17 dic)
+- Máximo 6 meses: $15,242 (19 dic)
+- Mínimo 6 meses: $13,678 (10 dic)
+- Máximo 1 año: $15,242 (19 dic)
+- Mínimo 1 año: $9,176 (9 feb)
 
-## Niveles Técnicos
-- Soporte fuerte: $14,500
-- Resistencia fuerte: $15,800
-- Media móvil 50 días: $15,100
-- Tendencia 1 mes: Bajista
-- Tendencia 6 meses: Lateral bajista
-- Tendencia 1 año: Bajista moderada
+## Niveles técnicos relevantes
+- Soporte fuerte: $14,500 (zona de soporte reciente)
+- Resistencia fuerte: $15,500 (nivel psicológico)
+- Media móvil 50 días: $14,800
+- Tendencia 1 mes: Lateral bajista
+- Tendencia 6 meses: Alcista
+- Tendencia 1 año: Alcista fuerte
 
-## Recomendación
-- 1 mes: MANTENER (precio objetivo $15,000)
-  Justificación: Presión vendedora reciente pero cerca de soporte técnico importante.
+## Recomendación de inversión
 
-- 6 meses: COMPRA (precio objetivo $16,000)
-  Justificación: La escisión con Grupo Sura desbloqueará valor para los accionistas.
+### 1 mes: MANTENER
+Justificación: El proceso de escisión con Grupo Sura podría generar volatilidad en el corto plazo. La tendencia reciente muestra cierta debilidad, sugiriendo cautela.
 
-- 12 meses: COMPRA FUERTE (precio objetivo $17,500)
-  Justificación: Valoración atractiva considerando el portafolio diversificado y la recuperación esperada del sector cemento.
+### 6 meses: COMPRA
+Justificación: La escisión con Grupo Sura debería generar valor para los accionistas. La mejora en condiciones macroeconómicas beneficiará al sector de inversiones.
+
+### 12 meses: COMPRA FUERTE
+Justificación: La combinación de la escisión estratégica, mejora en condiciones macroeconómicas y probable cambio de gobierno sugieren un potencial alcista significativo. La simplificación de la estructura corporativa debería destrabar valor.
