@@ -1,32 +1,35 @@
-# Análisis Preferencial Bancolombia
+# Análisis PFBCOLOM
 
 ## Precios recientes
-- Último precio: $35,180 (2025-01-10)
-- Máximo 1 mes: $35,500 (2025-01-07)
-- Mínimo 1 mes: $33,933 (2024-12-18)
-- Máximo 6 meses: $35,520 (2024-12-24)
-- Mínimo 6 meses: $27,630 (2024-01-31)
-- Máximo 1 año: $35,520 (2024-12-24)
-- Mínimo 1 año: $27,630 (2024-01-31)
+- Último precio: 35180.0 (2025-01-10)
+- Máximo 1 mes: 35500.0 (2025-01-07)
+- Mínimo 1 mes: 34636.0 (2024-12-23)
+- Máximo 6 meses: 35500.0 (2025-01-07)
+- Mínimo 6 meses: 33933.9 (2024-12-18)
+- Máximo 1 año: 35500.0 (2025-01-07)
+- Mínimo 1 año: 27630.7 (2024-01-31)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $34,000
-- Resistencia fuerte: $36,000
-- Media móvil 50 días: $34,800
-- Tendencia 1 mes: Lateral alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista
+- Soporte fuerte: 34000.0 (zona consolidación diciembre)
+- Resistencia fuerte: 35500.0 (máximo reciente)
+- Media móvil 50 días: 34800.0
+- Tendencia último año: ALCISTA (apreciación >27%)
+- Tendencia últimos 6 meses: ALCISTA (canal alcista definido)
+- Tendencia último mes: LATERAL ALCISTA (rango 34500-35500)
+- Tendencia próximo mes: ALCISTA (fusión Scotiabank)
+- Tendencia próximos 6 meses: ALCISTA (sinergias fusión)
+- Tendencia próximo año: ALCISTA (mejora sector bancario)
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: $35,500
-- Justificación: La acción cotiza cerca de máximos históricos con tendencia alcista. Bancolombia lideró las utilidades del sector bancario en octubre 2024 con $4.6 billones, mostrando solidez operativa.
+### 1 mes: COMPRA
+- Precio objetivo: 35500-36500
+- Justificación: Fusión con Scotiabank Colpatria genera valor. Top 3 en utilidades sector bancario. Soporte técnico sólido.
 
-### 6 meses: COMPRA
-- Precio objetivo: $38,000
-- Justificación: La reducción de tasas de interés por parte del Banco de la República beneficiará al sector. La consolidación del sector bancario tras la fusión Davivienda-Scotiabank podría generar valor adicional.
+### 6 meses: COMPRA FUERTE
+- Precio objetivo: 37000-38500
+- Justificación: Sinergias post-fusión y expansión regional. Reducción tasas interés beneficia sector. Valoración atractiva.
 
 ### 12 meses: COMPRA FUERTE
-- Precio objetivo: $42,000
-- Justificación: La normalización de tasas de interés, la probable transición a un gobierno más favorable al sector financiero en 2026 y la posición dominante de Bancolombia sugieren un potencial de valorización significativo.
+- Precio objetivo: 40000-42000
+- Justificación: Consolidación como banco líder post-fusión. Mejora perspectivas sector bancario. Potencial revalorización significativo.

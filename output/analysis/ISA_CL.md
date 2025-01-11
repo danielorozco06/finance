@@ -1,32 +1,35 @@
 # Análisis ISA
 
 ## Precios recientes
-- Último precio: $17,080 (2025-01-10)
-- Máximo 1 mes: $17,300 (2025-01-07)
-- Mínimo 1 mes: $16,200 (2024-12-20)
-- Máximo 6 meses: $17,300 (2025-01-07)
-- Mínimo 6 meses: $15,159 (2024-02-09)
-- Máximo 1 año: $17,300 (2025-01-07)
-- Mínimo 1 año: $14,304 (2024-01-10)
+- Último precio: 17080.0 (2025-01-10)
+- Máximo 1 mes: 17300.0 (2025-01-07)
+- Mínimo 1 mes: 16200.0 (2024-12-20)
+- Máximo 6 meses: 17300.0 (2025-01-07)
+- Mínimo 6 meses: 16200.0 (2024-12-20)
+- Máximo 1 año: 17300.0 (2025-01-07)
+- Mínimo 1 año: 15159.2 (2024-02-09)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $16,500
-- Resistencia fuerte: $17,500
-- Media móvil 50 días: $16,800
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista
+- Soporte fuerte: 16200.0 (mínimo reciente diciembre)
+- Resistencia fuerte: 17300.0 (máximo histórico)
+- Media móvil 50 días: 16800.0
+- Tendencia último año: ALCISTA (apreciación >12%)
+- Tendencia últimos 6 meses: ALCISTA (canal alcista definido)
+- Tendencia último mes: ALCISTA (nuevos máximos)
+- Tendencia próximo mes: ALCISTA (momentum positivo)
+- Tendencia próximos 6 meses: ALCISTA (beneficiario crisis energética)
+- Tendencia próximo año: ALCISTA (posición estratégica)
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: $17,300
-- Justificación: La acción muestra fortaleza técnica cerca de máximos históricos. El aumento en precios del gas natural y la crisis energética benefician a ISA como operador de infraestructura de transmisión.
+### 1 mes: COMPRA
+- Precio objetivo: 17300-17800
+- Justificación: Beneficiario directo de crisis energética. Infraestructura crítica para importación GNL. Soporte técnico sólido.
 
-### 6 meses: COMPRA
-- Precio objetivo: $18,500
-- Justificación: La pérdida de autosuficiencia energética del país y la necesidad de fortalecer la infraestructura de transmisión benefician directamente a ISA. Los márgenes operativos son estables y el modelo de negocio es defensivo.
+### 6 meses: COMPRA FUERTE
+- Precio objetivo: 18000-19000
+- Justificación: Rol clave en transición energética. Escasez proyectada gas natural beneficia transmisión. Expansión regional.
 
 ### 12 meses: COMPRA FUERTE
-- Precio objetivo: $20,000
-- Justificación: La posición dominante en transmisión eléctrica regional, la crisis energética y la probable transición a un gobierno más favorable al sector en 2026 deberían impulsar una valorización significativa.
+- Precio objetivo: 19500-20500
+- Justificación: Líder transmisión energía en Latinoamérica. Inversiones estratégicas en curso. Dividendos estables y crecimiento sostenible.

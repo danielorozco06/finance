@@ -1,32 +1,35 @@
-# Análisis Banco de Bogotá
+# Análisis BOGOTA
 
 ## Precios recientes
-- Último precio: $26,860 (2025-01-10)
-- Máximo 1 mes: $27,000 (2025-01-07)
-- Mínimo 1 mes: $26,240 (2024-12-24)
-- Máximo 6 meses: $30,223 (2024-01-30)
-- Mínimo 6 meses: $25,941 (2024-12-19)
-- Máximo 1 año: $30,223 (2024-01-30)
-- Mínimo 1 año: $25,941 (2024-12-19)
+- Último precio: 26860.0 (2025-01-10)
+- Máximo 1 mes: 27000.0 (2025-01-07)
+- Mínimo 1 mes: 26240.0 (2024-12-24)
+- Máximo 6 meses: 31077.3 (2024-02-08)
+- Mínimo 6 meses: 25941.8 (2024-12-19)
+- Máximo 1 año: 31077.3 (2024-02-08)
+- Mínimo 1 año: 25941.8 (2024-12-19)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $26,000
-- Resistencia fuerte: $28,000
-- Media móvil 50 días: $26,700
-- Tendencia 1 mes: Lateral alcista
-- Tendencia 6 meses: Bajista
-- Tendencia 1 año: Bajista
+- Soporte fuerte: 26000.0 (zona de consolidación diciembre)
+- Resistencia fuerte: 28000.0 (nivel psicológico)
+- Media móvil 50 días: 26500.0
+- Tendencia último año: BAJISTA (caída desde máximos de febrero)
+- Tendencia últimos 6 meses: LATERAL BAJISTA (rango 26000-28000)
+- Tendencia último mes: ALCISTA (recuperación desde mínimos)
+- Tendencia próximo mes: ALCISTA (fusión con Scotiabank)
+- Tendencia próximos 6 meses: ALCISTA (sinergias post-fusión)
+- Tendencia próximo año: ALCISTA (mejora sector bancario)
 
 ## Recomendación de inversión
 
 ### 1 mes: COMPRA
-- Precio objetivo: $27,500
-- Justificación: La fusión anunciada con Scotiabank Colpatria genera expectativas positivas en el corto plazo. El soporte en $26,000 ha demostrado ser sólido y el volumen de negociación ha aumentado en las últimas sesiones.
+- Precio objetivo: 27500-28500
+- Justificación: Fusión con Scotiabank Colpatria genera valor. Dividendo mensual atractivo (0.45%). Top 3 en utilidades sector bancario.
 
-### 6 meses: MANTENER
-- Precio objetivo: $27,000
-- Justificación: La caída de las utilidades del sector bancario en 2024 sugiere cautela. Sin embargo, la reducción de tasas de interés por parte del Banco de la República podría beneficiar al sector en el mediano plazo.
+### 6 meses: COMPRA FUERTE
+- Precio objetivo: 29000-31000
+- Justificación: Sinergias post-fusión y expansión regional. ROE sólido (3.8%) y buenos niveles de capitalización.
 
-### 12 meses: COMPRA
-- Precio objetivo: $29,000
-- Justificación: La valoración actual es atractiva considerando el dividendo del 5.32%. La fusión con Scotiabank debería generar sinergias positivas y la expectativa de cambio de gobierno en 2026 podría impulsar al sector financiero.
+### 12 meses: COMPRA FUERTE
+- Precio objetivo: 32000-34000
+- Justificación: Consolidación como banco líder post-fusión. Reducción tasas de interés beneficiará sector bancario. Valoración atractiva vs pares.

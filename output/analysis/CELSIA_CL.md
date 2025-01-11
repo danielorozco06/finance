@@ -1,32 +1,35 @@
-# Análisis Celsia
+# Análisis CELSIA
 
 ## Precios recientes
-- Último precio: $3,765 (2025-01-10)
-- Máximo 1 mes: $3,765 (2025-01-10)
-- Mínimo 1 mes: $3,500 (2024-12-18)
-- Máximo 6 meses: $3,765 (2025-01-10)
-- Mínimo 6 meses: $3,025 (2024-02-05)
-- Máximo 1 año: $3,765 (2025-01-10)
-- Mínimo 1 año: $2,892 (2024-01-11)
+- Último precio: 3765.0 (2025-01-10)
+- Máximo 1 mes: 3765.0 (2025-01-10)
+- Mínimo 1 mes: 3620.0 (2024-12-24)
+- Máximo 6 meses: 3765.0 (2025-01-10)
+- Mínimo 6 meses: 3500.0 (2024-12-17)
+- Máximo 1 año: 3765.0 (2025-01-10)
+- Mínimo 1 año: 2892.0 (2024-01-11)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $3,500
-- Resistencia fuerte: $3,800
-- Media móvil 50 días: $3,620
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista
+- Soporte fuerte: 3500.0 (zona de consolidación diciembre 2024)
+- Resistencia fuerte: 3800.0 (proyección técnica)
+- Media móvil 50 días: 3650.0
+- Tendencia último año: ALCISTA FUERTE (apreciación >30%)
+- Tendencia últimos 6 meses: ALCISTA (canal alcista definido)
+- Tendencia último mes: ALCISTA (nuevos máximos históricos)
+- Tendencia próximo mes: ALCISTA (momentum positivo)
+- Tendencia próximos 6 meses: ALCISTA (fundamentales sólidos)
+- Tendencia próximo año: ALCISTA (crecimiento sostenible)
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-- Precio objetivo: $3,800
-- Justificación: La acción ha alcanzado nuevos máximos históricos y el programa de recompra de acciones por $300.000 millones apoya el precio. Sin embargo, la valoración actual sugiere cautela en el corto plazo.
+- Precio objetivo: 3700-3900
+- Justificación: Programa de recompra de acciones en curso (25.92% ejecutado) da soporte. Niveles actuales cercanos a máximos históricos sugieren toma de utilidades.
 
 ### 6 meses: COMPRA
-- Precio objetivo: $4,200
-- Justificación: El aumento en los precios del gas natural beneficia a Celsia como generador de energía renovable. La compañía muestra sólidos márgenes operativos (19.08%) y crecimiento en ingresos (21.5%).
+- Precio objetivo: 4200-4400
+- Justificación: Beneficiario directo del aumento en precios del gas natural (+68% en 5 años). Sólidos fundamentales con margen EBITDA del 25%.
 
 ### 12 meses: COMPRA FUERTE
-- Precio objetivo: $4,875
-- Justificación: El consenso de analistas tiene un precio objetivo promedio de $4,875. La pérdida de autosuficiencia energética del país y la transición hacia energías renovables favorecen el modelo de negocio de Celsia a largo plazo.
+- Precio objetivo: 4800-5000
+- Justificación: Posición dominante en sector energético con escasez proyectada. Target de analistas en 4875. Recomendación de compra con calificación 2.0/5.0.

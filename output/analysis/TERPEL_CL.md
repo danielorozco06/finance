@@ -1,32 +1,35 @@
-# Análisis Terpel
+# Análisis TERPEL
 
 ## Precios recientes
-- Último precio: $11,780 (2025-01-10)
-- Máximo 1 mes: $11,780 (2025-01-10)
-- Mínimo 1 mes: $11,040 (2024-12-20)
-- Máximo 6 meses: $11,780 (2025-01-10)
-- Mínimo 6 meses: $7,033 (2024-02-09)
-- Máximo 1 año: $11,780 (2025-01-10)
-- Mínimo 1 año: $7,033 (2024-02-09)
+- Último precio: 11780.0 (2025-01-10)
+- Máximo 1 mes: 11780.0 (2025-01-10)
+- Mínimo 1 mes: 11360.0 (2024-12-24)
+- Máximo 6 meses: 11780.0 (2025-01-10)
+- Mínimo 6 meses: 10880.0 (2024-12-10)
+- Máximo 1 año: 11780.0 (2025-01-10)
+- Mínimo 1 año: 7033.5 (2024-02-09)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $11,500
-- Resistencia fuerte: $12,000
-- Media móvil 50 días: $11,400
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Fuertemente alcista
-- Tendencia 1 año: Fuertemente alcista
+- Soporte fuerte: 11000.0 (zona consolidación diciembre)
+- Resistencia fuerte: 12000.0 (nivel psicológico)
+- Media móvil 50 días: 11400.0
+- Tendencia último año: ALCISTA FUERTE (apreciación >67%)
+- Tendencia últimos 6 meses: ALCISTA (canal alcista definido)
+- Tendencia último mes: ALCISTA (nuevos máximos)
+- Tendencia próximo mes: ALCISTA (precios petróleo)
+- Tendencia próximos 6 meses: ALCISTA (escasez energética)
+- Tendencia próximo año: ALCISTA (cambio político favorable)
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: $11,800
-- Justificación: La acción cotiza en máximos históricos impulsada por el aumento del petróleo sobre US$80. El volumen de negociación es moderado, lo que podría limitar avances adicionales en el corto plazo.
+### 1 mes: COMPRA
+- Precio objetivo: 11800-12200
+- Justificación: Impulso alcista por petróleo sobre USD$80. Beneficiario directo crisis energética. Soporte técnico sólido.
 
-### 6 meses: COMPRA
-- Precio objetivo: $13,000
-- Justificación: La pérdida de autosuficiencia energética del país y el inicio de importaciones de gas natural benefician a Terpel como distribuidor principal. Los márgenes deberían mejorar con precios más altos de combustibles.
+### 6 meses: COMPRA FUERTE
+- Precio objetivo: 12500-13000
+- Justificación: Escasez proyectada gas natural beneficia distribución combustibles. Posición dominante mercado. Márgenes sólidos.
 
 ### 12 meses: COMPRA FUERTE
-- Precio objetivo: $14,500
-- Justificación: La probable transición a un gobierno más favorable al sector energético en 2026, junto con la posición dominante en distribución de combustibles y la crisis energética del país, sugieren un potencial de valorización significativo.
+- Precio objetivo: 13500-14000
+- Justificación: Cambio político favorable 2026. Líder distribución combustibles. Expansión regional y valoración atractiva.

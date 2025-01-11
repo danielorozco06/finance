@@ -1,32 +1,35 @@
-# Análisis Ecopetrol
+# Análisis ECOPETROL
 
 ## Precios recientes
-- Último precio: $1,845 (2025-01-10)
-- Máximo 1 mes: $1,845 (2025-01-07)
-- Mínimo 1 mes: $1,650 (2024-12-20)
-- Máximo 6 meses: $2,202 (2024-01-29)
-- Mínimo 6 meses: $1,650 (2024-12-20)
-- Máximo 1 año: $2,202 (2024-01-29)
-- Mínimo 1 año: $1,650 (2024-12-20)
+- Último precio: 1845.0 (2025-01-10)
+- Máximo 1 mes: 1845.0 (2025-01-07)
+- Mínimo 1 mes: 1650.0 (2024-12-20)
+- Máximo 6 meses: 1845.0 (2025-01-07)
+- Mínimo 6 meses: 1650.0 (2024-12-20)
+- Máximo 1 año: 2200.0 (2024-02-08)
+- Mínimo 1 año: 1650.0 (2024-12-20)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $1,650
-- Resistencia fuerte: $2,000
-- Media móvil 50 días: $1,750
-- Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Bajista
-- Tendencia 1 año: Bajista
+- Soporte fuerte: 1650.0 (mínimo reciente con alto volumen)
+- Resistencia fuerte: 2200.0 (máximo histórico del último año)
+- Media móvil 50 días: 1750.0
+- Tendencia último año: BAJISTA (caída desde máximos de 2200)
+- Tendencia últimos 6 meses: LATERAL BAJISTA (rango 1650-1900)
+- Tendencia último mes: ALCISTA (recuperación desde mínimos)
+- Tendencia próximo mes: ALCISTA (impulso por precios del petróleo)
+- Tendencia próximos 6 meses: ALCISTA (contexto político favorable)
+- Tendencia próximo año: ALCISTA FUERTE (cambio de gobierno 2026)
 
 ## Recomendación de inversión
 
 ### 1 mes: COMPRA
-- Precio objetivo: $2,000
-- Justificación: El repunte del petróleo sobre US$80 por las sanciones a Rusia y el soporte técnico en $1,650 favorecen un rebote. El dividendo del 32.66% ofrece protección a la baja.
+- Precio objetivo: 1900-2000
+- Justificación: Impulso alcista por precios del petróleo sobre USD$80 y sanciones a Rusia. Soporte fuerte en 1650.
 
-### 6 meses: MANTENER
-- Precio objetivo: $1,900
-- Justificación: Las políticas restrictivas del actual gobierno hacia el sector petrolero y la proyección de excedente de oferta global para 2025 sugieren cautela. Sin embargo, el alto dividendo compensa el riesgo.
+### 6 meses: COMPRA FUERTE
+- Precio objetivo: 2100-2300
+- Justificación: Mejora en perspectivas del sector petrolero en Colombia ante probable cambio de gobierno. Dividendos atractivos (yield >30%).
 
 ### 12 meses: COMPRA FUERTE
-- Precio objetivo: $2,200
-- Justificación: La probable transición a un gobierno pro-industria petrolera en 2026, junto con sólidos márgenes operativos (26.89%) y la pérdida de autosuficiencia energética del país, deberían impulsar una recuperación significativa.
+- Precio objetivo: 2400-2600
+- Justificación: Cambio de gobierno favorable al sector petrolero en 2026. Potencial recuperación de producción y reservas. Valoración atractiva con P/E < 5x.

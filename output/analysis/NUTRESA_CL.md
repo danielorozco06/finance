@@ -1,32 +1,35 @@
-# Análisis Grupo Nutresa
+# Análisis NUTRESA
 
 ## Precios recientes
-- Último precio: $87,000 (2025-01-10)
-- Máximo 1 mes: $87,000 (2025-01-10)
-- Mínimo 1 mes: $71,600 (2024-12-17)
-- Máximo 6 meses: $87,000 (2025-01-10)
-- Mínimo 6 meses: $41,978 (2024-01-30)
-- Máximo 1 año: $87,000 (2025-01-10)
-- Mínimo 1 año: $41,978 (2024-01-30)
+- Último precio: 87000.0 (2025-01-10)
+- Máximo 1 mes: 87000.0 (2025-01-08)
+- Mínimo 1 mes: 71600.0 (2024-12-17)
+- Máximo 6 meses: 87000.0 (2025-01-08)
+- Mínimo 6 meses: 71600.0 (2024-12-17)
+- Máximo 1 año: 87000.0 (2025-01-08)
+- Mínimo 1 año: 41978.6 (2024-01-30)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $79,000
-- Resistencia fuerte: $90,000
-- Media móvil 50 días: $78,500
-- Tendencia 1 mes: Fuertemente alcista
-- Tendencia 6 meses: Fuertemente alcista
-- Tendencia 1 año: Fuertemente alcista
+- Soporte fuerte: 79000.0 (nivel consolidación diciembre)
+- Resistencia fuerte: 87000.0 (máximo histórico)
+- Media móvil 50 días: 78000.0
+- Tendencia último año: ALCISTA FUERTE (apreciación >100%)
+- Tendencia últimos 6 meses: ALCISTA FUERTE (impulso sostenido)
+- Tendencia último mes: ALCISTA FUERTE (nuevos máximos)
+- Tendencia próximo mes: ALCISTA (momentum positivo)
+- Tendencia próximos 6 meses: ALCISTA (fundamentales sólidos)
+- Tendencia próximo año: ALCISTA (expansión regional)
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-- Precio objetivo: $87,000
-- Justificación: La acción ha tenido un rally extraordinario (+107% en 6 meses) y cotiza en máximos históricos. El volumen de negociación es bajo, lo que podría dificultar salidas grandes.
+- Precio objetivo: 85000-89000
+- Justificación: Niveles máximos históricos sugieren consolidación. Momentum positivo pero señales de sobrecompra. Volumen bajo.
 
-### 6 meses: VENTA
-- Precio objetivo: $75,000
-- Justificación: La valoración actual parece exigente considerando los fundamentales del negocio. La reducción de la inflación a 5.2% podría presionar los márgenes al limitar la capacidad de subir precios.
+### 6 meses: COMPRA
+- Precio objetivo: 90000-95000
+- Justificación: Líder sector alimentos con márgenes sólidos. Inflación controlada beneficia costos. Expansión internacional.
 
-### 12 meses: MANTENER
-- Precio objetivo: $85,000
-- Justificación: A pesar de la sólida posición de mercado y el carácter defensivo del negocio, los niveles actuales de precio parecen haber incorporado la mayoría de los aspectos positivos. Se recomienda cautela.
+### 12 meses: COMPRA FUERTE
+- Precio objetivo: 95000-100000
+- Justificación: Posición dominante mercado regional. Valoración atractiva vs pares. Potencial de crecimiento en nuevos mercados.
