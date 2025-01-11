@@ -1,36 +1,32 @@
-# Análisis de CONCONCRET_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Suspensión del programa Mi Casa Ya y agotamiento de cupos para coberturas de tasa de interés afecta negativamente al sector construcción.
-- La reducción de la inflación a 5.2% y la tendencia bajista en tasas de interés podría reactivar el sector inmobiliario.
-- El probable cambio de gobierno en 2026 podría impulsar la inversión en infraestructura y construcción.
-- La acción ha mostrado un repunte extraordinario, subiendo de $300 a $670 en el último mes.
+# Análisis Constructora Conconcreto
 
 ## Precios recientes
-- Último precio: $670
-- Máximo 1 mes: $670 (10 ene)
-- Mínimo 1 mes: $305 (10 dic)
-- Máximo 6 meses: $670 (10 ene)
-- Mínimo 6 meses: $305 (10 dic)
-- Máximo 1 año: $670 (10 ene)
-- Mínimo 1 año: $270 (10 ene)
+- Último precio: $670 (2025-01-10)
+- Máximo 1 mes: $670 (2025-01-10)
+- Mínimo 1 mes: $419 (2024-12-20)
+- Máximo 6 meses: $670 (2025-01-10)
+- Mínimo 6 meses: $305 (2024-12-10)
+- Máximo 1 año: $670 (2025-01-10)
+- Mínimo 1 año: $270 (2024-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $550 (zona de consolidación reciente)
-- Resistencia fuerte: $700 (nivel psicológico)
+- Soporte fuerte: $550
+- Resistencia fuerte: $700
 - Media móvil 50 días: $445
-- Tendencia 1 mes: Alcista fuerte
+- Tendencia 1 mes: Fuertemente alcista
 - Tendencia 6 meses: Alcista
 - Tendencia 1 año: Alcista
 
 ## Recomendación de inversión
 
 ### 1 mes: VENTA
-Justificación: La acción ha experimentado un rally extraordinario (+120% en un mes) que parece insostenible en el corto plazo. Es probable una corrección técnica para consolidar ganancias.
+- Precio objetivo: $550
+- Justificación: La acción ha tenido un rally extraordinario (+60% en un mes) que parece insostenible en el corto plazo. Los indicadores técnicos muestran sobrecompra extrema.
 
 ### 6 meses: MANTENER
-Justificación: A pesar de los fundamentales débiles del sector construcción, la reducción de tasas de interés podría dar soporte a los precios. Sin embargo, el riesgo de corrección tras el fuerte rally sugiere cautela.
+- Precio objetivo: $650
+- Justificación: La suspensión del programa Mi Casa Ya podría afectar negativamente al sector constructor. Sin embargo, los sólidos fundamentales de la empresa (ratio deuda/patrimonio de 54.8%) y el bajo precio/valor en libros sugieren mantener posiciones.
 
 ### 12 meses: COMPRA
-Justificación: Las perspectivas de cambio de gobierno en 2026 y la normalización de tasas de interés deberían beneficiar al sector construcción. La compañía está bien posicionada para capitalizar una eventual recuperación del sector.
+- Precio objetivo: $800
+- Justificación: La probable reducción de tasas de interés durante 2025 y el cambio esperado de gobierno en 2026 podrían impulsar al sector constructor. La empresa mantiene un backlog sólido y márgenes operativos saludables (12.33%).

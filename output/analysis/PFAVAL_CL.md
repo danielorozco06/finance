@@ -1,25 +1,18 @@
-# Análisis de PFAVAL_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés del Banco de la República benefician al sector financiero.
-- El sector bancario mostró sólidos resultados a octubre 2024, reflejando la fortaleza del sistema financiero.
-- La fusión Davivienda-Scotiabank podría generar oportunidades de consolidación en el sector financiero.
-- El probable cambio de gobierno en 2026 podría mejorar el entorno para el sector financiero y de inversiones.
+# Análisis Preferencial Aval
 
 ## Precios recientes
-- Último precio: $458
-- Máximo 1 mes: $465 (8 ene)
-- Mínimo 1 mes: $431 (20 dic)
-- Máximo 6 meses: $497 (16 ene)
-- Mínimo 6 meses: $431 (20 dic)
-- Máximo 1 año: $497 (16 ene)
-- Mínimo 1 año: $431 (20 dic)
+- Último precio: $458 (2025-01-10)
+- Máximo 1 mes: $465 (2025-01-08)
+- Mínimo 1 mes: $431 (2024-12-20)
+- Máximo 6 meses: $497 (2024-01-16)
+- Mínimo 6 meses: $431 (2024-12-20)
+- Máximo 1 año: $497 (2024-01-16)
+- Mínimo 1 año: $431 (2024-12-20)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $445 (zona de consolidación reciente)
-- Resistencia fuerte: $470 (nivel técnico relevante)
-- Media móvil 50 días: $452
+- Soporte fuerte: $440
+- Resistencia fuerte: $480
+- Media móvil 50 días: $455
 - Tendencia 1 mes: Lateral alcista
 - Tendencia 6 meses: Bajista
 - Tendencia 1 año: Bajista
@@ -27,10 +20,13 @@ Fecha de análisis: 2025-01-11
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: La acción muestra estabilización tras las caídas recientes y la reducción de tasas de interés podría dar soporte. Sin embargo, la tendencia bajista de largo plazo sugiere cautela.
+- Precio objetivo: $465
+- Justificación: La acción muestra señales de estabilización tras tocar mínimos en diciembre. La fusión Davivienda-Scotiabank podría beneficiar indirectamente al sector bancario al reducir la competencia.
 
 ### 6 meses: COMPRA
-Justificación: La normalización de tasas de interés y la mejora en indicadores macroeconómicos deberían beneficiar al sector financiero. Los niveles actuales ofrecen un punto de entrada atractivo.
+- Precio objetivo: $500
+- Justificación: La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero. Los resultados del Banco de Bogotá (subsidiaria) muestran solidez con utilidades de $1 billón.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La perspectiva de cambio de gobierno en 2026, junto con la normalización monetaria y la consolidación del sector bancario, sugieren un potencial alcista significativo desde los niveles actuales.
+- Precio objetivo: $550
+- Justificación: La consolidación del sector bancario, la normalización de tasas de interés y la probable transición a un gobierno más favorable al sector financiero en 2026 deberían impulsar una recuperación significativa.

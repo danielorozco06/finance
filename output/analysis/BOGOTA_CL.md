@@ -1,24 +1,18 @@
-# Análisis de BOGOTA_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Fusión anunciada entre Davivienda y Scotiabank Colpatria que podría beneficiar indirectamente al Banco de Bogotá al reducir la competencia en el sector bancario.
-- Banco de Bogotá fue uno de los bancos con mayores utilidades a octubre 2024 ($1 billón), mostrando solidez financiera.
-- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés del Banco de la República (actualmente en 9.50%) podrían impulsar el crédito y beneficiar al sector bancario.
+# Análisis Banco de Bogotá
 
 ## Precios recientes
-- Último precio: $26,860
-- Máximo 1 mes: $27,931 (17 ene)
-- Mínimo 1 mes: $26,240 (24 dic)
-- Máximo 6 meses: $30,223 (30 ene)
-- Mínimo 6 meses: $25,941 (19 dic)
-- Máximo 1 año: $31,077 (8 feb)
-- Mínimo 1 año: $25,941 (19 dic)
+- Último precio: $26,860 (2025-01-10)
+- Máximo 1 mes: $27,000 (2025-01-07)
+- Mínimo 1 mes: $26,240 (2024-12-24)
+- Máximo 6 meses: $30,223 (2024-01-30)
+- Mínimo 6 meses: $25,941 (2024-12-19)
+- Máximo 1 año: $30,223 (2024-01-30)
+- Mínimo 1 año: $25,941 (2024-12-19)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $26,000 (zona de rebote en diciembre 2024)
-- Resistencia fuerte: $28,000 (nivel psicológico y zona de congestión)
-- Media móvil 50 días: $26,720
+- Soporte fuerte: $26,000
+- Resistencia fuerte: $28,000
+- Media móvil 50 días: $26,700
 - Tendencia 1 mes: Lateral alcista
 - Tendencia 6 meses: Bajista
 - Tendencia 1 año: Bajista
@@ -26,10 +20,13 @@ Fecha de análisis: 2025-01-11
 ## Recomendación de inversión
 
 ### 1 mes: COMPRA
-Justificación: El precio ha formado un piso sólido alrededor de $26,000 y muestra señales de recuperación. La fusión Davivienda-Scotiabank y los buenos resultados financieros podrían impulsar el precio en el corto plazo.
+- Precio objetivo: $27,500
+- Justificación: La fusión anunciada con Scotiabank Colpatria genera expectativas positivas en el corto plazo. El soporte en $26,000 ha demostrado ser sólido y el volumen de negociación ha aumentado en las últimas sesiones.
 
 ### 6 meses: MANTENER
-Justificación: Si bien la tendencia de mediano plazo es bajista, la reducción de tasas de interés y la mejora en indicadores macroeconómicos podrían estabilizar el precio. Sin embargo, existe incertidumbre por el contexto político.
+- Precio objetivo: $27,000
+- Justificación: La caída de las utilidades del sector bancario en 2024 sugiere cautela. Sin embargo, la reducción de tasas de interés por parte del Banco de la República podría beneficiar al sector en el mediano plazo.
 
 ### 12 meses: COMPRA
-Justificación: La perspectiva de cambio de gobierno en 2026 hacia una administración más favorable al sector privado, junto con la normalización de tasas de interés, podrían impulsar una recuperación significativa del sector financiero y la acción.
+- Precio objetivo: $29,000
+- Justificación: La valoración actual es atractiva considerando el dividendo del 5.32%. La fusión con Scotiabank debería generar sinergias positivas y la expectativa de cambio de gobierno en 2026 podría impulsar al sector financiero.

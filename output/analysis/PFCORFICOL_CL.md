@@ -1,24 +1,17 @@
-# Análisis de PFCORFICOL_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector financiero y de inversiones.
-- La fusión Davivienda-Scotiabank podría generar oportunidades de inversión y asesoría financiera.
-- El probable cambio de gobierno en 2026 podría mejorar el entorno para inversiones y mercado de capitales.
-- La pérdida de autosuficiencia energética y la crisis del sector podrían generar oportunidades de inversión en infraestructura.
+# Análisis Preferencial Corficolombiana
 
 ## Precios recientes
-- Último precio: $14,400
-- Máximo 1 mes: $14,480 (8 ene)
-- Mínimo 1 mes: $13,400 (20 dic)
-- Máximo 6 meses: $14,480 (8 ene)
-- Mínimo 6 meses: $13,400 (20 dic)
-- Máximo 1 año: $14,480 (8 ene)
-- Mínimo 1 año: $12,900 (8 feb)
+- Último precio: $14,400 (2025-01-10)
+- Máximo 1 mes: $14,480 (2025-01-08)
+- Mínimo 1 mes: $13,400 (2024-12-20)
+- Máximo 6 meses: $14,480 (2025-01-08)
+- Mínimo 6 meses: $12,900 (2024-02-09)
+- Máximo 1 año: $14,480 (2025-01-08)
+- Mínimo 1 año: $12,900 (2024-02-09)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $14,000 (nivel psicológico)
-- Resistencia fuerte: $14,500 (máximos recientes)
+- Soporte fuerte: $14,000
+- Resistencia fuerte: $14,800
 - Media móvil 50 días: $14,200
 - Tendencia 1 mes: Lateral alcista
 - Tendencia 6 meses: Alcista
@@ -27,10 +20,13 @@ Fecha de análisis: 2025-01-11
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: La acción muestra estabilidad en niveles altos con sesgo alcista. Los buenos resultados del sector financiero dan soporte, pero el potencial alcista inmediato parece limitado.
+- Precio objetivo: $14,500
+- Justificación: La acción muestra estabilidad cerca de máximos históricos. El aumento en los precios del petróleo sobre US$80 beneficia a sus inversiones en el sector energético.
 
 ### 6 meses: COMPRA
-Justificación: La normalización de tasas de interés y la mejora en indicadores macroeconómicos deberían beneficiar al sector financiero. La compañía está bien posicionada para aprovechar oportunidades en el mercado de capitales.
+- Precio objetivo: $15,500
+- Justificación: La reducción de tasas de interés beneficiará sus inversiones en infraestructura y sector financiero. La pérdida de autosuficiencia energética del país favorece a sus participadas del sector.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La perspectiva de cambio de gobierno en 2026, junto con la normalización monetaria y las oportunidades en infraestructura energética, sugieren un potencial alcista significativo. La empresa tiene experiencia en estructuración de inversiones en sectores clave.
+- Precio objetivo: $17,000
+- Justificación: La probable transición a un gobierno más favorable al sector privado en 2026, junto con su diversificada cartera de inversiones en sectores estratégicos (energía, infraestructura, financiero), sugieren un potencial de valorización significativo.

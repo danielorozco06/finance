@@ -1,36 +1,32 @@
-# Análisis de PFGRUPSURA_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Anuncio de proceso de escisión por absorción con Grupo Argos que terminará con la participación cruzada de 46 años.
-- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector financiero y de seguros.
-- La fusión Davivienda-Scotiabank podría generar oportunidades de consolidación en el sector financiero donde tiene participación.
-- El probable cambio de gobierno en 2026 podría mejorar el entorno para el sector financiero y de inversiones.
+# Análisis Preferencial Grupo Sura
 
 ## Precios recientes
-- Último precio: $26,080
-- Máximo 1 mes: $26,060 (2 ene)
-- Mínimo 1 mes: $25,880 (8 ene)
-- Máximo 6 meses: $26,340 (27 dic)
-- Mínimo 6 meses: $16,173 (22 ene)
-- Máximo 1 año: $26,340 (27 dic)
-- Mínimo 1 año: $14,304 (10 ene)
+- Último precio: $26,080 (2025-01-10)
+- Máximo 1 mes: $26,140 (2024-12-26)
+- Mínimo 1 mes: $16,200 (2024-12-20)
+- Máximo 6 meses: $26,340 (2024-12-27)
+- Mínimo 6 meses: $15,159 (2024-02-09)
+- Máximo 1 año: $26,340 (2024-12-27)
+- Mínimo 1 año: $14,304 (2024-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $25,500 (zona de consolidación reciente)
-- Resistencia fuerte: $26,500 (nivel psicológico)
-- Media móvil 50 días: $25,800
+- Soporte fuerte: $25,000
+- Resistencia fuerte: $27,000
+- Media móvil 50 días: $25,500
 - Tendencia 1 mes: Lateral alcista
-- Tendencia 6 meses: Alcista fuerte
-- Tendencia 1 año: Alcista fuerte
+- Tendencia 6 meses: Alcista
+- Tendencia 1 año: Alcista
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: Aunque la tendencia de largo plazo es alcista, el precio está consolidando en niveles altos. El proceso de escisión con Grupo Argos podría generar volatilidad en el corto plazo.
+- Precio objetivo: $26,500
+- Justificación: La acción muestra estabilidad tras el anuncio del proceso de escisión con Grupo Argos. Los niveles actuales reflejan las expectativas positivas sobre la simplificación de la estructura corporativa.
 
 ### 6 meses: COMPRA
-Justificación: La escisión con Grupo Argos y la normalización de tasas de interés deberían generar valor. La compañía mantiene una sólida posición en el sector financiero y de seguros.
+- Precio objetivo: $28,000
+- Justificación: El proceso de escisión con Grupo Argos, que terminará con la participación cruzada de 46 años, debería generar valor al mejorar la transparencia y gobierno corporativo. La reducción de tasas de interés beneficiará al sector financiero.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La combinación de la escisión estratégica, mejora en condiciones macroeconómicas y probable cambio de gobierno sugieren un potencial alcista significativo. La simplificación de la estructura corporativa debería destrabar valor.
+- Precio objetivo: $30,000
+- Justificación: La culminación del proceso de escisión, la probable transición a un gobierno más favorable al sector privado en 2026 y la sólida posición en el sector financiero y de seguros sugieren un potencial de valorización significativo.

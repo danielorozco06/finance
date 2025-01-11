@@ -1,24 +1,17 @@
-# Análisis de ISA_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- La pérdida de autosuficiencia energética del país y el inicio de importaciones de gas natural incrementan la importancia de la infraestructura de transmisión eléctrica.
-- El aumento significativo en los precios del gas natural (68% en 5 años) podría impulsar mayor demanda de energía eléctrica.
-- La escasez proyectada de gas natural para finales de 2025 (40% de la demanda) resalta la importancia de la red de transmisión eléctrica.
-- El probable cambio de gobierno en 2026 podría acelerar proyectos de infraestructura energética.
+# Análisis ISA
 
 ## Precios recientes
-- Último precio: $17,080
-- Máximo 1 mes: $17,300 (7 ene)
-- Mínimo 1 mes: $16,200 (20 dic)
-- Máximo 6 meses: $17,300 (7 ene)
-- Mínimo 6 meses: $16,200 (20 dic)
-- Máximo 1 año: $16,943 (16 ene)
-- Mínimo 1 año: $15,159 (9 feb)
+- Último precio: $17,080 (2025-01-10)
+- Máximo 1 mes: $17,300 (2025-01-07)
+- Mínimo 1 mes: $16,200 (2024-12-20)
+- Máximo 6 meses: $17,300 (2025-01-07)
+- Mínimo 6 meses: $15,159 (2024-02-09)
+- Máximo 1 año: $17,300 (2025-01-07)
+- Mínimo 1 año: $14,304 (2024-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $16,500 (zona de soporte reciente)
-- Resistencia fuerte: $17,500 (nivel psicológico)
+- Soporte fuerte: $16,500
+- Resistencia fuerte: $17,500
 - Media móvil 50 días: $16,800
 - Tendencia 1 mes: Alcista
 - Tendencia 6 meses: Alcista
@@ -27,10 +20,13 @@ Fecha de análisis: 2025-01-11
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: Aunque la tendencia es alcista, el precio está cerca de máximos recientes y podría consolidarse. La importancia estratégica en la crisis energética actual proporciona soporte.
+- Precio objetivo: $17,300
+- Justificación: La acción muestra fortaleza técnica cerca de máximos históricos. El aumento en precios del gas natural y la crisis energética benefician a ISA como operador de infraestructura de transmisión.
 
 ### 6 meses: COMPRA
-Justificación: La crisis energética y la necesidad de fortalecer la infraestructura de transmisión deberían beneficiar a ISA. La empresa tiene una posición dominante en el sector.
+- Precio objetivo: $18,500
+- Justificación: La pérdida de autosuficiencia energética del país y la necesidad de fortalecer la infraestructura de transmisión benefician directamente a ISA. Los márgenes operativos son estables y el modelo de negocio es defensivo.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La combinación del probable cambio de gobierno, la crisis energética y la posición estratégica de ISA en el sector sugieren un potencial alcista significativo. La empresa está bien posicionada para capitalizar las necesidades de infraestructura energética del país.
+- Precio objetivo: $20,000
+- Justificación: La posición dominante en transmisión eléctrica regional, la crisis energética y la probable transición a un gobierno más favorable al sector en 2026 deberían impulsar una valorización significativa.

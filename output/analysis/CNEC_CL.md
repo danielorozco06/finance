@@ -1,36 +1,32 @@
-# Análisis de CNEC_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Aumento significativo en el precio del petróleo (Brent superando US$80) tras nuevas sanciones de EE.UU. contra Rusia.
-- Probable cambio de gobierno en 2026 hacia una administración más favorable a la industria petrolera.
-- La pérdida de autosuficiencia energética del país y la escasez proyectada de gas natural podrían llevar a políticas más favorables para el sector.
-- Declaración de inviabilidad del pozo Komodo-1 por restricciones ambientales refleja las dificultades actuales del sector, pero podría cambiar con nuevo gobierno.
+# Análisis Canacol Energy
 
 ## Precios recientes
-- Último precio: $11,600
-- Máximo 1 mes: $11,800 (9 ene)
-- Mínimo 1 mes: $11,060 (19 dic)
-- Máximo 6 meses: $12,680 (10 dic)
-- Mínimo 6 meses: $11,060 (19 dic)
-- Máximo 1 año: $20,060 (15 ene)
-- Mínimo 1 año: $11,060 (19 dic)
+- Último precio: $11,600 (2025-01-10)
+- Máximo 1 mes: $11,780 (2025-01-10)
+- Mínimo 1 mes: $11,040 (2024-12-20)
+- Máximo 6 meses: $20,060 (2024-01-15)
+- Mínimo 6 meses: $11,040 (2024-12-20)
+- Máximo 1 año: $20,060 (2024-01-15)
+- Mínimo 1 año: $11,040 (2024-12-20)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $11,000 (nivel psicológico y zona de soporte)
-- Resistencia fuerte: $12,500 (zona de congestión reciente)
-- Media móvil 50 días: $11,420
+- Soporte fuerte: $11,000
+- Resistencia fuerte: $12,500
+- Media móvil 50 días: $11,400
 - Tendencia 1 mes: Lateral alcista
 - Tendencia 6 meses: Bajista
-- Tendencia 1 año: Bajista fuerte
+- Tendencia 1 año: Bajista
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: A pesar del repunte en precios del petróleo, las restricciones gubernamentales actuales limitan el potencial alcista en el corto plazo. El soporte en $11,000 parece sólido.
+- Precio objetivo: $12,000
+- Justificación: La acción muestra señales de estabilización tras la fuerte caída de 2024. El aumento en los precios del gas natural y la escasez proyectada podrían dar soporte al precio en el corto plazo.
 
 ### 6 meses: VENTA
-Justificación: La tendencia bajista continúa siendo fuerte y las políticas restrictivas del gobierno actual seguirán presionando al sector. Los precios del petróleo podrían moderarse según proyecciones de Macquarie.
+- Precio objetivo: $10,500
+- Justificación: Las políticas restrictivas del gobierno actual hacia el sector de hidrocarburos y la declaración de inviabilidad del pozo Komodo-1 afectan negativamente las perspectivas de crecimiento de la compañía.
 
-### 12 meses: COMPRA FUERTE
-Justificación: La perspectiva de cambio de gobierno en 2026 hacia una administración pro-industria petrolera podría generar una fuerte recuperación. Los niveles actuales representan mínimos históricos y ofrecen una atractiva relación riesgo/beneficio para inversión a largo plazo.
+### 12 meses: COMPRA
+- Precio objetivo: $15,000
+- Justificación: La probable transición a un gobierno más favorable al sector en 2026 y la crisis energética del país (pérdida de autosuficiencia en gas) podrían impulsar una recuperación significativa en el largo plazo.

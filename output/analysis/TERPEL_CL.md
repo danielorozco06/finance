@@ -1,36 +1,32 @@
-# Análisis de TERPEL_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Aumento significativo en el precio del petróleo (Brent superando US$80) tras nuevas sanciones de EE.UU. contra Rusia.
-- La pérdida de autosuficiencia energética del país y el inicio de importaciones de gas natural podrían beneficiar a los distribuidores establecidos.
-- La reducción de la inflación a 5.2% en 2024 podría ayudar a controlar costos operativos.
-- El probable cambio de gobierno en 2026 hacia una administración más favorable al sector energético.
+# Análisis Terpel
 
 ## Precios recientes
-- Último precio: $11,780
-- Máximo 1 mes: $11,780 (10 ene)
-- Mínimo 1 mes: $11,040 (20 dic)
-- Máximo 6 meses: $11,780 (10 ene)
-- Mínimo 6 meses: $11,040 (20 dic)
-- Máximo 1 año: $11,780 (10 ene)
-- Mínimo 1 año: $7,033 (9 feb)
+- Último precio: $11,780 (2025-01-10)
+- Máximo 1 mes: $11,780 (2025-01-10)
+- Mínimo 1 mes: $11,040 (2024-12-20)
+- Máximo 6 meses: $11,780 (2025-01-10)
+- Mínimo 6 meses: $7,033 (2024-02-09)
+- Máximo 1 año: $11,780 (2025-01-10)
+- Mínimo 1 año: $7,033 (2024-02-09)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $11,500 (zona de consolidación reciente)
-- Resistencia fuerte: $12,000 (nivel psicológico)
+- Soporte fuerte: $11,500
+- Resistencia fuerte: $12,000
 - Media móvil 50 días: $11,400
 - Tendencia 1 mes: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista fuerte
+- Tendencia 6 meses: Fuertemente alcista
+- Tendencia 1 año: Fuertemente alcista
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: Aunque la tendencia es alcista y el contexto de precios del petróleo es favorable, la acción está en máximos históricos y podría experimentar una corrección técnica.
+- Precio objetivo: $11,800
+- Justificación: La acción cotiza en máximos históricos impulsada por el aumento del petróleo sobre US$80. El volumen de negociación es moderado, lo que podría limitar avances adicionales en el corto plazo.
 
 ### 6 meses: COMPRA
-Justificación: La crisis energética del país y los altos precios del petróleo deberían beneficiar a los distribuidores establecidos. La empresa mantiene una posición de liderazgo en el mercado.
+- Precio objetivo: $13,000
+- Justificación: La pérdida de autosuficiencia energética del país y el inicio de importaciones de gas natural benefician a Terpel como distribuidor principal. Los márgenes deberían mejorar con precios más altos de combustibles.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La combinación del probable cambio de gobierno, la crisis energética y la posición dominante de Terpel en el mercado sugieren un potencial alcista significativo. La empresa está bien posicionada para capitalizar la transición energética.
+- Precio objetivo: $14,500
+- Justificación: La probable transición a un gobierno más favorable al sector energético en 2026, junto con la posición dominante en distribución de combustibles y la crisis energética del país, sugieren un potencial de valorización significativo.

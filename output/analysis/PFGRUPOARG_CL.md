@@ -1,36 +1,32 @@
-# Análisis de PFGRUPOARG_CL
-Fecha de análisis: 2025-01-11
-
-## Catalizadores futuros
-- Anuncio de proceso de escisión por absorción con Grupo Sura que terminará con la participación cruzada de 46 años.
-- Los accionistas de Argos recibirán 0.23 acciones de Sura por cada acción, lo que podría generar valor.
-- La reducción de la inflación a 5.2% en 2024 y la tendencia bajista de tasas de interés benefician al sector de inversiones.
-- El probable cambio de gobierno en 2026 podría mejorar el entorno empresarial y de inversiones.
+# Análisis Preferencial Grupo Argos
 
 ## Precios recientes
-- Último precio: $14,660
-- Máximo 1 mes: $15,200 (7 ene)
-- Mínimo 1 mes: $14,252 (17 dic)
-- Máximo 6 meses: $15,242 (19 dic)
-- Mínimo 6 meses: $13,678 (10 dic)
-- Máximo 1 año: $15,242 (19 dic)
-- Mínimo 1 año: $9,176 (9 feb)
+- Último precio: $14,660 (2025-01-10)
+- Máximo 1 mes: $15,341 (2025-01-02)
+- Mínimo 1 mes: $14,252 (2024-12-17)
+- Máximo 6 meses: $15,341 (2025-01-02)
+- Mínimo 6 meses: $9,185 (2024-02-08)
+- Máximo 1 año: $15,341 (2025-01-02)
+- Mínimo 1 año: $9,033 (2024-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $14,500 (zona de soporte reciente)
-- Resistencia fuerte: $15,500 (nivel psicológico)
+- Soporte fuerte: $14,000
+- Resistencia fuerte: $15,500
 - Media móvil 50 días: $14,800
-- Tendencia 1 mes: Lateral bajista
+- Tendencia 1 mes: Lateral alcista
 - Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista fuerte
+- Tendencia 1 año: Alcista
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: El proceso de escisión con Grupo Sura podría generar volatilidad en el corto plazo. La tendencia reciente muestra cierta debilidad, sugiriendo cautela.
+- Precio objetivo: $15,000
+- Justificación: La acción muestra estabilidad tras el anuncio del proceso de escisión con Grupo Sura. El dividendo trimestral de $159 (0.77%) ofrece soporte adicional al precio.
 
 ### 6 meses: COMPRA
-Justificación: La escisión con Grupo Sura debería generar valor para los accionistas. La mejora en condiciones macroeconómicas beneficiará al sector de inversiones.
+- Precio objetivo: $16,500
+- Justificación: El proceso de escisión con Grupo Sura, que busca terminar con la participación cruzada de 46 años, debería generar valor al simplificar la estructura corporativa y mejorar la transparencia.
 
 ### 12 meses: COMPRA FUERTE
-Justificación: La combinación de la escisión estratégica, mejora en condiciones macroeconómicas y probable cambio de gobierno sugieren un potencial alcista significativo. La simplificación de la estructura corporativa debería destrabar valor.
+- Precio objetivo: $18,000
+- Justificación: La probable transición a un gobierno más favorable al sector privado en 2026, junto con la culminación del proceso de escisión y la diversificada cartera de inversiones en sectores estratégicos, sugieren un potencial de valorización significativo.
