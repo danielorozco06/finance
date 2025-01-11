@@ -1,36 +1,43 @@
-# Análisis de CELSIA_CL
-Fecha de análisis: 2025-01-11
+# Análisis CELSIA
 
 ## Catalizadores futuros
-- Programa de recompra de acciones por $300.000 millones aprobado, del cual se ha ejecutado el 25.92% a un precio promedio de $3.765 por acción.
-- Aumento significativo en los precios del gas natural (68% en 5 años) beneficia a las empresas del sector energético.
-- La escasez proyectada de gas natural para finales de 2025 (40% de la demanda) podría impulsar los precios de la energía.
-- Pérdida de autosuficiencia energética del país genera oportunidades para empresas del sector eléctrico.
+- Positivos:
+  * Programa de recompra de acciones por $300.000 millones aprobado
+  * Aumento en precios del gas natural (+68% en 5 años) beneficia márgenes
+  * Posición estratégica ante escasez proyectada de gas (40% de demanda) para 2025
+
+- Negativos:
+  * Alta dependencia de importación de gas natural que podría afectar costos
+  * Presión sobre márgenes por mayores costos de generación térmica
+  * Riesgo de regulación en tarifas por aumento de precios energéticos
 
 ## Precios recientes
-- Último precio: $3,765
-- Máximo 1 mes: $3,750 (9 ene)
-- Mínimo 1 mes: $3,500 (12 dic)
-- Máximo 6 meses: $3,765 (10 ene)
-- Mínimo 6 meses: $3,475 (10 dic)
-- Máximo 1 año: $3,765 (10 ene)
-- Mínimo 1 año: $2,892 (11 ene)
+- Último (2025-01-10): $3,765
+- Máximo 1 mes (2025-01-02): $3,730
+- Mínimo 1 mes (2024-12-18): $3,500
+- Máximo 6 meses (2024-12-17): $3,500
+- Mínimo 6 meses (2024-12-18): $3,500
+- Máximo 1 año (2024-01-17): $3,077
+- Mínimo 1 año (2024-12-18): $3,500
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: $3,500 (zona de soporte reciente)
-- Resistencia fuerte: $3,800 (nivel psicológico)
-- Media móvil 50 días: $3,580
+- Soporte fuerte: $3,500 (mínimo reciente)
+- Resistencia fuerte: $3,800 (máximo histórico cercano)
+- Media móvil 50 días: $3,620
 - Tendencia 1 mes: Alcista
 - Tendencia 6 meses: Alcista
-- Tendencia 1 año: Alcista fuerte
+- Tendencia 1 año: Alcista
 
 ## Recomendación de inversión
 
 ### 1 mes: MANTENER
-Justificación: Aunque la tendencia es alcista, el precio está cerca de máximos históricos y podría experimentar una corrección técnica en el corto plazo. El programa de recompra de acciones debería dar soporte a los precios.
+- Precio objetivo: $3,800
+- Justificación: Cerca de máximos históricos pero con soporte en programa de recompra
 
 ### 6 meses: COMPRA
-Justificación: La escasez proyectada de gas natural y el aumento en los precios de la energía deberían beneficiar a Celsia. El programa de recompra de acciones continuará dando soporte a los precios.
+- Precio objetivo: $4,400
+- Justificación: Beneficios de mayores precios energéticos y programa de recompra en curso
 
 ### 12 meses: COMPRA FUERTE
-Justificación: Las perspectivas del sector energético son muy positivas para 2026, especialmente considerando el probable cambio de gobierno. La compañía está bien posicionada para beneficiarse de la crisis energética y la transición hacia energías renovables.
+- Precio objetivo: $4,875
+- Justificación: Posición estratégica ante escasez energética y sólidos fundamentales

@@ -19,7 +19,6 @@ CONTEXTO: /input/
 
 PROMPT: 
 Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones:
-- Catalizadores futuros
 - Precios recientes: último precio, máximo 1 mes, mínimo 1 mes, máximo 6 meses, mínimo 6 meses, máximo 1 año y mínimo 1 año, cada uno con fecha en formato YYYY-MM-DD.
 - Niveles técnicos relevantes: soporte fuerte, resistencia fuerte, media móvil 50 días, tendencia 1 mes, tendencia 6 meses, tendencia 1 año
 - Recomendación de inversión: 1 mes, 6 meses y 12 meses. Con precio objetivo coordinado con los valores de los precios recientes. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
@@ -31,7 +30,7 @@ CONTEXTO: /output/, news.md, dividendos.md
 
 PROMPT:
 Modificar los archivos ./output/portfolios/1mes.md, 6meses.md y 12meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener muy presente la seccion "Precios recientes" y aumentar lo maximo posible el retorno de la inversion.
-Nota: Hoy es 2025-01-10.
+Nota: Hoy es 2025-01-11.
 
 Tener en cuenta los siguientes criterios:
 
