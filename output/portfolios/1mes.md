@@ -2,73 +2,76 @@
 
 ## 1. Composición y Justificación
 
-### CNEC (50% - COP 2,500,000)
-- Etiqueta: COMPRA para 1 mes
-- Precio objetivo: $12,200 (+3.4%)
-- Beneficiario directo de crisis energética
-- Momentum alcista (en máximo del mes)
-- Soporte fuerte en $11,400
-
-### GRUBOLIVAR (30% - COP 1,500,000)
-- Etiqueta: COMPRA FUERTE
+### PFDAVVNDA (40% - COP 2,000,000)
+- Etiqueta: COMPRA
+- Precio objetivo: $20,500 (+7.9%)
 - Catalizador inmediato: fusión Scotiabank
-- Dividendo próximo: $207 (15 enero)
-- Soporte fuerte en $62,000
-
-### PFDAVVNDA (20% - COP 1,000,000)
-- Etiqueta: COMPRA FUERTE
-- Beneficiario directo fusión Scotiabank
-- Momentum positivo por anuncio
+- Momentum alcista por anuncio
 - Soporte en $18,500
+
+### ISA (35% - COP 1,750,000)
+- Etiqueta: MANTENER
+- Precio objetivo: $17,800 (+4.2%)
+- Infraestructura clave crisis energética
+- Ingresos regulados y predecibles
+- Soporte en $16,200
+
+### CELSIA (25% - COP 1,250,000)
+- Etiqueta: MANTENER
+- Precio objetivo: $3,900 (+3.6%)
+- Dividendo próximo: $77.5 (17 enero)
+- Programa de recompra activo
+- Soporte fuerte en $3,500
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-CNEC (COP 2,500,000):
-- 40% (COP 1,000,000): Orden límite a $11,780 - 84 acciones
-- 30% (COP 750,000): Orden límite a $11,700 - 64 acciones
-- 30% (COP 750,000): Orden límite a $11,600 - 64 acciones
-Total: 212 acciones
+PFDAVVNDA (COP 2,000,000):
+- 40% (COP 800,000): Orden límite a $19,080 - 41 acciones
+- 30% (COP 600,000): Orden límite a $18,900 - 31 acciones
+- 30% (COP 600,000): Orden límite a $18,800 - 31 acciones
+Total: 103 acciones
 
-GRUBOLIVAR (COP 1,500,000):
-- 40% (COP 600,000): Orden límite a $64,400 - 9 acciones
-- 30% (COP 450,000): Orden límite a $64,200 - 7 acciones
-- 30% (COP 450,000): Orden límite a $64,000 - 7 acciones
-Total: 23 acciones
+ISA (COP 1,750,000):
+- 40% (COP 700,000): Orden límite a $17,080 - 40 acciones
+- 30% (COP 525,000): Orden límite a $16,900 - 31 acciones
+- 30% (COP 525,000): Orden límite a $16,800 - 31 acciones
+Total: 102 acciones
 
-PFDAVVNDA (COP 1,000,000):
-- 40% (COP 400,000): Orden límite a $19,080 - 20 acciones
-- 30% (COP 300,000): Orden límite a $18,900 - 15 acciones
-- 30% (COP 300,000): Orden límite a $18,800 - 15 acciones
-Total: 50 acciones
+CELSIA (COP 1,250,000):
+- 40% (COP 500,000): Orden límite a $3,765 - 132 acciones
+- 30% (COP 375,000): Orden límite a $3,720 - 100 acciones
+- 30% (COP 375,000): Orden límite a $3,680 - 101 acciones
+Total: 333 acciones
 
 ### 2.2 Órdenes de Protección y Salida
 
-CNEC:
-- Stop loss: Orden stop a $11,400 para 212 acciones (-3.4%)
-- Take profit escalonado:
-  * 30% (64 acciones): Orden límite a $12,000 (+1.7%)
-  * 40% (84 acciones): Orden límite a $12,200 (+3.4%)
-  * 30% (64 acciones): Orden límite a $12,400 (+5.1%)
-
-GRUBOLIVAR:
-- Stop loss: Orden stop a $63,000 para 23 acciones (-2.2%)
-- Take profit escalonado:
-  * 30% (7 acciones): Orden límite a $65,500 (+1.7%)
-  * 40% (9 acciones): Orden límite a $66,000 (+2.5%)
-  * 30% (7 acciones): Orden límite a $66,500 (+3.3%)
-
 PFDAVVNDA:
-- Stop loss: Orden stop a $18,500 para 50 acciones (-3.1%)
+- Stop loss: Orden stop a $18,500 para 103 acciones (-3.1%)
 - Take profit escalonado:
-  * 30% (15 acciones): Orden límite a $19,500 (+2.2%)
-  * 40% (20 acciones): Orden límite a $19,800 (+3.8%)
-  * 30% (15 acciones): Orden límite a $20,000 (+4.8%)
+  * 30% (31 acciones): Orden límite a $19,800 (+3.8%)
+  * 40% (41 acciones): Orden límite a $20,200 (+6.3%)
+  * 30% (31 acciones): Orden límite a $20,500 (+7.9%)
+
+ISA:
+- Stop loss: Orden stop a $16,200 para 102 acciones (-5.2%)
+- Take profit escalonado:
+  * 30% (30 acciones): Orden límite a $17,500 (+2.5%)
+  * 40% (42 acciones): Orden límite a $17,800 (+4.2%)
+  * 30% (30 acciones): Orden límite a $18,000 (+5.4%)
+
+CELSIA:
+- Stop loss: Orden stop a $3,600 para 333 acciones (-4.4%)
+- Take profit escalonado:
+  * 30% (100 acciones): Orden límite a $3,820 (+1.5%)
+  * 40% (133 acciones): Orden límite a $3,900 (+3.6%)
+  * 30% (100 acciones): Orden límite a $3,950 (+4.9%)
 
 ## 3. Consideraciones Adicionales
 
-- Monitoreo diario de noticias sobre fusión Davivienda-Scotiabank
 - Mantener CELSIA hasta después del dividendo (17 enero)
-- Mantener GRUBOLIVAR hasta después del dividendo (9 enero)
+- Monitoreo diario de noticias sobre fusión Davivienda-Scotiabank
+- Seguimiento a crisis energética y precios del gas natural
 - Ajuste de stops a breakeven cuando posiciones ganen +2%
+- Reevaluación del portafolio el 7 de febrero 2025

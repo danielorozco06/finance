@@ -21,7 +21,7 @@ PROMPT:
 Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones:
 - Precios recientes: último precio, máximo 1 mes, mínimo 1 mes, máximo 6 meses, mínimo 6 meses, máximo 1 año y mínimo 1 año, cada uno con fecha en formato YYYY-MM-DD.
 - Niveles técnicos relevantes: soporte fuerte, resistencia fuerte, media móvil 50 días, tendencia ultimo 1 año, tendencia ultimos 6 meses, tendencia ultimo 1 mes.
-- Recomendación de inversión: 1 mes, 6 meses y 12 meses. Con un rango de precio objetivo muy cauteloso teniendo en cuenta la sección "Precios recientes" y "Niveles técnicos relevantes". Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
+- Recomendación de inversión: 1 mes, 6 meses y 12 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Indicar justificacion para cada recomendacion.
 Nota: Hoy es 2025-01-11.
 
 ## Prompt portafolio de inversión
