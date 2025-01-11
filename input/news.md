@@ -1,5 +1,14 @@
 # Noticias Relevantes
 
+## 2025-01-10 - Petróleo supera US$80 tras nuevas sanciones de EE.UU. contra Rusia
+Los precios del petróleo alcanzaron su nivel más alto desde octubre, con el Brent superando los US$80 por barril, luego de que Estados Unidos impusiera nuevas sanciones que apuntan a empresas que manejan más de una cuarta parte de las exportaciones marítimas de petróleo de Rusia. Las medidas incluyen restricciones a aseguradoras y una amplia flota de petroleros, lo que podría limitar significativamente la capacidad de Rusia para exportar crudo.
+
+## 2025-01-10 - Ecopetrol y Anadarko consideran inviable perforación del pozo Komodo-1
+Ecopetrol y su socio Anadarko declararon inviable la perforación del pozo Komodo-1, el más profundo del mundo ubicado en aguas colombianas, debido a las condiciones impuestas en la licencia ambiental. Las empresas argumentan que los requisitos superan las regulaciones aplicables y las mejores prácticas de la industria, incluyendo la clasificación de hábitats bentónicos como zonas de exclusión. Hasta el momento han invertido $250 millones en estudios y preparativos, pero consideran imposible cumplir con los términos establecidos por la ANLA y el Ministerio de Ambiente.
+
+## 2025-01-10 - Celsia aprueba recompra de acciones por $300.000 millones
+Celsia obtuvo la aprobación para recomprar acciones por un valor de $300.000 millones, con un máximo de 9,99% de las acciones. Hasta el momento han ejecutado el 25,92% del programa, recomprado 1,2% de las acciones a un precio promedio de $3.765 por acción.
+
 ## 2025-01-09 - Precios del gas natural aumentan 68% en 5 años y podrían subir más
 Asoenergía alertó que los precios del gas natural en Colombia han aumentado 68% en los últimos 5 años, pasando de 4.71 USD/MBTU en 2019 a 7.93 USD/MBTU en 2024. Se espera que los precios continúen aumentando debido a la escasez proyectada, que podría alcanzar el 40% de la demanda total del mercado en el último trimestre de 2025. El sector industrial ha sido particularmente afectado, con un aumento del 32% en los precios en los últimos 5 años.
 
@@ -24,10 +33,6 @@ El Gobierno Petro enfrenta una crisis presupuestal al cierre de 2024, con una ba
 ## 2024-12-24 - Caída en precios del crudo
 
 Los precios del crudo cayeron debido a preocupaciones por un excedente de oferta para el próximo año y la fortaleza del dólar. Los futuros del crudo Brent bajaban 0,9% a US$72,28 el barril. Los analistas de Macquarie pronostican un excedente de oferta para 2025, estimando un precio promedio de US$70,50 por barril, por debajo del promedio de US$79,64 de este año.
-
-## 2024-12-23 - Suspensión del proyecto Komodo
-
-El proyecto Komodo, que buscaba perforar el pozo más profundo del mundo en aguas del Mar Caribe colombiano, fue suspendido tras la demora en la expedición de la licencia ambiental por parte de la Autoridad Nacional de Licencias Ambientales (Anla). Aunque el permiso llegó la semana pasada, Ecopetrol y Oxy habían decidido cancelar los trabajos para 2024 hace tres meses, ya que la espera afectó el cronograma previsto.
 
 ## 2024-12-23 - Grupo Argos y Grupo Sura anuncian proceso de escisión
 
