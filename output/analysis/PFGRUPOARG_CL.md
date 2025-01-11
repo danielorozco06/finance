@@ -1,35 +1,35 @@
-# Análisis PFGRUPOARG
+# Análisis de PREFERENCIAL GRUPO ARGOS
 
 ## Precios recientes
 - Último precio: 14660.0 (2025-01-10)
 - Máximo 1 mes: 15200.0 (2025-01-07)
-- Mínimo 1 mes: 14800.0 (2024-12-09)
-- Máximo 6 meses: 15200.0 (2025-01-07)
-- Mínimo 6 meses: 14800.0 (2024-12-09)
-- Máximo 1 año: 15341.0 (2025-01-02)
-- Mínimo 1 año: 9185.8 (2024-02-08)
+- Mínimo 1 mes: 14252.28 (2024-12-17)
+- Máximo 6 meses: 15281.62 (2024-12-31)
+- Mínimo 6 meses: 14252.28 (2024-12-17)
+- Máximo 1 año: 15281.62 (2024-12-31)
+- Mínimo 1 año: 9033.78 (2024-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 14500.0 (zona consolidación)
-- Resistencia fuerte: 15500.0 (máximo histórico)
-- Media móvil 50 días: 14800.0
-- Tendencia último año: ALCISTA FUERTE (apreciación >60%)
-- Tendencia últimos 6 meses: ALCISTA (canal alcista definido)
-- Tendencia último mes: LATERAL ALCISTA (consolidación)
-- Tendencia próximo mes: ALCISTA (proceso escisión)
-- Tendencia próximos 6 meses: ALCISTA (valor escisión)
-- Tendencia próximo año: ALCISTA (reorganización corporativa)
+- Soporte fuerte: 14200
+- Resistencia fuerte: 15300
+- Media móvil 50 días: 14800
+- Tendencia último año: Alcista
+- Tendencia 6 meses: Alcista
+- Tendencia 1 mes: Lateral
 
 ## Recomendación de inversión
 
-### 1 mes: COMPRA
-- Precio objetivo: 15200-15700
-- Justificación: Proceso escisión con Grupo Sura genera valor. Dividendo trimestral 1.03%. Soporte técnico sólido.
+### Corto plazo (1 mes)
+- MANTENER
+- Rango objetivo: 14500 - 15300
+- Justificación: La acción muestra estabilidad en niveles altos. El proceso de escisión con Grupo Sura anunciado para 2025 podría generar volatilidad. El dividendo del 1.03% ofrece soporte a los precios actuales.
 
-### 6 meses: COMPRA FUERTE
-- Precio objetivo: 16000-16500
-- Justificación: Beneficios escisión y reorganización corporativa. Valoración atractiva post-escisión. Fundamentales sólidos.
+### Mediano plazo (6 meses)
+- COMPRA
+- Rango objetivo: 15300 - 16500
+- Justificación: La escisión con Grupo Sura debería generar valor para los accionistas. La empresa mantiene una posición sólida en sectores clave como cemento, energía e infraestructura.
 
-### 12 meses: COMPRA FUERTE
-- Precio objetivo: 17000-18000
-- Justificación: Culminación exitosa escisión. Enfoque estratégico en negocios core. Potencial revalorización significativo.
+### Largo plazo (1 año)
+- COMPRA FUERTE
+- Rango objetivo: 16500 - 18000
+- Justificación: La finalización del proceso de escisión y la expectativa de recuperación económica en 2026 con el cambio de gobierno impulsarían el valor. La diversificación de inversiones y el enfoque en infraestructura soportan el crecimiento futuro.

@@ -1,35 +1,35 @@
-# Análisis PFAVAL
+# Análisis de PREFERENCIAL AVAL
 
 ## Precios recientes
 - Último precio: 458.0 (2025-01-10)
 - Máximo 1 mes: 465.0 (2025-01-07)
-- Mínimo 1 mes: 431.0 (2024-12-20)
+- Mínimo 1 mes: 431.05 (2024-12-20)
 - Máximo 6 meses: 465.0 (2025-01-07)
-- Mínimo 6 meses: 431.0 (2024-12-20)
-- Máximo 1 año: 497.0 (2024-01-16)
-- Mínimo 1 año: 431.0 (2024-12-20)
+- Mínimo 6 meses: 431.05 (2024-12-20)
+- Máximo 1 año: 497.05 (2024-01-16)
+- Mínimo 1 año: 431.05 (2024-12-20)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 431.0 (mínimo reciente diciembre)
-- Resistencia fuerte: 470.0 (nivel psicológico)
-- Media móvil 50 días: 450.0
-- Tendencia último año: BAJISTA (caída desde máximos)
-- Tendencia últimos 6 meses: LATERAL BAJISTA (consolidación)
-- Tendencia último mes: ALCISTA (recuperación)
-- Tendencia próximo mes: ALCISTA (fusión Davivienda)
-- Tendencia próximos 6 meses: ALCISTA (sinergias fusión)
-- Tendencia próximo año: ALCISTA (mejora sector financiero)
+- Soporte fuerte: 440
+- Resistencia fuerte: 470
+- Media móvil 50 días: 450
+- Tendencia último año: Bajista
+- Tendencia 6 meses: Bajista
+- Tendencia 1 mes: Lateral alcista
 
 ## Recomendación de inversión
 
-### 1 mes: COMPRA
-- Precio objetivo: 470-490
-- Justificación: Fusión Davivienda-Scotiabank genera valor. Recuperación desde mínimos con volumen. Soporte técnico sólido.
+### Corto plazo (1 mes)
+- MANTENER
+- Rango objetivo: 450 - 470
+- Justificación: La acción muestra una recuperación desde mínimos de diciembre, pero la fusión Davivienda-Scotiabank podría generar presión competitiva. El dividendo ofrece soporte a los precios actuales.
 
-### 6 meses: COMPRA FUERTE
-- Precio objetivo: 500-520
-- Justificación: Sinergias post-fusión y expansión regional. Reducción tasas interés beneficia sector financiero. Valoración atractiva.
+### Mediano plazo (6 meses)
+- COMPRA
+- Rango objetivo: 470 - 500
+- Justificación: La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero. El grupo mantiene una posición sólida en el mercado y buenos niveles de capitalización.
 
-### 12 meses: COMPRA FUERTE
-- Precio objetivo: 550-580
-- Justificación: Consolidación grupo financiero regional. Mejora perspectivas sector bancario. Potencial revalorización significativo.
+### Largo plazo (1 año)
+- COMPRA FUERTE
+- Rango objetivo: 500 - 550
+- Justificación: La expectativa de recuperación económica en 2026 con el cambio de gobierno impulsaría el sector financiero. La valoración actual es atractiva considerando los múltiplos históricos y la comparación con pares del sector.

@@ -1,35 +1,35 @@
-# Análisis ETB
+# Análisis de ETB
 
 ## Precios recientes
 - Último precio: 74.0 (2025-01-10)
-- Máximo 1 mes: 74.0 (2025-01-02)
-- Mínimo 1 mes: 74.0 (2024-12-16)
-- Máximo 6 meses: 74.0 (2025-01-02)
-- Mínimo 6 meses: 74.0 (2024-12-16)
+- Máximo 1 mes: 74.0 (2025-01-10)
+- Mínimo 1 mes: 74.0 (2024-12-09)
+- Máximo 6 meses: 74.0 (2024-07-10)
+- Mínimo 6 meses: 74.0 (2024-07-10)
 - Máximo 1 año: 108.0 (2024-01-17)
-- Mínimo 1 año: 74.0 (2024-12-16)
+- Mínimo 1 año: 74.0 (2024-07-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 74.0 (precio estable último mes)
-- Resistencia fuerte: 90.0 (nivel psicológico)
-- Media móvil 50 días: 74.0
-- Tendencia último año: BAJISTA (caída desde 108 a 74)
-- Tendencia últimos 6 meses: BAJISTA (consolidación en mínimos)
-- Tendencia último mes: LATERAL (estabilidad en 74)
-- Tendencia próximo mes: NEUTRAL (baja liquidez)
-- Tendencia próximos 6 meses: NEUTRAL (sin catalizadores)
-- Tendencia próximo año: NEUTRAL (incertidumbre operativa)
+- Soporte fuerte: 74
+- Resistencia fuerte: 90
+- Media móvil 50 días: 74
+- Tendencia último año: Bajista
+- Tendencia 6 meses: Lateral
+- Tendencia 1 mes: Lateral
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: 72-76
-- Justificación: Baja liquidez y volumen negociado. Precio estable en 74 sugiere equilibrio temporal oferta-demanda.
+### Corto plazo (1 mes)
+- VENTA FUERTE
+- Rango objetivo: 65 - 74
+- Justificación: La acción muestra nula liquidez y ha permanecido estancada en 74 pesos durante meses. La falta de volumen y el comportamiento técnico sugieren debilidad.
 
-### 6 meses: MANTENER
-- Precio objetivo: 70-80
-- Justificación: Sin catalizadores claros para apreciación. Estabilidad en precio actual sugiere valor de soporte.
+### Mediano plazo (6 meses)
+- VENTA
+- Rango objetivo: 60 - 70
+- Justificación: La pérdida de autosuficiencia energética del país y el aumento en costos de servicios públicos podrían presionar los márgenes. La falta de catalizadores positivos y la baja liquidez no justifican mantener la posición.
 
-### 12 meses: VENTA
-- Precio objetivo: 65-75
-- Justificación: Tendencia bajista de largo plazo. Pérdida de competitividad en sector telecomunicaciones. Baja liquidez limita salida.
+### Largo plazo (1 año)
+- VENTA
+- Rango objetivo: 55 - 65
+- Justificación: La empresa enfrenta fuerte competencia en el sector de telecomunicaciones y no muestra señales de mejora operativa. La falta de liquidez de la acción dificulta la salida de posiciones grandes.

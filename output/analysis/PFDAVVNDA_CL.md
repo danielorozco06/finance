@@ -1,4 +1,4 @@
-# Análisis PFDAVVNDA
+# Análisis de PREFERENCIAL DAVIVIENDA
 
 ## Precios recientes
 - Último precio: 19000.0 (2025-01-10)
@@ -10,26 +10,26 @@
 - Mínimo 1 año: 17560.0 (2024-12-30)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 17500.0 (mínimo reciente)
-- Resistencia fuerte: 20000.0 (nivel psicológico)
-- Media móvil 50 días: 18200.0
-- Tendencia último año: BAJISTA (caída desde máximos)
-- Tendencia últimos 6 meses: LATERAL BAJISTA (consolidación)
-- Tendencia último mes: ALCISTA FUERTE (fusión Scotiabank)
-- Tendencia próximo mes: ALCISTA (sinergias fusión)
-- Tendencia próximos 6 meses: ALCISTA (integración operaciones)
-- Tendencia próximo año: ALCISTA (consolidación regional)
+- Soporte fuerte: 17500
+- Resistencia fuerte: 20000
+- Media móvil 50 días: 18200
+- Tendencia último año: Bajista
+- Tendencia 6 meses: Lateral
+- Tendencia 1 mes: Alcista
 
 ## Recomendación de inversión
 
-### 1 mes: COMPRA FUERTE
-- Precio objetivo: 20000-21000
-- Justificación: Fusión con Scotiabank genera valor inmediato. Expansión en Centroamérica. Momentum positivo post anuncio.
+### Corto plazo (1 mes)
+- COMPRA
+- Rango objetivo: 19000 - 20500
+- Justificación: El anuncio de fusión con Scotiabank Colpatria genera expectativas positivas. La acción muestra una recuperación técnica desde mínimos de diciembre y el volumen de negociación ha aumentado significativamente.
 
-### 6 meses: COMPRA FUERTE
-- Precio objetivo: 22000-23000
-- Justificación: Sinergias operativas post-fusión. Reducción tasas interés beneficia sector. Valoración atractiva vs pares.
+### Mediano plazo (6 meses)
+- COMPRA FUERTE
+- Rango objetivo: 20500 - 22000
+- Justificación: Las sinergias de la fusión con Scotiabank Colpatria deberían empezar a materializarse. La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero.
 
-### 12 meses: COMPRA FUERTE
-- Precio objetivo: 24000-25000
-- Justificación: Consolidación como banco líder regional. Mejora perspectivas sector bancario. Potencial revalorización significativo. 
+### Largo plazo (1 año)
+- COMPRA FUERTE
+- Rango objetivo: 22000 - 24000
+- Justificación: La consolidación de la fusión fortalecerá su posición en el mercado. La expectativa de recuperación económica en 2026 con el cambio de gobierno y la expansión en Centroamérica soportan el potencial alcista. 

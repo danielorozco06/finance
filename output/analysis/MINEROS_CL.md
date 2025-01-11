@@ -1,35 +1,35 @@
-# Análisis MINEROS
+# Análisis de MINEROS
 
 ## Precios recientes
 - Último precio: 4570.0 (2025-01-10)
 - Máximo 1 mes: 4570.0 (2025-01-10)
-- Mínimo 1 mes: 4234.9 (2024-12-24)
+- Mínimo 1 mes: 4224.99 (2024-12-19)
 - Máximo 6 meses: 4570.0 (2025-01-10)
-- Mínimo 6 meses: 4224.9 (2024-12-19)
+- Mínimo 6 meses: 4224.99 (2024-12-19)
 - Máximo 1 año: 4570.0 (2025-01-10)
-- Mínimo 1 año: 1899.9 (2024-02-05)
+- Mínimo 1 año: 1899.98 (2024-02-05)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 4200.0 (zona consolidación diciembre)
-- Resistencia fuerte: 4600.0 (máximo histórico)
-- Media móvil 50 días: 4350.0
-- Tendencia último año: ALCISTA FUERTE (apreciación >140%)
-- Tendencia últimos 6 meses: ALCISTA FUERTE (impulso sostenido)
-- Tendencia último mes: ALCISTA (nuevos máximos)
-- Tendencia próximo mes: ALCISTA (momentum positivo)
-- Tendencia próximos 6 meses: ALCISTA (contexto favorable oro)
-- Tendencia próximo año: ALCISTA (cambio político favorable)
+- Soporte fuerte: 4200
+- Resistencia fuerte: 4600
+- Media móvil 50 días: 4350
+- Tendencia último año: Alcista fuerte
+- Tendencia 6 meses: Alcista
+- Tendencia 1 mes: Alcista
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: 4500-4700
-- Justificación: Niveles máximos históricos sugieren consolidación. Buen momentum pero sobrecompra técnica. Soporte sólido en 4200.
+### Corto plazo (1 mes)
+- MANTENER
+- Rango objetivo: 4400 - 4700
+- Justificación: La acción ha tenido un rally extraordinario (+140% en el último año) y está en máximos históricos. El contexto de precios altos del petróleo y sanciones a Rusia beneficia al sector minero, pero los niveles actuales sugieren cautela.
 
-### 6 meses: COMPRA
-- Precio objetivo: 4800-5200
-- Justificación: Beneficiario de precios altos del oro. Buenos fundamentales con ROE 6.7% y margen EBITDA 69%. Expansión operativa.
+### Mediano plazo (6 meses)
+- COMPRA
+- Rango objetivo: 4700 - 5000
+- Justificación: La empresa muestra sólidos márgenes operativos (63%) y EBITDA (69.37%). La expectativa de debilidad del dólar en 2025 por recortes de tasas de la FED beneficiaría los precios de los metales preciosos.
 
-### 12 meses: COMPRA FUERTE
-- Precio objetivo: 5500-6000
-- Justificación: Cambio político favorable en 2026. Valoración atractiva vs pares mineros. Potencial de exploración y crecimiento producción.
+### Largo plazo (1 año)
+- COMPRA FUERTE
+- Rango objetivo: 5000 - 5500
+- Justificación: El probable cambio de gobierno en 2026 hacia políticas más favorables al sector minero impulsaría el valor. La empresa mantiene buenos ratios financieros con ROE de 6.7% y la valoración es atractiva respecto a pares del sector.

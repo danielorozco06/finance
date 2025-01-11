@@ -1,35 +1,35 @@
-# Análisis GRUBOLIVAR
+# Análisis de GRUPO BOLÍVAR
 
 ## Precios recientes
 - Último precio: 64960.0 (2025-01-10)
 - Máximo 1 mes: 64960.0 (2025-01-10)
-- Mínimo 1 mes: 55421.6 (2024-12-20)
+- Mínimo 1 mes: 55421.56 (2024-12-20)
 - Máximo 6 meses: 64960.0 (2025-01-10)
-- Mínimo 6 meses: 55421.6 (2024-12-20)
+- Mínimo 6 meses: 55421.56 (2024-12-20)
 - Máximo 1 año: 64960.0 (2025-01-10)
-- Mínimo 1 año: 54232.6 (2024-01-23)
+- Mínimo 1 año: 54232.59 (2024-01-23)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 60000.0 (nivel psicológico)
-- Resistencia fuerte: 65000.0 (máximo histórico)
-- Media móvil 50 días: 59000.0
-- Tendencia último año: ALCISTA (apreciación >15%)
-- Tendencia últimos 6 meses: ALCISTA FUERTE (impulso desde mínimos)
-- Tendencia último mes: ALCISTA FUERTE (nuevos máximos)
-- Tendencia próximo mes: ALCISTA (fusión Davivienda)
-- Tendencia próximos 6 meses: ALCISTA (sinergias fusión)
-- Tendencia próximo año: ALCISTA (consolidación financiera)
+- Soporte fuerte: 58000
+- Resistencia fuerte: 66000
+- Media móvil 50 días: 59000
+- Tendencia último año: Alcista
+- Tendencia 6 meses: Alcista
+- Tendencia 1 mes: Alcista fuerte
 
 ## Recomendación de inversión
 
-### 1 mes: MANTENER
-- Precio objetivo: 64000-66000
-- Justificación: Niveles máximos históricos sugieren toma de utilidades. Fusión Davivienda-Scotiabank da soporte. Dividendo mensual 0.34%.
+### Corto plazo (1 mes)
+- MANTENER
+- Rango objetivo: 62000 - 66000
+- Justificación: La acción muestra un fuerte impulso alcista tras el anuncio de fusión con Scotiabank Colpatria. Sin embargo, los niveles actuales cercanos a máximos históricos sugieren cautela.
 
-### 6 meses: COMPRA
-- Precio objetivo: 68000-70000
-- Justificación: Sinergias post-fusión Davivienda. Reducción tasas interés beneficia sector financiero. ROE atractivo.
+### Mediano plazo (6 meses)
+- COMPRA
+- Rango objetivo: 65000 - 70000
+- Justificación: La fusión con Scotiabank Colpatria fortalecerá su posición en el mercado bancario. El dividendo mensual del 0.34% y la reducción de tasas de interés por parte del Banco de la República son factores positivos.
 
-### 12 meses: COMPRA FUERTE
-- Precio objetivo: 72000-75000
-- Justificación: Consolidación como grupo financiero líder regional. Expansión en Centroamérica post-fusión. Valoración atractiva vs pares.
+### Largo plazo (1 año)
+- COMPRA FUERTE
+- Rango objetivo: 70000 - 75000
+- Justificación: Las sinergias de la fusión deberían materializarse en 2025-2026. La expectativa de recuperación económica con el cambio de gobierno y la valoración atractiva respecto a sus pares bancarios soportan la recomendación.
