@@ -54,6 +54,32 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["Trend_5d"] = df["Close"].rolling(window=5).mean().pct_change() * 100
     df["Trend_20d"] = df["Close"].rolling(window=20).mean().pct_change() * 100
 
+    # MACD (Moving Average Convergence Divergence)
+    exp1 = df["Close"].ewm(span=12, adjust=False).mean()
+    exp2 = df["Close"].ewm(span=26, adjust=False).mean()
+    df["MACD"] = exp1 - exp2
+    df["Signal_Line"] = df["MACD"].ewm(span=9, adjust=False).mean()
+    df["MACD_Hist"] = df["MACD"] - df["Signal_Line"]
+
+    # Stochastic Oscillator
+    low_14 = df["Close"].rolling(window=14).min()
+    high_14 = df["Close"].rolling(window=14).max()
+    df["%K"] = ((df["Close"] - low_14) / (high_14 - low_14)) * 100
+    df["%D"] = df["%K"].rolling(window=3).mean()
+
+    # Average True Range (ATR) para volatilidad
+    # Calcular ATR usando solo Close cuando no hay High/Low
+    close_diff = abs(df["Close"] - df["Close"].shift(1))
+    df["ATR"] = close_diff.rolling(window=14).mean()
+
+    # Fibonacci Retracement Levels
+    period_high = df["Close"].rolling(window=20).max()
+    period_low = df["Close"].rolling(window=20).min()
+    diff = period_high - period_low
+    df["Fib_38.2"] = period_high - (diff * 0.382)
+    df["Fib_50.0"] = period_high - (diff * 0.500)
+    df["Fib_61.8"] = period_high - (diff * 0.618)
+
     # Calcular soportes y resistencias
     df["Support"] = df["Close"].rolling(window=20).min()
     df["Resistance"] = df["Close"].rolling(window=20).max()
@@ -324,6 +350,32 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             if df["Dist_to_Resistance"].iloc[-1] < 5
             else "En Rango Medio"
         ),
+        # Indicadores adicionales
+        "macd": round(df["MACD"].iloc[-1], 2),
+        "macd_signal": round(df["Signal_Line"].iloc[-1], 2),
+        "macd_hist": round(df["MACD_Hist"].iloc[-1], 2),
+        "stoch_k": round(df["%K"].iloc[-1], 2),
+        "stoch_d": round(df["%D"].iloc[-1], 2),
+        "atr": round(df["ATR"].iloc[-1], 2),
+        "fib_38": round(df["Fib_38.2"].iloc[-1], 2),
+        "fib_50": round(df["Fib_50.0"].iloc[-1], 2),
+        "fib_61": round(df["Fib_61.8"].iloc[-1], 2),
+        # Señales adicionales
+        "señal_macd": "Alcista" if df["MACD_Hist"].iloc[-1] > 0 else "Bajista",
+        "señal_stoch": "Sobrecompra"
+        if df["%K"].iloc[-1] > 80
+        else ("Sobreventa" if df["%K"].iloc[-1] < 20 else "Normal"),
+        "nivel_fib": "Por encima de 38.2"
+        if df["Close"].iloc[-1] > df["Fib_38.2"].iloc[-1]
+        else (
+            "Entre 38.2 y 50.0"
+            if df["Close"].iloc[-1] > df["Fib_50.0"].iloc[-1]
+            else (
+                "Entre 50.0 y 61.8"
+                if df["Close"].iloc[-1] > df["Fib_61.8"].iloc[-1]
+                else "Por debajo de 61.8"
+            )
+        ),
     }
 
 
@@ -385,6 +437,20 @@ def generate_tendency_report(
                 f.write(f"- Distancia a Soporte: {resultado['dist_soporte']}%\n")
                 f.write(
                     f"- Distancia a Resistencia: {resultado['dist_resistencia']}%\n"
+                )
+                f.write("\n")
+                f.write("\n### Análisis Técnico Avanzado\n")
+                f.write(
+                    f"- MACD: {resultado['señal_macd']} (MACD: {resultado['macd']}, Señal: {resultado['macd_signal']})\n"
+                )
+                f.write(
+                    f"- Estocástico: {resultado['señal_stoch']} (%K: {resultado['stoch_k']}, %D: {resultado['stoch_d']})\n"
+                )
+                f.write(f"- ATR (Volatilidad): {resultado['atr']}\n")
+                f.write("\n### Niveles de Fibonacci\n")
+                f.write(f"- Posición actual: {resultado['nivel_fib']}\n")
+                f.write(
+                    f"- Niveles: 38.2%: ${resultado['fib_38']}, 50%: ${resultado['fib_50']}, 61.8%: ${resultado['fib_61']}\n"
                 )
                 f.write("\n")
                 f.write("\n### Señales de Trading\n")
