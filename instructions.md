@@ -28,16 +28,16 @@ Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/, news.md
+CONTEXTO: /output/, news.md, tendency.md
 
 PROMPT:
 
-Modificar los archivos ./output/portfolios/1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
+Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-12.
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener presente de cada ticker la sección "Recomendación" del archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X tiempo, omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado.
+1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -67,7 +67,7 @@ Mejorar los portafolios considerando los aspectos clave de las noticias y análi
 
 # Analisis contra portafolio actual
 
-CONTEXTO: output/, dividendos.md y news.md
+CONTEXTO: el mismo que el prompt de portafolio de inversión.
 
 PROMPT:
 
@@ -76,5 +76,3 @@ Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio a
 - "Dividendos y Estrategia de Salida"
 Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
 NOTA: Hoy es 2025-01-12.
-
-
