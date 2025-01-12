@@ -58,6 +58,10 @@ Nota: prioriozar compras y ventas escalonadas.
 
 [Órdenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
 
+
+Prompt:
+Mejorar los portafolios considerando los aspectos clave de las noticias y análisis
+
 ---
 
 # Analisis contra portafolio actual
