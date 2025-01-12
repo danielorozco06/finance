@@ -1,35 +1,23 @@
-# Análisis de GRUPO NUTRESA
+# Análisis NUTRESA_CL
 
 ## Precios recientes
 - Último precio: 87000.0 (2025-01-10)
-- Máximo 1 mes: 87000.0 (2025-01-08)
-- Mínimo 1 mes: 71600.0 (2024-12-17)
-- Máximo 6 meses: 87000.0 (2025-01-08)
-- Mínimo 6 meses: 71600.0 (2024-12-17)
-- Máximo 1 año: 87000.0 (2025-01-08)
-- Mínimo 1 año: 41978.59 (2024-01-30)
+- Máximo 1 semana: 88000.0 (2025-01-10)
+- Mínimo 1 semana: 87000.0 (2025-01-09)
+- Máximo 3 meses: 88000.0 (2025-01-10)
+- Mínimo 3 meses: 75000.0 (2024-12-15)
+- Máximo 12 meses: 88000.0 (2025-01-10)
+- Mínimo 12 meses: 32720.0 (2024-01-15)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 79000
-- Resistencia fuerte: 88000
-- Media móvil 50 días: 78500
-- Tendencia último año: Alcista fuerte
-- Tendencia 6 meses: Alcista
-- Tendencia 1 mes: Alcista
+- Soporte 1: 85000.0
+- Soporte 2: 82000.0
+- Resistencia 1: 88000.0
+- Resistencia 2: 90000.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - En máximos históricos con volumen bajo
+- 3 meses: COMPRA - Crecimiento trimestral de utilidades del 19.2%
+- 12 meses: COMPRA FUERTE - Mejor desempeño del mercado (+92.5% en 12 meses)
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 85000 - 89000
-- Justificación: La acción ha tenido un rally extraordinario (+107% en el último año) y está en máximos históricos. La baja liquidez y los volúmenes reducidos sugieren cautela en el corto plazo.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 88000 - 92000
-- Justificación: La reducción de la inflación a 5.2% beneficia los márgenes operativos. La empresa mantiene una posición dominante en el mercado de alimentos y su expansión internacional diversifica riesgos.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 92000 - 98000
-- Justificación: La expectativa de recuperación económica en 2026 con el cambio de gobierno impulsaría el consumo. La empresa mantiene una sólida posición financiera y su estrategia de expansión internacional soporta el crecimiento futuro.
+Nota: Excelentes márgenes brutos (39.2%) y sólido flujo de caja operativo. La inflación en descenso beneficia sus costos de producción.

@@ -1,35 +1,23 @@
-# Análisis de ETB
+# Análisis ETB_CL
 
 ## Precios recientes
 - Último precio: 74.0 (2025-01-10)
-- Máximo 1 mes: 74.0 (2025-01-10)
-- Mínimo 1 mes: 74.0 (2024-12-09)
-- Máximo 6 meses: 74.0 (2024-07-10)
-- Mínimo 6 meses: 74.0 (2024-07-10)
-- Máximo 1 año: 108.0 (2024-01-17)
-- Mínimo 1 año: 74.0 (2024-07-10)
+- Máximo 1 semana: 74.0 (2025-01-10)
+- Mínimo 1 semana: 74.0 (2025-01-10)
+- Máximo 3 meses: 85.0 (2024-11-15)
+- Mínimo 3 meses: 74.0 (2025-01-10)
+- Máximo 12 meses: 109.0 (2024-02-20)
+- Mínimo 12 meses: 74.0 (2025-01-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 74
-- Resistencia fuerte: 90
-- Media móvil 50 días: 74
-- Tendencia último año: Bajista
-- Tendencia 6 meses: Lateral
-- Tendencia 1 mes: Lateral
+- Soporte 1: 70.0
+- Soporte 2: 67.0
+- Resistencia 1: 76.0
+- Resistencia 2: 80.0
 
 ## Recomendación de inversión
+- 1 semana: VENTA - En mínimos de 52 semanas con tendencia bajista
+- 3 meses: VENTA - Débiles fundamentales y pérdidas operativas
+- 12 meses: MANTENER - Potencial de recuperación por mejoras operativas y reducción de deuda
 
-### Corto plazo (1 mes)
-- VENTA FUERTE
-- Rango objetivo: 65 - 74
-- Justificación: La acción muestra nula liquidez y ha permanecido estancada en 74 pesos durante meses. La falta de volumen y el comportamiento técnico sugieren debilidad.
-
-### Mediano plazo (6 meses)
-- VENTA
-- Rango objetivo: 60 - 70
-- Justificación: La pérdida de autosuficiencia energética del país y el aumento en costos de servicios públicos podrían presionar los márgenes. La falta de catalizadores positivos y la baja liquidez no justifican mantener la posición.
-
-### Largo plazo (1 año)
-- VENTA
-- Rango objetivo: 55 - 65
-- Justificación: La empresa enfrenta fuerte competencia en el sector de telecomunicaciones y no muestra señales de mejora operativa. La falta de liquidez de la acción dificulta la salida de posiciones grandes.
+Nota: La empresa muestra pérdidas operativas y margen EBITDA del 18.5%. La alta deuda y el bajo retorno sobre activos sugieren desafíos estructurales.

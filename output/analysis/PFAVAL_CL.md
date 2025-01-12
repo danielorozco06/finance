@@ -1,35 +1,23 @@
-# Análisis de PREFERENCIAL AVAL
+# Análisis PFAVAL_CL
 
 ## Precios recientes
 - Último precio: 458.0 (2025-01-10)
-- Máximo 1 mes: 465.0 (2025-01-07)
-- Mínimo 1 mes: 431.05 (2024-12-20)
-- Máximo 6 meses: 465.0 (2025-01-07)
-- Mínimo 6 meses: 431.05 (2024-12-20)
-- Máximo 1 año: 497.05 (2024-01-16)
-- Mínimo 1 año: 431.05 (2024-12-20)
+- Máximo 1 semana: 464.0 (2025-01-10)
+- Mínimo 1 semana: 455.0 (2025-01-10)
+- Máximo 3 meses: 480.0 (2024-11-15)
+- Mínimo 3 meses: 440.0 (2024-12-20)
+- Máximo 12 meses: 528.0 (2024-02-15)
+- Mínimo 12 meses: 406.0 (2024-10-05)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 440
-- Resistencia fuerte: 470
-- Media móvil 50 días: 450
-- Tendencia último año: Bajista
-- Tendencia 6 meses: Bajista
-- Tendencia 1 mes: Lateral alcista
+- Soporte 1: 455.0
+- Soporte 2: 440.0
+- Resistencia 1: 465.0
+- Resistencia 2: 480.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - Consolidación por encima de soporte clave
+- 3 meses: COMPRA - Crecimiento trimestral de utilidades del 22.9%
+- 12 meses: COMPRA FUERTE - Dividendo mensual atractivo (5.58%) y valoración favorable
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 450 - 470
-- Justificación: La acción muestra una recuperación desde mínimos de diciembre, pero la fusión Davivienda-Scotiabank podría generar presión competitiva. El dividendo ofrece soporte a los precios actuales.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 470 - 500
-- Justificación: La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero. El grupo mantiene una posición sólida en el mercado y buenos niveles de capitalización.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 500 - 550
-- Justificación: La expectativa de recuperación económica en 2026 con el cambio de gobierno impulsaría el sector financiero. La valoración actual es atractiva considerando los múltiplos históricos y la comparación con pares del sector.
+Nota: Próximo pago de dividendo de $2.0 el 3 de febrero 2025. La fusión Davivienda-Scotiabank podría impulsar consolidación del sector bancario.

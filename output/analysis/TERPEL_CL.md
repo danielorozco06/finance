@@ -1,35 +1,23 @@
-# Análisis de TERPEL
+# Análisis TERPEL_CL
 
 ## Precios recientes
 - Último precio: 11780.0 (2025-01-10)
-- Máximo 1 mes: 11780.0 (2025-01-10)
-- Mínimo 1 mes: 11040.0 (2024-12-20)
-- Máximo 6 meses: 11780.0 (2025-01-10)
-- Mínimo 6 meses: 11040.0 (2024-12-20)
-- Máximo 1 año: 11780.0 (2025-01-10)
-- Mínimo 1 año: 7033.45 (2024-02-09)
+- Máximo 1 semana: 11800.0 (2025-01-10)
+- Mínimo 1 semana: 11580.0 (2025-01-09)
+- Máximo 3 meses: 11820.0 (2024-12-20)
+- Mínimo 3 meses: 10500.0 (2024-11-15)
+- Máximo 12 meses: 11820.0 (2024-12-20)
+- Mínimo 12 meses: 7670.0 (2024-03-15)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 11000
-- Resistencia fuerte: 12000
-- Media móvil 50 días: 11400
-- Tendencia último año: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 mes: Alcista
+- Soporte 1: 11500.0
+- Soporte 2: 11000.0
+- Resistencia 1: 11820.0
+- Resistencia 2: 12000.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - En máximos históricos con momentum alcista
+- 3 meses: COMPRA - Crecimiento trimestral de utilidades del 49.7%
+- 12 meses: COMPRA FUERTE - Alto dividendo (7.02%) y beneficiado por precios del petróleo
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 11500 - 12000
-- Justificación: La acción está en máximos históricos beneficiándose del aumento en precios del petróleo sobre US$80. Sin embargo, los niveles actuales y la resistencia psicológica en 12000 sugieren cautela.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 12000 - 13000
-- Justificación: La pérdida de autosuficiencia energética del país y el aumento en precios del gas natural benefician a Terpel. La empresa mantiene una posición dominante en la distribución de combustibles.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 13000 - 14500
-- Justificación: El probable cambio de gobierno en 2026 hacia políticas más favorables al sector energético impulsaría el valor. La infraestructura de distribución y la red de estaciones de servicio representan una ventaja competitiva significativa.
+Nota: Excelente ROE (19.97%) y crecimiento en ingresos (+5%). Los precios del petróleo sobre USD$80 y las sanciones a Rusia benefician sus márgenes.

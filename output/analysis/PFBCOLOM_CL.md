@@ -1,35 +1,23 @@
-# Análisis de PREFERENCIAL BANCOLOMBIA
+# Análisis PFBCOLOM_CL
 
 ## Precios recientes
 - Último precio: 35180.0 (2025-01-10)
-- Máximo 1 mes: 35500.0 (2025-01-07)
-- Mínimo 1 mes: 34323.96 (2024-12-20)
-- Máximo 6 meses: 35500.0 (2025-01-07)
-- Mínimo 6 meses: 33933.92 (2024-12-18)
-- Máximo 1 año: 35500.0 (2025-01-07)
-- Mínimo 1 año: 27630.73 (2024-01-31)
+- Máximo 1 semana: 35360.0 (2025-01-09)
+- Mínimo 1 semana: 35180.0 (2025-01-10)
+- Máximo 3 meses: 36900.0 (2024-11-20)
+- Mínimo 3 meses: 33500.0 (2024-12-15)
+- Máximo 12 meses: 36900.0 (2024-11-20)
+- Mínimo 12 meses: 29220.0 (2024-03-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 34000
-- Resistencia fuerte: 36000
-- Media móvil 50 días: 34800
-- Tendencia último año: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 mes: Lateral alcista
+- Soporte 1: 35000.0
+- Soporte 2: 34500.0
+- Resistencia 1: 35500.0
+- Resistencia 2: 36000.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - Consolidación cerca de máximos con buen volumen
+- 3 meses: COMPRA - Líder en utilidades del sector bancario ($4.6 billones)
+- 12 meses: COMPRA FUERTE - Alto dividendo (10.05%) y valoración atractiva (P/VL 0.83)
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 34500 - 36000
-- Justificación: La acción muestra fortaleza en niveles altos y Bancolombia lidera las utilidades del sector bancario. Sin embargo, la fusión Davivienda-Scotiabank podría generar presión competitiva en el corto plazo.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 36000 - 38000
-- Justificación: La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero. Bancolombia mantiene el liderazgo en utilidades ($4.6 billones) y una sólida presencia regional.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 38000 - 41000
-- Justificación: La expectativa de recuperación económica en 2026 con el cambio de gobierno impulsaría el sector financiero. La valoración actual es atractiva y la posición dominante de Bancolombia en el mercado justifica una prima sobre sus competidores.
+Nota: Excelentes márgenes operativos (38.66%) y ROE (15.22%). La reducción de tasas de interés y la inflación controlada benefician al sector bancario.

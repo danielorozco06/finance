@@ -36,7 +36,7 @@ NOTA: Hoy es 2025-01-12.
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener presente de cada ticker el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en cada periodo indicado, pero priorizar tickers con etiqueta COMPRA FUERTE.
+1. Tener presente de cada ticker el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en cada periodo indicado, pero priorizar tickers con etiqueta COMPRA y COMPRA FUERTE.
 
 2. Organizar el documento con la siguiente estructura:
 

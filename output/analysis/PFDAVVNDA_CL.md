@@ -1,35 +1,23 @@
-# Análisis de PREFERENCIAL DAVIVIENDA
+# Análisis PFDAVVNDA_CL
 
 ## Precios recientes
 - Último precio: 19000.0 (2025-01-10)
-- Máximo 1 mes: 19540.0 (2025-01-08)
-- Mínimo 1 mes: 17560.0 (2024-12-30)
-- Máximo 6 meses: 19540.0 (2025-01-08)
-- Mínimo 6 meses: 17560.0 (2024-12-30)
-- Máximo 1 año: 21860.0 (2024-01-31)
-- Mínimo 1 año: 17560.0 (2024-12-30)
+- Máximo 1 semana: 19120.0 (2025-01-10)
+- Mínimo 1 semana: 19000.0 (2025-01-10)
+- Máximo 3 meses: 20500.0 (2024-11-15)
+- Mínimo 3 meses: 17800.0 (2024-12-20)
+- Máximo 12 meses: 23420.0 (2024-02-15)
+- Mínimo 12 meses: 17200.0 (2024-09-25)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 17500
-- Resistencia fuerte: 20000
-- Media móvil 50 días: 18200
-- Tendencia último año: Bajista
-- Tendencia 6 meses: Lateral
-- Tendencia 1 mes: Alcista
+- Soporte 1: 18800.0
+- Soporte 2: 18500.0
+- Resistencia 1: 19200.0
+- Resistencia 2: 19500.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - Recuperación desde mínimos con volumen creciente
+- 3 meses: COMPRA - Fusión con Scotiabank genera valor y sinergias
+- 12 meses: COMPRA FUERTE - Valoración atractiva (P/VL 0.59) y potencial de recuperación
 
-### Corto plazo (1 mes)
-- COMPRA
-- Rango objetivo: 19000 - 20500
-- Justificación: El anuncio de fusión con Scotiabank Colpatria genera expectativas positivas. La acción muestra una recuperación técnica desde mínimos de diciembre y el volumen de negociación ha aumentado significativamente.
-
-### Mediano plazo (6 meses)
-- COMPRA FUERTE
-- Rango objetivo: 20500 - 22000
-- Justificación: Las sinergias de la fusión con Scotiabank Colpatria deberían empezar a materializarse. La reducción de tasas de interés por parte del Banco de la República beneficiará al sector financiero.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 22000 - 24000
-- Justificación: La consolidación de la fusión fortalecerá su posición en el mercado. La expectativa de recuperación económica en 2026 con el cambio de gobierno y la expansión en Centroamérica soportan el potencial alcista. 
+Nota: La fusión con Scotiabank Colpatria fortalecerá su posición en Colombia y Centroamérica. Las pérdidas recientes (-14.7% en ingresos) deberían revertirse con las sinergias de la fusión. 

@@ -1,35 +1,23 @@
-# Análisis de PREFERENCIAL GRUPO SURA
+# Análisis PFGRUPSURA_CL
 
 ## Precios recientes
 - Último precio: 26080.0 (2025-01-10)
-- Máximo 1 mes: 26140.0 (2024-12-26)
-- Mínimo 1 mes: 25649.46 (2024-12-19)
-- Máximo 6 meses: 26340.0 (2024-12-27)
-- Mínimo 6 meses: 25649.46 (2024-12-19)
-- Máximo 1 año: 26340.0 (2024-12-27)
-- Mínimo 1 año: 15159.20 (2024-02-09)
+- Máximo 1 semana: 26080.0 (2025-01-10)
+- Mínimo 1 semana: 25960.0 (2025-01-10)
+- Máximo 3 meses: 27800.0 (2024-11-15)
+- Mínimo 3 meses: 23500.0 (2024-12-20)
+- Máximo 12 meses: 27800.0 (2024-11-15)
+- Mínimo 12 meses: 15300.0 (2024-03-10)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 25500
-- Resistencia fuerte: 26500
-- Media móvil 50 días: 25800
-- Tendencia último año: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 mes: Lateral
+- Soporte 1: 25900.0
+- Soporte 2: 25000.0
+- Resistencia 1: 26500.0
+- Resistencia 2: 27000.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - Consolidación en niveles altos con buen volumen
+- 3 meses: COMPRA - Escisión con Grupo Argos liberará valor
+- 12 meses: COMPRA FUERTE - Mejor rendimiento del mercado (+66.3%) y dividendo atractivo (6.13%)
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 25500 - 26500
-- Justificación: La acción muestra estabilidad en niveles altos. El proceso de escisión con Grupo Argos anunciado para 2025 podría generar volatilidad. Los niveles actuales sugieren cautela en el corto plazo.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 26500 - 28000
-- Justificación: La escisión con Grupo Argos debería generar valor para los accionistas. La empresa mantiene una posición sólida en el sector financiero y de seguros, con presencia regional significativa.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 28000 - 30000
-- Justificación: La finalización del proceso de escisión y la expectativa de recuperación económica en 2026 con el cambio de gobierno impulsarían el valor. La diversificación geográfica y sectorial soporta el crecimiento futuro.
+Nota: Excelente ROE (20.09%) y la escisión con Grupo Argos permitirá recibir 0.72 acciones por cada acción. Próximo dividendo de $350 el 25 de enero 2025.

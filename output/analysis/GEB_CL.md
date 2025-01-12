@@ -1,35 +1,23 @@
-# Análisis de GRUPO ENERGÍA BOGOTÁ
+# Análisis GEB_CL
 
 ## Precios recientes
 - Último precio: 2485.0 (2025-01-10)
-- Máximo 1 mes: 2520.0 (2025-01-07)
-- Mínimo 1 mes: 2420.0 (2024-12-20)
-- Máximo 6 meses: 2510.0 (2024-12-13)
-- Mínimo 6 meses: 2420.0 (2024-12-20)
-- Máximo 1 año: 2510.0 (2024-12-13)
-- Mínimo 1 año: 1944.05 (2024-02-09)
+- Máximo 1 semana: 2515.0 (2025-01-10)
+- Mínimo 1 semana: 2485.0 (2025-01-10)
+- Máximo 3 meses: 2645.0 (2024-11-20)
+- Mínimo 3 meses: 2350.0 (2024-12-15)
+- Máximo 12 meses: 2645.0 (2024-11-20)
+- Mínimo 12 meses: 1960.0 (2024-03-15)
 
 ## Niveles técnicos relevantes
-- Soporte fuerte: 2400
-- Resistencia fuerte: 2600
-- Media móvil 50 días: 2470
-- Tendencia último año: Alcista
-- Tendencia 6 meses: Alcista
-- Tendencia 1 mes: Lateral
+- Soporte 1: 2450.0
+- Soporte 2: 2400.0
+- Resistencia 1: 2515.0
+- Resistencia 2: 2600.0
 
 ## Recomendación de inversión
+- 1 semana: MANTENER - Consolidación en rango lateral cerca de máximos
+- 3 meses: COMPRA - Buenos fundamentales y beneficiado por crisis energética
+- 12 meses: COMPRA FUERTE - Alto dividendo (9.69%) y beneficios de importación de gas
 
-### Corto plazo (1 mes)
-- MANTENER
-- Rango objetivo: 2400 - 2600
-- Justificación: La acción muestra estabilidad en niveles altos con soporte en la media móvil de 50 días. El aumento en precios del gas natural (+68% en 5 años) beneficia a la empresa, pero los niveles actuales sugieren cautela.
-
-### Mediano plazo (6 meses)
-- COMPRA
-- Rango objetivo: 2600 - 2800
-- Justificación: La pérdida de autosuficiencia energética del país y el inicio de importaciones de gas natural benefician directamente a GEB por su infraestructura de transporte. Los márgenes operativos son sólidos.
-
-### Largo plazo (1 año)
-- COMPRA FUERTE
-- Rango objetivo: 2800 - 3200
-- Justificación: La empresa está bien posicionada para beneficiarse del déficit energético proyectado (40% de la demanda en Q4 2025). La infraestructura de transporte de gas se vuelve estratégica y los ingresos deberían crecer significativamente.
+Nota: La pérdida de autosuficiencia energética de Colombia y la necesidad de importar gas natural benefician a GEB por su infraestructura de transporte y distribución.
