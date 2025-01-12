@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-12 12:06:54
+Generado el: 2025-01-12 12:10:29
 
 ## PFGRUPOARG_CL
 
@@ -76,10 +76,6 @@ Generado el: 2025-01-12 12:06:54
 - RSI: Normal
 - Volumen: Alto (x1.54 del promedio)
 - Precio: Cerca de Resistencia
-
-## ETB_CL
-
-Error al procesar: float division by zero
 
 ## ISA_CL
 

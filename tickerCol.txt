@@ -3,7 +3,6 @@
 - https://finance.yahoo.com/quote/CNEC.CL/
 - https://finance.yahoo.com/quote/CONCONCRET.CL/
 - https://finance.yahoo.com/quote/ECOPETROL.CL/
-- https://finance.yahoo.com/quote/ETB.CL/
 - https://finance.yahoo.com/quote/GEB.CL/
 - https://finance.yahoo.com/quote/GRUBOLIVAR.CL/
 - https://finance.yahoo.com/quote/ISA.CL/
