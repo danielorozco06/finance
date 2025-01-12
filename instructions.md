@@ -28,7 +28,7 @@ Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/, news.md, dividendos.md
+CONTEXTO: /output/, news.md
 
 PROMPT:
 
