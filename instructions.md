@@ -9,8 +9,8 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 # Tickers
 
-Ejecutar el script getTickerInfo.py para obtener la información de los tickers.
-
+- Ejecutar el script getTickerInfo.py para obtener la información y el historial de los tickers.
+- Ejecutar el script stock_probability.py para obtener el análisis de los tickers.
 
 # Cursor Composer
 
@@ -20,10 +20,9 @@ CONTEXTO: /input/
 
 PROMPT:
 
-Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las siguientes secciones:
-- Precios recientes: último precio, máximo 1 semana, mínimo 1 semana, máximo 3 meses, mínimo 3 meses, máximo 6 meses y mínimo 6 meses, cada uno con fecha en formato YYYY-MM-DD.
-- Niveles técnicos relevantes: soportes y resistencias.
-- Recomendación de inversión: 1 semana, 3 meses y 6 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE.
+Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker:
+- Precios recientes: último precio
+- Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE.
 NOTA: Hoy es 2025-01-12.
 Nota: No crear scripts de python.
 
