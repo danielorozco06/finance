@@ -45,7 +45,7 @@ Tener en cuenta los siguientes criterios:
 
 ## 1. Composición
 
-[Distribución por Acción]
+[Distribución por Acción y etiqueta de inversión]
 
 ## 2. Plan de Ejecución
 
