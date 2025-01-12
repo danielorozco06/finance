@@ -1,23 +1,24 @@
-# Análisis MINEROS_CL
+# Análisis Técnico MINEROS
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 4570.0 (2025-01-10)
 - Máximo 1 semana: 4570.0 (2025-01-10)
-- Mínimo 1 semana: 4500.0 (2025-01-10)
-- Máximo 3 meses: 4595.0 (2024-12-20)
-- Mínimo 3 meses: 3800.0 (2024-11-15)
-- Máximo 12 meses: 4595.0 (2024-12-20)
-- Mínimo 12 meses: 1850.0 (2024-03-10)
+- Mínimo 1 semana: 4450.0 (2025-01-08)
+- Máximo 3 meses: 4570.0 (2025-01-10)
+- Mínimo 3 meses: 4234.9 (2024-12-24)
+- Máximo 6 meses: 4570.0 (2025-01-10)
+- Mínimo 6 meses: 4234.9 (2024-12-24)
 
-## Niveles técnicos relevantes
-- Soporte 1: 4500.0
-- Soporte 2: 4300.0
-- Resistencia 1: 4600.0
-- Resistencia 2: 4800.0
+## Niveles técnicos
+- Soporte 1: 4500 (testado el 2025-01-08)
+- Soporte 2: 4450 (testado el 2025-01-07)
+- Soporte 3: 4235 (testado el 2024-12-24)
+- Resistencia 1: 4570 (testada el 2025-01-10)
+- Resistencia 2: 4600 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - En máximos históricos con momentum alcista
-- 3 meses: COMPRA - Crecimiento trimestral de utilidades del 44%
-- 12 meses: COMPRA FUERTE - Beneficiado por precios del oro y dividendo atractivo (7.39%)
+## Recomendación
+- 1 semana: COMPRA - Tendencia alcista con nuevo máximo y volumen creciente
+- 3 meses: COMPRA FUERTE - Recuperación consistente desde mínimos de diciembre
+- 6 meses: MANTENER - Sector minero afectado por políticas restrictivas
 
-Nota: Excelente desempeño operativo con ROE del 20.1% y próximo pago de dividendo de USD 0.02 el 16 de enero 2025.
+La acción muestra una tendencia alcista sólida desde diciembre, con volúmenes de negociación respaldando los movimientos. Sin embargo, las políticas gubernamentales restrictivas hacia el sector minero representan un riesgo. El soporte en 4450 ha sido respetado, sugiriendo fortaleza técnica en el corto plazo.

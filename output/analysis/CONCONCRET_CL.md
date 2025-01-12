@@ -1,23 +1,24 @@
-# Análisis CONCONCRET_CL
+# Análisis Técnico CONCONCRET
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 670.0 (2025-01-10)
 - Máximo 1 semana: 670.0 (2025-01-10)
 - Mínimo 1 semana: 631.0 (2025-01-08)
 - Máximo 3 meses: 670.0 (2025-01-10)
-- Mínimo 3 meses: 422.0 (2024-12-19)
-- Máximo 12 meses: 670.0 (2025-01-10)
-- Mínimo 12 meses: 270.0 (2024-01-10)
+- Mínimo 3 meses: 419.0 (2024-12-20)
+- Máximo 6 meses: 670.0 (2025-01-10)
+- Mínimo 6 meses: 419.0 (2024-12-20)
 
-## Niveles técnicos relevantes
-- Soporte 1: 600.0
-- Soporte 2: 550.0
-- Resistencia 1: 680.0
-- Resistencia 2: 700.0
+## Niveles técnicos
+- Soporte 1: 631 (testado el 2025-01-08)
+- Soporte 2: 528 (testado el 2025-01-02)
+- Soporte 3: 419 (testado el 2024-12-20)
+- Resistencia 1: 670 (testada el 2025-01-10)
+- Resistencia 2: 700 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - En máximos históricos, posible consolidación
-- 3 meses: COMPRA - Fuerte momentum alcista y mejora en sector construcción
-- 12 meses: COMPRA FUERTE - Recuperación del sector y posible reactivación de Mi Casa Ya
+## Recomendación
+- 1 semana: COMPRA - Tendencia alcista fuerte con nuevo máximo histórico
+- 3 meses: COMPRA FUERTE - Incremento de más del 50% desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Tendencia alcista sólida con volumen creciente
 
-Nota: La suspensión del programa Mi Casa Ya afectó inicialmente, pero la acción muestra una recuperación extraordinaria con potencial de crecimiento.
+La acción muestra una tendencia alcista excepcional desde los mínimos de diciembre, con volúmenes de negociación muy superiores al promedio histórico. La suspensión del programa Mi Casa Ya podría afectar al sector, pero el mercado parece estar descontando perspectivas positivas para la construcción en 2025.

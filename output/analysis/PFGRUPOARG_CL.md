@@ -1,23 +1,24 @@
-# Análisis PFGRUPOARG_CL
+# Análisis Técnico PFGRUPOARG
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 14660.0 (2025-01-10)
-- Máximo 1 semana: 15000.0 (2025-01-10)
-- Mínimo 1 semana: 14500.0 (2025-01-10)
-- Máximo 3 meses: 15800.0 (2024-11-20)
-- Mínimo 3 meses: 13500.0 (2024-12-15)
-- Máximo 12 meses: 15800.0 (2024-11-20)
-- Mínimo 12 meses: 9000.0 (2024-03-15)
+- Máximo 1 semana: 15200.0 (2025-01-07)
+- Mínimo 1 semana: 14660.0 (2025-01-10)
+- Máximo 3 meses: 15200.0 (2025-01-07)
+- Mínimo 3 meses: 14200.0 (2024-12-20)
+- Máximo 6 meses: 15200.0 (2025-01-07)
+- Mínimo 6 meses: 14200.0 (2024-12-20)
 
-## Niveles técnicos relevantes
-- Soporte 1: 14500.0
-- Soporte 2: 14000.0
-- Resistencia 1: 15000.0
-- Resistencia 2: 15800.0
+## Niveles técnicos
+- Soporte 1: 14660 (testado el 2025-01-10)
+- Soporte 2: 14500 (psicológico)
+- Soporte 3: 14200 (testado el 2024-12-20)
+- Resistencia 1: 15200 (testada el 2025-01-07)
+- Resistencia 2: 15500 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - Consolidación cerca de máximos con volumen moderado
-- 3 meses: COMPRA - Escisión con Grupo Sura liberará valor
-- 12 meses: COMPRA FUERTE - Mejor desempeño del mercado (+49.9%) y dividendo atractivo (4.85%)
+## Recomendación
+- 1 semana: MANTENER - Consolidación tras retroceso desde máximos recientes
+- 3 meses: COMPRA - Tendencia alcista desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Diversificación en sectores clave y dividendos atractivos
 
-Nota: La escisión con Grupo Sura terminará con 46 años de participación cruzada. Próximo pago de dividendo de $159 el 10 de enero 2025.
+La acción muestra una tendencia alcista desde diciembre, aunque con retroceso reciente desde máximos. Los volúmenes de negociación han sido significativos. La diversificación del grupo en sectores estratégicos (cemento, energía, infraestructura) y el próximo pago de dividendos en marzo 2025 respaldan la perspectiva positiva.

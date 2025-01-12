@@ -1,23 +1,24 @@
-# Análisis GEB_CL
+# Análisis Técnico GEB
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 2485.0 (2025-01-10)
-- Máximo 1 semana: 2515.0 (2025-01-10)
+- Máximo 1 semana: 2520.0 (2025-01-07)
 - Mínimo 1 semana: 2485.0 (2025-01-10)
-- Máximo 3 meses: 2645.0 (2024-11-20)
-- Mínimo 3 meses: 2350.0 (2024-12-15)
-- Máximo 12 meses: 2645.0 (2024-11-20)
-- Mínimo 12 meses: 1960.0 (2024-03-15)
+- Máximo 3 meses: 2520.0 (2025-01-07)
+- Mínimo 3 meses: 2420.0 (2024-12-23)
+- Máximo 6 meses: 2520.0 (2025-01-07)
+- Mínimo 6 meses: 2420.0 (2024-12-23)
 
-## Niveles técnicos relevantes
-- Soporte 1: 2450.0
-- Soporte 2: 2400.0
-- Resistencia 1: 2515.0
-- Resistencia 2: 2600.0
+## Niveles técnicos
+- Soporte 1: 2485 (testado el 2025-01-10)
+- Soporte 2: 2440 (testado el 2024-12-31)
+- Soporte 3: 2420 (testado el 2024-12-23)
+- Resistencia 1: 2520 (testada el 2025-01-07)
+- Resistencia 2: 2550 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - Consolidación en rango lateral cerca de máximos
-- 3 meses: COMPRA - Buenos fundamentales y beneficiado por crisis energética
-- 12 meses: COMPRA FUERTE - Alto dividendo (9.69%) y beneficios de importación de gas
+## Recomendación
+- 1 semana: MANTENER - Consolidación en rango 2485-2520 con sesgo alcista
+- 3 meses: COMPRA - Tendencia alcista desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Beneficiada por crisis de gas natural y dividendos atractivos
 
-Nota: La pérdida de autosuficiencia energética de Colombia y la necesidad de importar gas natural benefician a GEB por su infraestructura de transporte y distribución.
+La acción muestra una tendencia alcista sólida desde diciembre, beneficiándose de la crisis energética y la pérdida de autosuficiencia en gas natural del país. Los niveles de soporte han sido respetados y el volumen acompaña los movimientos alcistas. El dividendo atractivo y su posición en el sector energético respaldan la perspectiva positiva.

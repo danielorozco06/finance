@@ -1,23 +1,24 @@
-# Análisis ETB_CL
+# Análisis Técnico ETB
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 74.0 (2025-01-10)
 - Máximo 1 semana: 74.0 (2025-01-10)
-- Mínimo 1 semana: 74.0 (2025-01-10)
-- Máximo 3 meses: 85.0 (2024-11-15)
-- Mínimo 3 meses: 74.0 (2025-01-10)
-- Máximo 12 meses: 109.0 (2024-02-20)
-- Mínimo 12 meses: 74.0 (2025-01-10)
+- Mínimo 1 semana: 74.0 (2025-01-03)
+- Máximo 3 meses: 74.0 (2024-12-16)
+- Mínimo 3 meses: 74.0 (2024-12-16)
+- Máximo 6 meses: 74.0 (2024-12-16)
+- Mínimo 6 meses: 74.0 (2024-12-16)
 
-## Niveles técnicos relevantes
-- Soporte 1: 70.0
-- Soporte 2: 67.0
-- Resistencia 1: 76.0
-- Resistencia 2: 80.0
+## Niveles técnicos
+- Soporte 1: 74.0 (nivel estable desde diciembre 2024)
+- Soporte 2: 73.0 (histórico)
+- Soporte 3: 72.0 (histórico)
+- Resistencia 1: 75.0 (psicológica)
+- Resistencia 2: 76.0 (histórica)
 
-## Recomendación de inversión
-- 1 semana: VENTA - En mínimos de 52 semanas con tendencia bajista
-- 3 meses: VENTA - Débiles fundamentales y pérdidas operativas
-- 12 meses: MANTENER - Potencial de recuperación por mejoras operativas y reducción de deuda
+## Recomendación
+- 1 semana: MANTENER - Precio estable sin señales de cambio de tendencia
+- 3 meses: MANTENER - Baja liquidez y ausencia de catalizadores
+- 6 meses: MANTENER - Acción con muy baja volatilidad y volumen reducido
 
-Nota: La empresa muestra pérdidas operativas y margen EBITDA del 18.5%. La alta deuda y el bajo retorno sobre activos sugieren desafíos estructurales.
+La acción muestra una estabilidad absoluta en 74.0 pesos desde diciembre 2024, con volúmenes de negociación moderados. La falta de volatilidad y el bajo volumen sugieren poco interés del mercado. No se observan catalizadores técnicos ni fundamentales que puedan generar movimientos significativos en el corto o mediano plazo.

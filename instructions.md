@@ -24,6 +24,7 @@ Modificar para cada acción el archivo ./output/analysis/$TICKER_CL.md con las s
 - Niveles técnicos relevantes: soportes y resistencias.
 - Recomendación de inversión: 1 semana, 3 meses y 6 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE.
 NOTA: Hoy es 2025-01-12.
+Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 

@@ -1,23 +1,24 @@
-# Análisis PFCORFICOL_CL
+# Análisis Técnico PFCORFICOL
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 14400.0 (2025-01-10)
-- Máximo 1 semana: 14400.0 (2025-01-10)
-- Mínimo 1 semana: 14380.0 (2025-01-09)
-- Máximo 3 meses: 16900.0 (2024-11-15)
-- Mínimo 3 meses: 13800.0 (2024-12-20)
-- Máximo 12 meses: 16900.0 (2024-11-15)
-- Mínimo 12 meses: 11120.0 (2024-03-20)
+- Máximo 1 semana: 14480.0 (2025-01-07)
+- Mínimo 1 semana: 14280.0 (2025-01-02)
+- Máximo 3 meses: 14480.0 (2025-01-07)
+- Mínimo 3 meses: 13960.0 (2024-12-30)
+- Máximo 6 meses: 14480.0 (2025-01-07)
+- Mínimo 6 meses: 13960.0 (2024-12-30)
 
-## Niveles técnicos relevantes
-- Soporte 1: 14300.0
-- Soporte 2: 14000.0
-- Resistencia 1: 14500.0
-- Resistencia 2: 15000.0
+## Niveles técnicos
+- Soporte 1: 14400 (testado el 2025-01-09/10)
+- Soporte 2: 14280 (testado el 2025-01-02)
+- Soporte 3: 13960 (testado el 2024-12-30)
+- Resistencia 1: 14480 (testada el 2025-01-07)
+- Resistencia 2: 14500 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - Consolidación en rango lateral con bajo volumen
-- 3 meses: COMPRA - Valoración atractiva (P/VL 0.44) y alto dividendo
-- 12 meses: COMPRA FUERTE - Mayor yield del mercado (17.14%) y potencial de recuperación
+## Recomendación
+- 1 semana: MANTENER - Consolidación en rango 14400-14480 con sesgo alcista
+- 3 meses: COMPRA - Tendencia alcista desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Sector financiero beneficiado por reducción de tasas
 
-Nota: La caída en ingresos (-13.4%) preocupa, pero la valoración actual y el alto dividendo ofrecen un margen de seguridad significativo.
+La acción muestra una tendencia alcista moderada desde finales de diciembre, con volúmenes de negociación estables. La reciente reducción de tasas por parte del Banco de la República (9.50%) beneficia al sector financiero. Los niveles de soporte han sido respetados y el volumen se mantiene consistente.

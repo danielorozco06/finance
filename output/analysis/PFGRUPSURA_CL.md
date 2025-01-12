@@ -1,23 +1,24 @@
-# Análisis PFGRUPSURA_CL
+# Análisis Técnico PFGRUPSURA
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 26080.0 (2025-01-10)
 - Máximo 1 semana: 26080.0 (2025-01-10)
-- Mínimo 1 semana: 25960.0 (2025-01-10)
-- Máximo 3 meses: 27800.0 (2024-11-15)
-- Mínimo 3 meses: 23500.0 (2024-12-20)
-- Máximo 12 meses: 27800.0 (2024-11-15)
-- Mínimo 12 meses: 15300.0 (2024-03-10)
+- Mínimo 1 semana: 25880.0 (2025-01-08)
+- Máximo 3 meses: 26080.0 (2025-01-10)
+- Mínimo 3 meses: 25100.0 (2024-12-20)
+- Máximo 6 meses: 26080.0 (2025-01-10)
+- Mínimo 6 meses: 25100.0 (2024-12-20)
 
-## Niveles técnicos relevantes
-- Soporte 1: 25900.0
-- Soporte 2: 25000.0
-- Resistencia 1: 26500.0
-- Resistencia 2: 27000.0
+## Niveles técnicos
+- Soporte 1: 25880 (testado el 2025-01-08)
+- Soporte 2: 25500 (psicológico)
+- Soporte 3: 25100 (testado el 2024-12-20)
+- Resistencia 1: 26080 (testada el 2025-01-10)
+- Resistencia 2: 26500 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - Consolidación en niveles altos con buen volumen
-- 3 meses: COMPRA - Escisión con Grupo Argos liberará valor
-- 12 meses: COMPRA FUERTE - Mejor rendimiento del mercado (+66.3%) y dividendo atractivo (6.13%)
+## Recomendación
+- 1 semana: COMPRA - Tendencia alcista con nuevo máximo y volumen creciente
+- 3 meses: COMPRA - Recuperación consistente desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Sector financiero beneficiado por reducción de tasas
 
-Nota: Excelente ROE (20.09%) y la escisión con Grupo Argos permitirá recibir 0.72 acciones por cada acción. Próximo dividendo de $350 el 25 de enero 2025.
+La acción muestra una tendencia alcista sólida desde diciembre, con volúmenes de negociación significativos. La reciente reducción de tasas por parte del Banco de la República beneficia al sector financiero. Los niveles de soporte han sido respetados consistentemente y el volumen respalda los movimientos alcistas.

@@ -1,23 +1,24 @@
-# Análisis NUTRESA_CL
+# Análisis Técnico NUTRESA
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 87000.0 (2025-01-10)
-- Máximo 1 semana: 88000.0 (2025-01-10)
-- Mínimo 1 semana: 87000.0 (2025-01-09)
-- Máximo 3 meses: 88000.0 (2025-01-10)
-- Mínimo 3 meses: 75000.0 (2024-12-15)
-- Máximo 12 meses: 88000.0 (2025-01-10)
-- Mínimo 12 meses: 32720.0 (2024-01-15)
+- Máximo 1 semana: 87000.0 (2025-01-08)
+- Mínimo 1 semana: 79000.0 (2025-01-02)
+- Máximo 3 meses: 87000.0 (2025-01-08)
+- Mínimo 3 meses: 79000.0 (2024-12-24)
+- Máximo 6 meses: 87000.0 (2025-01-08)
+- Mínimo 6 meses: 79000.0 (2024-12-24)
 
-## Niveles técnicos relevantes
-- Soporte 1: 85000.0
-- Soporte 2: 82000.0
-- Resistencia 1: 88000.0
-- Resistencia 2: 90000.0
+## Niveles técnicos
+- Soporte 1: 87000 (testado el 2025-01-08/10)
+- Soporte 2: 81980 (testado el 2025-01-03)
+- Soporte 3: 79000 (testado el 2024-12-24)
+- Resistencia 1: 87500 (psicológica)
+- Resistencia 2: 90000 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - En máximos históricos con volumen bajo
-- 3 meses: COMPRA - Crecimiento trimestral de utilidades del 19.2%
-- 12 meses: COMPRA FUERTE - Mejor desempeño del mercado (+92.5% en 12 meses)
+## Recomendación
+- 1 semana: MANTENER - Consolidación en máximos históricos
+- 3 meses: COMPRA - Tendencia alcista sólida desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Sector defensivo con márgenes estables
 
-Nota: Excelentes márgenes brutos (39.2%) y sólido flujo de caja operativo. La inflación en descenso beneficia sus costos de producción.
+La acción muestra una tendencia alcista consistente desde diciembre, alcanzando nuevos máximos históricos. El volumen de negociación ha disminuido en los últimos días, sugiriendo una posible consolidación. El sector de alimentos mantiene márgenes estables y la compañía muestra fortaleza operativa, respaldando la perspectiva positiva.

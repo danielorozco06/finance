@@ -1,23 +1,24 @@
-# Análisis PFDAVVNDA_CL
+# Análisis Técnico PFDAVVNDA
 
-## Precios recientes
+## Precios de referencia
 - Último precio: 19000.0 (2025-01-10)
-- Máximo 1 semana: 19120.0 (2025-01-10)
-- Mínimo 1 semana: 19000.0 (2025-01-10)
-- Máximo 3 meses: 20500.0 (2024-11-15)
-- Mínimo 3 meses: 17800.0 (2024-12-20)
-- Máximo 12 meses: 23420.0 (2024-02-15)
-- Mínimo 12 meses: 17200.0 (2024-09-25)
+- Máximo 1 semana: 19540.0 (2025-01-08)
+- Mínimo 1 semana: 17560.0 (2025-01-02)
+- Máximo 3 meses: 19540.0 (2025-01-08)
+- Mínimo 3 meses: 17500.0 (2024-12-20)
+- Máximo 6 meses: 19540.0 (2025-01-08)
+- Mínimo 6 meses: 17500.0 (2024-12-20)
 
-## Niveles técnicos relevantes
-- Soporte 1: 18800.0
-- Soporte 2: 18500.0
-- Resistencia 1: 19200.0
-- Resistencia 2: 19500.0
+## Niveles técnicos
+- Soporte 1: 19000 (testado el 2025-01-10)
+- Soporte 2: 18100 (testado el 2025-01-03)
+- Soporte 3: 17560 (testado el 2025-01-02)
+- Resistencia 1: 19540 (testada el 2025-01-08)
+- Resistencia 2: 20000 (psicológica)
 
-## Recomendación de inversión
-- 1 semana: MANTENER - Recuperación desde mínimos con volumen creciente
-- 3 meses: COMPRA - Fusión con Scotiabank genera valor y sinergias
-- 12 meses: COMPRA FUERTE - Valoración atractiva (P/VL 0.59) y potencial de recuperación
+## Recomendación
+- 1 semana: MANTENER - Consolidación tras alcanzar máximos recientes
+- 3 meses: COMPRA - Tendencia alcista desde mínimos de diciembre
+- 6 meses: COMPRA FUERTE - Sector financiero beneficiado por reducción de tasas
 
-Nota: La fusión con Scotiabank Colpatria fortalecerá su posición en Colombia y Centroamérica. Las pérdidas recientes (-14.7% en ingresos) deberían revertirse con las sinergias de la fusión. 
+La acción muestra una tendencia alcista sólida desde diciembre, con volúmenes de negociación significativos. La reciente reducción de tasas por parte del Banco de la República (9.50%) beneficia al sector bancario. Los rumores de fusión con Scotiabank y los sólidos fundamentales respaldan la perspectiva positiva. 
