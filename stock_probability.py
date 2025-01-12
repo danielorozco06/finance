@@ -15,6 +15,8 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
     # Convertir la columna Date a datetime
     df["Date"] = pd.to_datetime(df["Date"])
+    # Ordenar por fecha para asegurar el análisis cronológico correcto
+    df = df.sort_values("Date")
 
     # Calcular los cambios porcentuales diarios
     df["Price_Change"] = df["Close"].pct_change().replace([np.inf, -np.inf], np.nan)
@@ -26,6 +28,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
     # Eliminar filas con valores NaN
     df = df.dropna()
+
+    if len(df) < 5:
+        raise ValueError(
+            f"Insuficientes datos en {csv_file}. Se requieren al menos 5 días de datos."
+        )
 
     # Calcular probabilidades basadas en el histórico
     total_days = len(df)
