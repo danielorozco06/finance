@@ -2,7 +2,6 @@ import warnings
 from pathlib import Path
 
 import pandas as pd
-from scipy import stats
 
 warnings.filterwarnings("ignore")
 
@@ -12,7 +11,7 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()  # Evitar modificaciones al DataFrame original
 
     # Rellenar valores faltantes en Close con el último valor disponible
-    df["Close"] = df["Close"].fillna(method="ffill")
+    df["Close"] = df["Close"].fillna(value=df["Close"].ffill())
 
     # Medias móviles
     df["SMA_5"] = df["Close"].rolling(window=5).mean()
@@ -20,9 +19,7 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["SMA_50"] = df["Close"].rolling(window=50).mean()
 
     # Rellenar valores iniciales de medias móviles con el primer valor disponible
-    df[["SMA_5", "SMA_20", "SMA_50"]] = df[["SMA_5", "SMA_20", "SMA_50"]].fillna(
-        method="bfill"
-    )
+    df[["SMA_5", "SMA_20", "SMA_50"]] = df[["SMA_5", "SMA_20", "SMA_50"]].bfill()
 
     # Volatilidad
     df["Volatility"] = df["Close"].rolling(window=20).std()
@@ -37,13 +34,11 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["RSI"] = 100 - (100 / (1 + rs))
 
     # Rellenar RSI con valores neutros
-    df["RSI"] = df["RSI"].fillna(50)
+    df["RSI"] = df["RSI"].fillna(value=50)
 
     # Momentum
     df["Momentum"] = df["Close"] - df["Close"].shift(4)
-    df["Momentum"] = df["Momentum"].fillna(
-        0
-    )  # Sin cambio cuando no hay datos suficientes
+    df["Momentum"] = df["Momentum"].fillna(value=0)
 
     # Bollinger Bands
     df["BB_middle"] = df["Close"].rolling(window=20).mean()
@@ -52,7 +47,7 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     # Rellenar Bollinger Bands con valores conservadores
     df[["BB_middle", "BB_upper", "BB_lower"]] = df[
         ["BB_middle", "BB_upper", "BB_lower"]
-    ].fillna(df["Close"])
+    ].fillna(value=df["Close"])
 
     return df
 
