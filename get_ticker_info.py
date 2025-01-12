@@ -15,7 +15,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
 
 
 def setup_directories() -> None:
-    for directory in ["input/tickers_info", "input/tickers_history"]:
+    for directory in ["input/tickers_info", "tickers_history"]:
         os.makedirs(directory, exist_ok=True)
 
 
@@ -39,7 +39,7 @@ def save_ticker_info(ticker_symbol: str) -> None:
 
 def save_ticker_history(ticker_symbol: str) -> None:
     data = yf.Ticker(ticker_symbol)
-    csv_file = f"input/tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
+    csv_file = f"tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
     history_df = data.history(period="6mo")
 
     # Keep only desired columns
