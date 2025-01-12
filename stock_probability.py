@@ -49,6 +49,23 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
         ["BB_middle", "BB_upper", "BB_lower"]
     ].fillna(value=df["Close"])
 
+    # Calcular retornos y tendencias
+    df["Returns"] = df["Close"].pct_change() * 100
+    df["Trend_5d"] = df["Close"].rolling(window=5).mean().pct_change() * 100
+    df["Trend_20d"] = df["Close"].rolling(window=20).mean().pct_change() * 100
+
+    # Calcular soportes y resistencias
+    df["Support"] = df["Close"].rolling(window=20).min()
+    df["Resistance"] = df["Close"].rolling(window=20).max()
+
+    # Calcular distancia a soportes y resistencias
+    df["Dist_to_Support"] = ((df["Close"] - df["Support"]) / df["Close"]) * 100
+    df["Dist_to_Resistance"] = ((df["Resistance"] - df["Close"]) / df["Close"]) * 100
+
+    # Calcular volumen relativo
+    df["Volume_MA"] = df["Volume"].rolling(window=20).mean()
+    df["Volume_Ratio"] = df["Volume"] / df["Volume_MA"]
+
     return df
 
 
@@ -68,10 +85,10 @@ def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
     }
 
     # 1. Tendencia de precio (comparación con medias móviles)
-    price = recent_df["Close"].iloc[-1]
-    sma_5 = recent_df["SMA_5"].iloc[-1]
-    sma_20 = recent_df["SMA_20"].iloc[-1]
-    sma_50 = recent_df["SMA_50"].iloc[-1]
+    price = float(recent_df["Close"].iloc[-1])
+    sma_5 = float(recent_df["SMA_5"].iloc[-1])
+    sma_20 = float(recent_df["SMA_20"].iloc[-1])
+    sma_50 = float(recent_df["SMA_50"].iloc[-1])
 
     # Calcular señal de medias móviles ponderada
     sma_signal = 0
@@ -81,7 +98,7 @@ def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
     signals["sma"] = sma_signal
 
     # 2. RSI
-    rsi = recent_df["RSI"].iloc[-1]
+    rsi = float(recent_df["RSI"].iloc[-1])
     # RSI: 0 = sobreventa (señal alcista), 1 = sobrecompra (señal bajista)
     if rsi < 30:
         signals["rsi"] = 1.0  # Fuerte señal alcista
@@ -95,13 +112,13 @@ def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
         signals["rsi"] = 0  # Fuerte señal bajista
 
     # 3. Momentum
-    momentum = recent_df["Momentum"].iloc[-1]
-    avg_momentum = recent_df["Momentum"].mean()
+    momentum = float(recent_df["Momentum"].iloc[-1])
+    avg_momentum = float(recent_df["Momentum"].mean())
     signals["momentum"] = 1 if momentum > avg_momentum else (0.5 if momentum > 0 else 0)
 
     # 4. Volatilidad
-    current_volatility = recent_df["Volatility"].iloc[-1]
-    avg_volatility = recent_df["Volatility"].mean()
+    current_volatility = float(recent_df["Volatility"].iloc[-1])
+    avg_volatility = float(recent_df["Volatility"].mean())
     vol_ratio = current_volatility / avg_volatility
     signals["volatility"] = 1 if vol_ratio < 0.8 else (0.5 if vol_ratio < 1.2 else 0)
 
@@ -121,8 +138,8 @@ def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
         signals["bollinger"] = 0  # Sobrecompra
 
     # 6. Análisis de volumen
-    recent_volume = recent_df["Volume"].iloc[-1]
-    avg_volume = recent_df["Volume"].mean()
+    recent_volume = float(recent_df["Volume"].iloc[-1])
+    avg_volume = float(recent_df["Volume"].mean())
     vol_price_corr = recent_df["Volume"].corr(recent_df["Close"])
     signals["volume"] = (
         1
@@ -284,6 +301,29 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "registros_analizados": len(df),
         "fecha_inicial": df["Date"].min().strftime("%Y-%m-%d"),
         "fecha_final": df["Date"].max().strftime("%Y-%m-%d"),
+        # Análisis de precio
+        "precio_maximo_20d": round(df["Close"].rolling(window=20).max().iloc[-1], 2),
+        "precio_minimo_20d": round(df["Close"].rolling(window=20).min().iloc[-1], 2),
+        "retorno_5d": round(df["Returns"].rolling(window=5).mean().iloc[-1], 2),
+        "retorno_20d": round(df["Returns"].rolling(window=20).mean().iloc[-1], 2),
+        # Señales técnicas
+        "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
+        "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
+        "volumen_relativo": round(df["Volume_Ratio"].iloc[-1], 2),
+        # Señales de compra/venta
+        "señal_rsi": "Sobrevendida"
+        if df["RSI"].iloc[-1] < 30
+        else ("Sobrecomprada" if df["RSI"].iloc[-1] > 70 else "Normal"),
+        "señal_volumen": "Alto"
+        if df["Volume_Ratio"].iloc[-1] > 1.5
+        else ("Bajo" if df["Volume_Ratio"].iloc[-1] < 0.5 else "Normal"),
+        "señal_precio": "Cerca de Soporte"
+        if df["Dist_to_Support"].iloc[-1] < 5
+        else (
+            "Cerca de Resistencia"
+            if df["Dist_to_Resistance"].iloc[-1] < 5
+            else "En Rango Medio"
+        ),
     }
 
 
@@ -320,6 +360,7 @@ def generate_tendency_report(
                 f.write(
                     f"- Registros analizados: {resultado['registros_analizados']}\n"
                 )
+                f.write("\n")
                 f.write("### Predicción de Tendencias\n")
                 f.write(
                     f"- Próximo día: {resultado['tendencia_prox_1d']} (Prob. subida: {resultado['prob_subida_1d']}%)\n"
@@ -331,8 +372,28 @@ def generate_tendency_report(
                     f"- Próximos 3 meses: {resultado['tendencia_prox_3m']} (Prob. subida: {resultado['prob_subida_3m']}%)\n"
                 )
                 f.write(
-                    f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n\n"
+                    f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n"
                 )
+                f.write("\n")
+                f.write("\n### Análisis Técnico\n")
+                f.write(
+                    f"- Rango de Precios (20 días): ${resultado['precio_minimo_20d']} - ${resultado['precio_maximo_20d']}\n"
+                )
+                f.write(
+                    f"- Retorno Promedio: 5 días: {resultado['retorno_5d']}% | 20 días: {resultado['retorno_20d']}%\n"
+                )
+                f.write(f"- Distancia a Soporte: {resultado['dist_soporte']}%\n")
+                f.write(
+                    f"- Distancia a Resistencia: {resultado['dist_resistencia']}%\n"
+                )
+                f.write("\n")
+                f.write("\n### Señales de Trading\n")
+                f.write(f"- RSI: {resultado['señal_rsi']}\n")
+                f.write(
+                    f"- Volumen: {resultado['señal_volumen']} (x{resultado['volumen_relativo']} del promedio)\n"
+                )
+                f.write(f"- Precio: {resultado['señal_precio']}\n")
+                f.write("\n")
             except Exception as e:
                 f.write(f"## {ticker}\n\n")
                 f.write(f"Error al procesar: {str(e)}\n\n")
