@@ -32,12 +32,12 @@ CONTEXTO: /output/, news.md, dividendos.md
 
 PROMPT:
 
-Modificar los archivos ./output/portfolios/1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000.
+Modificar los archivos ./output/portfolios/1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-12.
 
 Tener en cuenta los siguientes criterios:
 
-1. Tener presente de cada ticker el archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X meses. Importante: evitar tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en cada periodo indicado, pero priorizar tickers con etiqueta COMPRA y COMPRA FUERTE en el periodo indicado.
+1. Tener presente de cada ticker la sección "Recomendación" del archivo ./output/analysis/$TICKER.md para la recomendacion de inversion a X tiempo, omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado.
 
 2. Organizar el documento con la siguiente estructura:
 
