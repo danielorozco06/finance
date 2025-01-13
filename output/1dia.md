@@ -4,53 +4,53 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFGRUPSURA | 35% | COMPRA FUERTE | Escisión con Grupo Argos |
-| PFBCOLOM | 25% | COMPRA | Creación Grupo Cibest |
-| PFDAVVNDA | 25% | COMPRA | Fusión Scotiabank |
+| HCOLSEL | 35% | COMPRA FUERTE | Alta probabilidad de subida (70%) |
+| BHI | 25% | COMPRA | Momentum positivo (66.25%) |
+| CELSIA | 25% | COMPRA | Dividendo próximo 17 ene |
 | MINEROS | 15% | COMPRA | Dividendo próximo 16 ene |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-PFGRUPSURA:
-- 20% ($1,000,000): Orden límite a $26,000 (38 acciones)
-- 15% ($750,000): Orden mercado al inicio de jornada (29 acciones)
+HCOLSEL:
+- 20% ($1,000,000): Orden límite a $15,300 (65 acciones)
+- 15% ($750,000): Orden mercado al inicio de jornada (49 acciones)
 
-PFBCOLOM:
-- 15% ($750,000): Orden límite a $35,100 (21 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (14 acciones)
+BHI:
+- 15% ($750,000): Orden límite a $304 (2,467 acciones)
+- 10% ($500,000): Orden mercado al inicio de jornada (1,645 acciones)
 
-PFDAVVNDA:
-- 15% ($750,000): Orden límite a $18,900 (40 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (26 acciones)
+CELSIA:
+- 15% ($750,000): Orden límite a $3,780 (198 acciones)
+- 10% ($500,000): Orden mercado al inicio de jornada (132 acciones)
 
 MINEROS:
-- 8% ($400,000): Orden límite a $4,560 (88 acciones)
+- 8% ($400,000): Orden límite a $4,540 (88 acciones)
 - 7% ($350,000): Orden mercado al inicio de jornada (77 acciones)
 
 ### 2.2 Órdenes de Salida
 
-PFGRUPSURA:
-- Stop loss: $25,800 (-1.07%)
+HCOLSEL:
+- Stop loss: $15,200 (-1.04%)
 - Take profit escalonado:
-  * 50% a $26,300 (+0.84%)
-  * 50% a $26,500 (+1.61%)
+  * 50% a $15,500 (+0.91%)
+  * 50% a $15,700 (+2.21%)
 
-PFBCOLOM:
-- Stop loss: $34,900 (-0.80%)
+BHI:
+- Stop loss: $302 (-0.98%)
 - Take profit escalonado:
-  * 50% a $35,500 (+0.91%)
-  * 50% a $35,700 (+1.48%)
+  * 50% a $308 (+0.98%)
+  * 50% a $310 (+1.64%)
 
-PFDAVVNDA:
-- Stop loss: $18,800 (-1.05%)
+CELSIA:
+- Stop loss: $3,750 (-1.19%)
 - Take profit escalonado:
-  * 50% a $19,200 (+1.05%)
-  * 50% a $19,400 (+2.11%)
+  * 50% a $3,820 (+0.66%)
+  * 50% a $3,850 (+1.45%)
 
 MINEROS:
-- Stop loss: $4,500 (-1.53%)
+- Stop loss: $4,500 (-1.10%)
 - Take profit escalonado:
-  * 50% a $4,600 (+0.66%)
-  * 50% a $4,650 (+1.75%) 
+  * 50% a $4,600 (+1.10%)
+  * 50% a $4,650 (+2.20%) 

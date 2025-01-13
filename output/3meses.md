@@ -4,61 +4,61 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFDAVVNDA | 35% | COMPRA FUERTE | Integración operaciones Scotiabank |
-| PFBCOLOM | 35% | COMPRA FUERTE | Beneficios reorganización Cibest |
-| BOGOTA | 20% | COMPRA | Solidez sector bancario |
-| CONCONCRET | 10% | COMPRA | Recuperación construcción |
+| HCOLSEL | 40% | COMPRA FUERTE | Alta probabilidad de subida (77.5%) |
+| BHI | 35% | COMPRA FUERTE | Momentum sostenido (73.75%) |
+| ENKA | 15% | COMPRA | Tendencia alcista consistente |
+| CNEC | 10% | COMPRA | Recuperación sector energético |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-PFDAVVNDA:
-- 15% ($750,000): Orden límite a $18,800 (40 acciones)
-- 10% ($500,000): Orden límite a $18,600 (27 acciones)
+HCOLSEL:
+- 15% ($750,000): Orden límite a $15,250 (49 acciones)
+- 15% ($750,000): Orden límite a $15,200 (49 acciones)
 - 10% ($500,000): Orden escalonada mensual
 
-PFBCOLOM:
-- 15% ($750,000): Orden límite a $35,000 (21 acciones)
-- 10% ($500,000): Orden límite a $34,800 (14 acciones)
+BHI:
+- 15% ($750,000): Orden límite a $303 (2,475 acciones)
+- 10% ($500,000): Orden límite a $302 (1,656 acciones)
 - 10% ($500,000): Orden escalonada mensual
 
-BOGOTA:
-- 10% ($500,000): Orden límite a $26,700 (19 acciones)
-- 10% ($500,000): Orden escalonada mensual
+ENKA:
+- 8% ($400,000): Orden límite a $13.5 (29,630 acciones)
+- 7% ($350,000): Orden escalonada mensual
 
-CONCONCRET:
-- 5% ($250,000): Orden límite a $665 (376 acciones)
+CNEC:
+- 5% ($250,000): Orden límite a $11,450 (22 acciones)
 - 5% ($250,000): Orden escalonada mensual
 
 ### 2.2 Órdenes de Salida
 
-PFDAVVNDA:
+HCOLSEL:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
-  * 30% al +12% (post anuncio integración)
-  * 40% al +15% (aprobación regulatoria)
-  * 30% al +20% (cierre operación)
+  * 30% al +12% ($17,200)
+  * 40% al +15% ($17,660)
+  * 30% al +18% ($18,120)
 
-PFBCOLOM:
+BHI:
 - Stop loss móvil: -7% desde máximos
 - Take profit escalonado:
-  * 40% al +10% (anuncio Grupo Cibest)
-  * 30% al +15% (aprobación)
-  * 30% al +18% (implementación)
+  * 30% al +15% ($350)
+  * 40% al +20% ($366)
+  * 30% al +25% ($381)
 
-BOGOTA:
-- Stop loss móvil: -6% desde máximos
-- Take profit escalonado:
-  * 30% al +8% (resultados Q1)
-  * 40% al +12% (dividendos)
-  * 30% al +15% (sector bancario)
-
-CONCONCRET:
+ENKA:
 - Stop loss móvil: -10% desde máximos
 - Take profit escalonado:
-  * 30% al +15% (recuperación sector)
-  * 40% al +20% (nuevos proyectos)
-  * 30% al +25% (resultados Q1)
+  * 30% al +15% ($15.75)
+  * 40% al +20% ($16.44)
+  * 30% al +25% ($17.13)
+
+CNEC:
+- Stop loss móvil: -8% desde máximos
+- Take profit escalonado:
+  * 30% al +12% ($12,880)
+  * 40% al +16% ($13,340)
+  * 30% al +20% ($13,800)
 
 Nota: Revisar mensualmente según evolución de eventos corporativos y condiciones macro. 

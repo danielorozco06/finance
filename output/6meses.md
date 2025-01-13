@@ -4,62 +4,62 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFDAVVNDA | 35% | COMPRA FUERTE | Expansión regional post-fusión |
-| PFBCOLOM | 30% | COMPRA FUERTE | Consolidación Grupo Cibest |
-| PFGRUPSURA | 20% | COMPRA FUERTE | Beneficios escisión |
-| ECOPETROL | 15% | COMPRA FUERTE | Cambio político 2026 |
+| HCOLSEL | 40% | COMPRA FUERTE | Alta probabilidad de subida (77.5%) |
+| BHI | 35% | COMPRA FUERTE | Momentum sostenido (73.75%) |
+| PEI | 15% | COMPRA FUERTE | Solidez sector inmobiliario (70%) |
+| ENKA | 10% | COMPRA | Tendencia alcista consistente |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-PFDAVVNDA:
-- 15% ($750,000): Orden límite a $18,700 (40 acciones)
-- 10% ($500,000): Orden límite a $18,500 (27 acciones)
+HCOLSEL:
+- 15% ($750,000): Orden límite a $15,200 (49 acciones)
+- 15% ($750,000): Orden límite a $15,100 (50 acciones)
 - 10% ($500,000): Orden escalonada trimestral
 
-PFBCOLOM:
-- 15% ($750,000): Orden límite a $34,900 (21 acciones)
-- 10% ($500,000): Orden límite a $34,700 (14 acciones)
-- 5% ($250,000): Orden escalonada trimestral
-
-PFGRUPSURA:
-- 10% ($500,000): Orden límite a $25,900 (19 acciones)
+BHI:
+- 15% ($750,000): Orden límite a $302 (2,483 acciones)
+- 10% ($500,000): Orden límite a $301 (1,661 acciones)
 - 10% ($500,000): Orden escalonada trimestral
 
-ECOPETROL:
-- 8% ($400,000): Orden límite a $1,820 (220 acciones)
+PEI:
+- 8% ($400,000): Orden límite a $69,000 (6 acciones)
 - 7% ($350,000): Orden escalonada trimestral
+
+ENKA:
+- 5% ($250,000): Orden límite a $13.5 (18,519 acciones)
+- 5% ($250,000): Orden escalonada trimestral
 
 ### 2.2 Órdenes de Salida
 
-PFDAVVNDA:
+HCOLSEL:
 - Stop loss móvil: -12% desde máximos
 - Take profit escalonado:
-  * 30% al +25% (consolidación fusión)
-  * 30% al +35% (expansión regional)
-  * 40% al +45% (sinergias operativas)
+  * 30% al +20% ($18,432)
+  * 30% al +25% ($19,200)
+  * 40% al +30% ($19,968)
 
-PFBCOLOM:
+BHI:
 - Stop loss móvil: -10% desde máximos
 - Take profit escalonado:
-  * 30% al +20% (implementación Cibest)
-  * 30% al +30% (resultados consolidados)
-  * 40% al +40% (expansión servicios)
+  * 30% al +25% ($381)
+  * 30% al +35% ($412)
+  * 40% al +45% ($442)
 
-PFGRUPSURA:
+PEI:
 - Stop loss móvil: -12% desde máximos
 - Take profit escalonado:
-  * 30% al +25% (aprobación escisión)
-  * 30% al +35% (implementación)
-  * 40% al +45% (valorización post-escisión)
+  * 30% al +20% ($83,016)
+  * 30% al +25% ($86,475)
+  * 40% al +30% ($89,934)
 
-ECOPETROL:
+ENKA:
 - Stop loss móvil: -15% desde máximos
 - Take profit escalonado:
-  * 30% al +30% (precio petróleo >$90)
-  * 30% al +45% (expectativa cambio político)
-  * 40% al +60% (nuevas políticas sector)
+  * 30% al +25% ($17.13)
+  * 30% al +35% ($18.50)
+  * 40% al +45% ($19.87)
 
 Notas:
 - Mantener 25% del capital en efectivo inicialmente
