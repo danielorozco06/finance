@@ -314,6 +314,16 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     last_price = df["Close"].iloc[-1]
     print(f"Análisis completado usando {len(df)} registros\n")
 
+    # Calcular máximos y mínimos para diferentes períodos
+    # 1 semana = 5 días hábiles
+    last_week = df.tail(5)
+    # 1 mes = ~20 días hábiles
+    last_month = df.tail(20)
+    # 3 meses = ~60 días hábiles
+    last_3months = df.tail(60)
+    # 6 meses = ~120 días hábiles
+    last_6months = df.tail(120)
+
     return {
         "ultimo_precio": round(last_price, 2),
         "tendencia_prox_1d": trend_1d,
@@ -330,8 +340,10 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         # Análisis de precio
         "precio_maximo_20d": round(df["Close"].rolling(window=20).max().iloc[-1], 2),
         "precio_minimo_20d": round(df["Close"].rolling(window=20).min().iloc[-1], 2),
-        "retorno_5d": round(df["Returns"].rolling(window=5).mean().iloc[-1], 2),
-        "retorno_20d": round(df["Returns"].rolling(window=20).mean().iloc[-1], 2),
+        "retorno_1semana": round(last_week["Returns"].mean(), 2),
+        "retorno_1mes": round(last_month["Returns"].mean(), 2),
+        "retorno_3meses": round(last_3months["Returns"].mean(), 2),
+        "retorno_6meses": round(last_6months["Returns"].mean(), 2),
         # Señales técnicas
         "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
         "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
@@ -376,6 +388,39 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
                 else "Por debajo de 61.8"
             )
         ),
+        # Actualizar análisis de máximos y mínimos con fechas y retornos
+        "maximo_1semana": round(last_week["Close"].max(), 2),
+        "minimo_1semana": round(last_week["Close"].min(), 2),
+        "fecha_maximo_1semana": last_week.loc[
+            last_week["Close"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_1semana": last_week.loc[
+            last_week["Close"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "maximo_1mes": round(last_month["Close"].max(), 2),
+        "minimo_1mes": round(last_month["Close"].min(), 2),
+        "fecha_maximo_1mes": last_month.loc[
+            last_month["Close"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_1mes": last_month.loc[
+            last_month["Close"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "maximo_3meses": round(last_3months["Close"].max(), 2),
+        "minimo_3meses": round(last_3months["Close"].min(), 2),
+        "fecha_maximo_3meses": last_3months.loc[
+            last_3months["Close"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_3meses": last_3months.loc[
+            last_3months["Close"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "maximo_6meses": round(last_6months["Close"].max(), 2),
+        "minimo_6meses": round(last_6months["Close"].min(), 2),
+        "fecha_maximo_6meses": last_6months.loc[
+            last_6months["Close"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_6meses": last_6months.loc[
+            last_6months["Close"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
     }
 
 
@@ -428,11 +473,29 @@ def generate_tendency_report(
                 )
                 f.write("\n")
                 f.write("\n### Análisis Técnico\n")
+                f.write("- Rangos históricos:\n")
                 f.write(
-                    f"- Rango de Precios (20 días): ${resultado['precio_minimo_20d']} - ${resultado['precio_maximo_20d']}\n"
+                    f"  * 1 semana: ${resultado['minimo_1semana']} ({resultado['fecha_minimo_1semana']}) - "
+                    f"${resultado['maximo_1semana']} ({resultado['fecha_maximo_1semana']})\n"
                 )
                 f.write(
-                    f"- Retorno Promedio: 5 días: {resultado['retorno_5d']}% | 20 días: {resultado['retorno_20d']}%\n"
+                    f"  * 1 mes: ${resultado['minimo_1mes']} ({resultado['fecha_minimo_1mes']}) - "
+                    f"${resultado['maximo_1mes']} ({resultado['fecha_maximo_1mes']})\n"
+                )
+                f.write(
+                    f"  * 3 meses: ${resultado['minimo_3meses']} ({resultado['fecha_minimo_3meses']}) - "
+                    f"${resultado['maximo_3meses']} ({resultado['fecha_maximo_3meses']})\n"
+                )
+                f.write(
+                    f"  * 6 meses: ${resultado['minimo_6meses']} ({resultado['fecha_minimo_6meses']}) - "
+                    f"${resultado['maximo_6meses']} ({resultado['fecha_maximo_6meses']})\n"
+                )
+                f.write(
+                    f"- Retorno Promedio:\n"
+                    f"  * 1 semana: {resultado['retorno_1semana']}%\n"
+                    f"  * 1 mes: {resultado['retorno_1mes']}%\n"
+                    f"  * 3 meses: {resultado['retorno_3meses']}%\n"
+                    f"  * 6 meses: {resultado['retorno_6meses']}%\n"
                 )
                 f.write(f"- Distancia a Soporte: {resultado['dist_soporte']}%\n")
                 f.write(
