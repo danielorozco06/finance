@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 08:11:50
+Generado el: 2025-01-13 08:16:42
 
 ## PFGRUPOARG_CL
 
@@ -20,13 +20,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $14093.92 (2024-12-13) - $15341.0 (2025-01-02)
   * 3 meses: $11916.49 (2024-10-23) - $15341.0 (2025-01-02)
   * 6 meses: $10934.72 (2024-08-06) - $15341.0 (2025-01-02)
-- Retorno Promedio:
-  * 1 semana: -0.9%
-  * 1 mes: 0.25%
-  * 3 meses: 0.38%
-  * 6 meses: 0.22%
-- Distancia a Soporte: 3.86%
-- Distancia a Resistencia: 4.65%
+- Soporte: $14093.92 (distancia: 3.86%)
+- Resistencia: $15341.0 (distancia: 4.65%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 291.4, Señal: 391.32)
@@ -61,13 +56,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $33933.92 (2024-12-18) - $35500.0 (2025-01-02)
   * 3 meses: $32763.78 (2024-10-23) - $35884.14 (2024-11-25)
   * 6 meses: $30401.28 (2024-08-07) - $35884.14 (2024-11-25)
-- Retorno Promedio:
-  * 1 semana: -0.17%
-  * 1 mes: 0.02%
-  * 3 meses: 0.1%
-  * 6 meses: 0.09%
-- Distancia a Soporte: 3.54%
-- Distancia a Resistencia: 0.91%
+- Soporte: $33933.92 (distancia: 3.54%)
+- Resistencia: $35500.0 (distancia: 0.91%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 123.85, Señal: 112.91)
@@ -102,13 +92,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $17560.0 (2024-12-30) - $19540.0 (2025-01-08)
   * 3 meses: $17560.0 (2024-12-30) - $20000.0 (2024-10-18)
   * 6 meses: $17400.0 (2024-08-30) - $20000.0 (2024-10-18)
-- Retorno Promedio:
-  * 1 semana: 1.63%
-  * 1 mes: 0.34%
-  * 3 meses: 0.01%
-  * 6 meses: 0.02%
-- Distancia a Soporte: 7.58%
-- Distancia a Resistencia: 2.84%
+- Soporte: $17560.0 (distancia: 7.58%)
+- Resistencia: $19540.0 (distancia: 2.84%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 186.53, Señal: -10.78)
@@ -143,13 +128,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $16200.0 (2024-12-20) - $17300.0 (2025-01-07)
   * 3 meses: $16200.0 (2024-12-20) - $18017.2 (2024-10-21)
   * 6 meses: $16041.37 (2024-08-05) - $18017.2 (2024-10-21)
-- Retorno Promedio:
-  * 1 semana: 0.23%
-  * 1 mes: 0.17%
-  * 3 meses: 0.01%
-  * 6 meses: -0.02%
-- Distancia a Soporte: 5.15%
-- Distancia a Resistencia: 1.29%
+- Soporte: $16200.0 (distancia: 5.15%)
+- Resistencia: $17300.0 (distancia: 1.29%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 99.77, Señal: 25.05)
@@ -184,13 +164,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $1650.0 (2024-12-20) - $1845.0 (2025-01-07)
   * 3 meses: $1590.0 (2024-11-08) - $1845.0 (2025-01-07)
   * 6 meses: $1590.0 (2024-11-08) - $2180.0 (2024-07-19)
-- Retorno Promedio:
-  * 1 semana: 0.56%
-  * 1 mes: 0.12%
-  * 3 meses: 0.02%
-  * 6 meses: -0.12%
-- Distancia a Soporte: 10.57%
-- Distancia a Resistencia: 0.0%
+- Soporte: $1650.0 (distancia: 10.57%)
+- Resistencia: $1845.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 19.52, Señal: -0.23)
@@ -225,13 +200,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $10900.0 (2024-12-27) - $12000.0 (2024-12-12)
   * 3 meses: $9000.0 (2024-11-05) - $13260.0 (2024-12-04)
   * 6 meses: $9000.0 (2024-11-05) - $13260.0 (2024-12-04)
-- Retorno Promedio:
-  * 1 semana: 0.36%
-  * 1 mes: -0.24%
-  * 3 meses: 0.18%
-  * 6 meses: -0.12%
-- Distancia a Soporte: 6.03%
-- Distancia a Resistencia: 3.45%
+- Soporte: $10900.0 (distancia: 6.03%)
+- Resistencia: $12000.0 (distancia: 3.45%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 14.94, Señal: -13.35)
@@ -266,13 +236,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $23143.71 (2024-12-13) - $26340.0 (2024-12-27)
   * 3 meses: $20618.22 (2024-10-15) - $26340.0 (2024-12-27)
   * 6 meses: $19246.61 (2024-09-19) - $26340.0 (2024-12-27)
-- Retorno Promedio:
-  * 1 semana: 0.02%
-  * 1 mes: 0.67%
-  * 3 meses: 0.39%
-  * 6 meses: 0.13%
-- Distancia a Soporte: 11.26%
-- Distancia a Resistencia: 1.0%
+- Soporte: $23143.71 (distancia: 11.26%)
+- Resistencia: $26340.0 (distancia: 1.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 750.43, Señal: 793.09)
@@ -307,13 +272,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $4224.98 (2024-12-19) - $4570.0 (2025-01-10)
   * 3 meses: $3654.98 (2024-10-17) - $4570.0 (2025-01-10)
   * 6 meses: $3089.98 (2024-08-05) - $4570.0 (2025-01-10)
-- Retorno Promedio:
-  * 1 semana: 0.73%
-  * 1 mes: 0.1%
-  * 3 meses: 0.39%
-  * 6 meses: 0.26%
-- Distancia a Soporte: 7.55%
-- Distancia a Resistencia: 0.0%
+- Soporte: $4224.98 (distancia: 7.55%)
+- Resistencia: $4570.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 99.39, Señal: 87.7)
@@ -348,13 +308,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $13400.0 (2024-12-20) - $14480.0 (2025-01-07)
   * 3 meses: $12520.0 (2024-10-15) - $14600.0 (2024-11-25)
   * 6 meses: $11120.0 (2024-09-17) - $14600.0 (2024-11-25)
-- Retorno Promedio:
-  * 1 semana: 0.17%
-  * 1 mes: -0.01%
-  * 3 meses: 0.25%
-  * 6 meses: 0.11%
-- Distancia a Soporte: 6.94%
-- Distancia a Resistencia: 0.56%
+- Soporte: $13400.0 (distancia: 6.94%)
+- Resistencia: $14480.0 (distancia: 0.56%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 103.13, Señal: 47.65)
@@ -389,13 +344,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $25941.81 (2024-12-19) - $27000.0 (2025-01-07)
   * 3 meses: $25941.81 (2024-12-19) - $28004.34 (2024-11-01)
   * 6 meses: $24060.71 (2024-08-06) - $28486.04 (2024-08-30)
-- Retorno Promedio:
-  * 1 semana: 0.01%
-  * 1 mes: 0.02%
-  * 3 meses: -0.0%
-  * 6 meses: 0.08%
-- Distancia a Soporte: 3.42%
-- Distancia a Resistencia: 0.52%
+- Soporte: $25941.81 (distancia: 3.42%)
+- Resistencia: $27000.0 (distancia: 0.52%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: -8.0, Señal: -76.95)
@@ -430,13 +380,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $10900.0 (2024-12-12) - $11780.0 (2025-01-10)
   * 3 meses: $10100.0 (2024-10-15) - $11780.0 (2025-01-10)
   * 6 meses: $8600.0 (2024-08-02) - $11780.0 (2025-01-10)
-- Retorno Promedio:
-  * 1 semana: 0.24%
-  * 1 mes: 0.4%
-  * 3 meses: 0.26%
-  * 6 meses: 0.24%
-- Distancia a Soporte: 7.47%
-- Distancia a Resistencia: 0.0%
+- Soporte: $10900.0 (distancia: 7.47%)
+- Resistencia: $11780.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 198.99, Señal: 187.56)
@@ -471,13 +416,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $419.0 (2024-12-20) - $670.0 (2025-01-10)
   * 3 meses: $265.0 (2024-10-16) - $670.0 (2025-01-10)
   * 6 meses: $261.0 (2024-08-05) - $670.0 (2025-01-10)
-- Retorno Promedio:
-  * 1 semana: 5.2%
-  * 1 mes: 2.93%
-  * 3 meses: 1.65%
-  * 6 meses: 0.8%
-- Distancia a Soporte: 37.46%
-- Distancia a Resistencia: 0.0%
+- Soporte: $419.0 (distancia: 37.46%)
+- Resistencia: $670.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 78.46, Señal: 58.1)
@@ -512,13 +452,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $431.05 (2024-12-20) - $465.0 (2025-01-07)
   * 3 meses: $417.32 (2024-10-30) - $465.9 (2024-12-03)
   * 6 meses: $398.7 (2024-08-07) - $465.9 (2024-12-03)
-- Retorno Promedio:
-  * 1 semana: 0.0%
-  * 1 mes: 0.03%
-  * 3 meses: 0.17%
-  * 6 meses: 0.1%
-- Distancia a Soporte: 5.88%
-- Distancia a Resistencia: 1.53%
+- Soporte: $431.05 (distancia: 5.88%)
+- Resistencia: $465.0 (distancia: 1.53%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 3.01, Señal: 2.19)
@@ -553,13 +488,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $3500.0 (2024-12-12) - $3765.0 (2025-01-10)
   * 3 meses: $3475.0 (2024-12-10) - $3965.0 (2024-10-18)
   * 6 meses: $3475.0 (2024-12-10) - $4128.43 (2024-08-14)
-- Retorno Promedio:
-  * 1 semana: 0.19%
-  * 1 mes: 0.38%
-  * 3 meses: -0.06%
-  * 6 meses: -0.06%
-- Distancia a Soporte: 7.04%
-- Distancia a Resistencia: 0.0%
+- Soporte: $3500.0 (distancia: 7.04%)
+- Resistencia: $3765.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 45.09, Señal: 25.31)
@@ -594,13 +524,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $2420.0 (2024-12-20) - $2520.0 (2025-01-07)
   * 3 meses: $2350.78 (2024-11-12) - $2520.0 (2025-01-07)
   * 6 meses: $2241.33 (2024-08-06) - $2520.0 (2025-01-07)
-- Retorno Promedio:
-  * 1 semana: -0.12%
-  * 1 mes: 0.01%
-  * 3 meses: 0.08%
-  * 6 meses: 0.06%
-- Distancia a Soporte: 2.62%
-- Distancia a Resistencia: 1.41%
+- Soporte: $2420.0 (distancia: 2.62%)
+- Resistencia: $2520.0 (distancia: 1.41%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 12.55, Señal: 10.94)
@@ -635,13 +560,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $71600.0 (2024-12-17) - $87000.0 (2025-01-07)
   * 3 meses: $71600.0 (2024-12-17) - $87000.0 (2025-01-07)
   * 6 meses: $46487.06 (2024-07-22) - $87000.0 (2025-01-07)
-- Retorno Promedio:
-  * 1 semana: 1.98%
-  * 1 mes: 0.54%
-  * 3 meses: 0.28%
-  * 6 meses: 0.5%
-- Distancia a Soporte: 17.7%
-- Distancia a Resistencia: 0.0%
+- Soporte: $71600.0 (distancia: 17.7%)
+- Resistencia: $87000.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 2026.23, Señal: 1046.98)
@@ -676,13 +596,8 @@ Generado el: 2025-01-13 08:11:50
   * 1 mes: $55421.56 (2024-12-20) - $64960.0 (2025-01-10)
   * 3 meses: $55421.56 (2024-12-20) - $64960.0 (2025-01-10)
   * 6 meses: $53617.55 (2024-08-07) - $65267.28 (2024-09-18)
-- Retorno Promedio:
-  * 1 semana: 1.5%
-  * 1 mes: 0.68%
-  * 3 meses: 0.1%
-  * 6 meses: 0.1%
-- Distancia a Soporte: 14.68%
-- Distancia a Resistencia: 0.0%
+- Soporte: $55421.56 (distancia: 14.68%)
+- Resistencia: $64960.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 1399.08, Señal: 632.34)

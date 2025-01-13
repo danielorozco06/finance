@@ -340,10 +340,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         # Análisis de precio
         "precio_maximo_20d": round(df["Close"].rolling(window=20).max().iloc[-1], 2),
         "precio_minimo_20d": round(df["Close"].rolling(window=20).min().iloc[-1], 2),
-        "retorno_1semana": round(last_week["Returns"].mean(), 2),
-        "retorno_1mes": round(last_month["Returns"].mean(), 2),
-        "retorno_3meses": round(last_3months["Returns"].mean(), 2),
-        "retorno_6meses": round(last_6months["Returns"].mean(), 2),
         # Señales técnicas
         "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
         "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
@@ -421,6 +417,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "fecha_minimo_6meses": last_6months.loc[
             last_6months["Close"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
+        # Agregar valores de soporte y resistencia
+        "valor_soporte": round(df["Support"].iloc[-1], 2),
+        "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
+        "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
+        "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
     }
 
 
@@ -491,15 +492,10 @@ def generate_tendency_report(
                     f"${resultado['maximo_6meses']} ({resultado['fecha_maximo_6meses']})\n"
                 )
                 f.write(
-                    f"- Retorno Promedio:\n"
-                    f"  * 1 semana: {resultado['retorno_1semana']}%\n"
-                    f"  * 1 mes: {resultado['retorno_1mes']}%\n"
-                    f"  * 3 meses: {resultado['retorno_3meses']}%\n"
-                    f"  * 6 meses: {resultado['retorno_6meses']}%\n"
+                    f"- Soporte: ${resultado['valor_soporte']} (distancia: {resultado['dist_soporte']}%)\n"
                 )
-                f.write(f"- Distancia a Soporte: {resultado['dist_soporte']}%\n")
                 f.write(
-                    f"- Distancia a Resistencia: {resultado['dist_resistencia']}%\n"
+                    f"- Resistencia: ${resultado['valor_resistencia']} (distancia: {resultado['dist_resistencia']}%)\n"
                 )
                 f.write("\n### Análisis Técnico Avanzado\n")
                 f.write(
