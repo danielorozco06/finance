@@ -442,7 +442,7 @@ def generate_tendency_report(
     # Generar reporte
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("# Análisis de Tendencias de Acciones\n\n")
-        f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+        f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
 
         for csv_file in csv_files:
             try:
