@@ -34,6 +34,7 @@ PROMPT:
 Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-13.
 NOTA: Tener presente que las acciones preferenciales y ordinarias pueden tener diferentes precios, pero referencian a la misma compañia.
+NOTA: Tener muy presentes las noticas del archivo input/news.md.
 
 Tener en cuenta los siguientes criterios:
 

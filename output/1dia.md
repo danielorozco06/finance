@@ -4,30 +4,30 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 35% | COMPRA FUERTE | Alta probabilidad de subida (70%) |
-| BHI | 25% | COMPRA | Momentum positivo (66.25%) |
-| CELSIA | 25% | COMPRA | Dividendo próximo 17 ene |
-| MINEROS | 15% | COMPRA | Dividendo próximo 16 ene |
+| HCOLSEL | 30% | COMPRA FUERTE | Alta probabilidad de subida (70%) |
+| GRUPOARGOS | 25% | COMPRA FUERTE | Momentum positivo (77.5%) |
+| PFGRUPOARG | 25% | COMPRA FUERTE | Momentum positivo (73.75%) |
+| ENKA | 20% | COMPRA FUERTE | Alta probabilidad de subida (76.25%) |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
 HCOLSEL:
-- 20% ($1,000,000): Orden límite a $15,300 (65 acciones)
+- 15% ($750,000): Orden límite a $15,300 (49 acciones)
 - 15% ($750,000): Orden mercado al inicio de jornada (49 acciones)
 
-BHI:
-- 15% ($750,000): Orden límite a $304 (2,467 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (1,645 acciones)
+GRUPOARGOS:
+- 15% ($750,000): Orden límite a $20,200 (37 acciones)
+- 10% ($500,000): Orden mercado al inicio de jornada (25 acciones)
 
-CELSIA:
-- 15% ($750,000): Orden límite a $3,780 (198 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (132 acciones)
+PFGRUPOARG:
+- 15% ($750,000): Orden límite a $15,100 (50 acciones)
+- 10% ($500,000): Orden mercado al inicio de jornada (33 acciones)
 
-MINEROS:
-- 8% ($400,000): Orden límite a $4,540 (88 acciones)
-- 7% ($350,000): Orden mercado al inicio de jornada (77 acciones)
+ENKA:
+- 12% ($600,000): Orden límite a $13.6 (44,118 acciones)
+- 8% ($400,000): Orden mercado al inicio de jornada (29,197 acciones)
 
 ### 2.2 Órdenes de Salida
 
@@ -37,20 +37,20 @@ HCOLSEL:
   * 50% a $15,500 (+0.91%)
   * 50% a $15,700 (+2.21%)
 
-BHI:
-- Stop loss: $302 (-0.98%)
+GRUPOARGOS:
+- Stop loss: $20,000 (-1.28%)
 - Take profit escalonado:
-  * 50% a $308 (+0.98%)
-  * 50% a $310 (+1.64%)
+  * 50% a $20,500 (+1.18%)
+  * 50% a $20,800 (+2.67%)
 
-CELSIA:
-- Stop loss: $3,750 (-1.19%)
+PFGRUPOARG:
+- Stop loss: $15,000 (-1.19%)
 - Take profit escalonado:
-  * 50% a $3,820 (+0.66%)
-  * 50% a $3,850 (+1.45%)
+  * 50% a $15,400 (+1.45%)
+  * 50% a $15,600 (+2.77%)
 
-MINEROS:
-- Stop loss: $4,500 (-1.10%)
+ENKA:
+- Stop loss: $13.5 (-1.46%)
 - Take profit escalonado:
-  * 50% a $4,600 (+1.10%)
-  * 50% a $4,650 (+2.20%) 
+  * 50% a $14.0 (+2.19%)
+  * 50% a $14.2 (+3.65%) 

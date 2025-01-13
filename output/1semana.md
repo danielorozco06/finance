@@ -4,10 +4,10 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 40% | COMPRA FUERTE | Alta probabilidad de subida (77.5%) |
-| BHI | 30% | COMPRA | Momentum positivo (66.25%) |
-| PEI | 20% | COMPRA | Solidez en sector inmobiliario |
-| ENKA | 10% | COMPRA | Tendencia alcista sostenida |
+| HCOLSEL | 35% | COMPRA FUERTE | Alta probabilidad de subida (77.5%) |
+| BHI | 25% | COMPRA | Momentum positivo (66.25%) |
+| CORFICOLCF | 25% | COMPRA | Señal alcista (65%) |
+| ENKA | 15% | COMPRA | Tendencia alcista (61.25%) |
 
 ## 2. Plan de Ejecución
 
@@ -15,21 +15,20 @@
 
 HCOLSEL:
 - 15% ($750,000): Orden límite a $15,300 (49 acciones)
-- 15% ($750,000): Orden límite a $15,250 (49 acciones)
+- 10% ($500,000): Orden límite a $15,250 (33 acciones)
 - 10% ($500,000): Orden escalonada semanal
 
 BHI:
 - 15% ($750,000): Orden límite a $304 (2,467 acciones)
-- 10% ($500,000): Orden límite a $303 (1,650 acciones)
-- 5% ($250,000): Orden escalonada semanal
+- 10% ($500,000): Orden escalonada semanal
 
-PEI:
-- 10% ($500,000): Orden límite a $69,000 (7 acciones)
+CORFICOLCF:
+- 15% ($750,000): Orden límite a $15,100 (50 acciones)
 - 10% ($500,000): Orden escalonada semanal
 
 ENKA:
-- 5% ($250,000): Orden límite a $13.6 (18,382 acciones)
-- 5% ($250,000): Orden escalonada semanal
+- 8% ($400,000): Orden límite a $13.6 (29,412 acciones)
+- 7% ($350,000): Orden escalonada semanal
 
 ### 2.2 Órdenes de Salida
 
@@ -47,12 +46,12 @@ BHI:
   * 30% a $310 (+1.64%)
   * 30% a $312 (+2.30%)
 
-PEI:
+CORFICOLCF:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $70,000 (+1.19%)
-  * 30% a $71,000 (+2.63%)
-  * 30% a $72,000 (+4.08%)
+  * 40% a $15,400 (+1.45%)
+  * 30% a $15,600 (+2.77%)
+  * 30% a $15,800 (+4.08%)
 
 ENKA:
 - Stop loss móvil: -3% desde máximos
