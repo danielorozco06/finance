@@ -1,5 +1,8 @@
 # Noticias Relevantes
 
+## 2025-01-13 - Bancolombia avanza en creación del Grupo Cibest
+Bancolombia publicó los documentos para la escisión que dará origen al Grupo Cibest, un holding que agrupará todos sus negocios. El proceso incluye la fusión de sus operaciones en Panamá y la creación de una nueva estructura societaria.
+
 ## 2025-01-10 - Petróleo supera US$80 tras nuevas sanciones de EE.UU. contra Rusia
 Los precios del petróleo alcanzaron su nivel más alto desde octubre, con el Brent superando los US$80 por barril, luego de que Estados Unidos impusiera nuevas sanciones que apuntan a empresas que manejan más de una cuarta parte de las exportaciones marítimas de petróleo de Rusia. Las medidas incluyen restricciones a aseguradoras y una amplia flota de petroleros, lo que podría limitar significativamente la capacidad de Rusia para exportar crudo.
 
