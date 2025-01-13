@@ -449,6 +449,7 @@ def generate_tendency_report(
                 ticker = csv_file.stem.replace("_values", "")
                 resultado = calculate_stock_probability(str(csv_file))
 
+                f.write("\n")
                 f.write(f"## {ticker}\n\n")
                 f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
                 f.write(
@@ -471,7 +472,6 @@ def generate_tendency_report(
                 f.write(
                     f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n"
                 )
-                f.write("\n")
                 f.write("\n### Análisis Técnico\n")
                 f.write("- Rangos históricos:\n")
                 f.write(
@@ -501,7 +501,6 @@ def generate_tendency_report(
                 f.write(
                     f"- Distancia a Resistencia: {resultado['dist_resistencia']}%\n"
                 )
-                f.write("\n")
                 f.write("\n### Análisis Técnico Avanzado\n")
                 f.write(
                     f"- MACD: {resultado['señal_macd']} (MACD: {resultado['macd']}, Señal: {resultado['macd_signal']})\n"
@@ -515,7 +514,6 @@ def generate_tendency_report(
                 f.write(
                     f"- Niveles: 38.2%: ${resultado['fib_38']}, 50%: ${resultado['fib_50']}, 61.8%: ${resultado['fib_61']}\n"
                 )
-                f.write("\n")
                 f.write("\n### Señales de Trading\n")
                 f.write(f"- RSI: {resultado['señal_rsi']}\n")
                 f.write(
