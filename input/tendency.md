@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 08:21:59
+Generado el: 2025-01-13 08:43:20
 Período analizado: 2024-07-10 a 2025-01-10
 
 ## PFGRUPOARG_CL
@@ -15,17 +15,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $14660.0 (2025-01-10) - $15200.0 (2025-01-03)
-  * 1 mes: $14093.92 (2024-12-13) - $15341.0 (2025-01-02)
-  * 3 meses: $11916.49 (2024-10-23) - $15341.0 (2025-01-02)
-  * 6 meses: $10934.72 (2024-08-06) - $15341.0 (2025-01-02)
+  * 1 semana: $14500.0 (2025-01-10) - $15480.0 (2025-01-07)
+  * 1 mes: $13856.39 (2024-12-12) - $15637.92 (2024-12-19)
+  * 3 meses: $11777.93 (2024-10-15) - $15637.92 (2024-12-19)
+  * 6 meses: $10544.2 (2024-08-05) - $15637.92 (2024-12-19)
 - Soporte: $14093.92 (distancia: 3.86%)
 - Resistencia: $15341.0 (distancia: 4.65%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 291.4, Señal: 391.32)
 - Estocástico: Sobreventa (%K: 0.0, %D: 21.74)
-- ATR (Volatilidad): 132.06
+- ATR (Volatilidad): 307.87
 
 ### Niveles de Fibonacci
 - Posición actual: Entre 50.0 y 61.8
@@ -48,17 +48,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $34900.0 (2025-01-03) - $35500.0 (2025-01-07)
-  * 1 mes: $33933.92 (2024-12-18) - $35500.0 (2025-01-02)
-  * 3 meses: $32763.78 (2024-10-23) - $35884.14 (2024-11-25)
-  * 6 meses: $30401.28 (2024-08-07) - $35884.14 (2024-11-25)
+  * 1 semana: $34900.0 (2025-01-03) - $35680.0 (2025-01-07)
+  * 1 mes: $33933.92 (2024-12-18) - $35680.0 (2025-01-07)
+  * 3 meses: $32763.78 (2024-10-23) - $35981.66 (2024-11-25)
+  * 6 meses: $30249.27 (2024-08-05) - $35981.66 (2024-11-25)
 - Soporte: $33933.92 (distancia: 3.54%)
 - Resistencia: $35500.0 (distancia: 0.91%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 123.85, Señal: 112.91)
 - Estocástico: Normal (%K: 72.79, %D: 76.32)
-- ATR (Volatilidad): 301.15
+- ATR (Volatilidad): 456.05
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -81,17 +81,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $18100.0 (2025-01-03) - $19540.0 (2025-01-08)
-  * 1 mes: $17560.0 (2024-12-30) - $19540.0 (2025-01-08)
-  * 3 meses: $17560.0 (2024-12-30) - $20000.0 (2024-10-18)
-  * 6 meses: $17400.0 (2024-08-30) - $20000.0 (2024-10-18)
+  * 1 semana: $18000.0 (2025-01-03) - $19980.0 (2025-01-08)
+  * 1 mes: $17500.0 (2024-12-23) - $19980.0 (2025-01-08)
+  * 3 meses: $17500.0 (2024-12-23) - $20000.0 (2024-10-18)
+  * 6 meses: $17200.0 (2024-08-05) - $20000.0 (2024-10-18)
 - Soporte: $17560.0 (distancia: 7.58%)
 - Resistencia: $19540.0 (distancia: 2.84%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 186.53, Señal: -10.78)
 - Estocástico: Normal (%K: 72.73, %D: 83.5)
-- ATR (Volatilidad): 258.57
+- ATR (Volatilidad): 385.71
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -114,17 +114,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $16740.0 (2025-01-03) - $17300.0 (2025-01-07)
-  * 1 mes: $16200.0 (2024-12-20) - $17300.0 (2025-01-07)
-  * 3 meses: $16200.0 (2024-12-20) - $18017.2 (2024-10-21)
-  * 6 meses: $16041.37 (2024-08-05) - $18017.2 (2024-10-21)
+  * 1 semana: $16620.0 (2025-01-03) - $17400.0 (2025-01-08)
+  * 1 mes: $16000.0 (2024-12-23) - $17400.0 (2025-01-08)
+  * 3 meses: $16000.0 (2024-12-23) - $18017.2 (2024-10-21)
+  * 6 meses: $15943.56 (2024-08-05) - $18017.2 (2024-10-21)
 - Soporte: $16200.0 (distancia: 5.15%)
 - Resistencia: $17300.0 (distancia: 1.29%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 99.77, Señal: 25.05)
 - Estocástico: Normal (%K: 80.0, %D: 77.58)
-- ATR (Volatilidad): 154.29
+- ATR (Volatilidad): 258.57
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -147,17 +147,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $1790.0 (2025-01-03) - $1845.0 (2025-01-07)
-  * 1 mes: $1650.0 (2024-12-20) - $1845.0 (2025-01-07)
-  * 3 meses: $1590.0 (2024-11-08) - $1845.0 (2025-01-07)
-  * 6 meses: $1590.0 (2024-11-08) - $2180.0 (2024-07-19)
+  * 1 semana: $1780.0 (2025-01-03) - $1880.0 (2025-01-10)
+  * 1 mes: $1640.0 (2024-12-23) - $1880.0 (2025-01-10)
+  * 3 meses: $1590.0 (2024-11-08) - $1880.0 (2025-01-10)
+  * 6 meses: $1590.0 (2024-11-08) - $2200.0 (2024-07-19)
 - Soporte: $1650.0 (distancia: 10.57%)
 - Resistencia: $1845.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 19.52, Señal: -0.23)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 94.02)
-- ATR (Volatilidad): 24.64
+- ATR (Volatilidad): 41.79
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -180,17 +180,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $11400.0 (2025-01-03) - $11800.0 (2025-01-09)
-  * 1 mes: $10900.0 (2024-12-27) - $12000.0 (2024-12-12)
-  * 3 meses: $9000.0 (2024-11-05) - $13260.0 (2024-12-04)
-  * 6 meses: $9000.0 (2024-11-05) - $13260.0 (2024-12-04)
+  * 1 semana: $11400.0 (2025-01-03) - $12440.0 (2025-01-09)
+  * 1 mes: $10900.0 (2024-12-27) - $12440.0 (2025-01-09)
+  * 3 meses: $8900.0 (2024-10-31) - $13700.0 (2024-11-21)
+  * 6 meses: $8900.0 (2024-10-31) - $13700.0 (2024-11-21)
 - Soporte: $10900.0 (distancia: 6.03%)
 - Resistencia: $12000.0 (distancia: 3.45%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 14.94, Señal: -13.35)
 - Estocástico: Normal (%K: 77.78, %D: 92.59)
-- ATR (Volatilidad): 147.14
+- ATR (Volatilidad): 281.43
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -213,17 +213,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $25880.0 (2025-01-08) - $26080.0 (2025-01-10)
-  * 1 mes: $23143.71 (2024-12-13) - $26340.0 (2024-12-27)
-  * 3 meses: $20618.22 (2024-10-15) - $26340.0 (2024-12-27)
-  * 6 meses: $19246.61 (2024-09-19) - $26340.0 (2024-12-27)
+  * 1 semana: $25720.0 (2025-01-08) - $26180.0 (2025-01-07)
+  * 1 mes: $22887.21 (2024-12-12) - $26400.0 (2024-12-26)
+  * 3 meses: $20618.22 (2024-10-15) - $26400.0 (2024-12-26)
+  * 6 meses: $19110.8 (2024-09-19) - $26400.0 (2024-12-26)
 - Soporte: $23143.71 (distancia: 11.26%)
 - Resistencia: $26340.0 (distancia: 1.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 750.43, Señal: 793.09)
 - Estocástico: Normal (%K: 77.28, %D: 76.18)
-- ATR (Volatilidad): 167.01
+- ATR (Volatilidad): 335.06
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -246,21 +246,21 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $4449.98 (2025-01-07) - $4570.0 (2025-01-10)
-  * 1 mes: $4224.98 (2024-12-19) - $4570.0 (2025-01-10)
-  * 3 meses: $3654.98 (2024-10-17) - $4570.0 (2025-01-10)
-  * 6 meses: $3089.98 (2024-08-05) - $4570.0 (2025-01-10)
-- Soporte: $4224.98 (distancia: 7.55%)
+  * 1 semana: $4374.99 (2025-01-03) - $4584.99 (2025-01-03)
+  * 1 mes: $4164.99 (2024-12-20) - $4594.99 (2024-12-16)
+  * 3 meses: $3654.99 (2024-10-17) - $4594.99 (2024-12-16)
+  * 6 meses: $2954.99 (2024-08-05) - $4594.99 (2024-12-16)
+- Soporte: $4224.99 (distancia: 7.55%)
 - Resistencia: $4570.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 99.39, Señal: 87.7)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 96.18)
-- ATR (Volatilidad): 49.64
+- ATR (Volatilidad): 80.0
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $4438.2, 50%: $4397.49, 61.8%: $4356.78
+- Niveles: 38.2%: $4438.21, 50%: $4397.5, 61.8%: $4356.79
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -279,9 +279,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $14400.0 (2025-01-09) - $14480.0 (2025-01-07)
+  * 1 semana: $14240.0 (2025-01-07) - $14480.0 (2025-01-07)
   * 1 mes: $13400.0 (2024-12-20) - $14480.0 (2025-01-07)
-  * 3 meses: $12520.0 (2024-10-15) - $14600.0 (2024-11-25)
+  * 3 meses: $12500.0 (2024-10-15) - $14600.0 (2024-11-25)
   * 6 meses: $11120.0 (2024-09-17) - $14600.0 (2024-11-25)
 - Soporte: $13400.0 (distancia: 6.94%)
 - Resistencia: $14480.0 (distancia: 0.56%)
@@ -289,7 +289,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 103.13, Señal: 47.65)
 - Estocástico: Sobrecompra (%K: 92.59, %D: 95.06)
-- ATR (Volatilidad): 107.14
+- ATR (Volatilidad): 125.71
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -312,17 +312,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $26500.0 (2025-01-03) - $27000.0 (2025-01-07)
-  * 1 mes: $25941.81 (2024-12-19) - $27000.0 (2025-01-07)
-  * 3 meses: $25941.81 (2024-12-19) - $28004.34 (2024-11-01)
-  * 6 meses: $24060.71 (2024-08-06) - $28486.04 (2024-08-30)
+  * 1 semana: $26000.0 (2025-01-03) - $27000.0 (2025-01-07)
+  * 1 mes: $25921.9 (2024-12-19) - $27000.0 (2024-12-27)
+  * 3 meses: $25921.9 (2024-12-19) - $28143.08 (2024-11-05)
+  * 6 meses: $23473.86 (2024-08-05) - $28486.04 (2024-08-30)
 - Soporte: $25941.81 (distancia: 3.42%)
 - Resistencia: $27000.0 (distancia: 0.52%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: -8.0, Señal: -76.95)
 - Estocástico: Sobrecompra (%K: 81.58, %D: 86.3)
-- ATR (Volatilidad): 191.14
+- ATR (Volatilidad): 373.86
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -345,17 +345,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $11580.0 (2025-01-07) - $11780.0 (2025-01-10)
-  * 1 mes: $10900.0 (2024-12-12) - $11780.0 (2025-01-10)
-  * 3 meses: $10100.0 (2024-10-15) - $11780.0 (2025-01-10)
-  * 6 meses: $8600.0 (2024-08-02) - $11780.0 (2025-01-10)
+  * 1 semana: $11500.0 (2025-01-03) - $11820.0 (2025-01-03)
+  * 1 mes: $10900.0 (2024-12-12) - $11820.0 (2025-01-03)
+  * 3 meses: $10000.0 (2024-10-15) - $11820.0 (2025-01-03)
+  * 6 meses: $8400.0 (2024-08-05) - $11820.0 (2025-01-03)
 - Soporte: $10900.0 (distancia: 7.47%)
 - Resistencia: $11780.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 198.99, Señal: 187.56)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 86.27)
-- ATR (Volatilidad): 77.14
+- ATR (Volatilidad): 124.29
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -378,17 +378,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $555.0 (2025-01-03) - $670.0 (2025-01-10)
-  * 1 mes: $419.0 (2024-12-20) - $670.0 (2025-01-10)
-  * 3 meses: $265.0 (2024-10-16) - $670.0 (2025-01-10)
-  * 6 meses: $261.0 (2024-08-05) - $670.0 (2025-01-10)
+  * 1 semana: $528.0 (2025-01-03) - $694.0 (2025-01-09)
+  * 1 mes: $393.0 (2024-12-12) - $694.0 (2025-01-09)
+  * 3 meses: $265.0 (2024-10-16) - $694.0 (2025-01-09)
+  * 6 meses: $260.0 (2024-08-05) - $694.0 (2025-01-09)
 - Soporte: $419.0 (distancia: 37.46%)
 - Resistencia: $670.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 78.46, Señal: 58.1)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 95.28)
-- ATR (Volatilidad): 23.14
+- ATR (Volatilidad): 31.86
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -411,17 +411,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $458.0 (2025-01-10) - $465.0 (2025-01-07)
-  * 1 mes: $431.05 (2024-12-20) - $465.0 (2025-01-07)
-  * 3 meses: $417.32 (2024-10-30) - $465.9 (2024-12-03)
-  * 6 meses: $398.7 (2024-08-07) - $465.9 (2024-12-03)
+  * 1 semana: $455.0 (2025-01-07) - $468.0 (2025-01-08)
+  * 1 mes: $431.05 (2024-12-20) - $468.0 (2025-01-08)
+  * 3 meses: $415.36 (2024-10-16) - $468.0 (2025-01-08)
+  * 6 meses: $396.74 (2024-08-12) - $468.0 (2025-01-08)
 - Soporte: $431.05 (distancia: 5.88%)
 - Resistencia: $465.0 (distancia: 1.53%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 3.01, Señal: 2.19)
 - Estocástico: Normal (%K: 79.38, %D: 86.25)
-- ATR (Volatilidad): 6.56
+- ATR (Volatilidad): 9.06
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -444,17 +444,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $3730.0 (2025-01-03) - $3765.0 (2025-01-10)
-  * 1 mes: $3500.0 (2024-12-12) - $3765.0 (2025-01-10)
-  * 3 meses: $3475.0 (2024-12-10) - $3965.0 (2024-10-18)
-  * 6 meses: $3475.0 (2024-12-10) - $4128.43 (2024-08-14)
+  * 1 semana: $3720.0 (2025-01-03) - $3800.0 (2025-01-08)
+  * 1 mes: $3475.0 (2024-12-19) - $3800.0 (2025-01-08)
+  * 3 meses: $3465.0 (2024-12-10) - $4010.0 (2024-10-18)
+  * 6 meses: $3465.0 (2024-12-10) - $4138.24 (2024-07-22)
 - Soporte: $3500.0 (distancia: 7.04%)
 - Resistencia: $3765.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 45.09, Señal: 25.31)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 98.61)
-- ATR (Volatilidad): 20.0
+- ATR (Volatilidad): 38.93
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -477,17 +477,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $2485.0 (2025-01-10) - $2520.0 (2025-01-07)
-  * 1 mes: $2420.0 (2024-12-20) - $2520.0 (2025-01-07)
-  * 3 meses: $2350.78 (2024-11-12) - $2520.0 (2025-01-07)
-  * 6 meses: $2241.33 (2024-08-06) - $2520.0 (2025-01-07)
+  * 1 semana: $2475.0 (2025-01-07) - $2525.0 (2025-01-09)
+  * 1 mes: $2365.0 (2024-12-19) - $2525.0 (2025-01-09)
+  * 3 meses: $2336.5 (2024-11-13) - $2525.0 (2025-01-09)
+  * 6 meses: $2098.57 (2024-08-05) - $2525.0 (2025-01-09)
 - Soporte: $2420.0 (distancia: 2.62%)
 - Resistencia: $2520.0 (distancia: 1.41%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 12.55, Señal: 10.94)
 - Estocástico: Normal (%K: 65.0, %D: 83.33)
-- ATR (Volatilidad): 24.29
+- ATR (Volatilidad): 35.71
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -510,17 +510,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $81980.0 (2025-01-03) - $87000.0 (2025-01-07)
+  * 1 semana: $78000.0 (2025-01-03) - $87000.0 (2025-01-07)
   * 1 mes: $71600.0 (2024-12-17) - $87000.0 (2025-01-07)
-  * 3 meses: $71600.0 (2024-12-17) - $87000.0 (2025-01-07)
-  * 6 meses: $46487.06 (2024-07-22) - $87000.0 (2025-01-07)
+  * 3 meses: $70420.0 (2024-10-17) - $87000.0 (2025-01-07)
+  * 6 meses: $46016.3 (2024-07-23) - $87000.0 (2025-01-07)
 - Soporte: $71600.0 (distancia: 17.7%)
 - Resistencia: $87000.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 2026.23, Señal: 1046.98)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 714.29
+- ATR (Volatilidad): 858.57
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -543,17 +543,17 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $61721.28 (2025-01-03) - $64960.0 (2025-01-10)
-  * 1 mes: $55421.56 (2024-12-20) - $64960.0 (2025-01-10)
-  * 3 meses: $55421.56 (2024-12-20) - $64960.0 (2025-01-10)
-  * 6 meses: $53617.55 (2024-08-07) - $65267.28 (2024-09-18)
+  * 1 semana: $60704.55 (2025-01-03) - $65000.0 (2025-01-09)
+  * 1 mes: $55421.56 (2024-12-20) - $65000.0 (2025-01-09)
+  * 3 meses: $54843.42 (2024-12-11) - $65000.0 (2025-01-09)
+  * 6 meses: $52990.68 (2024-08-05) - $65701.34 (2024-09-16)
 - Soporte: $55421.56 (distancia: 14.68%)
 - Resistencia: $64960.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 1399.08, Señal: 632.34)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 852.2
+- ATR (Volatilidad): 1187.05
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2

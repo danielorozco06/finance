@@ -12,6 +12,8 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
 
     # Rellenar valores faltantes en Close con el último valor disponible
     df["Close"] = df["Close"].fillna(value=df["Close"].ffill())
+    df["High"] = df["High"].fillna(value=df["Close"])  # Usar Close como fallback
+    df["Low"] = df["Low"].fillna(value=df["Close"])  # Usar Close como fallback
 
     # Medias móviles
     df["SMA_5"] = df["Close"].rolling(window=5).mean()
@@ -67,10 +69,12 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["%K"] = ((df["Close"] - low_14) / (high_14 - low_14)) * 100
     df["%D"] = df["%K"].rolling(window=3).mean()
 
-    # Average True Range (ATR) para volatilidad
-    # Calcular ATR usando solo Close cuando no hay High/Low
-    close_diff = abs(df["Close"] - df["Close"].shift(1))
-    df["ATR"] = close_diff.rolling(window=14).mean()
+    # Average True Range (ATR) actualizado para usar High/Low
+    high_low = df["High"] - df["Low"]
+    high_close = abs(df["High"] - df["Close"].shift(1))
+    low_close = abs(df["Low"] - df["Close"].shift(1))
+    true_range = pd.concat([high_low, high_close, low_close], axis=1).max(axis=1)
+    df["ATR"] = true_range.rolling(window=14).mean()
 
     # Fibonacci Retracement Levels
     period_high = df["Close"].rolling(window=20).max()
@@ -196,7 +200,7 @@ def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
 def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     """Valida y limpia la estructura del CSV."""
     # Verificar columnas requeridas
-    required_columns = {"Date", "Close", "Volume"}
+    required_columns = {"Date", "Close", "Volume", "High", "Low"}
     if not required_columns.issubset(df.columns):
         raise ValueError(
             f"Columnas faltantes en {csv_file}. Se requieren: {required_columns}"
@@ -206,12 +210,17 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     try:
         df["Close"] = pd.to_numeric(df["Close"], errors="coerce")
         df["Volume"] = pd.to_numeric(df["Volume"], errors="coerce")
+        df["High"] = pd.to_numeric(df["High"], errors="coerce")
+        df["Low"] = pd.to_numeric(df["Low"], errors="coerce")
     except Exception as e:
         raise ValueError(f"Error en conversión de datos numéricos: {str(e)}")
 
-    # Validar fechas
+    # Convertir y validar fechas
     try:
-        df["Date"] = pd.to_datetime(df["Date"], utc=True)
+        # Asegurarnos que la columna Date sea string antes de la conversión
+        df["Date"] = df["Date"].astype(str)
+        # Intentar convertir a datetime ignorando zonas horarias
+        df["Date"] = pd.to_datetime(df["Date"].str.split().str[0])
     except Exception as e:
         raise ValueError(f"Error en conversión de fechas: {str(e)}")
 
@@ -239,12 +248,19 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     # Validar valores
     invalid_close = df["Close"].isna().sum()
     invalid_volume = df["Volume"].isna().sum()
-    if invalid_close > 0 or invalid_volume > 0:
+    invalid_high = df["High"].isna().sum()
+    invalid_low = df["Low"].isna().sum()
+
+    if invalid_close > 0 or invalid_volume > 0 or invalid_high > 0 or invalid_low > 0:
         print("\nProblemas detectados en los datos:")
         if invalid_close > 0:
             print(f"- {invalid_close} registros sin precio de cierre")
         if invalid_volume > 0:
             print(f"- {invalid_volume} registros sin volumen")
+        if invalid_high > 0:
+            print(f"- {invalid_high} registros sin precio máximo")
+        if invalid_low > 0:
+            print(f"- {invalid_low} registros sin precio mínimo")
 
     # Información sobre volumen cero (normal en algunos casos)
     zero_volume = (df["Volume"] == 0).sum()
@@ -385,44 +401,62 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             )
         ),
         # Actualizar análisis de máximos y mínimos con fechas y retornos
-        "maximo_1semana": round(last_week["Close"].max(), 2),
-        "minimo_1semana": round(last_week["Close"].min(), 2),
+        "maximo_1semana": round(last_week["High"].max(), 2),
+        "minimo_1semana": round(last_week["Low"].min(), 2),
         "fecha_maximo_1semana": last_week.loc[
-            last_week["Close"].idxmax(), "Date"
+            last_week["High"].idxmax(), "Date"
         ].strftime("%Y-%m-%d"),
         "fecha_minimo_1semana": last_week.loc[
-            last_week["Close"].idxmin(), "Date"
+            last_week["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
-        "maximo_1mes": round(last_month["Close"].max(), 2),
-        "minimo_1mes": round(last_month["Close"].min(), 2),
+        "maximo_1mes": round(last_month["High"].max(), 2),
+        "minimo_1mes": round(last_month["Low"].min(), 2),
         "fecha_maximo_1mes": last_month.loc[
-            last_month["Close"].idxmax(), "Date"
+            last_month["High"].idxmax(), "Date"
         ].strftime("%Y-%m-%d"),
         "fecha_minimo_1mes": last_month.loc[
-            last_month["Close"].idxmin(), "Date"
+            last_month["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
-        "maximo_3meses": round(last_3months["Close"].max(), 2),
-        "minimo_3meses": round(last_3months["Close"].min(), 2),
+        "maximo_3meses": round(last_3months["High"].max(), 2),
+        "minimo_3meses": round(last_3months["Low"].min(), 2),
         "fecha_maximo_3meses": last_3months.loc[
-            last_3months["Close"].idxmax(), "Date"
+            last_3months["High"].idxmax(), "Date"
         ].strftime("%Y-%m-%d"),
         "fecha_minimo_3meses": last_3months.loc[
-            last_3months["Close"].idxmin(), "Date"
+            last_3months["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
-        "maximo_6meses": round(last_6months["Close"].max(), 2),
-        "minimo_6meses": round(last_6months["Close"].min(), 2),
+        "maximo_6meses": round(last_6months["High"].max(), 2),
+        "minimo_6meses": round(last_6months["Low"].min(), 2),
         "fecha_maximo_6meses": last_6months.loc[
-            last_6months["Close"].idxmax(), "Date"
+            last_6months["High"].idxmax(), "Date"
         ].strftime("%Y-%m-%d"),
         "fecha_minimo_6meses": last_6months.loc[
-            last_6months["Close"].idxmin(), "Date"
+            last_6months["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
         # Agregar valores de soporte y resistencia
         "valor_soporte": round(df["Support"].iloc[-1], 2),
         "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
         "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
         "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
+        # Agregar máximos y mínimos reales del día
+        "maximo_dia": round(df["High"].iloc[-1], 2),
+        "minimo_dia": round(df["Low"].iloc[-1], 2),
     }
+
+
+def delete_directory(directory: str) -> None:
+    """Elimina un directorio y su contenido.
+
+    Args:
+        directory: Ruta al directorio a eliminar
+    """
+    try:
+        import shutil
+
+        shutil.rmtree(directory)
+        print(f"Directorio {directory} eliminado exitosamente")
+    except Exception as e:
+        print(f"Error al eliminar el directorio {directory}: {str(e)}")
 
 
 def generate_tendency_report(
@@ -525,5 +559,7 @@ def generate_tendency_report(
 
 
 if __name__ == "__main__":
-    generate_tendency_report()
+    input_dir = "tickers_history"
+    generate_tendency_report(input_dir)
     print("Reporte generado en input/tendency.md")
+    delete_directory(input_dir)
