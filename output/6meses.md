@@ -4,71 +4,75 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| ECOPETROL | 30% | COMPRA FUERTE | Cambio de gobierno en 2026 beneficiará sector petrolero |
-| PFDAVVNDA | 25% | COMPRA FUERTE | Sinergias post-fusión con Scotiabank |
-| PFGRUPSURA | 25% | COMPRA FUERTE | Valor por escisión con Grupo Argos |
-| PFBCOLOM | 20% | COMPRA | Sector bancario en recuperación |
+| ECOPETROL | 35% | COMPRA FUERTE | Cambio político 2026, sanciones Rusia, petróleo estable |
+| PFGRUPSURA | 25% | COMPRA FUERTE | Valor por escisión Grupo Argos, mejora estructura corporativa |
+| PFDAVVNDA | 25% | COMPRA FUERTE | Consolidación fusión Scotiabank, expansión regional |
+| ISA | 15% | COMPRA | Crisis gas natural, proyectos energéticos, dividendos estables |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
 ECOPETROL:
-- 10% ($500,000): Orden límite a $1,820 (275 acciones)
-- 10% ($500,000): Orden escalonada mensual por 3 meses a precios de mercado
-- 10% ($500,000): Mantener en efectivo para oportunidades
-
-PFDAVVNDA:
-- 10% ($500,000): Orden límite a $18,700 (27 acciones)
-- 8% ($400,000): Orden escalonada mensual por 2 meses
-- 7% ($350,000): Mantener en efectivo para oportunidades
+- 15% ($750,000): Orden límite a $1,820 (412 acciones)
+- 10% ($500,000): Orden escalonada trimestral a precios de mercado
+- 10% ($500,000): Mantener en efectivo para oportunidades post-elecciones
 
 PFGRUPSURA:
 - 10% ($500,000): Orden límite a $25,900 (19 acciones)
-- 8% ($400,000): Orden escalonada mensual por 2 meses
-- 7% ($350,000): Mantener en efectivo para oportunidades
+- 8% ($400,000): Orden escalonada bimestral
+- 7% ($350,000): Mantener en efectivo para post-escisión
 
-PFBCOLOM:
-- 8% ($400,000): Orden límite a $35,000 (11 acciones)
-- 6% ($300,000): Orden escalonada mensual por 2 meses
-- 6% ($300,000): Mantener en efectivo para oportunidades
+PFDAVVNDA:
+- 10% ($500,000): Orden límite a $18,700 (27 acciones)
+- 8% ($400,000): Orden escalonada trimestral
+- 7% ($350,000): Mantener en efectivo para post-fusión
+
+ISA:
+- 6% ($300,000): Orden límite a $16,900 (18 acciones)
+- 5% ($250,000): Orden escalonada bimestral
+- 4% ($200,000): Mantener en efectivo para nuevos proyectos
 
 ### 2.2 Órdenes de Salida
 
 ECOPETROL:
 - Stop loss móvil: -15% desde máximos
 - Take profit escalonado:
-  * 30% al +25%
-  * 30% al +35%
-  * 40% al +45%
-- Reevaluar posición en diciembre 2025
-
-PFDAVVNDA:
-- Stop loss móvil: -12% desde máximos
-- Take profit escalonado:
-  * 30% al +20%
-  * 30% al +30%
-  * 40% al +40%
-- Reevaluar posición post-fusión
+  * 30% al +30% (petróleo >$90)
+  * 30% al +40% (debilitamiento restricciones)
+  * 40% al +50% (cambio perspectiva política)
+- Reevaluar en Q4 2025 pre-elecciones
 
 PFGRUPSURA:
 - Stop loss móvil: -12% desde máximos
 - Take profit escalonado:
-  * 30% al +20%
-  * 30% al +30%
-  * 40% post-escisión
-- Reevaluar después de completar escisión
+  * 30% al +25% (anuncio términos escisión)
+  * 30% al +35% (aprobación regulatoria)
+  * 40% al +45% (implementación escisión)
+- Reevaluar post-escisión
 
-PFBCOLOM:
+PFDAVVNDA:
+- Stop loss móvil: -12% desde máximos
+- Take profit escalonado:
+  * 30% al +25% (cierre fusión)
+  * 30% al +35% (primeras sinergias)
+  * 40% al +45% (consolidación regional)
+- Reevaluar Q3 2025
+
+ISA:
 - Stop loss móvil: -10% desde máximos
 - Take profit escalonado:
-  * 30% al +15%
-  * 30% al +25%
-  * 40% al +35%
-- Reevaluar según evolución sector bancario
+  * 30% al +20% (crisis gas)
+  * 30% al +25% (nuevos proyectos)
+  * 40% al +30% (resultados consolidados)
+- Reevaluar semestralmente
 
 Notas:
-- Mantener 30% del capital en efectivo inicialmente para promediar o aprovechar oportunidades
+- Mantener 30% del capital en efectivo inicialmente
+- Priorizar reinversión de dividendos
 - Revisar composición trimestralmente
-- Ajustar stops y targets según condiciones macroeconómicas y eventos corporativos
-- Considerar reinversión de dividendos 
+- Ajustar stops y targets según:
+  * Evolución eventos corporativos
+  * Condiciones macroeconómicas
+  * Cambios regulatorios
+  * Panorama político pre-electoral 

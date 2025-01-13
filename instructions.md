@@ -16,7 +16,7 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 ## Prompt analisis individual
 
-CONTEXTO: /input/
+CONTEXTO: /input/ y /output/
 
 PROMPT:
 
@@ -28,7 +28,7 @@ Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/ e /input/
+CONTEXTO: el mismo que el prompt de analisis individual.
 
 PROMPT:
 
@@ -59,10 +59,6 @@ Nota: prioriozar compras y ventas escalonadas.
 
 [Órdenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
 
-
-Prompt:
-Mejorar los portafolios considerando los aspectos clave de las noticias y análisis
-
 ---
 
 # Analisis contra portafolio actual
@@ -76,3 +72,11 @@ Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio a
 - "Dividendos y Estrategia de Salida"
 Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
 NOTA: Hoy es 2025-01-13.
+
+# Prompt consultas
+
+CONTEXTO: el mismo que el prompt de analisis individual.
+
+PROMPTS:
+
+Cuando me recomiendas invertir en CNEC?
