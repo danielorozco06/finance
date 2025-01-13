@@ -1,11 +1,11 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 08:16:42
+Generado el: 2025-01-13 08:19:49
+Período analizado: 2024-07-10 a 2025-01-10
+
 
 ## PFGRUPOARG_CL
-
 - Último precio: $14660.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -39,9 +39,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## PFBCOLOM_CL
-
 - Último precio: $35180.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -75,9 +73,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## PFDAVVNDA_CL
-
 - Último precio: $19000.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -111,9 +107,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## ISA_CL
-
 - Último precio: $17080.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -147,9 +141,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## ECOPETROL_CL
-
 - Último precio: $1845.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -183,9 +175,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## CNEC_CL
-
 - Último precio: $11600.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -219,9 +209,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## PFGRUPSURA_CL
-
 - Último precio: $26080.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -255,9 +243,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## MINEROS_CL
-
 - Último precio: $4570.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 129
 
 ### Predicción de Tendencias
@@ -291,9 +277,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## PFCORFICOL_CL
-
 - Último precio: $14400.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -327,9 +311,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## BOGOTA_CL
-
 - Último precio: $26860.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -363,9 +345,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## TERPEL_CL
-
 - Último precio: $11780.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -399,9 +379,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## CONCONCRET_CL
-
 - Último precio: $670.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -435,9 +413,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## PFAVAL_CL
-
 - Último precio: $458.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -471,9 +447,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## CELSIA_CL
-
 - Último precio: $3765.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -507,9 +481,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## GEB_CL
-
 - Último precio: $2485.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -543,9 +515,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## NUTRESA_CL
-
 - Último precio: $87000.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias
@@ -579,9 +549,7 @@ Generado el: 2025-01-13 08:16:42
 
 
 ## GRUBOLIVAR_CL
-
 - Último precio: $64960.0
-- Período analizado: 2024-07-10 a 2025-01-10
 - Registros analizados: 127
 
 ### Predicción de Tendencias

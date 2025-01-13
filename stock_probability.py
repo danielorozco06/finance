@@ -440,10 +440,16 @@ def generate_tendency_report(
     if not csv_files:
         raise ValueError(f"No se encontraron archivos CSV en {input_dir}")
 
+    # Obtener el primer resultado para el período analizado
+    primer_resultado = calculate_stock_probability(str(csv_files[0]))
+
     # Generar reporte
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("# Análisis de Tendencias de Acciones\n\n")
         f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(
+            f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n\n"
+        )
 
         for csv_file in csv_files:
             try:
@@ -451,11 +457,8 @@ def generate_tendency_report(
                 resultado = calculate_stock_probability(str(csv_file))
 
                 f.write("\n")
-                f.write(f"## {ticker}\n\n")
+                f.write(f"## {ticker}\n")
                 f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
-                f.write(
-                    f"- Período analizado: {resultado['fecha_inicial']} a {resultado['fecha_final']}\n"
-                )
                 f.write(
                     f"- Registros analizados: {resultado['registros_analizados']}\n"
                 )
