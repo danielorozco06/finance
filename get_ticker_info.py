@@ -49,7 +49,7 @@ def save_ticker_history(ticker_symbol: str) -> None:
 
 
 def main() -> None:
-    tickers = load_tickers_from_file("tickerCol.txt")
+    tickers = load_tickers_from_file("input/tickerCol.txt")
     setup_directories()
 
     for ticker in tickers:

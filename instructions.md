@@ -12,32 +12,32 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 ## Prompt analisis individual
 
-CONTEXTO: /input/, /output/ y tickerCol.txt
+CONTEXTO: /input/
 
 PROMPT:
 
 Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker del archivo tickerCol.txt:
 - Precios recientes: último precio
-- Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Solo indicar las etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Sin comentarios adicionales.
-- Soporte y restencia
+- Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Solo indicar las etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Las etiqueta debe ser sugerida teniendo la ponen cuenta las noticias del archivo input/news.md, el analisis del archivo output/analysis.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia. Incluir una muy pequeña justificación de la recomendación.
+- Soporte y resistencia: valores y distancias.
 NOTA: Hoy es 2025-01-13.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: el mismo que el prompt de analisis individual.
+CONTEXTO: /output/
 
 PROMPT:
 
 Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-13.
-NOTA: Tener presente que las acciones preferenciales y ordinarias pueden tener diferentes precios, pero referencian a la misma compañia.
-NOTA: Tener muy presentes las noticas del archivo input/news.md.
 
 Tener en cuenta los siguientes criterios:
 
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado.
 
-2. Organizar el documento con la siguiente estructura:
+2. Tener presentes el analisis del archivo output/analysis.md.
+
+3. Organizar el documento con la siguiente estructura:
 
 # Portafolio de Inversión
 
@@ -65,7 +65,7 @@ CONTEXTO: el mismo que el prompt de portafolio de inversión.
 
 PROMPT:
 
-Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio actual, modificar el archivo para optimizar el portafolio con las siguientes secciones:
+Teniendo en cuenta el archivo ./output/miPortafolio.md con el portafolio actual, modificar el archivo para optimizar el portafolio con las siguientes secciones:
 - "Portafolio Actual"
 - "Dividendos y Estrategia de Salida"
 Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.

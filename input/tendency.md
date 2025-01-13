@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 17:39:01
+Generado el: 2025-01-13 18:19:07
 Período analizado: 2014-06-09 a 2025-01-13
 
 ## HCOLSEL_CL
@@ -38,43 +38,6 @@ Período analizado: 2014-06-09 a 2025-01-13
 ### Señales de Trading
 - RSI: Sobrevendida
 - Volumen: Alto (x20.0 del promedio)
-- Precio: Cerca de Soporte
-
-## BCOLOMBIA_CL
-- Último precio: $37520.0
-- Registros analizados: 6513
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 30.0%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 30.0%)
-
-### Análisis Técnico
-- Rangos históricos:
-  * 1 semana: $37520.0 (2025-01-13) - $38420.0 (2025-01-08)
-  * 1 mes: $36636.72 (2024-12-18) - $38780.0 (2024-12-26)
-  * 3 meses: $35151.71 (2024-10-23) - $39372.26 (2024-11-21)
-  * 6 meses: $33012.94 (2024-08-09) - $39372.26 (2024-11-21)
-  * 12 meses: $27719.58 (2024-02-19) - $39372.26 (2024-11-21)
-  * 24 meses: $22872.87 (2023-09-06) - $39372.26 (2024-11-21)
-- Soporte: $36636.72 (distancia: 2.35%)
-- Resistencia: $38780.0 (distancia: 3.36%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 136.87, Señal: 169.29)
-- Estocástico: Sobreventa (%K: 0.32, %D: 31.63)
-- ATR (Volatilidad): 480.73
-
-### Niveles de Fibonacci
-- Posición actual: Entre 50.0 y 61.8
-- Niveles: 38.2%: $37961.27, 50%: $37708.36, 61.8%: $37455.45
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Alto (x1.8 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFGRUPOARG_CL
@@ -207,7 +170,7 @@ Período analizado: 2014-06-09 a 2025-01-13
   * 3 meses: $16000.0 (2024-12-23) - $18017.2 (2024-10-21)
   * 6 meses: $15943.56 (2024-08-05) - $18017.2 (2024-10-21)
   * 12 meses: $15027.71 (2024-02-19) - $19103.97 (2024-03-18)
-  * 24 meses: $12591.25 (2023-09-07) - $19103.97 (2024-03-18)
+  * 24 meses: $12591.25 (2023-09-06) - $19103.97 (2024-03-18)
 - Soporte: $16200.0 (distancia: 4.93%)
 - Resistencia: $17300.0 (distancia: 1.53%)
 
@@ -299,80 +262,6 @@ Período analizado: 2014-06-09 a 2025-01-13
 - Volumen: Alto (x4.97 del promedio)
 - Precio: Cerca de Soporte
 
-## PFCEMARGOS_CL
-- Último precio: $11300.0
-- Registros analizados: 70
-
-### Predicción de Tendencias
-- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
-- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-
-### Análisis Técnico
-- Rangos históricos:
-  * 1 semana: $11300.0 (2025-01-13) - $12400.0 (2025-01-07)
-  * 1 mes: $9362.0 (2024-12-11) - $12600.0 (2025-01-02)
-  * 3 meses: $6609.63 (2024-10-29) - $12600.0 (2025-01-02)
-  * 6 meses: $6609.63 (2024-10-29) - $12600.0 (2025-01-02)
-  * 12 meses: $6609.63 (2024-10-29) - $12600.0 (2025-01-02)
-  * 24 meses: $6609.63 (2024-10-29) - $12600.0 (2025-01-02)
-- Soporte: $9362.0 (distancia: 17.15%)
-- Resistencia: $12400.0 (distancia: 9.73%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 815.51, Señal: 787.44)
-- Estocástico: Normal (%K: 62.58, %D: 74.82)
-- ATR (Volatilidad): 461.38
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $11239.48, 50%: $10881.0, 61.8%: $10522.52
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Normal (x1.21 del promedio)
-- Precio: En Rango Medio
-
-## GRUPOARGOS_CL
-- Último precio: $20260.0
-- Registros analizados: 6509
-
-### Predicción de Tendencias
-- Próximo día: Muy Probablemente Alcista (Prob. subida: 77.5%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-
-### Análisis Técnico
-- Rangos históricos:
-  * 1 semana: $19600.0 (2025-01-08) - $20480.0 (2025-01-07)
-  * 1 mes: $19070.78 (2024-12-17) - $20836.96 (2024-12-19)
-  * 3 meses: $18058.7 (2024-10-30) - $20836.96 (2024-12-19)
-  * 6 meses: $15657.48 (2024-08-05) - $20836.96 (2024-12-19)
-  * 12 meses: $11769.2 (2024-02-16) - $20836.96 (2024-12-19)
-  * 24 meses: $7177.81 (2023-09-06) - $20836.96 (2024-12-19)
-- Soporte: $19090.63 (distancia: 5.77%)
-- Resistencia: $20480.0 (distancia: 1.09%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 232.54, Señal: 273.7)
-- Estocástico: Normal (%K: 42.11, %D: 29.82)
-- ATR (Volatilidad): 306.01
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $19949.26, 50%: $19785.31, 61.8%: $19621.37
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Normal (x1.02 del promedio)
-- Precio: Cerca de Resistencia
-
 ## CNEC_CL
 - Último precio: $11500.0
 - Registros analizados: 3758
@@ -410,43 +299,6 @@ Período analizado: 2014-06-09 a 2025-01-13
 - Volumen: Alto (x1.79 del promedio)
 - Precio: Cerca de Resistencia
 
-## GRUPOSURA_CL
-- Último precio: $36400.0
-- Registros analizados: 6509
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 61.25%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
-- Próximos 6 meses: Probablemente Bajista (Prob. subida: 38.75%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 38.75%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 38.75%)
-
-### Análisis Técnico
-- Rangos históricos:
-  * 1 semana: $36000.0 (2025-01-10) - $37100.0 (2025-01-07)
-  * 1 mes: $34909.33 (2024-12-13) - $37742.5 (2024-12-19)
-  * 3 meses: $30233.62 (2024-10-16) - $38733.11 (2024-11-13)
-  * 6 meses: $24466.52 (2024-09-19) - $38733.11 (2024-11-13)
-  * 12 meses: $24466.52 (2024-09-19) - $40670.43 (2024-05-15)
-  * 24 meses: $24466.52 (2024-09-19) - $42697.67 (2023-05-09)
-- Soporte: $35166.89 (distancia: 3.39%)
-- Resistencia: $37380.0 (distancia: 2.69%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 390.54, Señal: 559.17)
-- Estocástico: Sobreventa (%K: 18.33, %D: 11.67)
-- ATR (Volatilidad): 284.6
-
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $36534.59, 50%: $36273.45, 61.8%: $36012.3
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Bajo (x0.35 del promedio)
-- Precio: Cerca de Soporte
-
 ## PFGRUPSURA_CL
 - Último precio: $26220.0
 - Registros analizados: 3402
@@ -466,7 +318,7 @@ Período analizado: 2014-06-09 a 2025-01-13
   * 3 meses: $20815.52 (2024-10-16) - $26400.0 (2024-12-26)
   * 6 meses: $19110.8 (2024-09-19) - $26400.0 (2024-12-26)
   * 12 meses: $14774.86 (2024-02-20) - $26587.94 (2024-05-16)
-  * 24 meses: $8120.47 (2023-02-28) - $26587.94 (2024-05-16)
+  * 24 meses: $8120.46 (2023-02-28) - $26587.94 (2024-05-16)
 - Soporte: $23143.71 (distancia: 11.73%)
 - Resistencia: $26340.0 (distancia: 0.46%)
 
@@ -631,43 +483,6 @@ Período analizado: 2014-06-09 a 2025-01-13
 - RSI: Sobrecomprada
 - Volumen: Normal (x1.11 del promedio)
 - Precio: Cerca de Resistencia
-
-## CORFICOLCF_CL
-- Último precio: $15180.0
-- Registros analizados: 4620
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 65.0%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 57.5%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 57.5%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 57.5%)
-- Próximos 24 meses: Probablemente Alcista (Prob. subida: 57.5%)
-
-### Análisis Técnico
-- Rangos históricos:
-  * 1 semana: $15000.0 (2025-01-13) - $15680.0 (2025-01-07)
-  * 1 mes: $14500.0 (2024-12-20) - $15680.0 (2025-01-07)
-  * 3 meses: $13420.0 (2024-10-16) - $15740.0 (2024-11-20)
-  * 6 meses: $11800.0 (2024-09-20) - $15740.0 (2024-11-20)
-  * 12 meses: $11800.0 (2024-09-20) - $16640.0 (2024-02-08)
-  * 24 meses: $9145.21 (2023-02-28) - $17240.0 (2024-01-16)
-- Soporte: $14540.0 (distancia: 4.22%)
-- Resistencia: $15500.0 (distancia: 2.11%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.36, Señal: -42.74)
-- Estocástico: Sobrecompra (%K: 93.55, %D: 91.97)
-- ATR (Volatilidad): 225.71
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15133.28, 50%: $15020.0, 61.8%: $14906.72
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Normal (x0.89 del promedio)
-- Precio: Cerca de Soporte
 
 ## PFCORFICOL_CL
 - Último precio: $14400.0
@@ -962,7 +777,7 @@ Período analizado: 2014-06-09 a 2025-01-13
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Bajo (x0.43 del promedio)
+- Volumen: Bajo (x0.45 del promedio)
 - Precio: Cerca de Soporte
 
 ## NUTRESA_CL
@@ -1019,9 +834,9 @@ Período analizado: 2014-06-09 a 2025-01-13
   * 1 semana: $61600.0 (2025-01-09) - $65000.0 (2025-01-09)
   * 1 mes: $55421.56 (2024-12-20) - $65000.0 (2025-01-09)
   * 3 meses: $54843.42 (2024-12-11) - $65000.0 (2025-01-09)
-  * 6 meses: $52990.68 (2024-08-05) - $65701.34 (2024-09-16)
-  * 12 meses: $47010.93 (2024-03-15) - $69093.63 (2024-04-16)
-  * 24 meses: $42179.31 (2023-09-14) - $69093.63 (2024-04-16)
+  * 6 meses: $52990.67 (2024-08-05) - $65701.34 (2024-09-16)
+  * 12 meses: $47010.94 (2024-03-15) - $69093.64 (2024-04-16)
+  * 24 meses: $42179.31 (2023-09-14) - $69093.64 (2024-04-16)
 - Soporte: $55421.56 (distancia: 12.72%)
 - Resistencia: $64960.0 (distancia: 2.3%)
 

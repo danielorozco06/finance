@@ -4,71 +4,71 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 30% | COMPRA FUERTE | Alta probabilidad de subida (77.5%) |
-| GRUPOARGOS | 25% | COMPRA | Momentum positivo (55%) y beneficio por escisión |
-| PFGRUPSURA | 25% | MANTENER | Tendencia alcista (51.25%) y beneficio por escisión |
-| BHI | 20% | COMPRA | Momentum positivo (66.25%) y beneficio por precios del petróleo |
+| HCOLSEL | 35% | COMPRA FUERTE | Alta probabilidad de subida, soporte fuerte en $14,796 |
+| BHI | 30% | COMPRA | Beneficiado por sanciones a Rusia y precios del petróleo |
+| CELSIA | 20% | COMPRA | Programa de recompra en ejecución, dividendo próximo |
+| BANCOLOMBIA | 15% | COMPRA | Beneficiado por creación del Grupo Cibest |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
 HCOLSEL:
-- 15% ($750,000): Orden límite a $15,300 (49 acciones)
+- 20% ($1,000,000): Orden límite a $14,900 (67 acciones)
 - 15% ($750,000): Orden escalonada semanal:
-  * 50% a $15,250 (25 acciones)
-  * 50% a $15,200 (25 acciones)
-
-GRUPOARGOS:
-- 15% ($750,000): Orden límite a $20,200 (37 acciones)
-- 10% ($500,000): Orden escalonada semanal:
-  * 50% a $20,100 (12 acciones)
-  * 50% a $20,000 (13 acciones)
-
-PFGRUPSURA:
-- 15% ($750,000): Orden límite a $26,200 (29 acciones)
-- 10% ($500,000): Orden escalonada semanal:
-  * 50% a $26,100 (10 acciones)
-  * 50% a $26,000 (10 acciones)
+  * 50% a $14,850 (25 acciones)
+  * 50% a $14,800 (25 acciones)
 
 BHI:
-- 10% ($500,000): Orden límite a $304 (1,645 acciones)
+- 15% ($750,000): Orden límite a $295 (2,542 acciones)
+- 15% ($750,000): Orden escalonada semanal:
+  * 50% a $293 (1,280 acciones)
+  * 50% a $291 (1,288 acciones)
+
+CELSIA:
+- 10% ($500,000): Orden límite a $3,800 (132 acciones)
 - 10% ($500,000): Orden escalonada semanal:
-  * 50% a $303 (825 acciones)
-  * 50% a $302 (828 acciones)
+  * 50% a $3,750 (67 acciones)
+  * 50% a $3,700 (68 acciones)
+
+BANCOLOMBIA:
+- 10% ($500,000): Orden límite a $37,500 (13 acciones)
+- 5% ($250,000): Orden escalonada semanal:
+  * 50% a $37,000 (3 acciones)
+  * 50% a $36,500 (3 acciones)
 
 ### 2.2 Órdenes de Salida
 
 HCOLSEL:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $15,600 (+1.56%)
-  * 30% a $15,800 (+2.86%)
-  * 30% a $16,000 (+4.17%)
-
-GRUPOARGOS:
-- Stop loss móvil: -2.5% desde máximos
-- Take profit escalonado:
-  * 40% a $20,600 (+1.68%)
-  * 30% a $20,800 (+2.67%)
-  * 30% a $21,000 (+3.65%)
-
-PFGRUPSURA:
-- Stop loss móvil: -2.5% desde máximos
-- Take profit escalonado:
-  * 40% a $26,600 (+1.45%)
-  * 30% a $26,800 (+2.21%)
-  * 30% a $27,000 (+2.97%)
+  * 40% a $15,400 (+3.36%)
+  * 30% a $15,600 (+4.70%)
+  * 30% a $15,800 (+6.04%)
 
 BHI:
+- Stop loss móvil: -2.5% desde máximos
+- Take profit escalonado:
+  * 40% a $310 (+5.08%)
+  * 30% a $315 (+6.78%)
+  * 30% a $320 (+8.47%)
+
+CELSIA:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $308 (+0.98%)
-  * 30% a $310 (+1.64%)
-  * 30% a $312 (+2.30%)
+  * 40% a $4,000 (+5.26%)
+  * 30% a $4,100 (+7.89%)
+  * 30% a $4,200 (+10.53%)
+
+BANCOLOMBIA:
+- Stop loss móvil: -2% desde máximos
+- Take profit escalonado:
+  * 40% a $38,500 (+2.67%)
+  * 30% a $39,000 (+4.00%)
+  * 30% a $39,500 (+5.33%)
 
 Notas relevantes:
-- Se prioriza GRUPOARGOS/PFGRUPSURA por proceso de escisión
-- Entradas escalonadas para aprovechar volatilidad semanal
-- BHI beneficiado por contexto de precios del petróleo
-- Stops móviles para proteger ganancias en tendencia alcista 
+- Se mantiene alta exposición a HCOLSEL por momentum técnico
+- Se aumenta BHI por sanciones a Rusia que impactan precio del petróleo
+- Se incluye CELSIA por recompra de acciones y dividendo próximo
+- Se agrega BANCOLOMBIA por potencial de la creación del Grupo Cibest 

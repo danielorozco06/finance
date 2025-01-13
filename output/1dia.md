@@ -4,58 +4,53 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 30% | COMPRA FUERTE | Alta probabilidad de subida (70%) |
-| PFGRUPOARG | 25% | COMPRA FUERTE | Momentum positivo (73.75%) y beneficio por escisión |
-| GRUPOARGOS | 25% | COMPRA FUERTE | Momentum muy positivo (77.5%) y beneficio por escisión |
-| ENKA | 20% | COMPRA FUERTE | Alta probabilidad de subida (76.25%) |
+| HCOLSEL | 40% | COMPRA FUERTE | Alta probabilidad de subida, cerca del soporte ($14,796) |
+| BHI | 30% | COMPRA | Beneficiado por aumento en precios del petróleo (>$80) |
+| CELSIA | 20% | COMPRA | Programa de recompra de acciones en ejecución |
+| PEI | 10% | COMPRA FUERTE | Cerca del soporte ($68,600), bajo riesgo |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
 HCOLSEL:
-- 15% ($750,000): Orden límite a $15,300 (49 acciones)
-- 15% ($750,000): Orden mercado al inicio de jornada (49 acciones)
+- 25% ($1,250,000): Orden límite a $14,900 (84 acciones)
+- 15% ($750,000): Orden mercado al inicio (49 acciones)
 
-PFGRUPOARG:
-- 15% ($750,000): Orden límite a $15,100 (50 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (33 acciones)
+BHI:
+- 20% ($1,000,000): Orden límite a $295 (3,390 acciones)
+- 10% ($500,000): Orden mercado al inicio (1,695 acciones)
 
-GRUPOARGOS:
-- 15% ($750,000): Orden límite a $20,200 (37 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (25 acciones)
+CELSIA:
+- 10% ($500,000): Orden límite a $3,800 (132 acciones)
+- 10% ($500,000): Orden mercado al inicio (131 acciones)
 
-ENKA:
-- 10% ($500,000): Orden límite a $13.6 (36,765 acciones)
-- 10% ($500,000): Orden mercado al inicio de jornada (36,496 acciones)
+PEI:
+- 5% ($250,000): Orden límite a $68,700 (4 acciones)
+- 5% ($250,000): Orden mercado al inicio (4 acciones)
 
 ### 2.2 Órdenes de Salida
 
 HCOLSEL:
-- Stop loss: $15,200 (-1.04%)
+- Stop loss: $14,800 (-0.67%)
 - Take profit escalonado:
-  * 50% a $15,500 (+0.91%)
-  * 50% a $15,700 (+2.21%)
+  * 50% a $15,200 (+2.01%)
+  * 50% a $15,400 (+3.36%)
 
-PFGRUPOARG:
-- Stop loss: $15,000 (-1.19%)
+BHI:
+- Stop loss: $292 (-1.02%)
 - Take profit escalonado:
-  * 50% a $15,400 (+1.45%)
-  * 50% a $15,600 (+2.77%)
+  * 50% a $305 (+3.39%)
+  * 50% a $310 (+5.08%)
 
-GRUPOARGOS:
-- Stop loss: $20,000 (-1.28%)
+CELSIA:
+- Stop loss: $3,750 (-1.31%)
 - Take profit escalonado:
-  * 50% a $20,500 (+1.19%)
-  * 50% a $20,700 (+2.17%)
+  * 50% a $3,900 (+2.62%)
+  * 50% a $4,000 (+5.26%)
 
-ENKA:
-- Stop loss: $13.5 (-1.46%)
+PEI:
+- Stop loss: $68,400 (-0.44%)
 - Take profit escalonado:
-  * 50% a $14.0 (+2.19%)
-  * 50% a $14.2 (+3.65%)
-
-Notas relevantes:
-- Se incluye GRUPOARGOS/PFGRUPOARG por potencial beneficio del proceso de escisión
-- Órdenes escalonadas para reducir riesgo de entrada
-- Stops ajustados por alta volatilidad intradía 
+  * 50% a $69,500 (+1.16%)
+  * 50% a $70,000 (+1.89%) 
