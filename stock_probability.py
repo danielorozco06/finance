@@ -456,7 +456,6 @@ def generate_tendency_report(
                 ticker = csv_file.stem.replace("_values", "")
                 resultado = calculate_stock_probability(str(csv_file))
 
-                f.write("\n")
                 f.write(f"## {ticker}\n")
                 f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
                 f.write(

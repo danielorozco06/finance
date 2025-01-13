@@ -1,8 +1,7 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 08:19:49
+Generado el: 2025-01-13 08:21:59
 Período analizado: 2024-07-10 a 2025-01-10
-
 
 ## PFGRUPOARG_CL
 - Último precio: $14660.0
@@ -37,7 +36,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Bajo (x0.4 del promedio)
 - Precio: Cerca de Soporte
 
-
 ## PFBCOLOM_CL
 - Último precio: $35180.0
 - Registros analizados: 127
@@ -70,7 +68,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Normal
 - Volumen: Normal (x1.15 del promedio)
 - Precio: Cerca de Soporte
-
 
 ## PFDAVVNDA_CL
 - Último precio: $19000.0
@@ -105,7 +102,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Alto (x1.54 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## ISA_CL
 - Último precio: $17080.0
 - Registros analizados: 127
@@ -138,7 +134,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Normal
 - Volumen: Bajo (x0.5 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## ECOPETROL_CL
 - Último precio: $1845.0
@@ -173,7 +168,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Normal (x1.5 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## CNEC_CL
 - Último precio: $11600.0
 - Registros analizados: 127
@@ -206,7 +200,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Normal
 - Volumen: Normal (x1.23 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## PFGRUPSURA_CL
 - Último precio: $26080.0
@@ -241,7 +234,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Alto (x1.55 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## MINEROS_CL
 - Último precio: $4570.0
 - Registros analizados: 129
@@ -274,7 +266,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Sobrecomprada
 - Volumen: Normal (x1.18 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## PFCORFICOL_CL
 - Último precio: $14400.0
@@ -309,7 +300,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Normal (x0.59 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## BOGOTA_CL
 - Último precio: $26860.0
 - Registros analizados: 127
@@ -342,7 +332,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Normal
 - Volumen: Normal (x1.49 del promedio)
 - Precio: Cerca de Soporte
-
 
 ## TERPEL_CL
 - Último precio: $11780.0
@@ -377,7 +366,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Normal (x0.68 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## CONCONCRET_CL
 - Último precio: $670.0
 - Registros analizados: 127
@@ -410,7 +398,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Sobrecomprada
 - Volumen: Normal (x1.24 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## PFAVAL_CL
 - Último precio: $458.0
@@ -445,7 +432,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Bajo (x0.41 del promedio)
 - Precio: Cerca de Resistencia
 
-
 ## CELSIA_CL
 - Último precio: $3765.0
 - Registros analizados: 127
@@ -478,7 +464,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.85 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## GEB_CL
 - Último precio: $2485.0
@@ -513,7 +498,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Volumen: Alto (x5.47 del promedio)
 - Precio: Cerca de Soporte
 
-
 ## NUTRESA_CL
 - Último precio: $87000.0
 - Registros analizados: 127
@@ -546,7 +530,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.03 del promedio)
 - Precio: Cerca de Resistencia
-
 
 ## GRUBOLIVAR_CL
 - Último precio: $64960.0
