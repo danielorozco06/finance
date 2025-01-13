@@ -4,53 +4,53 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 40% | COMPRA FUERTE | Alta probabilidad de subida, cerca del soporte ($14,796) |
-| BHI | 30% | COMPRA | Beneficiado por aumento en precios del petróleo (>$80) |
-| CELSIA | 20% | COMPRA | Programa de recompra de acciones en ejecución |
-| PEI | 10% | COMPRA FUERTE | Cerca del soporte ($68,600), bajo riesgo |
+| PFGRUPSURA | 35% | COMPRA FUERTE | Momentum alcista confirmado, soporte sólido |
+| PFGRUPOARG | 35% | COMPRA FUERTE | Cerca de resistencia con soporte fuerte |
+| BOGOTA | 20% | COMPRA | Soporte técnico sólido, momentum positivo |
+| PEI | 10% | COMPRA | Soporte técnico cercano, dividendos estables |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-HCOLSEL:
-- 25% ($1,250,000): Orden límite a $14,900 (84 acciones)
+PFGRUPSURA:
+- 20% ($1,000,000): Orden límite a $26,220 (38 acciones)
+- 15% ($750,000): Orden mercado al inicio (29 acciones)
+
+PFGRUPOARG:
+- 20% ($1,000,000): Orden límite a $15,180 (66 acciones)
 - 15% ($750,000): Orden mercado al inicio (49 acciones)
 
-BHI:
-- 20% ($1,000,000): Orden límite a $295 (3,390 acciones)
-- 10% ($500,000): Orden mercado al inicio (1,695 acciones)
-
-CELSIA:
-- 10% ($500,000): Orden límite a $3,800 (132 acciones)
-- 10% ($500,000): Orden mercado al inicio (131 acciones)
+BOGOTA:
+- 10% ($500,000): Orden límite a $26,600 (19 acciones)
+- 10% ($500,000): Orden mercado al inicio (19 acciones)
 
 PEI:
-- 5% ($250,000): Orden límite a $68,700 (4 acciones)
+- 5% ($250,000): Orden límite a $69,180 (4 acciones)
 - 5% ($250,000): Orden mercado al inicio (4 acciones)
 
 ### 2.2 Órdenes de Salida
 
-HCOLSEL:
-- Stop loss: $14,800 (-0.67%)
+PFGRUPSURA:
+- Stop loss: $26,000 (-0.84%)
 - Take profit escalonado:
-  * 50% a $15,200 (+2.01%)
-  * 50% a $15,400 (+3.36%)
+  * 50% a $26,340 (+0.46%)
+  * 50% a $26,500 (+1.07%)
 
-BHI:
-- Stop loss: $292 (-1.02%)
+PFGRUPOARG:
+- Stop loss: $15,000 (-1.19%)
 - Take profit escalonado:
-  * 50% a $305 (+3.39%)
-  * 50% a $310 (+5.08%)
+  * 50% a $15,341 (+1.06%)
+  * 50% a $15,500 (+2.11%)
 
-CELSIA:
-- Stop loss: $3,750 (-1.31%)
+BOGOTA:
+- Stop loss: $26,400 (-0.75%)
 - Take profit escalonado:
-  * 50% a $3,900 (+2.62%)
-  * 50% a $4,000 (+5.26%)
+  * 50% a $27,000 (+1.50%)
+  * 50% a $27,200 (+2.26%)
 
 PEI:
-- Stop loss: $68,400 (-0.44%)
+- Stop loss: $68,900 (-0.40%)
 - Take profit escalonado:
-  * 50% a $69,500 (+1.16%)
-  * 50% a $70,000 (+1.89%) 
+  * 50% a $69,980 (+1.16%)
+  * 50% a $70,500 (+1.91%) 

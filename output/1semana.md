@@ -4,71 +4,71 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| HCOLSEL | 35% | COMPRA FUERTE | Alta probabilidad de subida, soporte fuerte en $14,796 |
-| BHI | 30% | COMPRA | Beneficiado por sanciones a Rusia y precios del petróleo |
-| CELSIA | 20% | COMPRA | Programa de recompra en ejecución, dividendo próximo |
-| BANCOLOMBIA | 15% | COMPRA | Beneficiado por creación del Grupo Cibest |
+| PFGRUPSURA | 35% | COMPRA FUERTE | Sólidos fundamentales y momentum positivo |
+| PFGRUPOARG | 30% | COMPRA FUERTE | Tendencia alcista confirmada |
+| PFDAVVNDA | 20% | COMPRA FUERTE | Ruptura de resistencia previa |
+| BOGOTA | 15% | COMPRA | Momentum positivo creciente |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-HCOLSEL:
-- 20% ($1,000,000): Orden límite a $14,900 (67 acciones)
+PFGRUPSURA:
+- 20% ($1,000,000): Orden límite a $26,220 (38 acciones)
 - 15% ($750,000): Orden escalonada semanal:
-  * 50% a $14,850 (25 acciones)
-  * 50% a $14,800 (25 acciones)
+  * 50% a $26,100 (14 acciones)
+  * 50% a $26,000 (14 acciones)
 
-BHI:
-- 15% ($750,000): Orden límite a $295 (2,542 acciones)
+PFGRUPOARG:
+- 15% ($750,000): Orden límite a $15,180 (49 acciones)
 - 15% ($750,000): Orden escalonada semanal:
-  * 50% a $293 (1,280 acciones)
-  * 50% a $291 (1,288 acciones)
+  * 50% a $15,100 (25 acciones)
+  * 50% a $15,000 (25 acciones)
 
-CELSIA:
-- 10% ($500,000): Orden límite a $3,800 (132 acciones)
+PFDAVVNDA:
+- 10% ($500,000): Orden límite a $19,000 (26 acciones)
 - 10% ($500,000): Orden escalonada semanal:
-  * 50% a $3,750 (67 acciones)
-  * 50% a $3,700 (68 acciones)
+  * 50% a $18,900 (13 acciones)
+  * 50% a $18,800 (13 acciones)
 
-BANCOLOMBIA:
-- 10% ($500,000): Orden límite a $37,500 (13 acciones)
+BOGOTA:
+- 10% ($500,000): Orden límite a $26,600 (19 acciones)
 - 5% ($250,000): Orden escalonada semanal:
-  * 50% a $37,000 (3 acciones)
-  * 50% a $36,500 (3 acciones)
+  * 50% a $26,400 (5 acciones)
+  * 50% a $26,200 (5 acciones)
 
 ### 2.2 Órdenes de Salida
 
-HCOLSEL:
+PFGRUPSURA:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $15,400 (+3.36%)
-  * 30% a $15,600 (+4.70%)
-  * 30% a $15,800 (+6.04%)
+  * 40% a $26,500 (+1.07%)
+  * 30% a $26,800 (+2.21%)
+  * 30% a $27,000 (+2.97%)
 
-BHI:
-- Stop loss móvil: -2.5% desde máximos
-- Take profit escalonado:
-  * 40% a $310 (+5.08%)
-  * 30% a $315 (+6.78%)
-  * 30% a $320 (+8.47%)
-
-CELSIA:
+PFGRUPOARG:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $4,000 (+5.26%)
-  * 30% a $4,100 (+7.89%)
-  * 30% a $4,200 (+10.53%)
+  * 40% a $15,500 (+2.11%)
+  * 30% a $15,700 (+3.43%)
+  * 30% a $15,900 (+4.74%)
 
-BANCOLOMBIA:
+PFDAVVNDA:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $38,500 (+2.67%)
-  * 30% a $39,000 (+4.00%)
-  * 30% a $39,500 (+5.33%)
+  * 40% a $19,540 (+2.84%)
+  * 30% a $19,800 (+4.21%)
+  * 30% a $20,000 (+5.26%)
+
+BOGOTA:
+- Stop loss móvil: -2% desde máximos
+- Take profit escalonado:
+  * 40% a $27,000 (+1.50%)
+  * 30% a $27,300 (+2.63%)
+  * 30% a $27,500 (+3.38%)
 
 Notas relevantes:
-- Se mantiene alta exposición a HCOLSEL por momentum técnico
-- Se aumenta BHI por sanciones a Rusia que impactan precio del petróleo
-- Se incluye CELSIA por recompra de acciones y dividendo próximo
-- Se agrega BANCOLOMBIA por potencial de la creación del Grupo Cibest 
+- Se mantiene exposición a sector financiero por momentum técnico
+- Se aumenta PFGRUPOARG por tendencia alcista confirmada
+- Se incluye PFDAVVNDA por ruptura de resistencia
+- Se agrega BOGOTA por solidez técnica y fundamental 
