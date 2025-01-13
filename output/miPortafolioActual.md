@@ -4,76 +4,88 @@
 - Último precio: $3,765
 - Valor actual: $971,370
 - Dividendo próximo: $77.5 (17 enero)
-- Etiqueta 1 mes: MANTENER
+- Etiqueta 1 día: VENTA
+- Etiqueta 1 semana: VENTA FUERTE
 
 ### GEB (722 acciones - 37.7%)
 - Último precio: $2,485
 - Valor actual: $1,794,170
 - Sin dividendo próximo
-- Etiqueta 1 mes: VENTA
+- Etiqueta 1 día: VENTA
+- Etiqueta 1 semana: MANTENER
 
 ### PFGRUPOARG (136 acciones - 41.9%)
 - Último precio: $14,660
 - Valor actual: $1,993,760
 - Dividendo recibido: $159 (3 enero)
-- Etiqueta 1 mes: VENTA
+- Etiqueta 1 día: VENTA FUERTE
+- Etiqueta 1 semana: VENTA FUERTE
 
 Valor total: $4,759,300
 
 # Dividendos y Estrategia de Salida
 
 ## CELSIA (258 acciones)
-- Mantener hasta 18 ene 2025 (después de fecha ex-dividendo)
+- Mantener hasta 17 ene 2025 (fecha ex-dividendo)
 - Dividendo: $77.5 × 258 = $19,995
 - Estrategia de salida:
-  * Orden única: 258 acciones a $3,850 (+2.3%)
-  * Stop loss: $3,600 (-4.4%)
-- Valor esperado: $993,300 - $8,000 (1 comisión) + $19,995 = $1,005,295
+  * Orden escalonada:
+    - 60% (155 acciones) a $3,780 (+0.40%) inmediatamente después del dividendo
+    - 40% (103 acciones) a $3,800 (+0.93%) con stop loss $3,720
+- Valor esperado: $971,370 + $19,995 - $16,000 (2 comisiones) = $975,365
 
 ## GEB (722 acciones)
 - Venta inmediata (13 ene 2025)
 - Estrategia de salida:
   * Orden escalonada:
-    - 70% (505 acciones) a $2,500 (+0.6%)
-    - 30% (217 acciones) a $2,520 (+1.4%)
-  * Stop loss: $2,450 (-1.4%)
-- Valor esperado: $1,812,740 - $16,000 (2 comisiones) = $1,796,740
+    - 70% (505 acciones) a $2,490 (+0.20%)
+    - 30% (217 acciones) a $2,500 (+0.60%)
+  * Stop loss: $2,450 (-1.41%)
+- Valor esperado: $1,798,170 - $16,000 (2 comisiones) = $1,782,170
 
 ## PFGRUPOARG (136 acciones)
 - Dividendo ya recibido: $159 × 136 = $21,624
-- Estrategia de salida:
-  * Orden escalonada:
-    - 60% (82 acciones) a $14,800 (+1.0%)
-    - 40% (54 acciones) a $14,900 (+1.6%)
-  * Stop loss: $14,500 (-1.1%)
-- Valor esperado: $2,017,800 - $16,000 (2 comisiones) + $21,624 = $2,023,424
+- Estrategia de salida inmediata:
+  * Orden única: 136 acciones a $14,680 (+0.14%)
+  * Stop loss: $14,500 (-1.09%)
+- Valor esperado: $1,996,480 - $8,000 (1 comisión) + $21,624 = $2,010,104
 
-# Justificación y Plan de Reinversión
+# Plan de Reinversión
+
+1. Liquidación esperada total: $4,767,639
+   - CELSIA: $975,365 (post-dividendo 17 enero)
+   - GEB: $1,782,170 (inmediata)
+   - PFGRUPOARG: $2,010,104 (inmediata)
+
+2. Reinversión según portafolio recomendado a 1 semana:
+   - PFDAVVNDA (40%): $1,907,056
+   - BOGOTA (25%): $1,191,910
+   - PFGRUPSURA (20%): $953,528
+   - CELSIA (15%): $715,146 (reentrada post-dividendo)
+
+Justificación de cambios:
 
 1. CELSIA:
-- Mantener hasta dividendo y vender en orden única para minimizar comisiones
-- Precio objetivo conservador por etiqueta MANTENER
-- Stop ajustado a soporte técnico
+- Mantener hasta dividendo del 17 enero
+- Venta escalonada post-dividendo por etiqueta VENTA
+- Reentrada posterior con menor exposición (15%)
 
 2. GEB:
-- Venta escalonada por etiqueta VENTA
-- Mayor porcentaje en primera orden por riesgo de caída
-- Comisiones justificadas por tamaño de posición
+- Venta inmediata por etiqueta VENTA
+- Órdenes escalonadas cercanas al precio actual
+- Stop ajustado al soporte técnico
 
 3. PFGRUPOARG:
-- Venta escalonada por etiqueta VENTA
+- Venta inmediata por etiqueta VENTA FUERTE
+- Orden única para minimizar comisiones
 - Dividendo ya capturado
-- Aprovechar momentum alcista de corto plazo
 
-Plan de Reinversión:
-- Esperar liquidación total (aprox. $4,825,459)
-- Destinar capital según portafolio recomendado a 3 meses:
-  * PFDAVVNDA (35%): $1,688,911
-  * PFBCOLOM (25%): $1,206,365
-  * ISA (20%): $965,092
-  * ECOPETROL (20%): $965,092
+4. Plan de Reinversión:
+- Prioriza acciones con eventos corporativos próximos
+- Mantiene exposición a dividendos (BOGOTA)
+- Reduce exposición a sectores con riesgo regulatorio
+- Minimiza impacto de comisiones ($48,000 total)
 
-Valor total esperado: $4,825,459
-Rentabilidad esperada: +1.39%
-Comisiones totales: $40,000 (5 operaciones)
-Dividendos: $19,995 (CELSIA)
+Rentabilidad esperada: +0.17%
+Dividendos próximos: $19,995 (CELSIA)
+Comisiones totales: $48,000 (6 operaciones)
