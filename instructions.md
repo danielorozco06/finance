@@ -23,17 +23,17 @@ PROMPT:
 Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker:
 - Precios recientes: último precio
 - Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE.
-NOTA: Hoy es 2025-01-12.
+NOTA: Hoy es 2025-01-13.
 Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 
-CONTEXTO: /output/, news.md, tendency.md
+CONTEXTO: /output/ e /input/
 
 PROMPT:
 
 Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
-NOTA: Hoy es 2025-01-12.
+NOTA: Hoy es 2025-01-13.
 
 Tener en cuenta los siguientes criterios:
 
@@ -75,4 +75,4 @@ Teniendo en cuenta el archivo ./output/miPortafolioActual.md con el portafolio a
 - "Portafolio Actual"
 - "Dividendos y Estrategia de Salida"
 Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
-NOTA: Hoy es 2025-01-12.
+NOTA: Hoy es 2025-01-13.

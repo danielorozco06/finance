@@ -1,156 +1,171 @@
-# Análisis de Acciones
-Fecha de análisis: 2025-01-12
+# Análisis de Mercado - 2025-01-13
 
 ## PFGRUPOARG
-- **Precio reciente**: $14,660
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA 
-  - 3 meses: VENTA FUERTE
-  - 6 meses: VENTA FUERTE
+### Precios Recientes
+- Último precio: $14,660
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE (Prob. subida: 42.5%)
+- 1 semana: VENTA FUERTE (Prob. subida: 42.5%)
+- 3 meses: VENTA FUERTE (Prob. subida: 27.5%)
+- 6 meses: COMPRA FUERTE (Escisión anunciada para 2025)
 
 ## PFBCOLOM
-- **Precio reciente**: $35,180
-- **Recomendaciones**:
-  - 1 día: MANTENER
-  - 1 semana: MANTENER
-  - 3 meses: COMPRA
-  - 6 meses: COMPRA
-  
-*Nota: Noticia positiva sobre fusión con Scotiabank Colpatria podría impulsar el valor.*
+### Precios Recientes
+- Último precio: $35,180
+
+### Recomendación de Inversión
+- 1 día: MANTENER (Prob. subida: 50%)
+- 1 semana: MANTENER (Prob. subida: 50%)
+- 3 meses: COMPRA (Prob. subida: 57.5%, creación Grupo Cibest)
+- 6 meses: COMPRA (Prob. subida: 57.5%, creación Grupo Cibest)
 
 ## PFDAVVNDA
-- **Precio reciente**: $19,000
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: COMPRA
-  - 3 meses: COMPRA
-  - 6 meses: COMPRA
-  
-*Nota: Noticia positiva sobre fusión con Scotiabank Colpatria podría impulsar significativamente el valor.*
+### Precios Recientes
+- Último precio: $19,000
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 43.75%)
+- 1 semana: COMPRA (Prob. subida: 58.75%, fusión con Scotiabank)
+- 3 meses: COMPRA FUERTE (Fusión con Scotiabank)
+- 6 meses: COMPRA FUERTE (Fusión con Scotiabank)
 
 ## ISA
-- **Precio reciente**: $17,080
-- **Recomendaciones**:
-  - 1 día: MANTENER
-  - 1 semana: VENTA
-  - 3 meses: COMPRA
-  - 6 meses: COMPRA
+### Precios Recientes
+- Último precio: $17,080
+
+### Recomendación de Inversión
+- 1 día: MANTENER (Prob. subida: 51.25%)
+- 1 semana: VENTA (Prob. subida: 43.75%)
+- 3 meses: COMPRA (Prob. subida: 58.75%)
+- 6 meses: COMPRA (Prob. subida: 58.75%)
 
 ## ECOPETROL
-- **Precio reciente**: $1,845
-- **Recomendaciones**:
-  - 1 día: COMPRA
-  - 1 semana: COMPRA
-  - 3 meses: MANTENER
-  - 6 meses: MANTENER
-  
-*Nota: Precios del petróleo sobre US$80 y posible cambio de gobierno en 2026 podrían beneficiar la acción a largo plazo.*
+### Precios Recientes
+- Último precio: $1,845
+
+### Recomendación de Inversión
+- 1 día: COMPRA (Prob. subida: 55%, aumento precio petróleo)
+- 1 semana: COMPRA (Prob. subida: 55%, aumento precio petróleo)
+- 3 meses: MANTENER (Prob. subida: 47.5%)
+- 6 meses: COMPRA FUERTE (Probable cambio de gobierno en 2026)
 
 ## CNEC
-- **Precio reciente**: $11,600
-- **Recomendaciones**:
-  - 1 día: MANTENER
-  - 1 semana: COMPRA
-  - 3 meses: MANTENER
-  - 6 meses: MANTENER
+### Precios Recientes
+- Último precio: $11,600
+
+### Recomendación de Inversión
+- 1 día: MANTENER (Prob. subida: 50%)
+- 1 semana: COMPRA (Prob. subida: 65%)
+- 3 meses: MANTENER (Prob. subida: 50%)
+- 6 meses: COMPRA (Probable cambio de gobierno en 2026)
 
 ## PFGRUPSURA
-- **Precio reciente**: $26,080
-- **Recomendaciones**:
-  - 1 día: COMPRA FUERTE
-  - 1 semana: COMPRA
-  - 3 meses: MANTENER
-  - 6 meses: MANTENER
-  
-*Nota: Proceso de escisión con Grupo Argos podría generar valor adicional.*
+### Precios Recientes
+- Último precio: $26,080
+
+### Recomendación de Inversión
+- 1 día: COMPRA FUERTE (Prob. subida: 70%)
+- 1 semana: COMPRA (Prob. subida: 55%)
+- 3 meses: MANTENER (Prob. subida: 47.5%)
+- 6 meses: COMPRA FUERTE (Escisión anunciada para 2025)
 
 ## MINEROS
-- **Precio reciente**: $4,570
-- **Recomendaciones**:
-  - 1 día: COMPRA
-  - 1 semana: COMPRA
-  - 3 meses: MANTENER
-  - 6 meses: MANTENER
-  
-*Nota: Próximo pago de dividendo el 16 de enero de 0.02 USD.*
+### Precios Recientes
+- Último precio: $4,570
+
+### Recomendación de Inversión
+- 1 día: COMPRA (Prob. subida: 55%, dividendo próximo)
+- 1 semana: COMPRA (Prob. subida: 55%)
+- 3 meses: MANTENER (Prob. subida: 47.5%)
+- 6 meses: MANTENER (Prob. subida: 47.5%)
 
 ## PFCORFICOL
-- **Precio reciente**: $14,400
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA FUERTE
-  - 3 meses: VENTA FUERTE
-  - 6 meses: VENTA FUERTE
+### Precios Recientes
+- Último precio: $14,400
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE (Prob. subida: 31.25%)
+- 1 semana: VENTA FUERTE (Prob. subida: 23.75%)
+- 3 meses: VENTA FUERTE (Prob. subida: 23.75%)
+- 6 meses: VENTA FUERTE (Prob. subida: 23.75%)
 
 ## BOGOTA
-- **Precio reciente**: $26,860
-- **Recomendaciones**:
-  - 1 día: COMPRA
-  - 1 semana: COMPRA
-  - 3 meses: COMPRA
-  - 6 meses: COMPRA
-  
-*Nota: Próximo pago de dividendo de $121 el 3 de febrero.*
+### Precios Recientes
+- Último precio: $26,860
+
+### Recomendación de Inversión
+- 1 día: COMPRA (Prob. subida: 65%, dividendo próximo)
+- 1 semana: COMPRA (Prob. subida: 65%)
+- 3 meses: COMPRA (Prob. subida: 57.5%)
+- 6 meses: COMPRA (Prob. subida: 57.5%)
 
 ## TERPEL
-- **Precio reciente**: $11,780
-- **Recomendaciones**:
-  - 1 día: MANTENER
-  - 1 semana: VENTA
-  - 3 meses: VENTA
-  - 6 meses: VENTA
+### Precios Recientes
+- Último precio: $11,780
+
+### Recomendación de Inversión
+- 1 día: MANTENER (Prob. subida: 47.5%)
+- 1 semana: VENTA FUERTE (Prob. subida: 32.5%)
+- 3 meses: VENTA (Prob. subida: 40%)
+- 6 meses: VENTA (Prob. subida: 40%)
 
 ## CONCONCRET
-- **Precio reciente**: $670
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: COMPRA
-  - 3 meses: COMPRA
-  - 6 meses: COMPRA
+### Precios Recientes
+- Último precio: $670
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 40%)
+- 1 semana: COMPRA (Prob. subida: 55%)
+- 3 meses: COMPRA (Prob. subida: 55%)
+- 6 meses: COMPRA (Prob. subida: 55%)
 
 ## PFAVAL
-- **Precio reciente**: $458
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA
-  - 3 meses: VENTA FUERTE
-  - 6 meses: VENTA FUERTE
-  
-*Nota: Próximo pago de dividendo de $2 el 3 de febrero.*
+### Precios Recientes
+- Último precio: $458
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE (Prob. subida: 31.25%, dividendo ya pagado)
+- 1 semana: VENTA FUERTE (Prob. subida: 31.25%)
+- 3 meses: VENTA FUERTE (Prob. subida: 23.75%)
+- 6 meses: VENTA FUERTE (Prob. subida: 23.75%)
 
 ## CELSIA
-- **Precio reciente**: $3,765
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA
-  - 3 meses: VENTA
-  - 6 meses: VENTA
-  
-*Nota: Próximo pago de dividendo de $77.5 el 23 de enero.*
+### Precios Recientes
+- Último precio: $3,765
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 40%)
+- 1 semana: VENTA FUERTE (Prob. subida: 32.5%)
+- 3 meses: VENTA (Prob. subida: 40%)
+- 6 meses: MANTENER (Programa de recompra de acciones)
 
 ## GEB
-- **Precio reciente**: $2,485
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: MANTENER
-  - 3 meses: MANTENER
-  - 6 meses: MANTENER
+### Precios Recientes
+- Último precio: $2,485
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 38.75%)
+- 1 semana: MANTENER (Prob. subida: 46.25%)
+- 3 meses: MANTENER (Prob. subida: 46.25%)
+- 6 meses: MANTENER (Prob. subida: 46.25%)
 
 ## NUTRESA
-- **Precio reciente**: $87,000
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA
-  - 3 meses: VENTA
-  - 6 meses: VENTA
+### Precios Recientes
+- Último precio: $87,000
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 40%)
+- 1 semana: VENTA (Prob. subida: 40%)
+- 3 meses: VENTA (Prob. subida: 40%)
+- 6 meses: VENTA (Prob. subida: 40%)
 
 ## GRUBOLIVAR
-- **Precio reciente**: $64,960
-- **Recomendaciones**:
-  - 1 día: VENTA
-  - 1 semana: VENTA
-  - 3 meses: VENTA
-  - 6 meses: VENTA
-  
-*Nota: Próximo pago de dividendo de $207 el 17 de febrero.* 
+### Precios Recientes
+- Último precio: $64,960
+
+### Recomendación de Inversión
+- 1 día: VENTA (Prob. subida: 40%, dividendo ya pagado)
+- 1 semana: VENTA (Prob. subida: 40%)
+- 3 meses: VENTA (Prob. subida: 40%)
+- 6 meses: VENTA (Prob. subida: 40%) 
