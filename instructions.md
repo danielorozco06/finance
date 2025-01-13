@@ -16,11 +16,7 @@ CONTEXTO: /input/
 
 PROMPT:
 
-Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker del archivo tickerCol.txt:
-- Precios recientes: último precio
-- Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Solo indicar las etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Las etiqueta debe ser sugerida teniendo la ponen cuenta las noticias del archivo input/news.md, el analisis del archivo output/analysis.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia. Incluir una muy pequeña justificación de la recomendación.
-- Soporte y resistencia: valores y distancias.
-NOTA: Hoy es 2025-01-13.
+cont
 
 ## Prompt portafolio de inversión
 
