@@ -15,7 +15,7 @@ def load_tickers_from_file(filename: str) -> list[str]:
 
 
 def setup_directories() -> None:
-    for directory in ["input/tickers_info", "tickers_history"]:
+    for directory in ["tickers_history"]:
         os.makedirs(directory, exist_ok=True)
 
 
