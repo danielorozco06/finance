@@ -308,12 +308,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     # Calcular indicadores técnicos
     df = calculate_technical_indicators(df)
 
-    # Verificar que hay suficientes datos
-    if len(df) < 120:  # Aproximadamente 6 meses de datos (20 días * 6)
-        raise ValueError(
-            f"Insuficientes datos en {csv_file}. Se requieren al menos 120 días de datos."
-        )
-
     # Verificar calidad de los datos
     print("\nEstadísticas de datos:")
     print(f"- Total de registros: {len(df)}")

@@ -16,15 +16,14 @@ PROMPT: Modificar el archivo input/news.md para que contenga un resumen de un pa
 
 ## Prompt analisis individual
 
-CONTEXTO: /input/ y /output/
+CONTEXTO: /input/, /output/ y tickerCol.txt
 
 PROMPT:
 
-Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker:
+Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker del archivo tickerCol.txt:
 - Precios recientes: último precio
 - Recomendación de inversión: 1 día, 1 semana, 3 meses y 6 meses. Usar etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE.
 NOTA: Hoy es 2025-01-13.
-Nota: No crear scripts de python.
 
 ## Prompt portafolio de inversión
 
@@ -34,6 +33,7 @@ PROMPT:
 
 Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-13.
+NOTA: Tener presente que las acciones preferenciales y ordinarias pueden tener diferentes precios, pero referencian a la misma compañia.
 
 Tener en cuenta los siguientes criterios:
 
