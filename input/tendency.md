@@ -1,21 +1,21 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 08:43:20
-Período analizado: 2024-07-10 a 2025-01-10
+Generado el: 2025-01-13 09:44:56
+Período analizado: 2024-07-15 a 2025-01-10
 
 ## PFGRUPOARG_CL
 - Último precio: $14660.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $14500.0 (2025-01-10) - $15480.0 (2025-01-07)
+  * 1 semana: $14660.0 (2025-01-10) - $15480.0 (2025-01-07)
   * 1 mes: $13856.39 (2024-12-12) - $15637.92 (2024-12-19)
   * 3 meses: $11777.93 (2024-10-15) - $15637.92 (2024-12-19)
   * 6 meses: $10544.2 (2024-08-05) - $15637.92 (2024-12-19)
@@ -23,9 +23,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $15341.0 (distancia: 4.65%)
 
 ### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 291.4, Señal: 391.32)
+- MACD: Bajista (MACD: 291.39, Señal: 391.3)
 - Estocástico: Sobreventa (%K: 0.0, %D: 21.74)
-- ATR (Volatilidad): 307.87
+- ATR (Volatilidad): 282.16
 
 ### Niveles de Fibonacci
 - Posición actual: Entre 50.0 y 61.8
@@ -33,18 +33,18 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Bajo (x0.4 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFBCOLOM_CL
 - Último precio: $35180.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 57.5%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 57.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 42.5%)
+- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
+- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -56,7 +56,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $35500.0 (distancia: 0.91%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 123.85, Señal: 112.91)
+- MACD: Alcista (MACD: 123.86, Señal: 112.92)
 - Estocástico: Normal (%K: 72.79, %D: 76.32)
 - ATR (Volatilidad): 456.05
 
@@ -66,18 +66,18 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x1.15 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFDAVVNDA_CL
 - Último precio: $19000.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 43.75%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 58.75%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 58.75%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 58.75%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 43.75%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 43.75%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 43.75%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -89,9 +89,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $19540.0 (distancia: 2.84%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 186.53, Señal: -10.78)
+- MACD: Alcista (MACD: 186.55, Señal: -10.76)
 - Estocástico: Normal (%K: 72.73, %D: 83.5)
-- ATR (Volatilidad): 385.71
+- ATR (Volatilidad): 384.29
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -99,12 +99,12 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x1.54 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## ISA_CL
 - Último precio: $17080.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
@@ -122,9 +122,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $17300.0 (distancia: 1.29%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 99.77, Señal: 25.05)
+- MACD: Alcista (MACD: 99.75, Señal: 25.02)
 - Estocástico: Normal (%K: 80.0, %D: 77.58)
-- ATR (Volatilidad): 258.57
+- ATR (Volatilidad): 247.14
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -132,32 +132,32 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Bajo (x0.5 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## ECOPETROL_CL
 - Último precio: $1845.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 55.0%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico
 - Rangos históricos:
-  * 1 semana: $1780.0 (2025-01-03) - $1880.0 (2025-01-10)
-  * 1 mes: $1640.0 (2024-12-23) - $1880.0 (2025-01-10)
-  * 3 meses: $1590.0 (2024-11-08) - $1880.0 (2025-01-10)
+  * 1 semana: $1780.0 (2025-01-03) - $1860.0 (2025-01-07)
+  * 1 mes: $1640.0 (2024-12-23) - $1860.0 (2025-01-07)
+  * 3 meses: $1590.0 (2024-11-08) - $1860.0 (2025-01-07)
   * 6 meses: $1590.0 (2024-11-08) - $2200.0 (2024-07-19)
 - Soporte: $1650.0 (distancia: 10.57%)
 - Resistencia: $1845.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 19.52, Señal: -0.23)
+- MACD: Alcista (MACD: 19.52, Señal: -0.24)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 94.02)
-- ATR (Volatilidad): 41.79
+- ATR (Volatilidad): 39.29
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -165,16 +165,16 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x1.5 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## CNEC_CL
 - Último precio: $11600.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 65.0%)
+- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 
@@ -188,9 +188,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $12000.0 (distancia: 3.45%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 14.94, Señal: -13.35)
+- MACD: Alcista (MACD: 14.91, Señal: -13.39)
 - Estocástico: Normal (%K: 77.78, %D: 92.59)
-- ATR (Volatilidad): 281.43
+- ATR (Volatilidad): 260.0
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -198,18 +198,18 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x1.23 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PFGRUPSURA_CL
 - Último precio: $26080.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 55.0%)
-- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 55.0%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -221,9 +221,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $26340.0 (distancia: 1.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 750.43, Señal: 793.09)
+- MACD: Bajista (MACD: 750.45, Señal: 793.11)
 - Estocástico: Normal (%K: 77.28, %D: 76.18)
-- ATR (Volatilidad): 335.06
+- ATR (Volatilidad): 333.63
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -231,16 +231,16 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x1.55 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## MINEROS_CL
 - Último precio: $4570.0
-- Registros analizados: 129
+- Registros analizados: 126
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 55.0%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
+- Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 
@@ -254,9 +254,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $4570.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 99.39, Señal: 87.7)
+- MACD: Alcista (MACD: 99.39, Señal: 87.69)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 96.18)
-- ATR (Volatilidad): 80.0
+- ATR (Volatilidad): 78.21
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -264,15 +264,15 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x1.18 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PFCORFICOL_CL
 - Último precio: $14400.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
@@ -297,16 +297,16 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x0.59 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## BOGOTA_CL
 - Último precio: $26860.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 65.0%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 65.0%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 57.5%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 57.5%)
 
@@ -320,9 +320,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $27000.0 (distancia: 0.52%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -8.0, Señal: -76.95)
+- MACD: Alcista (MACD: -8.01, Señal: -76.96)
 - Estocástico: Sobrecompra (%K: 81.58, %D: 86.3)
-- ATR (Volatilidad): 373.86
+- ATR (Volatilidad): 342.43
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -330,18 +330,18 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x1.49 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## TERPEL_CL
-- Último precio: $11780.0
-- Registros analizados: 127
+- Último precio: $11680.0
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 32.5%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 32.5%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 32.5%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -349,32 +349,32 @@ Período analizado: 2024-07-10 a 2025-01-10
   * 1 mes: $10900.0 (2024-12-12) - $11820.0 (2025-01-03)
   * 3 meses: $10000.0 (2024-10-15) - $11820.0 (2025-01-03)
   * 6 meses: $8400.0 (2024-08-05) - $11820.0 (2025-01-03)
-- Soporte: $10900.0 (distancia: 7.47%)
-- Resistencia: $11780.0 (distancia: 0.0%)
+- Soporte: $10900.0 (distancia: 6.68%)
+- Resistencia: $11720.0 (distancia: 0.34%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 198.99, Señal: 187.56)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 86.27)
-- ATR (Volatilidad): 124.29
+- MACD: Alcista (MACD: 191.02, Señal: 185.97)
+- Estocástico: Sobrecompra (%K: 94.12, %D: 84.31)
+- ATR (Volatilidad): 115.71
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $11443.84, 50%: $11340.0, 61.8%: $11236.16
+- Niveles: 38.2%: $11406.76, 50%: $11310.0, 61.8%: $11213.24
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x0.68 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## CONCONCRET_CL
 - Último precio: $670.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 55.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -386,9 +386,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $670.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 78.46, Señal: 58.1)
+- MACD: Alcista (MACD: 78.46, Señal: 58.11)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 95.28)
-- ATR (Volatilidad): 31.86
+- ATR (Volatilidad): 30.93
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -396,12 +396,12 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x1.24 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PFAVAL_CL
 - Último precio: $458.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
@@ -421,7 +421,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 3.01, Señal: 2.19)
 - Estocástico: Normal (%K: 79.38, %D: 86.25)
-- ATR (Volatilidad): 9.06
+- ATR (Volatilidad): 8.56
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -429,12 +429,12 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Bajo (x0.41 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## CELSIA_CL
 - Último precio: $3765.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
@@ -454,7 +454,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 45.09, Señal: 25.31)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 98.61)
-- ATR (Volatilidad): 38.93
+- ATR (Volatilidad): 38.57
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -462,18 +462,18 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x0.85 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## GEB_CL
 - Último precio: $2485.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
-- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
-- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
+- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
 
 ### Análisis Técnico
 - Rangos históricos:
@@ -485,9 +485,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $2520.0 (distancia: 1.41%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 12.55, Señal: 10.94)
+- MACD: Alcista (MACD: 12.54, Señal: 10.93)
 - Estocástico: Normal (%K: 65.0, %D: 83.33)
-- ATR (Volatilidad): 35.71
+- ATR (Volatilidad): 35.36
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -495,12 +495,12 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x5.47 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## NUTRESA_CL
 - Último precio: $87000.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
@@ -518,7 +518,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $87000.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 2026.23, Señal: 1046.98)
+- MACD: Alcista (MACD: 2026.27, Señal: 1047.04)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 858.57
 
@@ -533,7 +533,7 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ## GRUBOLIVAR_CL
 - Último precio: $64960.0
-- Registros analizados: 127
+- Registros analizados: 124
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
@@ -551,9 +551,9 @@ Período analizado: 2024-07-10 a 2025-01-10
 - Resistencia: $64960.0 (distancia: 0.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1399.08, Señal: 632.34)
+- MACD: Alcista (MACD: 1399.13, Señal: 632.42)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 1187.05
+- ATR (Volatilidad): 1185.62
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -561,6 +561,6 @@ Período analizado: 2024-07-10 a 2025-01-10
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Bajo (x0.3 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 

@@ -29,9 +29,10 @@ Valor total: $4,759,300
 - Mantener hasta 17 ene 2025 (fecha ex-dividendo)
 - Dividendo: $77.5 × 258 = $19,995
 - Estrategia de salida:
-  * Orden escalonada:
-    - 60% (155 acciones) a $3,780 (+0.40%) inmediatamente después del dividendo
-    - 40% (103 acciones) a $3,800 (+0.93%) con stop loss $3,720
+  * Orden escalonada post-dividendo:
+    - 60% (155 acciones) a $3,780 (+0.40%)
+    - 40% (103 acciones) a $3,800 (+0.93%)
+  * Stop loss: $3,720 (-1.19%)
 - Valor esperado: $971,370 + $19,995 - $16,000 (2 comisiones) = $975,365
 
 ## GEB (722 acciones)
@@ -57,22 +58,22 @@ Valor total: $4,759,300
    - GEB: $1,782,170 (inmediata)
    - PFGRUPOARG: $2,010,104 (inmediata)
 
-2. Reinversión según portafolio recomendado a 1 semana:
-   - PFDAVVNDA (40%): $1,907,056
-   - BOGOTA (25%): $1,191,910
-   - PFGRUPSURA (20%): $953,528
-   - CELSIA (15%): $715,146 (reentrada post-dividendo)
+2. Reinversión según portafolio recomendado a 1 día:
+   - PFGRUPSURA (35%): $1,668,674
+   - PFBCOLOM (25%): $1,191,910
+   - PFDAVVNDA (25%): $1,191,910
+   - MINEROS (15%): $715,146
 
 Justificación de cambios:
 
 1. CELSIA:
 - Mantener hasta dividendo del 17 enero
 - Venta escalonada post-dividendo por etiqueta VENTA
-- Reentrada posterior con menor exposición (15%)
+- Minimizar impacto de comisiones con dos órdenes
 
 2. GEB:
 - Venta inmediata por etiqueta VENTA
-- Órdenes escalonadas cercanas al precio actual
+- Órdenes escalonadas para mejor ejecución
 - Stop ajustado al soporte técnico
 
 3. PFGRUPOARG:
@@ -81,11 +82,11 @@ Justificación de cambios:
 - Dividendo ya capturado
 
 4. Plan de Reinversión:
-- Prioriza acciones con eventos corporativos próximos
-- Mantiene exposición a dividendos (BOGOTA)
+- Prioriza acciones con etiqueta COMPRA/COMPRA FUERTE
+- Mantiene exposición a dividendos (MINEROS)
 - Reduce exposición a sectores con riesgo regulatorio
-- Minimiza impacto de comisiones ($48,000 total)
+- Optimiza comisiones ($40,000 total en nuevas posiciones)
 
 Rentabilidad esperada: +0.17%
 Dividendos próximos: $19,995 (CELSIA)
-Comisiones totales: $48,000 (6 operaciones)
+Comisiones totales: $64,000 (8 operaciones)
