@@ -43,7 +43,7 @@ def save_ticker_history(ticker_symbol: str) -> None:
     history_df = data.history(period="6mo")
 
     # Keep only desired columns
-    history_df = history_df[["Open", "Close", "Volume"]]
+    history_df = history_df[["Open", "Close", "Volume", "High", "Low"]]
     history_df.to_csv(csv_file)
     print(f"Historical data for {ticker_symbol} has been saved to {csv_file}")
 
@@ -54,7 +54,7 @@ def main() -> None:
 
     for ticker in tickers:
         try:
-            save_ticker_info(ticker)
+            # save_ticker_info(ticker)
             save_ticker_history(ticker)
         except Exception as e:
             print(f"Error processing {ticker}: {str(e)}")
