@@ -227,7 +227,6 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     # Eliminar duplicados
     duplicates = df["Date"].duplicated()
     if duplicates.any():
-        print(f"Eliminando {duplicates.sum()} registros duplicados")
         df = df.drop_duplicates(subset=["Date"], keep="last")
 
     # Ordenar por fecha
@@ -282,8 +281,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             dtype={"Date": str, "Open": float, "Close": float, "Volume": float},
         )
         initial_rows = len(df)
-        print(f"\nProcesando {csv_file}")
-        print(f"Registros iniciales: {initial_rows}")
 
     except Exception as e:
         raise ValueError(f"Error al leer el archivo {csv_file}: {str(e)}")
@@ -294,35 +291,20 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     # Analizar continuidad de datos
     date_range = pd.date_range(start=df["Date"].min(), end=df["Date"].max(), freq="B")
     missing_dates = set(date_range) - set(df["Date"])
-    if missing_dates:
-        print(
-            f"Advertencia: {len(missing_dates)} fechas faltantes en el rango de datos"
-        )
-
-    print(
-        f"Rango de fechas: {df['Date'].min().strftime('%Y-%m-%d')} a {df['Date'].max().strftime('%Y-%m-%d')}"
-    )
-    print(f"Días hábiles en el rango: {len(date_range)}")
-    print(f"Registros disponibles: {len(df)}")
 
     # Calcular indicadores técnicos
     df = calculate_technical_indicators(df)
-
-    # Verificar calidad de los datos
-    print("\nEstadísticas de datos:")
-    print(f"- Total de registros: {len(df)}")
-    print(f"- Registros con precio: {df['Close'].notna().sum()}")
-    print(f"- Registros con volumen: {df['Volume'].notna().sum()}")
 
     # Calcular tendencias para diferentes períodos futuros
     prob_1d, trend_1d = calculate_trend(df, 1)  # Próximo día
     prob_1w, trend_1w = calculate_trend(df, 5)  # Próxima semana
     prob_3m, trend_3m = calculate_trend(df, 60)  # Próximos 3 meses
     prob_6m, trend_6m = calculate_trend(df, 120)  # Próximos 6 meses
+    prob_12m, trend_12m = calculate_trend(df, 240)  # Próximos 12 meses
+    prob_24m, trend_24m = calculate_trend(df, 480)  # Próximos 24 meses
 
     # Obtener último precio
     last_price = df["Close"].iloc[-1]
-    print(f"Análisis completado usando {len(df)} registros\n")
 
     # Calcular máximos y mínimos para diferentes períodos
     # 1 semana = 5 días hábiles
@@ -333,6 +315,10 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     last_3months = df.tail(60)
     # 6 meses = ~120 días hábiles
     last_6months = df.tail(120)
+    # 12 meses = ~240 días hábiles en un año
+    last_12months = df.tail(240)
+    # 24 meses = ~480 días hábiles en dos años
+    last_24months = df.tail(480)
 
     return {
         "ultimo_precio": round(last_price, 2),
@@ -344,6 +330,10 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "prob_subida_3m": prob_3m,
         "tendencia_prox_6m": trend_6m,
         "prob_subida_6m": prob_6m,
+        "tendencia_prox_12m": trend_12m,
+        "prob_subida_12m": prob_12m,
+        "tendencia_prox_24m": trend_24m,
+        "prob_subida_24m": prob_24m,
         "registros_analizados": len(df),
         "fecha_inicial": df["Date"].min().strftime("%Y-%m-%d"),
         "fecha_final": df["Date"].max().strftime("%Y-%m-%d"),
@@ -427,6 +417,22 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "fecha_minimo_6meses": last_6months.loc[
             last_6months["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
+        "maximo_12meses": round(last_12months["High"].max(), 2),
+        "minimo_12meses": round(last_12months["Low"].min(), 2),
+        "fecha_maximo_12meses": last_12months.loc[
+            last_12months["High"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_12meses": last_12months.loc[
+            last_12months["Low"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "maximo_24meses": round(last_24months["High"].max(), 2),
+        "minimo_24meses": round(last_24months["Low"].min(), 2),
+        "fecha_maximo_24meses": last_24months.loc[
+            last_24months["High"].idxmax(), "Date"
+        ].strftime("%Y-%m-%d"),
+        "fecha_minimo_24meses": last_24months.loc[
+            last_24months["Low"].idxmin(), "Date"
+        ].strftime("%Y-%m-%d"),
         # Agregar valores de soporte y resistencia
         "valor_soporte": round(df["Support"].iloc[-1], 2),
         "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
@@ -439,16 +445,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
 
 def delete_directory(directory: str) -> None:
-    """Elimina un directorio y su contenido.
-
-    Args:
-        directory: Ruta al directorio a eliminar
-    """
+    """Elimina un directorio y su contenido."""
     try:
         import shutil
 
         shutil.rmtree(directory)
-        print(f"Directorio {directory} eliminado exitosamente")
     except Exception as e:
         print(f"Error al eliminar el directorio {directory}: {str(e)}")
 
@@ -503,6 +504,12 @@ def generate_tendency_report(
                 f.write(
                     f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n"
                 )
+                f.write(
+                    f"- Próximos 12 meses: {resultado['tendencia_prox_12m']} (Prob. subida: {resultado['prob_subida_12m']}%)\n"
+                )
+                f.write(
+                    f"- Próximos 24 meses: {resultado['tendencia_prox_24m']} (Prob. subida: {resultado['prob_subida_24m']}%)\n"
+                )
                 f.write("\n### Análisis Técnico\n")
                 f.write("- Rangos históricos:\n")
                 f.write(
@@ -520,6 +527,14 @@ def generate_tendency_report(
                 f.write(
                     f"  * 6 meses: ${resultado['minimo_6meses']} ({resultado['fecha_minimo_6meses']}) - "
                     f"${resultado['maximo_6meses']} ({resultado['fecha_maximo_6meses']})\n"
+                )
+                f.write(
+                    f"  * 12 meses: ${resultado['minimo_12meses']} ({resultado['fecha_minimo_12meses']}) - "
+                    f"${resultado['maximo_12meses']} ({resultado['fecha_maximo_12meses']})\n"
+                )
+                f.write(
+                    f"  * 24 meses: ${resultado['minimo_24meses']} ({resultado['fecha_minimo_24meses']}) - "
+                    f"${resultado['maximo_24meses']} ({resultado['fecha_maximo_24meses']})\n"
                 )
                 f.write(
                     f"- Soporte: ${resultado['valor_soporte']} (distancia: {resultado['dist_soporte']}%)\n"
