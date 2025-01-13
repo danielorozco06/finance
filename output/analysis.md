@@ -1,171 +1,171 @@
 # Análisis de Mercado - 2025-01-13
 
 ## PFGRUPOARG
-### Precios Recientes
+### Precios recientes
 - Último precio: $14,660
 
-### Recomendación de Inversión
-- 1 día: VENTA FUERTE (Prob. subida: 42.5%)
-- 1 semana: VENTA FUERTE (Prob. subida: 42.5%)
-- 3 meses: VENTA FUERTE (Prob. subida: 27.5%)
-- 6 meses: COMPRA FUERTE (Escisión anunciada para 2025)
+### Recomendación de inversión
+- 1 día: VENTA FUERTE
+- 1 semana: VENTA FUERTE
+- 3 meses: VENTA FUERTE
+- 6 meses: COMPRA FUERTE
 
 ## PFBCOLOM
-### Precios Recientes
+### Precios recientes
 - Último precio: $35,180
 
-### Recomendación de Inversión
-- 1 día: MANTENER (Prob. subida: 50%)
-- 1 semana: MANTENER (Prob. subida: 50%)
-- 3 meses: COMPRA (Prob. subida: 57.5%, creación Grupo Cibest)
-- 6 meses: COMPRA (Prob. subida: 57.5%, creación Grupo Cibest)
+### Recomendación de inversión
+- 1 día: MANTENER
+- 1 semana: MANTENER
+- 3 meses: COMPRA
+- 6 meses: COMPRA
 
 ## PFDAVVNDA
-### Precios Recientes
+### Precios recientes
 - Último precio: $19,000
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 43.75%)
-- 1 semana: COMPRA (Prob. subida: 58.75%, fusión con Scotiabank)
-- 3 meses: COMPRA FUERTE (Fusión con Scotiabank)
-- 6 meses: COMPRA FUERTE (Fusión con Scotiabank)
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: COMPRA
+- 3 meses: COMPRA FUERTE
+- 6 meses: COMPRA FUERTE
 
 ## ISA
-### Precios Recientes
+### Precios recientes
 - Último precio: $17,080
 
-### Recomendación de Inversión
-- 1 día: MANTENER (Prob. subida: 51.25%)
-- 1 semana: VENTA (Prob. subida: 43.75%)
-- 3 meses: COMPRA (Prob. subida: 58.75%)
-- 6 meses: COMPRA (Prob. subida: 58.75%)
+### Recomendación de inversión
+- 1 día: MANTENER
+- 1 semana: VENTA
+- 3 meses: COMPRA
+- 6 meses: COMPRA
 
 ## ECOPETROL
-### Precios Recientes
+### Precios recientes
 - Último precio: $1,845
 
-### Recomendación de Inversión
-- 1 día: COMPRA (Prob. subida: 55%, aumento precio petróleo)
-- 1 semana: COMPRA (Prob. subida: 55%, aumento precio petróleo)
-- 3 meses: MANTENER (Prob. subida: 47.5%)
-- 6 meses: COMPRA FUERTE (Probable cambio de gobierno en 2026)
+### Recomendación de inversión
+- 1 día: COMPRA
+- 1 semana: COMPRA
+- 3 meses: MANTENER
+- 6 meses: COMPRA FUERTE
 
 ## CNEC
-### Precios Recientes
+### Precios recientes
 - Último precio: $11,600
 
-### Recomendación de Inversión
-- 1 día: MANTENER (Prob. subida: 50%)
-- 1 semana: COMPRA (Prob. subida: 65%)
-- 3 meses: MANTENER (Prob. subida: 50%)
-- 6 meses: COMPRA (Probable cambio de gobierno en 2026)
+### Recomendación de inversión
+- 1 día: MANTENER
+- 1 semana: COMPRA
+- 3 meses: MANTENER
+- 6 meses: COMPRA
 
 ## PFGRUPSURA
-### Precios Recientes
+### Precios recientes
 - Último precio: $26,080
 
-### Recomendación de Inversión
-- 1 día: COMPRA FUERTE (Prob. subida: 70%)
-- 1 semana: COMPRA (Prob. subida: 55%)
-- 3 meses: MANTENER (Prob. subida: 47.5%)
-- 6 meses: COMPRA FUERTE (Escisión anunciada para 2025)
+### Recomendación de inversión
+- 1 día: COMPRA FUERTE
+- 1 semana: COMPRA
+- 3 meses: MANTENER
+- 6 meses: COMPRA FUERTE
 
 ## MINEROS
-### Precios Recientes
+### Precios recientes
 - Último precio: $4,570
 
-### Recomendación de Inversión
-- 1 día: COMPRA (Prob. subida: 55%, dividendo próximo)
-- 1 semana: COMPRA (Prob. subida: 55%)
-- 3 meses: MANTENER (Prob. subida: 47.5%)
-- 6 meses: MANTENER (Prob. subida: 47.5%)
+### Recomendación de inversión
+- 1 día: COMPRA
+- 1 semana: COMPRA
+- 3 meses: MANTENER
+- 6 meses: MANTENER
 
 ## PFCORFICOL
-### Precios Recientes
+### Precios recientes
 - Último precio: $14,400
 
-### Recomendación de Inversión
-- 1 día: VENTA FUERTE (Prob. subida: 31.25%)
-- 1 semana: VENTA FUERTE (Prob. subida: 23.75%)
-- 3 meses: VENTA FUERTE (Prob. subida: 23.75%)
-- 6 meses: VENTA FUERTE (Prob. subida: 23.75%)
+### Recomendación de inversión
+- 1 día: VENTA FUERTE
+- 1 semana: VENTA FUERTE
+- 3 meses: VENTA FUERTE
+- 6 meses: VENTA FUERTE
 
 ## BOGOTA
-### Precios Recientes
+### Precios recientes
 - Último precio: $26,860
 
-### Recomendación de Inversión
-- 1 día: COMPRA (Prob. subida: 65%, dividendo próximo)
-- 1 semana: COMPRA (Prob. subida: 65%)
-- 3 meses: COMPRA (Prob. subida: 57.5%)
-- 6 meses: COMPRA (Prob. subida: 57.5%)
+### Recomendación de inversión
+- 1 día: COMPRA
+- 1 semana: COMPRA
+- 3 meses: COMPRA
+- 6 meses: COMPRA
 
 ## TERPEL
-### Precios Recientes
+### Precios recientes
 - Último precio: $11,780
 
-### Recomendación de Inversión
-- 1 día: MANTENER (Prob. subida: 47.5%)
-- 1 semana: VENTA FUERTE (Prob. subida: 32.5%)
-- 3 meses: VENTA (Prob. subida: 40%)
-- 6 meses: VENTA (Prob. subida: 40%)
+### Recomendación de inversión
+- 1 día: MANTENER
+- 1 semana: VENTA FUERTE
+- 3 meses: VENTA
+- 6 meses: VENTA
 
 ## CONCONCRET
-### Precios Recientes
+### Precios recientes
 - Último precio: $670
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 40%)
-- 1 semana: COMPRA (Prob. subida: 55%)
-- 3 meses: COMPRA (Prob. subida: 55%)
-- 6 meses: COMPRA (Prob. subida: 55%)
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: COMPRA
+- 3 meses: COMPRA
+- 6 meses: COMPRA
 
 ## PFAVAL
-### Precios Recientes
+### Precios recientes
 - Último precio: $458
 
-### Recomendación de Inversión
-- 1 día: VENTA FUERTE (Prob. subida: 31.25%, dividendo ya pagado)
-- 1 semana: VENTA FUERTE (Prob. subida: 31.25%)
-- 3 meses: VENTA FUERTE (Prob. subida: 23.75%)
-- 6 meses: VENTA FUERTE (Prob. subida: 23.75%)
+### Recomendación de inversión
+- 1 día: VENTA FUERTE
+- 1 semana: VENTA FUERTE
+- 3 meses: VENTA FUERTE
+- 6 meses: VENTA FUERTE
 
 ## CELSIA
-### Precios Recientes
+### Precios recientes
 - Último precio: $3,765
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 40%)
-- 1 semana: VENTA FUERTE (Prob. subida: 32.5%)
-- 3 meses: VENTA (Prob. subida: 40%)
-- 6 meses: MANTENER (Programa de recompra de acciones)
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: VENTA FUERTE
+- 3 meses: VENTA
+- 6 meses: MANTENER
 
 ## GEB
-### Precios Recientes
+### Precios recientes
 - Último precio: $2,485
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 38.75%)
-- 1 semana: MANTENER (Prob. subida: 46.25%)
-- 3 meses: MANTENER (Prob. subida: 46.25%)
-- 6 meses: MANTENER (Prob. subida: 46.25%)
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: MANTENER
+- 3 meses: MANTENER
+- 6 meses: MANTENER
 
 ## NUTRESA
-### Precios Recientes
+### Precios recientes
 - Último precio: $87,000
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 40%)
-- 1 semana: VENTA (Prob. subida: 40%)
-- 3 meses: VENTA (Prob. subida: 40%)
-- 6 meses: VENTA (Prob. subida: 40%)
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: VENTA
+- 3 meses: VENTA
+- 6 meses: VENTA
 
 ## GRUBOLIVAR
-### Precios Recientes
+### Precios recientes
 - Último precio: $64,960
 
-### Recomendación de Inversión
-- 1 día: VENTA (Prob. subida: 40%, dividendo ya pagado)
-- 1 semana: VENTA (Prob. subida: 40%)
-- 3 meses: VENTA (Prob. subida: 40%)
-- 6 meses: VENTA (Prob. subida: 40%) 
+### Recomendación de inversión
+- 1 día: VENTA
+- 1 semana: VENTA
+- 3 meses: VENTA
+- 6 meses: VENTA 

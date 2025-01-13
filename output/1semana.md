@@ -4,10 +4,10 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFDAVVNDA | 40% | COMPRA | Fusión con Scotiabank, tendencia alcista, mejor banco en utilidades |
-| BOGOTA | 25% | COMPRA | Tendencia alcista sostenida, dividendo próximo 28 enero |
-| PFGRUPSURA | 20% | COMPRA | Escisión con Grupo Argos, momentum positivo |
-| CELSIA | 15% | COMPRA | Programa de recompra, dividendo próximo 17 enero |
+| PFDAVVNDA | 35% | COMPRA | Fusión con Scotiabank |
+| BOGOTA | 25% | COMPRA | Dividendo próximo |
+| PFGRUPSURA | 20% | COMPRA | Escisión anunciada |
+| MINEROS | 20% | COMPRA | Dividendo próximo |
 
 ## 2. Plan de Ejecución
 
@@ -15,23 +15,23 @@
 
 PFDAVVNDA:
 - 15% ($750,000): Orden límite a $18,900 (40 acciones)
-- 15% ($750,000): Orden límite a $18,800 (40 acciones)
-- 10% ($500,000): Orden mercado al inicio de semana (27 acciones)
+- 10% ($500,000): Orden límite a $18,800 (27 acciones)
+- 10% ($500,000): Orden mercado escalonada semanal
 
 BOGOTA:
 - 10% ($500,000): Orden límite a $26,800 (19 acciones)
 - 8% ($400,000): Orden límite a $26,700 (15 acciones)
-- 7% ($350,000): Orden mercado al inicio de semana (13 acciones)
+- 7% ($350,000): Orden mercado escalonada semanal
 
 PFGRUPSURA:
 - 8% ($400,000): Orden límite a $26,000 (15 acciones)
 - 7% ($350,000): Orden límite a $25,900 (14 acciones)
-- 5% ($250,000): Orden mercado al inicio de semana (10 acciones)
+- 5% ($250,000): Orden mercado escalonada semanal
 
-CELSIA:
-- 6% ($300,000): Orden límite a $3,750 (80 acciones)
-- 5% ($250,000): Orden límite a $3,730 (67 acciones)
-- 4% ($200,000): Orden mercado después del dividendo (53 acciones)
+MINEROS:
+- 8% ($400,000): Orden límite a $4,560 (88 acciones)
+- 7% ($350,000): Orden límite a $4,540 (77 acciones)
+- 5% ($250,000): Orden mercado escalonada semanal
 
 ### 2.2 Órdenes de Salida
 
@@ -56,9 +56,9 @@ PFGRUPSURA:
   * 30% a $26,600 (+2.00%)
   * 30% a $26,800 (+2.76%)
 
-CELSIA:
-- Stop loss: $3,700 (-1.73%)
+MINEROS:
+- Stop loss: $4,500 (-1.53%)
 - Take profit escalonado:
-  * 40% a $3,820 (+1.46%)
-  * 30% a $3,850 (+2.26%)
+  * 40% a $4,650 (+1.75%)
+  * 30% a $4,700 (+2.84%)
   * 30% después del dividendo 
