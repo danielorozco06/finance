@@ -1,7 +1,3 @@
-# Dividendos
-
-Actualizar manualmente el archivo input/dividendos.md con los dividendos de los tickers.
-
 # Aider
 CONTEXTO: input/news.md
 
