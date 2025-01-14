@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 09:09:47
+Generado el: 2025-01-14 09:32:06
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 5.0% desde su máximo histórico.

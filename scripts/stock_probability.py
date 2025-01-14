@@ -271,39 +271,46 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
 
 def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, dict]:
     """Calcula máximos y mínimos históricos para cada tipo de precio."""
+
+    def format_date(date) -> str:
+        """Formatea una fecha a string en formato YYYY-MM-DD."""
+        if isinstance(date, pd.Timestamp):
+            return date.strftime("%Y-%m-%d")
+        return pd.to_datetime(date).strftime("%Y-%m-%d")
+
     # Calcular extremos para cada tipo de precio
     extremos = {
         "max_open": (
             round(df["Open"].max(), 2),
-            pd.to_datetime(df.loc[df["Open"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Open"].idxmax(), "Date"]),
         ),
         "min_open": (
             round(df["Open"].min(), 2),
-            pd.to_datetime(df.loc[df["Open"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Open"].idxmin(), "Date"]),
         ),
         "max_close": (
             round(df["Close"].max(), 2),
-            pd.to_datetime(df.loc[df["Close"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Close"].idxmax(), "Date"]),
         ),
         "min_close": (
             round(df["Close"].min(), 2),
-            pd.to_datetime(df.loc[df["Close"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Close"].idxmin(), "Date"]),
         ),
         "max_high": (
             round(df["High"].max(), 2),
-            pd.to_datetime(df.loc[df["High"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["High"].idxmax(), "Date"]),
         ),
         "min_high": (
             round(df["High"].min(), 2),
-            pd.to_datetime(df.loc[df["High"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["High"].idxmin(), "Date"]),
         ),
         "max_low": (
             round(df["Low"].max(), 2),
-            pd.to_datetime(df.loc[df["Low"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Low"].idxmax(), "Date"]),
         ),
         "min_low": (
             round(df["Low"].min(), 2),
-            pd.to_datetime(df.loc[df["Low"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+            format_date(df.loc[df["Low"].idxmin(), "Date"]),
         ),
     }
 
@@ -534,96 +541,98 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     }
 
 
-def generate_all_report(
-    input_dir: str = "tickers_history", output_file: str = "scripts/all_tickers.md"
+def format_report_section(ticker: str, resultado: dict) -> str:
+    """Formatea una sección del reporte para un ticker específico."""
+    sections = []
+
+    # Sección de encabezado
+    header = f"""## {ticker}
+- Último precio: ${resultado["ultimo_precio"]}
+- Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
+- Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
+"""
+    sections.append(header)
+
+    # Sección de predicción de tendencias
+    trends = """### Predicción de Tendencias
+- Próximo día: {tendencia_prox_1d} (Prob. subida: {prob_subida_1d}%)
+- Próxima semana: {tendencia_prox_1s} (Prob. subida: {prob_subida_1s}%)
+- Próximos 3 meses: {tendencia_prox_3m} (Prob. subida: {prob_subida_3m}%)
+- Próximos 6 meses: {tendencia_prox_6m} (Prob. subida: {prob_subida_6m}%)
+- Próximos 12 meses: {tendencia_prox_12m} (Prob. subida: {prob_subida_12m}%)
+- Próximos 24 meses: {tendencia_prox_24m} (Prob. subida: {prob_subida_24m}%)
+""".format(**resultado)
+    sections.append(trends)
+
+    # Sección de análisis técnico
+    technical = f"""### Análisis Técnico
+- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
+- Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
+
+### Análisis Técnico Avanzado
+- MACD: {resultado["señal_macd"]} (MACD: {resultado["macd"]}, Señal: {resultado["macd_signal"]})
+- Estocástico: {resultado["señal_stoch"]} (%K: {resultado["stoch_k"]}, %D: {resultado["stoch_d"]})
+- ATR (Volatilidad): {resultado["atr"]}
+
+### Niveles de Fibonacci
+- Posición actual: {resultado["nivel_fib"]}
+- Niveles: 38.2%: ${resultado["fib_38"]}, 50%: ${resultado["fib_50"]}, 61.8%: ${resultado["fib_61"]}
+
+### Señales de Trading
+- RSI: {resultado["señal_rsi"]}
+- Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
+- Precio: {resultado["señal_precio"]}
+"""
+    sections.append(technical)
+
+    return "\n".join(sections)
+
+
+def write_report_header(
+    file, primer_resultado: dict, titulo: str, info_adicional: str = ""
 ) -> None:
-    # Verificar que el directorio existe
+    """Escribe el encabezado común para todos los reportes."""
+    file.write(f"# {titulo}\n\n")
+    file.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+    file.write(
+        f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n"
+    )
+    if info_adicional:
+        file.write(f"\n{info_adicional}\n")
+
+
+def process_ticker_files(input_dir: str) -> tuple[dict, list[Path]]:
+    """Procesa los archivos de tickers y retorna el primer resultado y la lista de archivos."""
     if not Path(input_dir).is_dir():
         raise NotADirectoryError(f"No se encontró el directorio: {input_dir}")
 
-    # Crear directorio de salida si no existe
-    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
-
-    # Obtener lista de archivos CSV y ordenarlos alfabéticamente
     csv_files = sorted(
         Path(input_dir).glob("*.csv"), key=lambda x: x.stem.replace("_values", "")
     )
     if not csv_files:
         raise ValueError(f"No se encontraron archivos CSV en {input_dir}")
 
-    # Obtener el primer resultado para el período analizado
     primer_resultado = calculate_stock_probability(str(csv_files[0]))
+    return primer_resultado, csv_files
 
-    # Generar reporte
+
+def generate_all_report(
+    input_dir: str = "tickers_history", output_file: str = "scripts/all_tickers.md"
+) -> None:
+    """Genera un reporte completo de todos los tickers."""
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    primer_resultado, csv_files = process_ticker_files(input_dir)
+
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("# Análisis de Tendencias de Acciones\n\n")
-        f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(
-            f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n"
-        )
+        write_report_header(f, primer_resultado, "Análisis de Tendencias de Acciones")
 
         for csv_file in csv_files:
             try:
                 ticker = csv_file.stem.replace("_values", "")
                 resultado = calculate_stock_probability(str(csv_file))
-                f.write("\n")
-                f.write(f"## {ticker}\n")
-                f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
-                f.write(
-                    f"- Máximo histórico [CLOSE]: ${resultado['maximo_historico_close']} ({resultado['fecha_maximo_historico_close']}) [{resultado['dist_max_close']}% del precio actual]\n"
-                )
-                f.write(
-                    f"- Mínimo histórico [CLOSE]: ${resultado['minimo_historico_close']} ({resultado['fecha_minimo_historico_close']}) [{resultado['dist_min_close']}% del precio actual]\n"
-                )
-                f.write("\n")
-                f.write("### Predicción de Tendencias\n")
-                f.write(
-                    f"- Próximo día: {resultado['tendencia_prox_1d']} (Prob. subida: {resultado['prob_subida_1d']}%)\n"
-                )
-                f.write(
-                    f"- Próxima semana: {resultado['tendencia_prox_1s']} (Prob. subida: {resultado['prob_subida_1s']}%)\n"
-                )
-                f.write(
-                    f"- Próximos 3 meses: {resultado['tendencia_prox_3m']} (Prob. subida: {resultado['prob_subida_3m']}%)\n"
-                )
-                f.write(
-                    f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n"
-                )
-                f.write(
-                    f"- Próximos 12 meses: {resultado['tendencia_prox_12m']} (Prob. subida: {resultado['prob_subida_12m']}%)\n"
-                )
-                f.write(
-                    f"- Próximos 24 meses: {resultado['tendencia_prox_24m']} (Prob. subida: {resultado['prob_subida_24m']}%)\n"
-                )
-                f.write("\n### Análisis Técnico\n")
-                f.write(
-                    f"- Soporte: ${resultado['valor_soporte']} (distancia: {resultado['dist_soporte']}%)\n"
-                )
-                f.write(
-                    f"- Resistencia: ${resultado['valor_resistencia']} (distancia: {resultado['dist_resistencia']}%)\n"
-                )
-                f.write("\n### Análisis Técnico Avanzado\n")
-                f.write(
-                    f"- MACD: {resultado['señal_macd']} (MACD: {resultado['macd']}, Señal: {resultado['macd_signal']})\n"
-                )
-                f.write(
-                    f"- Estocástico: {resultado['señal_stoch']} (%K: {resultado['stoch_k']}, %D: {resultado['stoch_d']})\n"
-                )
-                f.write(f"- ATR (Volatilidad): {resultado['atr']}\n")
-                f.write("\n### Niveles de Fibonacci\n")
-                f.write(f"- Posición actual: {resultado['nivel_fib']}\n")
-                f.write(
-                    f"- Niveles: 38.2%: ${resultado['fib_38']}, 50%: ${resultado['fib_50']}, 61.8%: ${resultado['fib_61']}\n"
-                )
-                f.write("\n### Señales de Trading\n")
-                f.write(f"- RSI: {resultado['señal_rsi']}\n")
-                f.write(
-                    f"- Volumen: {resultado['señal_volumen']} (x{resultado['volumen_relativo']} del promedio)\n"
-                )
-                f.write(f"- Precio: {resultado['señal_precio']}\n")
+                f.write("\n" + format_report_section(ticker, resultado))
             except Exception as e:
-                f.write(f"## {ticker}\n\n")
-                f.write(f"Error al procesar: {str(e)}\n\n")
+                f.write(f"\n## {ticker}\n\nError al procesar: {str(e)}\n\n")
 
 
 def generate_filtered_report(
@@ -631,118 +640,33 @@ def generate_filtered_report(
     output_file: str = "input/filter_tickers.md",
     max_distance: float = 5.0,
 ) -> None:
-    """
-    Genera un reporte filtrado de tickers que están lejos de su máximo histórico.
-
-    Args:
-        input_dir: Directorio con los archivos CSV de los tickers
-        output_file: Archivo de salida para el reporte
-        max_distance: Distancia mínima al máximo histórico (en porcentaje)
-    """
-    # Verificar que el directorio existe
-    if not Path(input_dir).is_dir():
-        raise NotADirectoryError(f"No se encontró el directorio: {input_dir}")
-
-    # Crear directorio de salida si no existe
+    """Genera un reporte filtrado de tickers que están lejos de su máximo histórico."""
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    primer_resultado, csv_files = process_ticker_files(input_dir)
 
-    # Obtener lista de archivos CSV y ordenarlos alfabéticamente
-    csv_files = sorted(
-        Path(input_dir).glob("*.csv"), key=lambda x: x.stem.replace("_values", "")
-    )
-    if not csv_files:
-        raise ValueError(f"No se encontraron archivos CSV en {input_dir}")
-
-    # Obtener el primer resultado para el período analizado
-    primer_resultado = calculate_stock_probability(str(csv_files[0]))
-
-    # Lista para almacenar los resultados filtrados
     filtered_results = []
-
-    # Procesar cada archivo
     for csv_file in csv_files:
         try:
             ticker = csv_file.stem.replace("_values", "")
             resultado = calculate_stock_probability(str(csv_file))
-
-            # Filtrar solo los tickers que están a más de max_distance% del máximo
-            if resultado["dist_max_close"] <= -max_distance:
+            if float(resultado["dist_max_close"]) <= -max_distance:
                 filtered_results.append((ticker, resultado))
-
         except Exception as e:
             print(f"Error procesando {ticker}: {str(e)}")
 
-    # Ordenar resultados por distancia al máximo (más lejanos primero)
-    filtered_results.sort(key=lambda x: x[1]["dist_max_close"])
+    filtered_results.sort(key=lambda x: float(x[1]["dist_max_close"]))
 
-    # Generar reporte
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("# Análisis de Tendencias de Acciones (Filtrado)\n\n")
-        f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(
-            f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n"
+        write_report_header(
+            f,
+            primer_resultado,
+            "Análisis de Tendencias de Acciones (Filtrado)",
+            f"Mostrando tickers que han caído más de {max_distance}% desde su máximo histórico.\n"
+            f"Total de tickers encontrados: {len(filtered_results)}",
         )
-        f.write(
-            f"\nMostrando tickers que han caído más de {max_distance}% desde su máximo histórico.\n"
-        )
-        f.write(f"Total de tickers encontrados: {len(filtered_results)}\n")
 
         for ticker, resultado in filtered_results:
-            f.write("\n")
-            f.write(f"## {ticker}\n")
-            f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
-            f.write(
-                f"- Máximo histórico [CLOSE]: ${resultado['maximo_historico_close']} ({resultado['fecha_maximo_historico_close']}) [{resultado['dist_max_close']}% del precio actual]\n"
-            )
-            f.write(
-                f"- Mínimo histórico [CLOSE]: ${resultado['minimo_historico_close']} ({resultado['fecha_minimo_historico_close']}) [{resultado['dist_min_close']}% del precio actual]\n"
-            )
-            f.write("\n")
-            f.write("### Predicción de Tendencias\n")
-            f.write(
-                f"- Próximo día: {resultado['tendencia_prox_1d']} (Prob. subida: {resultado['prob_subida_1d']}%)\n"
-            )
-            f.write(
-                f"- Próxima semana: {resultado['tendencia_prox_1s']} (Prob. subida: {resultado['prob_subida_1s']}%)\n"
-            )
-            f.write(
-                f"- Próximos 3 meses: {resultado['tendencia_prox_3m']} (Prob. subida: {resultado['prob_subida_3m']}%)\n"
-            )
-            f.write(
-                f"- Próximos 6 meses: {resultado['tendencia_prox_6m']} (Prob. subida: {resultado['prob_subida_6m']}%)\n"
-            )
-            f.write(
-                f"- Próximos 12 meses: {resultado['tendencia_prox_12m']} (Prob. subida: {resultado['prob_subida_12m']}%)\n"
-            )
-            f.write(
-                f"- Próximos 24 meses: {resultado['tendencia_prox_24m']} (Prob. subida: {resultado['prob_subida_24m']}%)\n"
-            )
-            f.write("\n### Análisis Técnico\n")
-            f.write(
-                f"- Soporte: ${resultado['valor_soporte']} (distancia: {resultado['dist_soporte']}%)\n"
-            )
-            f.write(
-                f"- Resistencia: ${resultado['valor_resistencia']} (distancia: {resultado['dist_resistencia']}%)\n"
-            )
-            f.write("\n### Análisis Técnico Avanzado\n")
-            f.write(
-                f"- MACD: {resultado['señal_macd']} (MACD: {resultado['macd']}, Señal: {resultado['macd_signal']})\n"
-            )
-            f.write(
-                f"- Estocástico: {resultado['señal_stoch']} (%K: {resultado['stoch_k']}, %D: {resultado['stoch_d']})\n"
-            )
-            f.write(f"- ATR (Volatilidad): {resultado['atr']}\n")
-            f.write("\n### Niveles de Fibonacci\n")
-            f.write(f"- Posición actual: {resultado['nivel_fib']}\n")
-            f.write(
-                f"- Niveles: 38.2%: ${resultado['fib_38']}, 50%: ${resultado['fib_50']}, 61.8%: ${resultado['fib_61']}\n"
-            )
-            f.write("\n### Señales de Trading\n")
-            f.write(f"- RSI: {resultado['señal_rsi']}\n")
-            f.write(
-                f"- Volumen: {resultado['señal_volumen']} (x{resultado['volumen_relativo']} del promedio)\n"
-            )
-            f.write(f"- Precio: {resultado['señal_precio']}\n")
+            f.write("\n" + format_report_section(ticker, resultado))
 
 
 if __name__ == "__main__":
