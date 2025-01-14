@@ -1,11 +1,11 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 07:39:27
+Generado el: 2025-01-14 09:02:11
 Período analizado: 2022-01-03 a 2025-01-13
 
 ## BBVACOL_CL
 - Último precio: $180.0
-- Máximo histórico [CLOSE]: $338.91 (2022-12-09) [88.28% del precio actual]
+- Máximo histórico [CLOSE]: $338.91 (2022-12-09) [-46.89% del precio actual]
 - Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
 
 ### Predicción de Tendencias
@@ -36,7 +36,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## BCOLOMBIA_CL
 - Último precio: $37520.0
-- Máximo histórico [CLOSE]: $39059.62 (2024-11-20) [4.1% del precio actual]
+- Máximo histórico [CLOSE]: $39059.62 (2024-11-20) [-3.94% del precio actual]
 - Mínimo histórico [CLOSE]: $23133.44 (2023-05-31) [38.34% del precio actual]
 
 ### Predicción de Tendencias
@@ -67,7 +67,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## BHI_CL
 - Último precio: $305.0
-- Máximo histórico [CLOSE]: $359.98 (2022-06-01) [18.03% del precio actual]
+- Máximo histórico [CLOSE]: $359.98 (2022-06-01) [-15.27% del precio actual]
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [40.0% del precio actual]
 
 ### Predicción de Tendencias
@@ -98,7 +98,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## BOGOTA_CL
 - Último precio: $26600.0
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [115.19% del precio actual]
+- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [-53.53% del precio actual]
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
 
 ### Predicción de Tendencias
@@ -129,7 +129,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## CELSIA_CL
 - Último precio: $3815.0
-- Máximo histórico [CLOSE]: $4225.88 (2024-05-22) [10.77% del precio actual]
+- Máximo histórico [CLOSE]: $4225.88 (2024-05-22) [-9.72% del precio actual]
 - Mínimo histórico [CLOSE]: $1781.68 (2023-02-15) [53.3% del precio actual]
 
 ### Predicción de Tendencias
@@ -160,7 +160,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## CEMARGOS_CL
 - Último precio: $10600.0
-- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [3.77% del precio actual]
+- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [-3.64% del precio actual]
 - Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [78.54% del precio actual]
 
 ### Predicción de Tendencias
@@ -191,7 +191,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## CNEC_CL
 - Último precio: $11500.0
-- Máximo histórico [CLOSE]: $52496.78 (2022-03-07) [356.49% del precio actual]
+- Máximo histórico [CLOSE]: $52496.78 (2022-03-07) [-78.09% del precio actual]
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [21.74% del precio actual]
 
 ### Predicción de Tendencias
@@ -222,7 +222,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## CONCONCRET_CL
 - Último precio: $645.0
-- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [3.88% del precio actual]
+- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [-3.73% del precio actual]
 - Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.64% del precio actual]
 
 ### Predicción de Tendencias
@@ -253,7 +253,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## CORFICOLCF_CL
 - Último precio: $15180.0
-- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [65.23% del precio actual]
+- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [-39.48% del precio actual]
 - Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [37.98% del precio actual]
 
 ### Predicción de Tendencias
@@ -284,7 +284,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## ECOPETROL_CL
 - Último precio: $1850.0
-- Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [42.54% del precio actual]
+- Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [-29.85% del precio actual]
 - Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [15.27% del precio actual]
 
 ### Predicción de Tendencias
@@ -315,7 +315,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## ENKA_CL
 - Último precio: $13.7
-- Máximo histórico [CLOSE]: $31.28 (2022-10-06) [128.32% del precio actual]
+- Máximo histórico [CLOSE]: $31.28 (2022-10-06) [-56.2% del precio actual]
 - Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [5.84% del precio actual]
 
 ### Predicción de Tendencias
@@ -346,7 +346,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## EXITO_CL
 - Último precio: $1965.0
-- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [173.42% del precio actual]
+- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.43% del precio actual]
 - Mínimo histórico [CLOSE]: $1965.0 (2025-01-13) [0.0% del precio actual]
 
 ### Predicción de Tendencias
@@ -377,7 +377,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## GEB_CL
 - Último precio: $2510.0
-- Máximo histórico [CLOSE]: $2520.0 (2025-01-07) [0.4% del precio actual]
+- Máximo histórico [CLOSE]: $2520.0 (2025-01-07) [-0.4% del precio actual]
 - Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [62.55% del precio actual]
 
 ### Predicción de Tendencias
@@ -408,7 +408,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## GRUBOLIVAR_CL
 - Último precio: $63500.0
-- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [42.2% del precio actual]
+- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [-29.68% del precio actual]
 - Mínimo histórico [CLOSE]: $39835.53 (2022-09-26) [37.27% del precio actual]
 
 ### Predicción de Tendencias
@@ -439,7 +439,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## GRUPOARGOS_CL
 - Último precio: $20260.0
-- Máximo histórico [CLOSE]: $20480.0 (2025-01-03) [1.09% del precio actual]
+- Máximo histórico [CLOSE]: $20480.0 (2025-01-03) [-1.07% del precio actual]
 - Mínimo histórico [CLOSE]: $7276.39 (2023-09-05) [64.08% del precio actual]
 
 ### Predicción de Tendencias
@@ -470,7 +470,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## GRUPOAVAL_CL
 - Último precio: $450.0
-- Máximo histórico [CLOSE]: $922.49 (2022-02-01) [105.0% del precio actual]
+- Máximo histórico [CLOSE]: $922.49 (2022-02-01) [-51.22% del precio actual]
 - Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [13.8% del precio actual]
 
 ### Predicción de Tendencias
@@ -501,7 +501,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## GRUPOSURA_CL
 - Último precio: $36400.0
-- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [44.33% del precio actual]
+- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [-30.71% del precio actual]
 - Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [32.35% del precio actual]
 
 ### Predicción de Tendencias
@@ -563,7 +563,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## ISA_CL
 - Último precio: $17040.0
-- Máximo histórico [CLOSE]: $21352.37 (2022-01-20) [25.31% del precio actual]
+- Máximo histórico [CLOSE]: $21352.37 (2022-01-20) [-20.2% del precio actual]
 - Mínimo histórico [CLOSE]: $12607.87 (2023-09-06) [26.01% del precio actual]
 
 ### Predicción de Tendencias
@@ -594,7 +594,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## MINEROS_CL
 - Último precio: $4550.0
-- Máximo histórico [CLOSE]: $4570.0 (2025-01-10) [0.44% del precio actual]
+- Máximo histórico [CLOSE]: $4570.0 (2025-01-10) [-0.44% del precio actual]
 - Mínimo histórico [CLOSE]: $1639.9 (2022-11-03) [63.96% del precio actual]
 
 ### Predicción de Tendencias
@@ -656,7 +656,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PEI_CL
 - Último precio: $69860.0
-- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.65% del precio actual]
+- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [-9.62% del precio actual]
 - Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [4.09% del precio actual]
 
 ### Predicción de Tendencias
@@ -687,7 +687,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFAVAL_CL
 - Último precio: $468.0
-- Máximo histórico [CLOSE]: $911.48 (2022-01-31) [94.76% del precio actual]
+- Máximo histórico [CLOSE]: $911.48 (2022-01-31) [-48.65% del precio actual]
 - Mínimo histórico [CLOSE]: $389.79 (2024-03-15) [16.71% del precio actual]
 
 ### Predicción de Tendencias
@@ -718,7 +718,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFBCOLOM_CL
 - Último precio: $34960.0
-- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [2.64% del precio actual]
+- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [-2.58% del precio actual]
 - Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.78% del precio actual]
 
 ### Predicción de Tendencias
@@ -749,7 +749,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFCORFICOL_CL
 - Último precio: $14400.0
-- Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [37.64% del precio actual]
+- Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [-27.35% del precio actual]
 - Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [41.16% del precio actual]
 
 ### Predicción de Tendencias
@@ -780,7 +780,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFDAVVNDA_CL
 - Último precio: $19000.0
-- Máximo histórico [CLOSE]: $34579.46 (2022-06-03) [82.0% del precio actual]
+- Máximo histórico [CLOSE]: $34579.46 (2022-06-03) [-45.05% del precio actual]
 - Mínimo histórico [CLOSE]: $15340.0 (2023-11-28) [19.26% del precio actual]
 
 ### Predicción de Tendencias
@@ -811,7 +811,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFGRUPOARG_CL
 - Último precio: $15180.0
-- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [1.06% del precio actual]
+- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [-1.05% del precio actual]
 - Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [72.6% del precio actual]
 
 ### Predicción de Tendencias
@@ -842,7 +842,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PFGRUPSURA_CL
 - Último precio: $26220.0
-- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [0.46% del precio actual]
+- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [-0.46% del precio actual]
 - Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [69.03% del precio actual]
 
 ### Predicción de Tendencias
@@ -873,7 +873,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## PROMIGAS_CL
 - Último precio: $7190.0
-- Máximo histórico [CLOSE]: $7800.0 (2024-12-16) [8.48% del precio actual]
+- Máximo histórico [CLOSE]: $7800.0 (2024-12-16) [-7.82% del precio actual]
 - Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [53.18% del precio actual]
 
 ### Predicción de Tendencias
