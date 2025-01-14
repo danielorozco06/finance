@@ -543,8 +543,10 @@ def generate_tendency_report(
     # Crear directorio de salida si no existe
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
 
-    # Obtener lista de archivos CSV
-    csv_files = list(Path(input_dir).glob("*.csv"))
+    # Obtener lista de archivos CSV y ordenarlos alfabéticamente
+    csv_files = sorted(
+        Path(input_dir).glob("*.csv"), key=lambda x: x.stem.replace("_values", "")
+    )
     if not csv_files:
         raise ValueError(f"No se encontraron archivos CSV en {input_dir}")
 
