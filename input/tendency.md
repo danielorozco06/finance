@@ -1,7 +1,69 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 07:28:33
-Período analizado: 2022-04-19 a 2025-01-13
+Generado el: 2025-01-14 07:39:27
+Período analizado: 2022-01-03 a 2025-01-13
+
+## BBVACOL_CL
+- Último precio: $180.0
+- Máximo histórico [CLOSE]: $338.91 (2022-12-09) [88.28% del precio actual]
+- Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 3 meses: Probablemente Alcista (Prob. subida: 61.25%)
+- Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
+- Próximos 12 meses: Probablemente Alcista (Prob. subida: 61.25%)
+- Próximos 24 meses: Probablemente Alcista (Prob. subida: 61.25%)
+
+### Análisis Técnico
+- Soporte: $178.0 (distancia: 1.11%)
+- Resistencia: $180.0 (distancia: 0.0%)
+
+### Análisis Técnico Avanzado
+- MACD: Alcista (MACD: 0.07, Señal: -0.14)
+- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
+- ATR (Volatilidad): 0.14
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $179.24, 50%: $179.0, 61.8%: $178.76
+
+### Señales de Trading
+- RSI: Sobrevendida
+- Volumen: Bajo (x0.0 del promedio)
+- Precio: Cerca de Soporte
+
+## BCOLOMBIA_CL
+- Último precio: $37520.0
+- Máximo histórico [CLOSE]: $39059.62 (2024-11-20) [4.1% del precio actual]
+- Mínimo histórico [CLOSE]: $23133.44 (2023-05-31) [38.34% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Bajista (Prob. subida: 30.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 12 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 24 meses: Probablemente Bajista (Prob. subida: 30.0%)
+
+### Análisis Técnico
+- Soporte: $36636.72 (distancia: 2.35%)
+- Resistencia: $38780.0 (distancia: 3.36%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 136.87, Señal: 169.29)
+- Estocástico: Sobreventa (%K: 0.32, %D: 31.63)
+- ATR (Volatilidad): 480.73
+
+### Niveles de Fibonacci
+- Posición actual: Entre 50.0 y 61.8
+- Niveles: 38.2%: $37961.27, 50%: $37708.36, 61.8%: $37455.45
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Alto (x1.8 del promedio)
+- Precio: Cerca de Soporte
 
 ## BHI_CL
 - Último precio: $305.0
@@ -189,6 +251,37 @@ Período analizado: 2022-04-19 a 2025-01-13
 - Volumen: Normal (x1.1 del promedio)
 - Precio: Cerca de Resistencia
 
+## CORFICOLCF_CL
+- Último precio: $15180.0
+- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [65.23% del precio actual]
+- Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [37.98% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
+- Próxima semana: Probablemente Alcista (Prob. subida: 65.0%)
+- Próximos 3 meses: Probablemente Alcista (Prob. subida: 57.5%)
+- Próximos 6 meses: Probablemente Alcista (Prob. subida: 57.5%)
+- Próximos 12 meses: Probablemente Alcista (Prob. subida: 57.5%)
+- Próximos 24 meses: Probablemente Alcista (Prob. subida: 57.5%)
+
+### Análisis Técnico
+- Soporte: $14540.0 (distancia: 4.22%)
+- Resistencia: $15500.0 (distancia: 2.11%)
+
+### Análisis Técnico Avanzado
+- MACD: Alcista (MACD: -0.36, Señal: -42.74)
+- Estocástico: Sobrecompra (%K: 93.55, %D: 91.97)
+- ATR (Volatilidad): 225.71
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $15133.28, 50%: $15020.0, 61.8%: $14906.72
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Normal (x0.89 del promedio)
+- Precio: Cerca de Soporte
+
 ## ECOPETROL_CL
 - Último precio: $1850.0
 - Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [42.54% del precio actual]
@@ -315,8 +408,8 @@ Período analizado: 2022-04-19 a 2025-01-13
 
 ## GRUBOLIVAR_CL
 - Último precio: $63500.0
-- Máximo histórico [CLOSE]: $90299.87 (2022-03-15) [42.2% del precio actual]
-- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [37.27% del precio actual]
+- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [42.2% del precio actual]
+- Mínimo histórico [CLOSE]: $39835.53 (2022-09-26) [37.27% del precio actual]
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
@@ -343,6 +436,99 @@ Período analizado: 2022-04-19 a 2025-01-13
 - RSI: Sobrecomprada
 - Volumen: Normal (x1.12 del promedio)
 - Precio: Cerca de Resistencia
+
+## GRUPOARGOS_CL
+- Último precio: $20260.0
+- Máximo histórico [CLOSE]: $20480.0 (2025-01-03) [1.09% del precio actual]
+- Mínimo histórico [CLOSE]: $7276.39 (2023-09-05) [64.08% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Muy Probablemente Alcista (Prob. subida: 77.5%)
+- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+
+### Análisis Técnico
+- Soporte: $19090.63 (distancia: 5.77%)
+- Resistencia: $20480.0 (distancia: 1.09%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 232.54, Señal: 273.7)
+- Estocástico: Normal (%K: 42.11, %D: 29.82)
+- ATR (Volatilidad): 306.01
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $19949.26, 50%: $19785.31, 61.8%: $19621.37
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Normal (x1.02 del promedio)
+- Precio: Cerca de Resistencia
+
+## GRUPOAVAL_CL
+- Último precio: $450.0
+- Máximo histórico [CLOSE]: $922.49 (2022-02-01) [105.0% del precio actual]
+- Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [13.8% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
+- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
+
+### Análisis Técnico
+- Soporte: $439.0 (distancia: 2.44%)
+- Resistencia: $453.0 (distancia: 0.67%)
+
+### Análisis Técnico Avanzado
+- MACD: Alcista (MACD: 1.53, Señal: 1.33)
+- Estocástico: Normal (%K: 78.57, %D: 78.57)
+- ATR (Volatilidad): 2.5
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $447.65, 50%: $446.0, 61.8%: $444.35
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Normal (x0.71 del promedio)
+- Precio: Cerca de Soporte
+
+## GRUPOSURA_CL
+- Último precio: $36400.0
+- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [44.33% del precio actual]
+- Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [32.35% del precio actual]
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Alcista (Prob. subida: 61.25%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 38.75%)
+- Próximos 12 meses: Probablemente Bajista (Prob. subida: 38.75%)
+- Próximos 24 meses: Probablemente Bajista (Prob. subida: 38.75%)
+
+### Análisis Técnico
+- Soporte: $35166.89 (distancia: 3.39%)
+- Resistencia: $37380.0 (distancia: 2.69%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 390.54, Señal: 559.17)
+- Estocástico: Sobreventa (%K: 18.33, %D: 11.67)
+- ATR (Volatilidad): 284.6
+
+### Niveles de Fibonacci
+- Posición actual: Entre 38.2 y 50.0
+- Niveles: 38.2%: $36534.59, 50%: $36273.45, 61.8%: $36012.3
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Bajo (x0.35 del promedio)
+- Precio: Cerca de Soporte
 
 ## HCOLSEL_CL
 - Último precio: $15360.0
