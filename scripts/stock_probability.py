@@ -550,6 +550,10 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Último precio: ${resultado["ultimo_precio"]}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
+
+### Análisis Técnico
+- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
+- Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
 """
     sections.append(header)
 
@@ -565,11 +569,7 @@ def format_report_section(ticker: str, resultado: dict) -> str:
     sections.append(trends)
 
     # Sección de análisis técnico
-    technical = f"""### Análisis Técnico
-- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
-- Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
-
-### Análisis Técnico Avanzado
+    technical = f"""### Análisis Técnico Avanzado
 - MACD: {resultado["señal_macd"]} (MACD: {resultado["macd"]}, Señal: {resultado["macd_signal"]})
 - Estocástico: {resultado["señal_stoch"]} (%K: {resultado["stoch_k"]}, %D: {resultado["stoch_d"]})
 - ATR (Volatilidad): {resultado["atr"]}
