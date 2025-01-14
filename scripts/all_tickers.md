@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 09:02:11
+Generado el: 2025-01-14 09:09:45
 Período analizado: 2022-01-03 a 2025-01-13
 
 ## BBVACOL_CL
@@ -98,7 +98,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 
 ## BOGOTA_CL
 - Último precio: $26600.0
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [-53.53% del precio actual]
+- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [-53.53% del precio actual]
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
 
 ### Predicción de Tendencias
@@ -409,7 +409,7 @@ Período analizado: 2022-01-03 a 2025-01-13
 ## GRUBOLIVAR_CL
 - Último precio: $63500.0
 - Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [-29.68% del precio actual]
-- Mínimo histórico [CLOSE]: $39835.53 (2022-09-26) [37.27% del precio actual]
+- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [37.27% del precio actual]
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 35.0%)

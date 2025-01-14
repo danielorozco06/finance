@@ -535,7 +535,7 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
 
 def generate_all_report(
-    input_dir: str = "tickers_history", output_file: str = "all_tickers.md"
+    input_dir: str = "tickers_history", output_file: str = "scripts/all_tickers.md"
 ) -> None:
     # Verificar que el directorio existe
     if not Path(input_dir).is_dir():

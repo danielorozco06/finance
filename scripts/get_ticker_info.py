@@ -19,24 +19,6 @@ def setup_directories() -> None:
         os.makedirs(directory, exist_ok=True)
 
 
-def save_ticker_info(ticker_symbol: str) -> None:
-    data = yf.Ticker(ticker_symbol)
-    info_dict = {
-        k: v
-        for k, v in data.info.items()
-        if k not in ["companyOfficers", "longBusinessSummary"]
-    }
-
-    csv_file = f"input/tickers_info/{ticker_symbol.replace('.', '_')}_info.csv"
-
-    with open(csv_file, "w", newline="", encoding="utf-8-sig") as file:
-        writer = csv.writer(file, quoting=csv.QUOTE_ALL)
-        writer.writerow(["Field", "Value"])
-        writer.writerows(info_dict.items())
-
-    print(f"Data for {ticker_symbol} has been saved to {csv_file}")
-
-
 def save_ticker_history(ticker_symbol: str, start_date: str) -> None:
     data = yf.Ticker(ticker_symbol)
     csv_file = f"tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
@@ -51,12 +33,11 @@ def save_ticker_history(ticker_symbol: str, start_date: str) -> None:
 
 
 def main() -> None:
-    tickers = load_tickers_from_file("input/tickerCol.txt")
+    tickers = load_tickers_from_file("scripts/tickerCol.txt")
     setup_directories()
 
     for ticker in tickers:
         try:
-            # save_ticker_info(ticker)
             save_ticker_history(ticker, start_date="2022-01-01")
         except Exception as e:
             print(f"Error processing {ticker}: {str(e)}")
