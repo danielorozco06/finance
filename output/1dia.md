@@ -4,53 +4,42 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFGRUPSURA | 35% | COMPRA FUERTE | Momentum alcista confirmado, soporte sólido |
-| PFGRUPOARG | 35% | COMPRA FUERTE | Cerca de resistencia con soporte fuerte |
-| BOGOTA | 20% | COMPRA | Soporte técnico sólido, momentum positivo |
-| PEI | 10% | COMPRA | Soporte técnico cercano, dividendos estables |
+| PROMIGAS | 45% | COMPRA | Precio en soporte firme con potencial alcista |
+| BHI | 35% | COMPRA | Beneficiado por aumento en precios del petróleo |
+| ENKA | 20% | COMPRA | Momentum positivo con volumen estable |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-PFGRUPSURA:
-- 20% ($1,000,000): Orden límite a $26,220 (38 acciones)
-- 15% ($750,000): Orden mercado al inicio (29 acciones)
+PROMIGAS:
+- 30% ($1,500,000): Orden límite a $7,190 (209 acciones)
+- 15% ($750,000): Orden mercado al inicio (104 acciones)
 
-PFGRUPOARG:
-- 20% ($1,000,000): Orden límite a $15,180 (66 acciones)
-- 15% ($750,000): Orden mercado al inicio (49 acciones)
+BHI:
+- 20% ($1,000,000): Orden límite a $305.0 (3,279 acciones)
+- 15% ($750,000): Orden mercado al inicio (2,459 acciones)
 
-BOGOTA:
-- 10% ($500,000): Orden límite a $26,600 (19 acciones)
-- 10% ($500,000): Orden mercado al inicio (19 acciones)
-
-PEI:
-- 5% ($250,000): Orden límite a $69,180 (4 acciones)
-- 5% ($250,000): Orden mercado al inicio (4 acciones)
+ENKA:
+- 10% ($500,000): Orden límite a $13.7 (36,496 acciones)
+- 10% ($500,000): Orden mercado al inicio (36,496 acciones)
 
 ### 2.2 Órdenes de Salida
 
-PFGRUPSURA:
-- Stop loss: $26,000 (-0.84%)
+PROMIGAS:
+- Stop loss: $7,100 (-1.25%)
 - Take profit escalonado:
-  * 50% a $26,340 (+0.46%)
-  * 50% a $26,500 (+1.07%)
+  * 50% a $7,400 (+2.92%)
+  * 50% a $7,600 (+5.70%)
 
-PFGRUPOARG:
-- Stop loss: $15,000 (-1.19%)
+BHI:
+- Stop loss: $300.0 (-1.64%)
 - Take profit escalonado:
-  * 50% a $15,341 (+1.06%)
-  * 50% a $15,500 (+2.11%)
+  * 50% a $310.0 (+1.64%)
+  * 50% a $315.0 (+3.28%)
 
-BOGOTA:
-- Stop loss: $26,400 (-0.75%)
+ENKA:
+- Stop loss: $13.5 (-1.46%)
 - Take profit escalonado:
-  * 50% a $27,000 (+1.50%)
-  * 50% a $27,200 (+2.26%)
-
-PEI:
-- Stop loss: $68,900 (-0.40%)
-- Take profit escalonado:
-  * 50% a $69,980 (+1.16%)
-  * 50% a $70,500 (+1.91%) 
+  * 50% a $14.0 (+2.19%)
+  * 50% a $14.3 (+4.38%) 

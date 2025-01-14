@@ -4,78 +4,63 @@
 
 | Acción | Porcentaje | Etiqueta | Justificación |
 |--------|------------|----------|---------------|
-| PFGRUPSURA | 35% | COMPRA FUERTE | Valoración atractiva y perspectivas sólidas |
-| PFDAVVNDA | 30% | COMPRA FUERTE | Valoración atractiva del sector bancario |
-| PFGRUPOARG | 20% | COMPRA FUERTE | Fundamentales sólidos y tendencia alcista |
-| BOGOTA | 15% | COMPRA FUERTE | Expectativas de crecimiento bancario |
+| PROMIGAS | 45% | COMPRA FUERTE | Posición estratégica ante déficit energético |
+| BHI | 35% | COMPRA FUERTE | Se anticipa cambio de gobierno favorable al sector |
+| ENKA | 20% | COMPRA FUERTE | Tendencias de largo plazo muestran fortaleza |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-PFGRUPSURA:
-- 15% ($750,000): Orden límite a $26,220 (29 acciones)
+PROMIGAS:
+- 25% ($1,250,000): Orden límite a $7,190 (174 acciones)
 - 20% ($1,000,000): Orden escalonada trimestral:
-  * 40% a $26,000 (15 acciones)
-  * 30% a $25,800 (12 acciones)
-  * 30% a $25,600 (12 acciones)
+  * 40% a $7,000 (57 acciones)
+  * 30% a $6,800 (44 acciones)
+  * 30% a $6,600 (45 acciones)
 
-PFDAVVNDA:
-- 10% ($500,000): Orden límite a $19,000 (26 acciones)
-- 20% ($1,000,000): Orden escalonada trimestral:
-  * 40% a $18,800 (21 acciones)
-  * 30% a $18,600 (16 acciones)
-  * 30% a $18,400 (16 acciones)
+BHI:
+- 20% ($1,000,000): Orden límite a $305.0 (3,279 acciones)
+- 15% ($750,000): Orden escalonada trimestral:
+  * 40% a $295.0 (1,017 acciones)
+  * 30% a $285.0 (789 acciones)
+  * 30% a $275.0 (818 acciones)
 
-PFGRUPOARG:
-- 10% ($500,000): Orden límite a $15,180 (33 acciones)
+ENKA:
+- 10% ($500,000): Orden límite a $13.7 (36,496 acciones)
 - 10% ($500,000): Orden escalonada trimestral:
-  * 40% a $15,000 (13 acciones)
-  * 30% a $14,800 (10 acciones)
-  * 30% a $14,600 (10 acciones)
-
-BOGOTA:
-- 5% ($250,000): Orden límite a $26,600 (9 acciones)
-- 10% ($500,000): Orden escalonada trimestral:
-  * 40% a $26,200 (8 acciones)
-  * 30% a $26,000 (6 acciones)
-  * 30% a $25,800 (6 acciones)
+  * 40% a $13.3 (15,038 acciones)
+  * 30% a $13.0 (11,538 acciones)
+  * 30% a $12.7 (11,811 acciones)
 
 ### 2.2 Órdenes de Salida
 
-PFGRUPSURA:
+PROMIGAS:
 - Stop loss móvil: -12% desde máximos
 - Take profit escalonado:
-  * 30% al +25% ($32,775)
-  * 40% al +35% ($35,397)
-  * 30% al +45% ($38,019)
+  * 30% al +25% ($8,988)
+  * 40% al +35% ($9,707)
+  * 30% al +45% ($10,426)
 
-PFDAVVNDA:
+BHI:
 - Stop loss móvil: -15% desde máximos
 - Take profit escalonado:
-  * 30% al +30% ($24,700)
-  * 40% al +40% ($26,600)
-  * 30% al +50% ($28,500)
+  * 30% al +30% ($396.5)
+  * 40% al +40% ($427.0)
+  * 30% al +50% ($457.5)
 
-PFGRUPOARG:
+ENKA:
 - Stop loss móvil: -12% desde máximos
 - Take profit escalonado:
-  * 30% al +25% ($18,975)
-  * 40% al +35% ($20,493)
-  * 30% al +45% ($22,011)
-
-BOGOTA:
-- Stop loss móvil: -12% desde máximos
-- Take profit escalonado:
-  * 30% al +20% ($31,920)
-  * 40% al +25% ($33,250)
-  * 30% al +30% ($34,580)
+  * 30% al +25% ($17.1)
+  * 40% al +35% ($18.5)
+  * 30% al +45% ($19.9)
 
 Notas relevantes:
 - Entradas escalonadas trimestrales para optimizar precios promedio
 - Stops más amplios por horizonte temporal extendido
 - Mantener liquidez (10%) para oportunidades tácticas
 - Revisar trimestralmente:
-  * Evolución del sector financiero
+  * Evolución del sector energético
   * Condiciones macroeconómicas
-  * Política monetaria y tasas de interés 
+  * Política energética y precios del gas/petróleo 

@@ -28,16 +28,14 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio de inversión para un capital de COP 5,000,000.
+Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000.
 NOTA: Hoy es 2025-01-13.
 
 Tener en cuenta los siguientes criterios:
 
-1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado.
+1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA.
 
-2. Priorizar acciones con mayor potencial de retorno según distancias a soportes/resistencias
-
-3. Organizar el documento con la siguiente estructura:
+2. Organizar el documento con la siguiente estructura:
 
 # Portafolio de Inversión
 
