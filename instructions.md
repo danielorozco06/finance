@@ -25,10 +25,9 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - Soporte: valor y distancia
   - Resistencia: valor y distancia
 - Recomendación de inversión: 
-  - 1 día: ETIQUETA y pequeña justificación
-  - 1 semana: ETIQUETA y pequeña justificación
-  - 3 meses: ETIQUETA y pequeña justificación
-  - 6 meses: ETIQUETA y pequeña justificación
+  - A 1 semana: ETIQUETA y pequeña justificación
+  - A 3 meses: ETIQUETA y pequeña justificación
+  - A 6 meses: ETIQUETA y pequeña justificación
   Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia.
 NOTA: Tener presente que hoy es 2025-01-14.
 NOTA: Validar que se hayan procesado todos los tickers del archivo filter_tickers.md.

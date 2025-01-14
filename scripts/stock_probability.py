@@ -358,7 +358,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     df = calculate_technical_indicators(df)
 
     # Calcular tendencias para diferentes períodos futuros
-    prob_1d, trend_1d = calculate_trend(df, 1)  # Próximo día
     prob_1w, trend_1w = calculate_trend(df, 5)  # Próxima semana
     prob_3m, trend_3m = calculate_trend(df, 60)  # Próximos 3 meses
     prob_6m, trend_6m = calculate_trend(df, 120)  # Próximos 6 meses
@@ -404,8 +403,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
     return {
         "ultimo_precio": round(last_price, 2),
-        "tendencia_prox_1d": trend_1d,
-        "prob_subida_1d": prob_1d,
         "tendencia_prox_1s": trend_1w,
         "prob_subida_1s": prob_1w,
         "tendencia_prox_3m": trend_3m,
@@ -553,7 +550,6 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 
     # Sección de predicción de tendencias
     trends = """### Predicción de Tendencias
-- Próximo día: {tendencia_prox_1d} (Prob. subida: {prob_subida_1d}%)
 - Próxima semana: {tendencia_prox_1s} (Prob. subida: {prob_subida_1s}%)
 - Próximos 3 meses: {tendencia_prox_3m} (Prob. subida: {prob_subida_3m}%)
 - Próximos 6 meses: {tendencia_prox_6m} (Prob. subida: {prob_subida_6m}%)

@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 15:46:49
+Generado el: 2025-01-14 15:50:41
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
@@ -17,7 +17,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $10900.0 (distancia: 5.22%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
@@ -46,7 +45,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $1935.0 (distancia: 0.0%)
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 45.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 60.0%)
@@ -75,7 +73,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $12.9 (distancia: 9.15%)
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
@@ -104,7 +101,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $25941.81 (distancia: 2.47%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 30.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 37.5%)
@@ -133,7 +129,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $439.0 (distancia: 2.44%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
@@ -162,7 +157,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $178.0 (distancia: 1.11%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 61.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
@@ -191,7 +185,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $17560.0 (distancia: 6.3%)
 
 ### Predicción de Tendencias
-- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
@@ -220,7 +213,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $1650.0 (distancia: 10.33%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 32.5%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 25.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
@@ -249,7 +241,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $13400.0 (distancia: 5.1%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 30.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
@@ -278,7 +269,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $55421.56 (distancia: 14.02%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
@@ -307,7 +297,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $16200.0 (distancia: 4.48%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
@@ -336,7 +325,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $297.0 (distancia: 1.98%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 58.75%)
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 73.75%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 66.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 66.25%)
@@ -365,7 +353,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $68600.0 (distancia: 0.84%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 62.5%)
 - Próxima semana: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
@@ -394,7 +381,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $3500.0 (distancia: 7.65%)
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
@@ -423,7 +409,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $7190.0 (distancia: 0.83%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 60.0%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
@@ -452,7 +437,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $419.0 (distancia: 35.04%)
 
 ### Predicción de Tendencias
-- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
@@ -481,7 +465,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $9642.43 (distancia: 9.03%)
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
@@ -510,7 +493,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $14232.49 (distancia: 3.83%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
@@ -539,7 +521,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte: $33933.92 (distancia: 2.66%)
 
 ### Predicción de Tendencias
-- Próximo día: Muy Probablemente Bajista (Prob. subida: 22.5%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 22.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
