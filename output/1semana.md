@@ -4,51 +4,51 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PFDAVVNDA | 40% | COMPRA FUERTE | 7.58% | 2.84% |
-| ENKA | 35% | COMPRA FUERTE | 5.84% | 7.30% |
-| BHI | 25% | COMPRA FUERTE | 3.61% | 0.0% |
+| PFDAVVNDA | 35% | COMPRA FUERTE | 6.3% | 4.27% |
+| BHI | 35% | COMPRA FUERTE | 1.98% | 0.66% |
+| CELSIA | 30% | COMPRA FUERTE | 7.65% | 0.66% |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
 PFDAVVNDA:
-- 25% ($1,250,000): Orden límite a $19,000 (66 acciones)
+- 20% ($1,000,000): Orden límite a $18,800 (53 acciones)
 - 15% ($750,000): Orden escalonada semanal:
-  * 60% a $18,800 (24 acciones)
-  * 40% a $18,600 (16 acciones)
-
-ENKA:
-- 20% ($1,000,000): Orden límite a $13.7 (72,993 acciones)
-- 15% ($750,000): Orden escalonada semanal:
-  * 60% a $13.5 (33,333 acciones)
-  * 40% a $13.3 (22,556 acciones)
+  * 60% a $18,600 (24 acciones)
+  * 40% a $18,400 (16 acciones)
 
 BHI:
-- 15% ($750,000): Orden límite a $305 (2,459 acciones)
+- 20% ($1,000,000): Orden límite a $302 (3,311 acciones)
+- 15% ($750,000): Orden escalonada semanal:
+  * 60% a $300 (1,500 acciones)
+  * 40% a $298 (1,007 acciones)
+
+CELSIA:
+- 20% ($1,000,000): Orden límite a $3,780 (264 acciones)
 - 10% ($500,000): Orden escalonada semanal:
-  * 60% a $300 (1,000 acciones)
-  * 40% a $295 (678 acciones)
+  * 60% a $3,700 (81 acciones)
+  * 40% a $3,650 (54 acciones)
 
 ### 2.2 Órdenes de Salida
 
 PFDAVVNDA:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $19,400 (+2.11%)
-  * 30% a $19,540 (+2.84%)
-  * 30% a $19,700 (+3.68%)
-
-ENKA:
-- Stop loss móvil: -2% desde máximos
-- Take profit escalonado:
-  * 40% a $14.2 (+3.65%)
-  * 30% a $14.5 (+5.84%)
-  * 30% a $14.7 (+7.30%)
+  * 40% a $19,200 (+2.13%)
+  * 30% a $19,400 (+3.20%)
+  * 30% a $19,540 (+4.27%)
 
 BHI:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $310 (+1.64%)
-  * 30% a $315 (+3.28%)
-  * 30% a $320 (+4.92%) 
+  * 40% a $305 (+0.99%)
+  * 30% a $308 (+1.98%)
+  * 30% a $310 (+2.64%)
+
+CELSIA:
+- Stop loss móvil: -2% desde máximos
+- Take profit escalonado:
+  * 40% a $3,800 (+0.53%)
+  * 30% a $3,815 (+0.66%)
+  * 30% a $3,850 (+1.58%) 

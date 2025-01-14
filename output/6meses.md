@@ -4,9 +4,9 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PFDAVVNDA | 35% | COMPRA FUERTE | 7.58% | 2.84% |
-| GRUPOSURA | 35% | COMPRA FUERTE | 3.39% | 2.69% |
-| BHI | 30% | COMPRA FUERTE | 3.61% | 0.0% |
+| PFDAVVNDA | 35% | COMPRA | 6.3% | 4.27% |
+| ISA | 35% | COMPRA FUERTE | 4.48% | 2.0% |
+| PEI | 30% | COMPRA FUERTE | 0.84% | 1.16% |
 
 ## 2. Plan de Ejecución
 

@@ -4,9 +4,9 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PFDAVVNDA | 40% | COMPRA FUERTE | 7.58% | 2.84% |
-| GRUPOSURA | 35% | COMPRA | 3.39% | 2.69% |
-| BHI | 25% | COMPRA FUERTE | 3.61% | 0.0% |
+| PFDAVVNDA | 35% | COMPRA FUERTE | 6.3% | 4.27% |
+| ECOPETROL | 35% | COMPRA FUERTE | 10.33% | 0.54% |
+| PROMIGAS | 30% | COMPRA FUERTE | 0.83% | 7.59% |
 
 ## 2. Plan de Ejecución
 
