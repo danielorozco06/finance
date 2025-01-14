@@ -1,12 +1,12 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 14:21:41
+Generado el: 2025-01-14 14:32:08
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
-Total de tickers encontrados: 17
-Tickers excluidos: 1
-Lista de exclusión: exito_cl
+Total de tickers encontrados: 18
+Tickers excluidos: 0
+
 
 ## CNEC_CL
 - Último precio: $11500.0
@@ -38,6 +38,37 @@ Lista de exclusión: exito_cl
 - RSI: Normal
 - Volumen: Bajo (x0.08 del promedio)
 - Precio: Cerca de Resistencia
+
+## EXITO_CL
+- Último precio: $1935.0
+- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.98% del precio actual]
+- Mínimo histórico [CLOSE]: $1935.0 (2025-01-14) [0.0% del precio actual]
+
+### Análisis Técnico
+- Resistencia: $2190.0 (distancia: 13.18%)
+- Soporte: $1935.0 (distancia: 0.0%)
+
+### Predicción de Tendencias
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 45.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
+- Próximos 6 meses: Probablemente Alcista (Prob. subida: 60.0%)
+- Próximos 12 meses: Probablemente Bajista (Prob. subida: 45.0%)
+- Próximos 24 meses: Probablemente Bajista (Prob. subida: 45.0%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: -44.46, Señal: -36.19)
+- Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
+- ATR (Volatilidad): 33.93
+
+### Niveles de Fibonacci
+- Posición actual: Por debajo de 61.8
+- Niveles: 38.2%: $2092.59, 50%: $2062.5, 61.8%: $2032.41
+
+### Señales de Trading
+- RSI: Sobrevendida
+- Volumen: Alto (x1.92 del promedio)
+- Precio: Cerca de Soporte
 
 ## ENKA_CL
 - Último precio: $14.2

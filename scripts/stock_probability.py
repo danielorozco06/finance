@@ -699,9 +699,7 @@ if __name__ == "__main__":
     print("Reporte general generado")
 
     # Lista de tickers a excluir
-    tickers_excluidos = [
-        "EXITO_CL",
-    ]
+    tickers_excluidos: list[str] = []
 
     generate_filtered_report(
         input_dir, max_distance=5.0, exclude_tickers=tickers_excluidos
