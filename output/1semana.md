@@ -12,11 +12,11 @@
 
 ### 2.1 Órdenes de Entrada
 
-PROMIGAS:
-- 25% ($1,250,000): Orden límite a $7,190 (174 acciones)
+PFDAVVNDA:
+- 25% ($1,250,000): Orden límite a $19,000 (66 acciones)
 - 15% ($750,000): Orden escalonada semanal:
-  * 60% a $7,150 (63 acciones)
-  * 40% a $7,100 (42 acciones)
+  * 60% a $18,800 (24 acciones)
+  * 40% a $18,600 (16 acciones)
 
 ENKA:
 - 20% ($1,000,000): Orden límite a $13.7 (72,993 acciones)
@@ -24,20 +24,20 @@ ENKA:
   * 60% a $13.5 (33,333 acciones)
   * 40% a $13.3 (22,556 acciones)
 
-PEI:
-- 15% ($750,000): Orden límite a $69,180 (11 acciones)
+BHI:
+- 15% ($750,000): Orden límite a $305 (2,459 acciones)
 - 10% ($500,000): Orden escalonada semanal:
-  * 60% a $69,000 (4 acciones)
-  * 40% a $68,800 (3 acciones)
+  * 60% a $300 (1,000 acciones)
+  * 40% a $295 (678 acciones)
 
 ### 2.2 Órdenes de Salida
 
-PROMIGAS:
+PFDAVVNDA:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $7,500 (+4.31%)
-  * 30% a $7,700 (+7.09%)
-  * 30% a $7,900 (+9.87%)
+  * 40% a $19,400 (+2.11%)
+  * 30% a $19,540 (+2.84%)
+  * 30% a $19,700 (+3.68%)
 
 ENKA:
 - Stop loss móvil: -2% desde máximos
@@ -46,8 +46,9 @@ ENKA:
   * 30% a $14.5 (+5.84%)
   * 30% a $14.7 (+7.30%)
 
-PEI:
+BHI:
 - Stop loss móvil: -2% desde máximos
 - Take profit escalonado:
-  * 40% a $69,500 (+0.46%)
-  * 30% a $69,980 (+1.16%) 
+  * 40% a $310 (+1.64%)
+  * 30% a $315 (+3.28%)
+  * 30% a $320 (+4.92%) 

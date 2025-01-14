@@ -12,63 +12,49 @@
 
 ### 2.1 Órdenes de Entrada
 
-PFGRUPOARG:
-- 20% ($1,000,000): Orden límite a $15,000 (67 acciones)
-- 10% ($500,000): Orden escalonada mensual:
-  * 40% a $14,800 (14 acciones)
-  * 35% a $14,600 (12 acciones)
-  * 25% a $14,400 (9 acciones)
+PFDAVVNDA:
+- 25% ($1,250,000): Orden límite a $19,000 (66 acciones)
+- 15% ($750,000): Orden escalonada mensual:
+  * 40% a $18,800 (16 acciones)
+  * 35% a $18,600 (14 acciones)
+  * 25% a $18,400 (10 acciones)
 
-PROMIGAS:
-- 15% ($750,000): Orden límite a $7,190 (104 acciones)
-- 10% ($500,000): Orden escalonada mensual:
-  * 40% a $7,100 (28 acciones)
-  * 35% a $7,000 (25 acciones)
-  * 25% a $6,900 (18 acciones)
+GRUPOSURA:
+- 20% ($1,000,000): Orden límite a $36,400 (27 acciones)
+- 15% ($750,000): Orden escalonada mensual:
+  * 40% a $36,000 (8 acciones)
+  * 35% a $35,500 (7 acciones)
+  * 25% a $35,000 (5 acciones)
 
-PEI:
-- 15% ($750,000): Orden límite a $69,180 (11 acciones)
+BHI:
+- 15% ($750,000): Orden límite a $305 (2,459 acciones)
 - 10% ($500,000): Orden escalonada mensual:
-  * 40% a $69,000 (3 acciones)
-  * 35% a $68,800 (3 acciones)
-  * 25% a $68,600 (2 acciones)
-
-CELSIA:
-- 12% ($600,000): Orden límite a $3,815 (157 acciones)
-- 8% ($400,000): Orden escalonada mensual:
-  * 40% a $3,750 (43 acciones)
-  * 35% a $3,700 (38 acciones)
-  * 25% a $3,650 (27 acciones)
+  * 40% a $300 (667 acciones)
+  * 35% a $295 (593 acciones)
+  * 25% a $290 (431 acciones)
 
 ### 2.2 Órdenes de Salida
 
-PFGRUPOARG:
+PFDAVVNDA:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
-  * 40% al +15% ($17,250)
-  * 35% al +20% ($18,000)
-  * 25% al +25% ($18,750)
+  * 40% al +15% ($21,850)
+  * 35% al +20% ($22,800)
+  * 25% al +25% ($23,750)
 
-PROMIGAS:
+GRUPOSURA:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
-  * 40% al +15% ($8,269)
-  * 35% al +20% ($8,628)
-  * 25% al +25% ($8,988)
+  * 40% al +15% ($41,860)
+  * 35% al +20% ($43,680)
+  * 25% al +25% ($45,500)
 
-PEI:
+BHI:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
-  * 40% al +12% ($77,482)
-  * 35% al +16% ($80,249)
-  * 25% al +20% ($83,016)
-
-CELSIA:
-- Stop loss móvil: -8% desde máximos
-- Take profit escalonado:
-  * 40% al +15% ($4,387)
-  * 35% al +20% ($4,578)
-  * 25% al +25% ($4,769)
+  * 40% al +15% ($350.75)
+  * 35% al +20% ($366)
+  * 25% al +25% ($381.25)
 
 Notas relevantes:
 - Entradas escalonadas mensuales para promediar precios
