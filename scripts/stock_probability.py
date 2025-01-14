@@ -362,8 +362,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     prob_1w, trend_1w = calculate_trend(df, 5)  # Próxima semana
     prob_3m, trend_3m = calculate_trend(df, 60)  # Próximos 3 meses
     prob_6m, trend_6m = calculate_trend(df, 120)  # Próximos 6 meses
-    prob_12m, trend_12m = calculate_trend(df, 240)  # Próximos 12 meses
-    prob_24m, trend_24m = calculate_trend(df, 480)  # Próximos 24 meses
 
     # Obtener último precio
     last_price = df["Close"].iloc[-1]
@@ -414,10 +412,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "prob_subida_3m": prob_3m,
         "tendencia_prox_6m": trend_6m,
         "prob_subida_6m": prob_6m,
-        "tendencia_prox_12m": trend_12m,
-        "prob_subida_12m": prob_12m,
-        "tendencia_prox_24m": trend_24m,
-        "prob_subida_24m": prob_24m,
         "registros_analizados": len(df),
         "fecha_inicial": df["Date"].min().strftime("%Y-%m-%d"),
         "fecha_final": df["Date"].max().strftime("%Y-%m-%d"),
@@ -563,8 +557,6 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Próxima semana: {tendencia_prox_1s} (Prob. subida: {prob_subida_1s}%)
 - Próximos 3 meses: {tendencia_prox_3m} (Prob. subida: {prob_subida_3m}%)
 - Próximos 6 meses: {tendencia_prox_6m} (Prob. subida: {prob_subida_6m}%)
-- Próximos 12 meses: {tendencia_prox_12m} (Prob. subida: {prob_subida_12m}%)
-- Próximos 24 meses: {tendencia_prox_24m} (Prob. subida: {prob_subida_24m}%)
 """.format(**resultado)
     sections.append(trends)
 

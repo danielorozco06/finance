@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 15:38:34
+Generado el: 2025-01-14 15:46:47
 Período analizado: 2022-01-03 a 2025-01-13
 
 ## BBVACOL_CL
@@ -17,8 +17,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 61.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 61.25%)
-- Próximos 24 meses: Probablemente Alcista (Prob. subida: 61.25%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 0.07, Señal: -0.14)
@@ -48,8 +46,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 26.25%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 26.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 33.75%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 33.75%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 33.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 96.6, Señal: 154.75)
@@ -79,8 +75,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 73.75%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 66.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 66.25%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 66.25%)
-- Próximos 24 meses: Probablemente Alcista (Prob. subida: 66.25%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: -0.39, Señal: -1.02)
@@ -110,8 +104,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 37.5%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 37.5%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 37.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: -19.28, Señal: -65.51)
@@ -141,8 +133,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 53.47, Señal: 35.09)
@@ -172,8 +162,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 330.94, Señal: 356.62)
@@ -203,8 +191,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 15.03, Señal: -7.64)
@@ -234,8 +220,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 79.01, Señal: 65.67)
@@ -265,8 +249,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 5.51, Señal: -33.09)
@@ -296,8 +278,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 25.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 26.51, Señal: 9.0)
@@ -327,8 +307,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 61.25%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: -0.19, Señal: -0.31)
@@ -358,8 +336,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 60.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 45.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 45.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: -44.46, Señal: -36.19)
@@ -389,8 +365,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 43.75%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 13.84, Señal: 11.91)
@@ -420,8 +394,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 1517.2, Señal: 937.14)
@@ -451,8 +423,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 62.5%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 62.5%)
-- Próximos 24 meses: Probablemente Alcista (Prob. subida: 62.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 221.43, Señal: 263.25)
@@ -482,8 +452,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 1.53, Señal: 1.33)
@@ -513,8 +481,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 42.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 42.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 317.32, Señal: 510.8)
@@ -544,8 +510,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 77.5%)
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próximos 12 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próximos 24 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 139.08, Señal: 113.33)
@@ -575,8 +539,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 35.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 35.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 103.89, Señal: 53.82)
@@ -606,8 +568,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 103.59, Señal: 93.2)
@@ -637,8 +597,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 2192.98, Señal: 1276.18)
@@ -668,8 +626,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próximos 12 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próximos 24 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 28.57, Señal: 27.7)
@@ -699,8 +655,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 3.71, Señal: 2.73)
@@ -730,8 +684,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 22.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 30.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 71.53, Señal: 102.53)
@@ -761,8 +713,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 87.06, Señal: 65.05)
@@ -792,8 +742,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 213.44, Señal: 70.11)
@@ -823,8 +771,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 248.82, Señal: 346.03)
@@ -854,8 +800,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 62.5%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 708.38, Señal: 766.41)
@@ -885,8 +829,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
 
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: -76.39, Señal: -51.09)
@@ -916,8 +858,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 40.0%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 205.52, Señal: 191.15)
