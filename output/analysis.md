@@ -238,3 +238,71 @@ Fecha: 2025-01-14
 - 1 semana: MANTENER - Sector inmobiliario afectado por suspensión Mi Casa Ya
 - 3 meses: MANTENER - Incertidumbre en sector inmobiliario
 - 6 meses: COMPRA - Valoración atractiva y posible recuperación sectorial
+
+## ISA_CL
+
+### Precios
+- Último precio: $17040.0
+- Máximo histórico [CLOSE]: $21352.37 (2022-01-20) [-20.2%]
+- Mínimo histórico [CLOSE]: $12607.87 (2023-09-06) [+26.01%]
+
+### Análisis Técnico
+- Soporte: $16200.0 (-4.93%)
+- Resistencia: $17300.0 (+1.53%)
+
+### Recomendación de Inversión
+- 1 día: VENTA - Probabilidad bajista y tendencias negativas
+- 1 semana: VENTA FUERTE - Indicadores técnicos desfavorables
+- 3 meses: MANTENER - Sector energético con perspectivas mixtas
+- 6 meses: COMPRA - Beneficiada por aumento en precios de energía
+
+## BHI_CL
+
+### Precios
+- Último precio: $305.0
+- Máximo histórico [CLOSE]: $359.98 (2022-06-01) [-15.27%]
+- Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [+40.0%]
+
+### Análisis Técnico
+- Soporte: $294.0 (-3.61%)
+- Resistencia: $305.0 (0%)
+
+### Recomendación de Inversión
+- 1 día: COMPRA - Alta probabilidad alcista (66.25%)
+- 1 semana: COMPRA FUERTE - Tendencias alcistas sostenidas
+- 3 meses: COMPRA FUERTE - Muy alta probabilidad alcista (73.75%)
+- 6 meses: COMPRA - Sector beneficiado por contexto energético
+
+## GRUBOLIVAR_CL
+
+### Precios
+- Último precio: $63500.0
+- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [-29.68%]
+- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [+37.27%]
+
+### Análisis Técnico
+- Soporte: $55421.56 (-12.72%)
+- Resistencia: $64960.0 (+2.3%)
+
+### Recomendación de Inversión
+- 1 día: VENTA - RSI sobrecomprado y probabilidad bajista
+- 1 semana: VENTA FUERTE - Muy baja probabilidad alcista (27.5%)
+- 3 meses: MANTENER - Indicadores mixtos en mediano plazo
+- 6 meses: VENTA - Tendencias bajistas dominan largo plazo
+
+## PFCORFICOL_CL
+
+### Precios
+- Último precio: $14400.0
+- Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [-27.35%]
+- Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [+41.16%]
+
+### Análisis Técnico
+- Soporte: $13400.0 (-6.94%)
+- Resistencia: $14480.0 (+0.56%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE - Muy baja probabilidad alcista (23.75%)
+- 1 semana: VENTA FUERTE - Tendencias bajistas dominan
+- 3 meses: VENTA - Probabilidad bajista en mediano plazo
+- 6 meses: MANTENER - Posible estabilización por mejora sectorial
