@@ -511,31 +511,6 @@ def generate_tendency_report(
                     f"- Próximos 24 meses: {resultado['tendencia_prox_24m']} (Prob. subida: {resultado['prob_subida_24m']}%)\n"
                 )
                 f.write("\n### Análisis Técnico\n")
-                f.write("- Rangos históricos:\n")
-                f.write(
-                    f"  * 1 semana: ${resultado['minimo_1semana']} ({resultado['fecha_minimo_1semana']}) - "
-                    f"${resultado['maximo_1semana']} ({resultado['fecha_maximo_1semana']})\n"
-                )
-                f.write(
-                    f"  * 1 mes: ${resultado['minimo_1mes']} ({resultado['fecha_minimo_1mes']}) - "
-                    f"${resultado['maximo_1mes']} ({resultado['fecha_maximo_1mes']})\n"
-                )
-                f.write(
-                    f"  * 3 meses: ${resultado['minimo_3meses']} ({resultado['fecha_minimo_3meses']}) - "
-                    f"${resultado['maximo_3meses']} ({resultado['fecha_maximo_3meses']})\n"
-                )
-                f.write(
-                    f"  * 6 meses: ${resultado['minimo_6meses']} ({resultado['fecha_minimo_6meses']}) - "
-                    f"${resultado['maximo_6meses']} ({resultado['fecha_maximo_6meses']})\n"
-                )
-                f.write(
-                    f"  * 12 meses: ${resultado['minimo_12meses']} ({resultado['fecha_minimo_12meses']}) - "
-                    f"${resultado['maximo_12meses']} ({resultado['fecha_maximo_12meses']})\n"
-                )
-                f.write(
-                    f"  * 24 meses: ${resultado['minimo_24meses']} ({resultado['fecha_minimo_24meses']}) - "
-                    f"${resultado['maximo_24meses']} ({resultado['fecha_maximo_24meses']})\n"
-                )
                 f.write(
                     f"- Soporte: ${resultado['valor_soporte']} (distancia: {resultado['dist_soporte']}%)\n"
                 )
