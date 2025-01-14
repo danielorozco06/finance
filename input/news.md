@@ -1,5 +1,8 @@
 # Noticias Relevantes
 
+## 2025-01-14 - Surtigas amplía suministro de gas a Promigas hasta diciembre 2025
+Surtigas firmó un otrosí para extender su contrato de suministro de gas natural con Promigas hasta diciembre de 2025, en medio de la incertidumbre del mercado gasífero colombiano. El acuerdo incluye una adición presupuestal para garantizar el suministro ante el déficit proyectado.
+
 ## 2025-01-13 - Bancolombia avanza en creación del Grupo Cibest
 Bancolombia publicó los documentos para la escisión que dará origen al Grupo Cibest, un holding que agrupará todos sus negocios. El proceso incluye la fusión de sus operaciones en Panamá y la creación de una nueva estructura societaria.
 
