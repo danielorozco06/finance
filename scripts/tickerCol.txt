@@ -21,6 +21,7 @@
 - https://finance.yahoo.com/quote/NUTRESA.CL/
 - https://finance.yahoo.com/quote/PEI.CL/
 - https://finance.yahoo.com/quote/PFAVAL.CL/
+- https://finance.yahoo.com/quote/PFCEMARGOS.CL/
 - https://finance.yahoo.com/quote/PFBCOLOM.CL/
 - https://finance.yahoo.com/quote/PFCORFICOL.CL/
 - https://finance.yahoo.com/quote/PFDAVVNDA.CL/
