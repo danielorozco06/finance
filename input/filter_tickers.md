@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 15:50:41
+Generado el: 2025-01-14 16:01:59
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
@@ -26,10 +26,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 66.67, %D: 81.48)
 - ATR (Volatilidad): 241.43
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $11456.2, 50%: $11350.0, 61.8%: $11243.8
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.08 del promedio)
@@ -53,10 +49,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Bajista (MACD: -44.46, Señal: -36.19)
 - Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
 - ATR (Volatilidad): 33.93
-
-### Niveles de Fibonacci
-- Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $2092.59, 50%: $2062.5, 61.8%: $2032.41
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -82,10 +74,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 0.16
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $13.7, 50%: $13.55, 61.8%: $13.4
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.51 del promedio)
@@ -109,10 +97,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: -19.28, Señal: -65.51)
 - Estocástico: Normal (%K: 47.37, %D: 73.17)
 - ATR (Volatilidad): 346.92
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $26595.77, 50%: $26470.91, 61.8%: $26346.04
 
 ### Señales de Trading
 - RSI: Normal
@@ -138,10 +122,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 78.57, %D: 78.57)
 - ATR (Volatilidad): 2.5
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $447.65, 50%: $446.0, 61.8%: $444.35
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.71 del promedio)
@@ -165,10 +145,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: 0.07, Señal: -0.14)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 0.14
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $179.24, 50%: $179.0, 61.8%: $178.76
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -194,10 +170,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 59.6, %D: 68.35)
 - ATR (Volatilidad): 375.71
 
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $18783.64, 50%: $18550.0, 61.8%: $18316.36
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.88 del promedio)
@@ -221,10 +193,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: 26.51, Señal: 9.0)
 - Estocástico: Sobrecompra (%K: 94.74, %D: 98.25)
 - ATR (Volatilidad): 42.86
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $1773.6, 50%: $1750.0, 61.8%: $1726.4
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -250,10 +218,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 59.09, %D: 80.86)
 - ATR (Volatilidad): 101.43
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $14067.44, 50%: $13940.0, 61.8%: $13812.56
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.97 del promedio)
@@ -277,10 +241,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: 1517.2, Señal: 937.14)
 - Estocástico: Sobrecompra (%K: 92.61, %D: 91.0)
 - ATR (Volatilidad): 1066.65
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $61316.32, 50%: $60190.78, 61.8%: $59065.25
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -306,10 +266,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 57.5, %D: 68.33)
 - ATR (Volatilidad): 220.0
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $16879.8, 50%: $16750.0, 61.8%: $16620.2
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.77 del promedio)
@@ -333,10 +289,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: -0.39, Señal: -1.02)
 - Estocástico: Normal (%K: 75.0, %D: 58.33)
 - ATR (Volatilidad): 2.0
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $301.94, 50%: $301.0, 61.8%: $300.06
 
 ### Señales de Trading
 - RSI: Normal
@@ -362,10 +314,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 42.03, %D: 49.76)
 - ATR (Volatilidad): 674.29
 
-### Niveles de Fibonacci
-- Posición actual: Entre 50.0 y 61.8
-- Niveles: 38.2%: $69452.84, 50%: $69290.0, 61.8%: $69127.16
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.16 del promedio)
@@ -389,10 +337,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: 53.47, Señal: 35.09)
 - Estocástico: Sobrecompra (%K: 87.18, %D: 95.73)
 - ATR (Volatilidad): 37.5
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $3694.67, 50%: $3657.5, 61.8%: $3620.33
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -418,10 +362,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 23.08, %D: 17.03)
 - ATR (Volatilidad): 49.29
 
-### Niveles de Fibonacci
-- Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $7566.98, 50%: $7495.0, 61.8%: $7423.02
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Alto (x5.22 del promedio)
@@ -445,10 +385,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Alcista (MACD: 79.01, Señal: 65.67)
 - Estocástico: Sobrecompra (%K: 89.8, %D: 93.2)
 - ATR (Volatilidad): 32.86
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $574.12, 50%: $544.5, 61.8%: $514.88
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -474,10 +410,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 50.0, %D: 48.69)
 - ATR (Volatilidad): 318.77
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $10481.41, 50%: $10321.22, 61.8%: $10161.02
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.05 del promedio)
@@ -502,10 +434,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Estocástico: Normal (%K: 20.56, %D: 32.31)
 - ATR (Volatilidad): 325.54
 
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $14917.55, 50%: $14786.74, 61.8%: $14655.94
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.23 del promedio)
@@ -529,10 +457,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - MACD: Bajista (MACD: 71.53, Señal: 102.53)
 - Estocástico: Sobreventa (%K: 0.0, %D: 36.76)
 - ATR (Volatilidad): 387.43
-
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $34901.76, 50%: $34716.96, 61.8%: $34532.16
 
 ### Señales de Trading
 - RSI: Normal

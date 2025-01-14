@@ -76,14 +76,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     true_range = pd.concat([high_low, high_close, low_close], axis=1).max(axis=1)
     df["ATR"] = true_range.rolling(window=14).mean()
 
-    # Fibonacci Retracement Levels
-    period_high = df["Close"].rolling(window=20).max()
-    period_low = df["Close"].rolling(window=20).min()
-    diff = period_high - period_low
-    df["Fib_38.2"] = period_high - (diff * 0.382)
-    df["Fib_50.0"] = period_high - (diff * 0.500)
-    df["Fib_61.8"] = period_high - (diff * 0.618)
-
     # Calcular soportes y resistencias
     df["Support"] = df["Close"].rolling(window=20).min()
     df["Resistance"] = df["Close"].rolling(window=20).max()
@@ -440,25 +432,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "stoch_k": round(df["%K"].iloc[-1], 2),
         "stoch_d": round(df["%D"].iloc[-1], 2),
         "atr": round(df["ATR"].iloc[-1], 2),
-        "fib_38": round(df["Fib_38.2"].iloc[-1], 2),
-        "fib_50": round(df["Fib_50.0"].iloc[-1], 2),
-        "fib_61": round(df["Fib_61.8"].iloc[-1], 2),
         # Señales adicionales
         "señal_macd": "Alcista" if df["MACD_Hist"].iloc[-1] > 0 else "Bajista",
         "señal_stoch": "Sobrecompra"
         if df["%K"].iloc[-1] > 80
         else ("Sobreventa" if df["%K"].iloc[-1] < 20 else "Normal"),
-        "nivel_fib": "Por encima de 38.2"
-        if df["Close"].iloc[-1] > df["Fib_38.2"].iloc[-1]
-        else (
-            "Entre 38.2 y 50.0"
-            if df["Close"].iloc[-1] > df["Fib_50.0"].iloc[-1]
-            else (
-                "Entre 50.0 y 61.8"
-                if df["Close"].iloc[-1] > df["Fib_61.8"].iloc[-1]
-                else "Por debajo de 61.8"
-            )
-        ),
         # Actualizar análisis de máximos y mínimos con fechas y retornos
         "maximo_1semana": round(last_week["High"].max(), 2),
         "minimo_1semana": round(last_week["Low"].min(), 2),
@@ -561,10 +539,6 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - MACD: {resultado["señal_macd"]} (MACD: {resultado["macd"]}, Señal: {resultado["macd_signal"]})
 - Estocástico: {resultado["señal_stoch"]} (%K: {resultado["stoch_k"]}, %D: {resultado["stoch_d"]})
 - ATR (Volatilidad): {resultado["atr"]}
-
-### Niveles de Fibonacci
-- Posición actual: {resultado["nivel_fib"]}
-- Niveles: 38.2%: ${resultado["fib_38"]}, 50%: ${resultado["fib_50"]}, 61.8%: ${resultado["fib_61"]}
 
 ### Señales de Trading
 - RSI: {resultado["señal_rsi"]}

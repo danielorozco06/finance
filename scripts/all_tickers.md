@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 15:50:39
+Generado el: 2025-01-14 16:01:57
 Período analizado: 2022-01-03 a 2025-01-13
 
 ## BBVACOL_CL
@@ -21,10 +21,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 0.07, Señal: -0.14)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 0.14
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $179.24, 50%: $179.0, 61.8%: $178.76
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -50,10 +46,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobreventa (%K: 0.0, %D: 13.7)
 - ATR (Volatilidad): 457.43
 
-### Niveles de Fibonacci
-- Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $37961.27, 50%: $37708.36, 61.8%: $37455.45
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.46 del promedio)
@@ -77,10 +69,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: -0.39, Señal: -1.02)
 - Estocástico: Normal (%K: 75.0, %D: 58.33)
 - ATR (Volatilidad): 2.0
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $301.94, 50%: $301.0, 61.8%: $300.06
 
 ### Señales de Trading
 - RSI: Normal
@@ -106,10 +94,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 47.37, %D: 73.17)
 - ATR (Volatilidad): 346.92
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $26595.77, 50%: $26470.91, 61.8%: $26346.04
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.07 del promedio)
@@ -133,10 +117,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 53.47, Señal: 35.09)
 - Estocástico: Sobrecompra (%K: 87.18, %D: 95.73)
 - ATR (Volatilidad): 37.5
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $3694.67, 50%: $3657.5, 61.8%: $3620.33
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -162,10 +142,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 50.0, %D: 48.69)
 - ATR (Volatilidad): 318.77
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $10481.41, 50%: $10321.22, 61.8%: $10161.02
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.05 del promedio)
@@ -189,10 +165,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 15.03, Señal: -7.64)
 - Estocástico: Normal (%K: 66.67, %D: 81.48)
 - ATR (Volatilidad): 241.43
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $11456.2, 50%: $11350.0, 61.8%: $11243.8
 
 ### Señales de Trading
 - RSI: Normal
@@ -218,10 +190,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobrecompra (%K: 89.8, %D: 93.2)
 - ATR (Volatilidad): 32.86
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $574.12, 50%: $544.5, 61.8%: $514.88
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.2 del promedio)
@@ -245,10 +213,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 5.51, Señal: -33.09)
 - Estocástico: Sobrecompra (%K: 83.87, %D: 87.57)
 - ATR (Volatilidad): 210.0
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15071.48, 50%: $14970.0, 61.8%: $14868.52
 
 ### Señales de Trading
 - RSI: Normal
@@ -274,10 +238,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobrecompra (%K: 94.74, %D: 98.25)
 - ATR (Volatilidad): 42.86
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $1773.6, 50%: $1750.0, 61.8%: $1726.4
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.63 del promedio)
@@ -301,10 +261,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: -0.19, Señal: -0.31)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 0.16
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $13.7, 50%: $13.55, 61.8%: $13.4
 
 ### Señales de Trading
 - RSI: Normal
@@ -330,10 +286,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
 - ATR (Volatilidad): 33.93
 
-### Niveles de Fibonacci
-- Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $2092.59, 50%: $2062.5, 61.8%: $2032.41
-
 ### Señales de Trading
 - RSI: Sobrevendida
 - Volumen: Alto (x1.92 del promedio)
@@ -357,10 +309,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 13.84, Señal: 11.91)
 - Estocástico: Sobrecompra (%K: 87.5, %D: 80.0)
 - ATR (Volatilidad): 29.29
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $2481.8, 50%: $2470.0, 61.8%: $2458.2
 
 ### Señales de Trading
 - RSI: Normal
@@ -386,10 +334,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobrecompra (%K: 92.61, %D: 91.0)
 - ATR (Volatilidad): 1066.65
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $61316.32, 50%: $60190.78, 61.8%: $59065.25
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.2 del promedio)
@@ -413,10 +357,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Bajista (MACD: 221.43, Señal: 263.25)
 - Estocástico: Normal (%K: 52.63, %D: 47.37)
 - ATR (Volatilidad): 286.21
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $19949.26, 50%: $19785.31, 61.8%: $19621.37
 
 ### Señales de Trading
 - RSI: Normal
@@ -442,10 +382,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 78.57, %D: 78.57)
 - ATR (Volatilidad): 2.5
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $447.65, 50%: $446.0, 61.8%: $444.35
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.71 del promedio)
@@ -469,10 +405,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Bajista (MACD: 317.32, Señal: 510.8)
 - Estocástico: Sobreventa (%K: 0.0, %D: 11.67)
 - ATR (Volatilidad): 270.71
-
-### Niveles de Fibonacci
-- Posición actual: Entre 50.0 y 61.8
-- Niveles: 38.2%: $36534.59, 50%: $36273.45, 61.8%: $36012.3
 
 ### Señales de Trading
 - RSI: Normal
@@ -498,10 +430,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 40.29
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15144.55, 50%: $15078.0, 61.8%: $15011.45
-
 ### Señales de Trading
 - RSI: Sobrevendida
 - Volumen: Alto (x20.0 del promedio)
@@ -525,10 +453,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 103.89, Señal: 53.82)
 - Estocástico: Normal (%K: 57.5, %D: 68.33)
 - ATR (Volatilidad): 220.0
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $16879.8, 50%: $16750.0, 61.8%: $16620.2
 
 ### Señales de Trading
 - RSI: Normal
@@ -554,10 +478,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobrecompra (%K: 95.52, %D: 96.52)
 - ATR (Volatilidad): 76.07
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $4438.2, 50%: $4397.49, 61.8%: $4356.78
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.88 del promedio)
@@ -581,10 +501,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 2192.98, Señal: 1276.18)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
 - ATR (Volatilidad): 787.14
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $81117.2, 50%: $79300.0, 61.8%: $77482.8
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -610,10 +526,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 42.03, %D: 49.76)
 - ATR (Volatilidad): 674.29
 
-### Niveles de Fibonacci
-- Posición actual: Entre 50.0 y 61.8
-- Niveles: 38.2%: $69452.84, 50%: $69290.0, 61.8%: $69127.16
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.16 del promedio)
@@ -637,10 +549,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 3.71, Señal: 2.73)
 - Estocástico: Normal (%K: 73.91, %D: 84.43)
 - ATR (Volatilidad): 6.79
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $453.89, 50%: $449.53, 61.8%: $445.17
 
 ### Señales de Trading
 - RSI: Normal
@@ -666,10 +574,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Sobreventa (%K: 0.0, %D: 36.76)
 - ATR (Volatilidad): 387.43
 
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $34901.76, 50%: $34716.96, 61.8%: $34532.16
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.31 del promedio)
@@ -693,10 +597,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 87.06, Señal: 65.05)
 - Estocástico: Normal (%K: 59.09, %D: 80.86)
 - ATR (Volatilidad): 101.43
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $14067.44, 50%: $13940.0, 61.8%: $13812.56
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -722,10 +622,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 59.6, %D: 68.35)
 - ATR (Volatilidad): 375.71
 
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $18783.64, 50%: $18550.0, 61.8%: $18316.36
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.88 del promedio)
@@ -749,10 +645,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Bajista (MACD: 248.82, Señal: 346.03)
 - Estocástico: Normal (%K: 20.56, %D: 32.31)
 - ATR (Volatilidad): 325.54
-
-### Niveles de Fibonacci
-- Posición actual: Entre 38.2 y 50.0
-- Niveles: 38.2%: $14917.55, 50%: $14786.74, 61.8%: $14655.94
 
 ### Señales de Trading
 - RSI: Normal
@@ -778,10 +670,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 75.0, %D: 78.61)
 - ATR (Volatilidad): 280.71
 
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $25164.24, 50%: $24801.04, 61.8%: $24437.85
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.33 del promedio)
@@ -806,10 +694,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Estocástico: Normal (%K: 23.08, %D: 17.03)
 - ATR (Volatilidad): 49.29
 
-### Niveles de Fibonacci
-- Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $7566.98, 50%: $7495.0, 61.8%: $7423.02
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Alto (x5.22 del promedio)
@@ -833,10 +717,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - MACD: Alcista (MACD: 205.52, Señal: 191.15)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 93.14)
 - ATR (Volatilidad): 114.29
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $11463.84, 50%: $11360.0, 61.8%: $11256.16
 
 ### Señales de Trading
 - RSI: Sobrecomprada
