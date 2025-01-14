@@ -29,7 +29,6 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - A 6 meses: ETIQUETA y pequeña justificación
   Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia.
 NOTA: Tener presente que hoy es 2025-01-14.
-NOTA: Validar que se hayan procesado todos los tickers del archivo filter_tickers.md.
 
 ## Prompt portafolio de inversión
 
