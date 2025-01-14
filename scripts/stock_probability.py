@@ -638,7 +638,7 @@ def generate_all_report(
 def generate_filtered_report(
     input_dir: str = "tickers_history",
     output_file: str = "input/filter_tickers.md",
-    max_distance: float = 5.0,
+    max_distance: float = 5.0,  # Porcentaje de distancia a máximo histórico
 ) -> None:
     """Genera un reporte filtrado de tickers que están lejos de su máximo histórico."""
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
