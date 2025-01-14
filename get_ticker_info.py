@@ -37,9 +37,11 @@ def save_ticker_info(ticker_symbol: str) -> None:
     print(f"Data for {ticker_symbol} has been saved to {csv_file}")
 
 
-def save_ticker_history(ticker_symbol: str, start_date: str = "2022-06-01") -> None:
+def save_ticker_history(ticker_symbol: str, start_date: str) -> None:
     data = yf.Ticker(ticker_symbol)
     csv_file = f"tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
+
+    # Get history from start date or using period property with 1d, 5d, 1mo, 3mo, 1y, 5y, max
     history_df = data.history(start=start_date)
 
     # Keep only desired columns
