@@ -1,12 +1,11 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 14:32:08
+Generado el: 2025-01-14 15:29:06
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
-Total de tickers encontrados: 18
-Tickers excluidos: 0
-
+Total de tickers encontrados: 15
+Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL
 
 ## CNEC_CL
 - Último precio: $11500.0
@@ -163,37 +162,6 @@ Tickers excluidos: 0
 - Volumen: Normal (x0.71 del promedio)
 - Precio: Cerca de Soporte
 
-## PFAVAL_CL
-- Último precio: $462.0
-- Máximo histórico [CLOSE]: $911.48 (2022-01-31) [-49.31% del precio actual]
-- Mínimo histórico [CLOSE]: $389.79 (2024-03-15) [15.63% del precio actual]
-
-### Análisis Técnico
-- Resistencia: $468.0 (distancia: 1.3%)
-- Soporte: $431.05 (distancia: 6.7%)
-
-### Predicción de Tendencias
-- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
-- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 3.71, Señal: 2.73)
-- Estocástico: Normal (%K: 73.91, %D: 84.43)
-- ATR (Volatilidad): 6.79
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $453.89, 50%: $449.53, 61.8%: $445.17
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Bajo (x0.16 del promedio)
-- Precio: Cerca de Resistencia
-
 ## BBVACOL_CL
 - Último precio: $180.0
 - Máximo histórico [CLOSE]: $338.91 (2022-12-09) [-46.89% del precio actual]
@@ -255,68 +223,6 @@ Tickers excluidos: 0
 - RSI: Normal
 - Volumen: Normal (x0.88 del promedio)
 - Precio: Cerca de Resistencia
-
-## CORFICOLCF_CL
-- Último precio: $15120.0
-- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [-39.72% del precio actual]
-- Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [37.74% del precio actual]
-
-### Análisis Técnico
-- Resistencia: $15400.0 (distancia: 1.85%)
-- Soporte: $14540.0 (distancia: 3.84%)
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 37.5%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
-- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 5.51, Señal: -33.09)
-- Estocástico: Sobrecompra (%K: 83.87, %D: 87.57)
-- ATR (Volatilidad): 210.0
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15071.48, 50%: $14970.0, 61.8%: $14868.52
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Normal (x0.83 del promedio)
-- Precio: Cerca de Soporte
-
-## GRUPOSURA_CL
-- Último precio: $36020.0
-- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [-31.44% del precio actual]
-- Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [31.64% del precio actual]
-
-### Análisis Técnico
-- Resistencia: $37380.0 (distancia: 3.78%)
-- Soporte: $35166.89 (distancia: 2.37%)
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 57.5%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 6 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 12 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 24 meses: Probablemente Bajista (Prob. subida: 42.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 317.32, Señal: 510.8)
-- Estocástico: Sobreventa (%K: 0.0, %D: 11.67)
-- ATR (Volatilidad): 270.71
-
-### Niveles de Fibonacci
-- Posición actual: Entre 50.0 y 61.8
-- Niveles: 38.2%: $36534.59, 50%: $36273.45, 61.8%: $36012.3
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Normal (x0.81 del promedio)
-- Precio: Cerca de Soporte
 
 ## ECOPETROL_CL
 - Último precio: $1840.0

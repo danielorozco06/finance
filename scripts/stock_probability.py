@@ -635,11 +635,59 @@ def generate_all_report(
                 f.write(f"\n## {ticker}\n\nError al procesar: {str(e)}\n\n")
 
 
+def get_pairs_to_exclude(pairs_file: str) -> set[str]:
+    """Lee el archivo de pares y determina qué ticker excluir de cada par basado en el precio.
+
+    Args:
+        pairs_file: Ruta al archivo CSV con los pares de acciones
+
+    Returns:
+        Set con los tickers a excluir
+    """
+    if not Path(pairs_file).exists():
+        print(f"Archivo de pares no encontrado: {pairs_file}")
+        return set()
+
+    try:
+        # Leer el archivo de pares
+        pairs_df = pd.read_csv(pairs_file)
+        to_exclude = set()
+
+        # Para cada par, determinar cuál tiene el precio más alto
+        for _, row in pairs_df.iterrows():
+            ticker1, ticker2 = row["ordinaria"], row["preferencial"]
+
+            # Obtener precios actuales
+            try:
+                price1 = calculate_stock_probability(
+                    f"tickers_history/{ticker1}_values.csv"
+                )["ultimo_precio"]
+                price2 = calculate_stock_probability(
+                    f"tickers_history/{ticker2}_values.csv"
+                )["ultimo_precio"]
+
+                # Excluir el de mayor precio
+                if float(price1) > float(price2):
+                    to_exclude.add(ticker1)
+                else:
+                    to_exclude.add(ticker2)
+            except Exception as e:
+                print(f"Error procesando par {ticker1}/{ticker2}: {str(e)}")
+                continue
+
+        return to_exclude
+
+    except Exception as e:
+        print(f"Error leyendo archivo de pares: {str(e)}")
+        return set()
+
+
 def generate_filtered_report(
     input_dir: str = "tickers_history",
     output_file: str = "input/filter_tickers.md",
     max_distance: float = 5.0,  # Porcentaje de distancia a máximo histórico
     exclude_tickers: list[str] = None,  # Lista de tickers a excluir
+    pairs_file: str = "scripts/pares.csv",  # Archivo con pares ordinaria/preferencial
 ) -> None:
     """Genera un reporte filtrado de tickers que están lejos de su máximo histórico.
 
@@ -648,20 +696,26 @@ def generate_filtered_report(
         output_file: Archivo de salida para el reporte
         max_distance: Distancia máxima permitida al máximo histórico (porcentaje)
         exclude_tickers: Lista de tickers a excluir del reporte
+        pairs_file: Ruta al archivo CSV con los pares de acciones
     """
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
 
-    # Convertir tickers excluidos a minúsculas para comparación insensible
-    exclude_tickers = set(t.lower() for t in (exclude_tickers or []))
+    # Obtener tickers a excluir de los pares
+    pairs_to_exclude = get_pairs_to_exclude(pairs_file)
+
+    # Combinar con la lista manual de exclusiones
+    exclude_tickers = list(set(t.lower() for t in (exclude_tickers or [])))
+    exclude_tickers.extend(t for t in pairs_to_exclude)
 
     filtered_results = []
     excluded_count = 0
+
     for csv_file in csv_files:
         try:
             ticker = csv_file.stem.replace("_values", "")
             # Saltar si el ticker está en la lista de exclusión
-            if ticker.lower() in exclude_tickers:
+            if ticker in exclude_tickers:
                 excluded_count += 1
                 continue
 
@@ -680,10 +734,14 @@ def generate_filtered_report(
             "Análisis de Tendencias de Acciones (Filtrado)",
             f"Mostrando tickers que han caído más de {max_distance}% desde su máximo histórico.\n"
             f"Total de tickers encontrados: {len(filtered_results)}\n"
-            f"Tickers excluidos: {excluded_count}\n"
             + (
-                f"Lista de exclusión: {', '.join(sorted(exclude_tickers))}"
-                if exclude_tickers
+                f"Lista de exclusión manual: {', '.join(sorted(set(exclude_tickers) - pairs_to_exclude))}\n"
+                if set(exclude_tickers) - pairs_to_exclude
+                else ""
+            )
+            + (
+                f"Pares excluidos: {', '.join(sorted(pairs_to_exclude))}"
+                if pairs_to_exclude
                 else ""
             ),
         )
@@ -702,5 +760,8 @@ if __name__ == "__main__":
     tickers_excluidos: list[str] = []
 
     generate_filtered_report(
-        input_dir, max_distance=5.0, exclude_tickers=tickers_excluidos
+        input_dir,
+        max_distance=5.0,
+        exclude_tickers=tickers_excluidos,
+        pairs_file="scripts/pares.csv",
     )
