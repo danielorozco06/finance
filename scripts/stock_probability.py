@@ -51,11 +51,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
         ["BB_middle", "BB_upper", "BB_lower"]
     ].fillna(value=df["Close"])
 
-    # Calcular retornos y tendencias
-    df["Returns"] = df["Close"].pct_change() * 100
-    df["Trend_5d"] = df["Close"].rolling(window=5).mean().pct_change() * 100
-    df["Trend_20d"] = df["Close"].rolling(window=20).mean().pct_change() * 100
-
     # Calcular soportes y resistencias
     df["Support"] = df["Close"].rolling(window=20).min()
     df["Resistance"] = df["Close"].rolling(window=20).max()
@@ -69,104 +64,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["Volume_Ratio"] = df["Volume"] / df["Volume_MA"]
 
     return df
-
-
-def calculate_trend(df: pd.DataFrame, days: int) -> tuple[float, str]:
-    """Calcula tendencia usando múltiples factores técnicos."""
-    recent_df = df.tail(min(days * 3, len(df)))
-
-    # Inicializar pesos y señales
-    signals = {}
-    weights = {
-        "sma": 0.25,  # Medias móviles
-        "rsi": 0.15,  # RSI
-        "momentum": 0.15,  # Momentum
-        "volatility": 0.15,  # Volatilidad
-        "bollinger": 0.15,  # Bandas de Bollinger
-        "volume": 0.15,  # Análisis de volumen
-    }
-
-    # 1. Tendencia de precio (comparación con medias móviles)
-    price = float(recent_df["Close"].iloc[-1])
-    sma_5 = float(recent_df["SMA_5"].iloc[-1])
-    sma_20 = float(recent_df["SMA_20"].iloc[-1])
-    sma_50 = float(recent_df["SMA_50"].iloc[-1])
-
-    # Calcular señal de medias móviles ponderada
-    sma_signal = 0
-    sma_signal += 0.5 if price > sma_5 else 0  # Corto plazo
-    sma_signal += 0.3 if price > sma_20 else 0  # Medio plazo
-    sma_signal += 0.2 if price > sma_50 else 0  # Largo plazo
-    signals["sma"] = sma_signal
-
-    # 2. RSI
-    rsi = float(recent_df["RSI"].iloc[-1])
-    # RSI: 0 = sobreventa (señal alcista), 1 = sobrecompra (señal bajista)
-    if rsi < 30:
-        signals["rsi"] = 1.0  # Fuerte señal alcista
-    elif rsi < 45:
-        signals["rsi"] = 0.75  # Señal alcista moderada
-    elif rsi < 55:
-        signals["rsi"] = 0.5  # Neutral
-    elif rsi < 70:
-        signals["rsi"] = 0.25  # Señal bajista moderada
-    else:
-        signals["rsi"] = 0  # Fuerte señal bajista
-
-    # 3. Momentum
-    momentum = float(recent_df["Momentum"].iloc[-1])
-    avg_momentum = float(recent_df["Momentum"].mean())
-    signals["momentum"] = 1 if momentum > avg_momentum else (0.5 if momentum > 0 else 0)
-
-    # 4. Volatilidad
-    current_volatility = float(recent_df["Volatility"].iloc[-1])
-    avg_volatility = float(recent_df["Volatility"].mean())
-    vol_ratio = current_volatility / avg_volatility
-    signals["volatility"] = 1 if vol_ratio < 0.8 else (0.5 if vol_ratio < 1.2 else 0)
-
-    # 5. Bandas de Bollinger
-    bb_position = (price - recent_df["BB_lower"].iloc[-1]) / (
-        recent_df["BB_upper"].iloc[-1] - recent_df["BB_lower"].iloc[-1]
-    )
-    if bb_position < 0.2:
-        signals["bollinger"] = 1.0  # Sobreventa
-    elif bb_position < 0.4:
-        signals["bollinger"] = 0.75
-    elif bb_position < 0.6:
-        signals["bollinger"] = 0.5
-    elif bb_position < 0.8:
-        signals["bollinger"] = 0.25
-    else:
-        signals["bollinger"] = 0  # Sobrecompra
-
-    # 6. Análisis de volumen
-    recent_volume = float(recent_df["Volume"].iloc[-1])
-    avg_volume = float(recent_df["Volume"].mean())
-    vol_price_corr = recent_df["Volume"].corr(recent_df["Close"])
-    signals["volume"] = (
-        1
-        if recent_volume > avg_volume and vol_price_corr > 0
-        else (0.5 if recent_volume > avg_volume else 0)
-    )
-
-    # Calcular probabilidad ponderada
-    prob_up = (
-        sum(signal * weights[indicator] for indicator, signal in signals.items()) * 100
-    )
-
-    # Determinar tendencia con más matices
-    if prob_up >= 70:
-        trend = "Muy Probablemente Alcista"
-    elif prob_up >= 55:
-        trend = "Probablemente Alcista"
-    elif prob_up >= 45:
-        trend = "Lateral con Sesgo Alcista"
-    elif prob_up >= 30:
-        trend = "Probablemente Bajista"
-    else:
-        trend = "Muy Probablemente Bajista"
-
-    return round(prob_up, 2), trend
 
 
 def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
@@ -329,11 +226,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     # Calcular indicadores técnicos
     df = calculate_technical_indicators(df)
 
-    # Calcular tendencias para diferentes períodos futuros
-    prob_1w, trend_1w = calculate_trend(df, 5)  # Próxima semana
-    prob_3m, trend_3m = calculate_trend(df, 60)  # Próximos 3 meses
-    prob_6m, trend_6m = calculate_trend(df, 120)  # Próximos 6 meses
-
     # Obtener último precio
     last_price = df["Close"].iloc[-1]
 
@@ -375,12 +267,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
     return {
         "ultimo_precio": round(last_price, 2),
-        "tendencia_prox_1s": trend_1w,
-        "prob_subida_1s": prob_1w,
-        "tendencia_prox_3m": trend_3m,
-        "prob_subida_3m": prob_3m,
-        "tendencia_prox_6m": trend_6m,
-        "prob_subida_6m": prob_6m,
         "registros_analizados": len(df),
         "fecha_inicial": df["Date"].min().strftime("%Y-%m-%d"),
         "fecha_final": df["Date"].max().strftime("%Y-%m-%d"),
@@ -390,6 +276,8 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         # Señales técnicas
         "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
         "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
+        "valor_soporte": round(df["Support"].iloc[-1], 2),
+        "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
         "volumen_relativo": round(df["Volume_Ratio"].iloc[-1], 2),
         # Señales de compra/venta
         "señal_rsi": "Sobrevendida"
@@ -454,11 +342,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "fecha_minimo_24meses": last_24months.loc[
             last_24months["Low"].idxmin(), "Date"
         ].strftime("%Y-%m-%d"),
-        # Agregar valores de soporte y resistencia
-        "valor_soporte": round(df["Support"].iloc[-1], 2),
-        "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
-        "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
-        "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
         # Agregar máximos y mínimos reales del día
         "maximo_dia": round(df["High"].iloc[-1], 2),
         "minimo_dia": round(df["Low"].iloc[-1], 2),
@@ -489,24 +372,11 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
 - Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
 - Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
-"""
-    sections.append(header)
-
-    # Sección de predicción de tendencias
-    trends = """### Predicción de Tendencias
-- Próxima semana: {tendencia_prox_1s} (Prob. subida: {prob_subida_1s}%)
-- Próximos 3 meses: {tendencia_prox_3m} (Prob. subida: {prob_subida_3m}%)
-- Próximos 6 meses: {tendencia_prox_6m} (Prob. subida: {prob_subida_6m}%)
-""".format(**resultado)
-    sections.append(trends)
-
-    # Sección de señales de trading
-    technical = f"""### Señales de Trading
 - RSI: {resultado["señal_rsi"]}
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
 """
-    sections.append(technical)
+    sections.append(header)
 
     return "\n".join(sections)
 
