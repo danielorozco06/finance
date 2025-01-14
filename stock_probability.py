@@ -269,6 +269,62 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     return df
 
 
+def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, dict]:
+    """Calcula máximos y mínimos históricos para cada tipo de precio."""
+    # Calcular extremos para cada tipo de precio
+    extremos = {
+        "max_open": (
+            round(df["Open"].max(), 2),
+            pd.to_datetime(df.loc[df["Open"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "min_open": (
+            round(df["Open"].min(), 2),
+            pd.to_datetime(df.loc[df["Open"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "max_close": (
+            round(df["Close"].max(), 2),
+            pd.to_datetime(df.loc[df["Close"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "min_close": (
+            round(df["Close"].min(), 2),
+            pd.to_datetime(df.loc[df["Close"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "max_high": (
+            round(df["High"].max(), 2),
+            pd.to_datetime(df.loc[df["High"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "min_high": (
+            round(df["High"].min(), 2),
+            pd.to_datetime(df.loc[df["High"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "max_low": (
+            round(df["Low"].max(), 2),
+            pd.to_datetime(df.loc[df["Low"].idxmax(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+        "min_low": (
+            round(df["Low"].min(), 2),
+            pd.to_datetime(df.loc[df["Low"].idxmin(), "Date"]).strftime("%Y-%m-%d"),
+        ),
+    }
+
+    # Determinar máximo y mínimo absolutos
+    max_value = max(extremos["max_high"][0], extremos["max_close"][0])
+    min_value = min(extremos["min_low"][0], extremos["min_close"][0])
+
+    max_date = (
+        extremos["max_high"][1]
+        if extremos["max_high"][0] >= extremos["max_close"][0]
+        else extremos["max_close"][1]
+    )
+    min_date = (
+        extremos["min_low"][1]
+        if extremos["min_low"][0] <= extremos["min_close"][0]
+        else extremos["min_close"][1]
+    )
+
+    return max_value, max_date, min_value, min_date, extremos
+
+
 def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     # Verificar que el archivo existe
     if not Path(csv_file).exists():
@@ -280,7 +336,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             csv_file,
             dtype={"Date": str, "Open": float, "Close": float, "Volume": float},
         )
-        initial_rows = len(df)
 
     except Exception as e:
         raise ValueError(f"Error al leer el archivo {csv_file}: {str(e)}")
@@ -319,6 +374,27 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     last_12months = df.tail(240)
     # 24 meses = ~480 días hábiles en dos años
     last_24months = df.tail(480)
+
+    # Calcular máximos y mínimos históricos
+    (
+        maximo_historico,
+        fecha_maximo_historico,
+        minimo_historico,
+        fecha_minimo_historico,
+        extremos_historicos,
+    ) = get_historical_extremes(df)
+
+    # Calcular distancias a extremos históricos
+    dist_max_historico = ((maximo_historico - last_price) / last_price) * 100
+    dist_min_historico = ((last_price - minimo_historico) / last_price) * 100
+
+    # Calcular distancias a extremos históricos específicos
+    dist_max_close = (
+        (extremos_historicos["max_close"][0] - last_price) / last_price
+    ) * 100
+    dist_min_close = (
+        (last_price - extremos_historicos["min_close"][0]) / last_price
+    ) * 100
 
     return {
         "ultimo_precio": round(last_price, 2),
@@ -441,17 +517,20 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         # Agregar máximos y mínimos reales del día
         "maximo_dia": round(df["High"].iloc[-1], 2),
         "minimo_dia": round(df["Low"].iloc[-1], 2),
+        "maximo_historico": maximo_historico,
+        "fecha_maximo_historico": fecha_maximo_historico,
+        "minimo_historico": minimo_historico,
+        "fecha_minimo_historico": fecha_minimo_historico,
+        "dias_faltantes": len(missing_dates),
+        "dist_max_historico": round(dist_max_historico, 2),
+        "dist_min_historico": round(dist_min_historico, 2),
+        "maximo_historico_close": extremos_historicos["max_close"][0],
+        "fecha_maximo_historico_close": extremos_historicos["max_close"][1],
+        "minimo_historico_close": extremos_historicos["min_close"][0],
+        "fecha_minimo_historico_close": extremos_historicos["min_close"][1],
+        "dist_max_close": round(dist_max_close, 2),
+        "dist_min_close": round(dist_min_close, 2),
     }
-
-
-def delete_directory(directory: str) -> None:
-    """Elimina un directorio y su contenido."""
-    try:
-        import shutil
-
-        shutil.rmtree(directory)
-    except Exception as e:
-        print(f"Error al eliminar el directorio {directory}: {str(e)}")
 
 
 def generate_tendency_report(
@@ -477,18 +556,21 @@ def generate_tendency_report(
         f.write("# Análisis de Tendencias de Acciones\n\n")
         f.write(f"Generado el: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(
-            f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n\n"
+            f"Período analizado: {primer_resultado['fecha_inicial']} a {primer_resultado['fecha_final']}\n"
         )
 
         for csv_file in csv_files:
             try:
                 ticker = csv_file.stem.replace("_values", "")
                 resultado = calculate_stock_probability(str(csv_file))
-
+                f.write("\n")
                 f.write(f"## {ticker}\n")
                 f.write(f"- Último precio: ${resultado['ultimo_precio']}\n")
                 f.write(
-                    f"- Registros analizados: {resultado['registros_analizados']}\n"
+                    f"- Máximo histórico [CLOSE]: ${resultado['maximo_historico_close']} ({resultado['fecha_maximo_historico_close']}) [{resultado['dist_max_close']}% del precio actual]\n"
+                )
+                f.write(
+                    f"- Mínimo histórico [CLOSE]: ${resultado['minimo_historico_close']} ({resultado['fecha_minimo_historico_close']}) [{resultado['dist_min_close']}% del precio actual]\n"
                 )
                 f.write("\n")
                 f.write("### Predicción de Tendencias\n")
@@ -536,7 +618,6 @@ def generate_tendency_report(
                     f"- Volumen: {resultado['señal_volumen']} (x{resultado['volumen_relativo']} del promedio)\n"
                 )
                 f.write(f"- Precio: {resultado['señal_precio']}\n")
-                f.write("\n")
             except Exception as e:
                 f.write(f"## {ticker}\n\n")
                 f.write(f"Error al procesar: {str(e)}\n\n")
@@ -546,4 +627,3 @@ if __name__ == "__main__":
     input_dir = "tickers_history"
     generate_tendency_report(input_dir)
     print("Reporte generado en input/tendency.md")
-    delete_directory(input_dir)

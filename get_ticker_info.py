@@ -57,7 +57,7 @@ def main() -> None:
     for ticker in tickers:
         try:
             # save_ticker_info(ticker)
-            save_ticker_history(ticker, start_date="2022-06-01")
+            save_ticker_history(ticker, start_date="2022-01-01")
         except Exception as e:
             print(f"Error processing {ticker}: {str(e)}")
 
