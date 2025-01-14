@@ -552,8 +552,8 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
 
 ### Análisis Técnico
-- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
 - Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
+- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
 """
     sections.append(header)
 

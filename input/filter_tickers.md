@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 10:04:45
+Generado el: 2025-01-14 10:06:27
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
@@ -12,8 +12,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [21.74% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $10900.0 (distancia: 5.22%)
 - Resistencia: $11800.0 (distancia: 2.61%)
+- Soporte: $10900.0 (distancia: 5.22%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
@@ -43,8 +43,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $1965.0 (2025-01-13) [0.0% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $1965.0 (distancia: 0.0%)
 - Resistencia: $2190.0 (distancia: 11.45%)
+- Soporte: $1965.0 (distancia: 0.0%)
 
 ### Predicción de Tendencias
 - Próximo día: Lateral con Sesgo Alcista (Prob. subida: 45.0%)
@@ -74,8 +74,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [5.84% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $12.9 (distancia: 5.84%)
 - Resistencia: $14.7 (distancia: 7.3%)
+- Soporte: $12.9 (distancia: 5.84%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 57.5%)
@@ -105,8 +105,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $25941.81 (distancia: 2.47%)
 - Resistencia: $27000.0 (distancia: 1.5%)
+- Soporte: $25941.81 (distancia: 2.47%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 37.5%)
@@ -136,8 +136,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [13.8% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $439.0 (distancia: 2.44%)
 - Resistencia: $453.0 (distancia: 0.67%)
+- Soporte: $439.0 (distancia: 2.44%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
@@ -167,8 +167,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $389.79 (2024-03-15) [16.71% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $431.05 (distancia: 7.89%)
 - Resistencia: $468.0 (distancia: 0.0%)
+- Soporte: $431.05 (distancia: 7.89%)
 
 ### Predicción de Tendencias
 - Próximo día: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
@@ -198,8 +198,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $178.0 (distancia: 1.11%)
 - Resistencia: $180.0 (distancia: 0.0%)
+- Soporte: $178.0 (distancia: 1.11%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
@@ -229,8 +229,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $15340.0 (2023-11-28) [19.26% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $17560.0 (distancia: 7.58%)
 - Resistencia: $19540.0 (distancia: 2.84%)
+- Soporte: $17560.0 (distancia: 7.58%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
@@ -260,8 +260,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [37.98% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $14540.0 (distancia: 4.22%)
 - Resistencia: $15500.0 (distancia: 2.11%)
+- Soporte: $14540.0 (distancia: 4.22%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
@@ -291,8 +291,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [32.35% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $35166.89 (distancia: 3.39%)
 - Resistencia: $37380.0 (distancia: 2.69%)
+- Soporte: $35166.89 (distancia: 3.39%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 61.25%)
@@ -322,8 +322,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [15.27% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $1650.0 (distancia: 10.81%)
 - Resistencia: $1850.0 (distancia: 0.0%)
+- Soporte: $1650.0 (distancia: 10.81%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 55.0%)
@@ -353,8 +353,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [37.27% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $55421.56 (distancia: 12.72%)
 - Resistencia: $64960.0 (distancia: 2.3%)
+- Soporte: $55421.56 (distancia: 12.72%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
@@ -384,8 +384,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [41.16% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $13400.0 (distancia: 6.94%)
 - Resistencia: $14480.0 (distancia: 0.56%)
+- Soporte: $13400.0 (distancia: 6.94%)
 
 ### Predicción de Tendencias
 - Próximo día: Muy Probablemente Bajista (Prob. subida: 23.75%)
@@ -415,8 +415,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $12607.87 (2023-09-06) [26.01% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $16200.0 (distancia: 4.93%)
 - Resistencia: $17300.0 (distancia: 1.53%)
+- Soporte: $16200.0 (distancia: 4.93%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
@@ -446,8 +446,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [40.0% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $294.0 (distancia: 3.61%)
 - Resistencia: $305.0 (distancia: 0.0%)
+- Soporte: $294.0 (distancia: 3.61%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 66.25%)
@@ -477,8 +477,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $1781.68 (2023-02-15) [53.3% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $3500.0 (distancia: 8.26%)
 - Resistencia: $3815.0 (distancia: 0.0%)
+- Soporte: $3500.0 (distancia: 8.26%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 62.5%)
@@ -508,8 +508,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [4.09% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $68600.0 (distancia: 1.8%)
 - Resistencia: $69980.0 (distancia: 0.17%)
+- Soporte: $68600.0 (distancia: 1.8%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 66.25%)
@@ -539,8 +539,8 @@ Total de tickers encontrados: 18
 - Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [53.18% del precio actual]
 
 ### Análisis Técnico
-- Soporte: $7190.0 (distancia: 0.0%)
 - Resistencia: $7800.0 (distancia: 8.48%)
+- Soporte: $7190.0 (distancia: 0.0%)
 
 ### Predicción de Tendencias
 - Próximo día: Probablemente Alcista (Prob. subida: 60.0%)
