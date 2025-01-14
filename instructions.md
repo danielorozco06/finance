@@ -39,7 +39,7 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000.
+Modificar los archivos ./output/1dia.md, 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000, teniendo en cuenta unicamente los tickers del archivo analysis.md.
 NOTA: Hoy es 2025-01-14.
 
 Tener en cuenta los siguientes criterios:

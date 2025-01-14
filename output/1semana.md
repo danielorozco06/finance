@@ -4,10 +4,9 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PFGRUPOARG | 30% | COMPRA | 7.15% | 1.06% |
-| PROMIGAS | 30% | COMPRA FUERTE | 0.0% | 8.48% |
-| PEI | 25% | COMPRA | 0.84% | 1.16% |
-| MINEROS | 15% | COMPRA | 7.14% | 0.44% |
+| PFDAVVNDA | 40% | COMPRA FUERTE | 7.58% | 2.84% |
+| ENKA | 35% | COMPRA FUERTE | 5.84% | 7.30% |
+| BHI | 25% | COMPRA FUERTE | 3.61% | 0.0% |
 
 ## 2. Plan de Ejecución
 

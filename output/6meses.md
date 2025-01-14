@@ -4,10 +4,9 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PFGRUPOARG | 30% | COMPRA | 7.15% | 1.06% |
-| CELSIA | 25% | COMPRA | 8.26% | 0.00% |
-| PEI | 25% | COMPRA FUERTE | 0.84% | 1.16% |
-| PROMIGAS | 20% | COMPRA FUERTE | 0.0% | 8.48% |
+| PFDAVVNDA | 35% | COMPRA FUERTE | 7.58% | 2.84% |
+| GRUPOSURA | 35% | COMPRA FUERTE | 3.39% | 2.69% |
+| BHI | 30% | COMPRA FUERTE | 3.61% | 0.0% |
 
 ## 2. Plan de Ejecución
 
