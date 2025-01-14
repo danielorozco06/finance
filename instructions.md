@@ -25,11 +25,11 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - Soporte: valor y distancia
   - Resistencia: valor y distancia
 - Recomendación de inversión: 
-  - 1 día
-  - 1 semana
-  - 3 meses
-  - 6 meses
-  Nota:Solo indicar las etiquetas de VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. Las etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia. Incluir una muy pequeña justificación de la recomendación. Aumentar el peso de la recomendación de inversión en función de la distancia si es corta al soporte y alta a la resistencia.
+  - 1 día: ETIQUETA y pequeña justificación
+  - 1 semana: ETIQUETA y pequeña justificación
+  - 3 meses: ETIQUETA y pequeña justificación
+  - 6 meses: ETIQUETA y pequeña justificación
+  Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia.
 NOTA: Hoy es 2025-01-14.
 
 ## Prompt portafolio de inversión
