@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 07:19:07
+Generado el: 2025-01-14 07:28:33
 Período analizado: 2022-04-19 a 2025-01-13
 
 ## BHI_CL
@@ -36,7 +36,7 @@ Período analizado: 2022-04-19 a 2025-01-13
 
 ## BOGOTA_CL
 - Último precio: $26600.0
-- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [115.19% del precio actual]
+- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [115.19% del precio actual]
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
 
 ### Predicción de Tendencias
@@ -315,7 +315,7 @@ Período analizado: 2022-04-19 a 2025-01-13
 
 ## GRUBOLIVAR_CL
 - Último precio: $63500.0
-- Máximo histórico [CLOSE]: $90299.86 (2022-03-15) [42.2% del precio actual]
+- Máximo histórico [CLOSE]: $90299.87 (2022-03-15) [42.2% del precio actual]
 - Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [37.27% del precio actual]
 
 ### Predicción de Tendencias
