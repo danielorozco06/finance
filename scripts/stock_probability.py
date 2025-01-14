@@ -519,8 +519,6 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Último precio: ${resultado["ultimo_precio"]}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
-
-### Análisis Técnico
 - Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
 - Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
 """

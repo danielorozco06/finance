@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 16:01:59
+Generado el: 2025-01-14 16:04:08
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
@@ -11,8 +11,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $11500.0
 - Máximo histórico [CLOSE]: $52496.78 (2022-03-07) [-78.09% del precio actual]
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [21.74% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $11800.0 (distancia: 2.61%)
 - Soporte: $10900.0 (distancia: 5.22%)
 
@@ -35,8 +33,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $1935.0
 - Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.98% del precio actual]
 - Mínimo histórico [CLOSE]: $1935.0 (2025-01-14) [0.0% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $2190.0 (distancia: 13.18%)
 - Soporte: $1935.0 (distancia: 0.0%)
 
@@ -59,8 +55,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $14.2
 - Máximo histórico [CLOSE]: $31.28 (2022-10-06) [-54.6% del precio actual]
 - Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [9.15% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $14.2 (distancia: 0.0%)
 - Soporte: $12.9 (distancia: 9.15%)
 
@@ -83,8 +77,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $26600.0
 - Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [-53.53% del precio actual]
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $27000.0 (distancia: 1.5%)
 - Soporte: $25941.81 (distancia: 2.47%)
 
@@ -107,8 +99,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $450.0
 - Máximo histórico [CLOSE]: $922.49 (2022-02-01) [-51.22% del precio actual]
 - Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [13.8% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $453.0 (distancia: 0.67%)
 - Soporte: $439.0 (distancia: 2.44%)
 
@@ -131,8 +121,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $180.0
 - Máximo histórico [CLOSE]: $338.91 (2022-12-09) [-46.89% del precio actual]
 - Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $180.0 (distancia: 0.0%)
 - Soporte: $178.0 (distancia: 1.11%)
 
@@ -155,8 +143,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $18740.0
 - Máximo histórico [CLOSE]: $34579.46 (2022-06-03) [-45.81% del precio actual]
 - Mínimo histórico [CLOSE]: $15340.0 (2023-11-28) [18.14% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $19540.0 (distancia: 4.27%)
 - Soporte: $17560.0 (distancia: 6.3%)
 
@@ -179,8 +165,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $1840.0
 - Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [-30.23% del precio actual]
 - Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [14.81% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $1850.0 (distancia: 0.54%)
 - Soporte: $1650.0 (distancia: 10.33%)
 
@@ -203,8 +187,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $14120.0
 - Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [-28.76% del precio actual]
 - Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [40.0% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $14480.0 (distancia: 2.55%)
 - Soporte: $13400.0 (distancia: 5.1%)
 
@@ -227,8 +209,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $64460.0
 - Máximo histórico [CLOSE]: $90299.86 (2022-03-15) [-28.62% del precio actual]
 - Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [38.2% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $64960.0 (distancia: 0.78%)
 - Soporte: $55421.56 (distancia: 14.02%)
 
@@ -251,8 +231,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $16960.0
 - Máximo histórico [CLOSE]: $21348.97 (2022-01-20) [-20.56% del precio actual]
 - Mínimo histórico [CLOSE]: $12591.25 (2023-09-06) [25.76% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $17300.0 (distancia: 2.0%)
 - Soporte: $16200.0 (distancia: 4.48%)
 
@@ -275,8 +253,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $303.0
 - Máximo histórico [CLOSE]: $359.98 (2022-06-01) [-15.83% del precio actual]
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.61% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $305.0 (distancia: 0.66%)
 - Soporte: $297.0 (distancia: 1.98%)
 
@@ -299,8 +275,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $69180.0
 - Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [-10.5% del precio actual]
 - Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.15% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $69980.0 (distancia: 1.16%)
 - Soporte: $68600.0 (distancia: 0.84%)
 
@@ -323,8 +297,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $3790.0
 - Máximo histórico [CLOSE]: $4225.88 (2024-05-22) [-10.31% del precio actual]
 - Mínimo histórico [CLOSE]: $1781.68 (2023-02-15) [52.99% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $3815.0 (distancia: 0.66%)
 - Soporte: $3500.0 (distancia: 7.65%)
 
@@ -347,8 +319,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $7250.0
 - Máximo histórico [CLOSE]: $7800.0 (2024-12-16) [-7.05% del precio actual]
 - Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [53.57% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $7800.0 (distancia: 7.59%)
 - Soporte: $7190.0 (distancia: 0.83%)
 
@@ -371,8 +341,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $645.0
 - Máximo histórico [CLOSE]: $670.0 (2025-01-10) [-3.73% del precio actual]
 - Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.64% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $670.0 (distancia: 3.88%)
 - Soporte: $419.0 (distancia: 35.04%)
 
@@ -395,8 +363,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $10600.0
 - Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [-3.64% del precio actual]
 - Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [78.54% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $11000.0 (distancia: 3.77%)
 - Soporte: $9642.43 (distancia: 9.03%)
 
@@ -419,8 +385,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $14800.0
 - Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [-3.53% del precio actual]
 - Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [71.9% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $15341.0 (distancia: 3.66%)
 - Soporte: $14232.49 (distancia: 3.83%)
 
@@ -443,8 +407,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Último precio: $34860.0
 - Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [-2.85% del precio actual]
 - Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.6% del precio actual]
-
-### Análisis Técnico
 - Resistencia: $35500.0 (distancia: 1.84%)
 - Soporte: $33933.92 (distancia: 2.66%)
 
