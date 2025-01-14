@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-14 16:04:06
+Generado el: 2025-01-14 16:07:21
 Período analizado: 2022-01-03 a 2025-01-13
 
 ## BBVACOL_CL
@@ -14,11 +14,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 61.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 0.07, Señal: -0.14)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 0.14
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -37,11 +32,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 26.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 33.75%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 96.6, Señal: 154.75)
-- Estocástico: Sobreventa (%K: 0.0, %D: 13.7)
-- ATR (Volatilidad): 457.43
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.46 del promedio)
@@ -58,11 +48,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 73.75%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 66.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 66.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.39, Señal: -1.02)
-- Estocástico: Normal (%K: 75.0, %D: 58.33)
-- ATR (Volatilidad): 2.0
 
 ### Señales de Trading
 - RSI: Normal
@@ -81,11 +66,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 37.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -19.28, Señal: -65.51)
-- Estocástico: Normal (%K: 47.37, %D: 73.17)
-- ATR (Volatilidad): 346.92
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.07 del promedio)
@@ -102,11 +82,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 53.47, Señal: 35.09)
-- Estocástico: Sobrecompra (%K: 87.18, %D: 95.73)
-- ATR (Volatilidad): 37.5
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -125,11 +100,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 330.94, Señal: 356.62)
-- Estocástico: Normal (%K: 50.0, %D: 48.69)
-- ATR (Volatilidad): 318.77
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.05 del promedio)
@@ -146,11 +116,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 15.03, Señal: -7.64)
-- Estocástico: Normal (%K: 66.67, %D: 81.48)
-- ATR (Volatilidad): 241.43
 
 ### Señales de Trading
 - RSI: Normal
@@ -169,11 +134,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 79.01, Señal: 65.67)
-- Estocástico: Sobrecompra (%K: 89.8, %D: 93.2)
-- ATR (Volatilidad): 32.86
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.2 del promedio)
@@ -190,11 +150,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 30.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 5.51, Señal: -33.09)
-- Estocástico: Sobrecompra (%K: 83.87, %D: 87.57)
-- ATR (Volatilidad): 210.0
 
 ### Señales de Trading
 - RSI: Normal
@@ -213,11 +168,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 26.51, Señal: 9.0)
-- Estocástico: Sobrecompra (%K: 94.74, %D: 98.25)
-- ATR (Volatilidad): 42.86
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.63 del promedio)
@@ -234,11 +184,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.19, Señal: -0.31)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 0.16
 
 ### Señales de Trading
 - RSI: Normal
@@ -257,11 +202,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 60.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: -44.46, Señal: -36.19)
-- Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
-- ATR (Volatilidad): 33.93
-
 ### Señales de Trading
 - RSI: Sobrevendida
 - Volumen: Alto (x1.92 del promedio)
@@ -278,11 +218,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 43.75%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 13.84, Señal: 11.91)
-- Estocástico: Sobrecompra (%K: 87.5, %D: 80.0)
-- ATR (Volatilidad): 29.29
 
 ### Señales de Trading
 - RSI: Normal
@@ -301,11 +236,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1517.2, Señal: 937.14)
-- Estocástico: Sobrecompra (%K: 92.61, %D: 91.0)
-- ATR (Volatilidad): 1066.65
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.2 del promedio)
@@ -322,11 +252,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 62.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 221.43, Señal: 263.25)
-- Estocástico: Normal (%K: 52.63, %D: 47.37)
-- ATR (Volatilidad): 286.21
 
 ### Señales de Trading
 - RSI: Normal
@@ -345,11 +270,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1.53, Señal: 1.33)
-- Estocástico: Normal (%K: 78.57, %D: 78.57)
-- ATR (Volatilidad): 2.5
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.71 del promedio)
@@ -366,11 +286,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 42.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 42.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 317.32, Señal: 510.8)
-- Estocástico: Sobreventa (%K: 0.0, %D: 11.67)
-- ATR (Volatilidad): 270.71
 
 ### Señales de Trading
 - RSI: Normal
@@ -389,11 +304,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 139.08, Señal: 113.33)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 40.29
-
 ### Señales de Trading
 - RSI: Sobrevendida
 - Volumen: Alto (x20.0 del promedio)
@@ -410,11 +320,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 103.89, Señal: 53.82)
-- Estocástico: Normal (%K: 57.5, %D: 68.33)
-- ATR (Volatilidad): 220.0
 
 ### Señales de Trading
 - RSI: Normal
@@ -433,11 +338,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 103.59, Señal: 93.2)
-- Estocástico: Sobrecompra (%K: 95.52, %D: 96.52)
-- ATR (Volatilidad): 76.07
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.88 del promedio)
@@ -454,11 +354,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 2192.98, Señal: 1276.18)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 787.14
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -477,11 +372,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 28.57, Señal: 27.7)
-- Estocástico: Normal (%K: 42.03, %D: 49.76)
-- ATR (Volatilidad): 674.29
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.16 del promedio)
@@ -498,11 +388,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 3.71, Señal: 2.73)
-- Estocástico: Normal (%K: 73.91, %D: 84.43)
-- ATR (Volatilidad): 6.79
 
 ### Señales de Trading
 - RSI: Normal
@@ -521,11 +406,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 71.53, Señal: 102.53)
-- Estocástico: Sobreventa (%K: 0.0, %D: 36.76)
-- ATR (Volatilidad): 387.43
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.31 del promedio)
@@ -542,11 +422,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 87.06, Señal: 65.05)
-- Estocástico: Normal (%K: 59.09, %D: 80.86)
-- ATR (Volatilidad): 101.43
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -565,11 +440,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 213.44, Señal: 70.11)
-- Estocástico: Normal (%K: 59.6, %D: 68.35)
-- ATR (Volatilidad): 375.71
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.88 del promedio)
@@ -586,11 +456,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 248.82, Señal: 346.03)
-- Estocástico: Normal (%K: 20.56, %D: 32.31)
-- ATR (Volatilidad): 325.54
 
 ### Señales de Trading
 - RSI: Normal
@@ -609,11 +474,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 62.5%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 62.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 708.38, Señal: 766.41)
-- Estocástico: Normal (%K: 75.0, %D: 78.61)
-- ATR (Volatilidad): 280.71
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.33 del promedio)
@@ -631,11 +491,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: -76.39, Señal: -51.09)
-- Estocástico: Normal (%K: 23.08, %D: 17.03)
-- ATR (Volatilidad): 49.29
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Alto (x5.22 del promedio)
@@ -652,11 +507,6 @@ Período analizado: 2022-01-03 a 2025-01-13
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 205.52, Señal: 191.15)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 93.14)
-- ATR (Volatilidad): 114.29
 
 ### Señales de Trading
 - RSI: Sobrecomprada

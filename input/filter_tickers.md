@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 16:04:08
+Generado el: 2025-01-14 16:07:23
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
@@ -19,11 +19,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 15.03, Señal: -7.64)
-- Estocástico: Normal (%K: 66.67, %D: 81.48)
-- ATR (Volatilidad): 241.43
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.08 del promedio)
@@ -40,11 +35,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 60.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: -44.46, Señal: -36.19)
-- Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
-- ATR (Volatilidad): 33.93
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -63,11 +53,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.19, Señal: -0.31)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 0.16
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.51 del promedio)
@@ -84,11 +69,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 37.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -19.28, Señal: -65.51)
-- Estocástico: Normal (%K: 47.37, %D: 73.17)
-- ATR (Volatilidad): 346.92
 
 ### Señales de Trading
 - RSI: Normal
@@ -107,11 +87,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1.53, Señal: 1.33)
-- Estocástico: Normal (%K: 78.57, %D: 78.57)
-- ATR (Volatilidad): 2.5
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.71 del promedio)
@@ -128,11 +103,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 61.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 0.07, Señal: -0.14)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 0.14
 
 ### Señales de Trading
 - RSI: Sobrevendida
@@ -151,11 +121,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 213.44, Señal: 70.11)
-- Estocástico: Normal (%K: 59.6, %D: 68.35)
-- ATR (Volatilidad): 375.71
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.88 del promedio)
@@ -172,11 +137,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 25.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 26.51, Señal: 9.0)
-- Estocástico: Sobrecompra (%K: 94.74, %D: 98.25)
-- ATR (Volatilidad): 42.86
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -195,11 +155,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 87.06, Señal: 65.05)
-- Estocástico: Normal (%K: 59.09, %D: 80.86)
-- ATR (Volatilidad): 101.43
-
 ### Señales de Trading
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.97 del promedio)
@@ -216,11 +171,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1517.2, Señal: 937.14)
-- Estocástico: Sobrecompra (%K: 92.61, %D: 91.0)
-- ATR (Volatilidad): 1066.65
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -239,11 +189,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 103.89, Señal: 53.82)
-- Estocástico: Normal (%K: 57.5, %D: 68.33)
-- ATR (Volatilidad): 220.0
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x0.77 del promedio)
@@ -260,11 +205,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Muy Probablemente Alcista (Prob. subida: 73.75%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 66.25%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 66.25%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.39, Señal: -1.02)
-- Estocástico: Normal (%K: 75.0, %D: 58.33)
-- ATR (Volatilidad): 2.0
 
 ### Señales de Trading
 - RSI: Normal
@@ -283,11 +223,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 - Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
 
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 28.57, Señal: 27.7)
-- Estocástico: Normal (%K: 42.03, %D: 49.76)
-- ATR (Volatilidad): 674.29
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.16 del promedio)
@@ -304,11 +239,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
 - Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 53.47, Señal: 35.09)
-- Estocástico: Sobrecompra (%K: 87.18, %D: 95.73)
-- ATR (Volatilidad): 37.5
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -327,11 +257,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 22.5%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: -76.39, Señal: -51.09)
-- Estocástico: Normal (%K: 23.08, %D: 17.03)
-- ATR (Volatilidad): 49.29
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Alto (x5.22 del promedio)
@@ -348,11 +273,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 79.01, Señal: 65.67)
-- Estocástico: Sobrecompra (%K: 89.8, %D: 93.2)
-- ATR (Volatilidad): 32.86
 
 ### Señales de Trading
 - RSI: Sobrecomprada
@@ -371,11 +291,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 - Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 330.94, Señal: 356.62)
-- Estocástico: Normal (%K: 50.0, %D: 48.69)
-- ATR (Volatilidad): 318.77
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Normal (x1.05 del promedio)
@@ -393,11 +308,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
 
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 248.82, Señal: 346.03)
-- Estocástico: Normal (%K: 20.56, %D: 32.31)
-- ATR (Volatilidad): 325.54
-
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Bajo (x0.23 del promedio)
@@ -414,11 +324,6 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 22.5%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: 71.53, Señal: 102.53)
-- Estocástico: Sobreventa (%K: 0.0, %D: 36.76)
-- ATR (Volatilidad): 387.43
 
 ### Señales de Trading
 - RSI: Normal

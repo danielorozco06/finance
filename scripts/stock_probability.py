@@ -56,26 +56,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["Trend_5d"] = df["Close"].rolling(window=5).mean().pct_change() * 100
     df["Trend_20d"] = df["Close"].rolling(window=20).mean().pct_change() * 100
 
-    # MACD (Moving Average Convergence Divergence)
-    exp1 = df["Close"].ewm(span=12, adjust=False).mean()
-    exp2 = df["Close"].ewm(span=26, adjust=False).mean()
-    df["MACD"] = exp1 - exp2
-    df["Signal_Line"] = df["MACD"].ewm(span=9, adjust=False).mean()
-    df["MACD_Hist"] = df["MACD"] - df["Signal_Line"]
-
-    # Stochastic Oscillator
-    low_14 = df["Close"].rolling(window=14).min()
-    high_14 = df["Close"].rolling(window=14).max()
-    df["%K"] = ((df["Close"] - low_14) / (high_14 - low_14)) * 100
-    df["%D"] = df["%K"].rolling(window=3).mean()
-
-    # Average True Range (ATR) actualizado para usar High/Low
-    high_low = df["High"] - df["Low"]
-    high_close = abs(df["High"] - df["Close"].shift(1))
-    low_close = abs(df["Low"] - df["Close"].shift(1))
-    true_range = pd.concat([high_low, high_close, low_close], axis=1).max(axis=1)
-    df["ATR"] = true_range.rolling(window=14).mean()
-
     # Calcular soportes y resistencias
     df["Support"] = df["Close"].rolling(window=20).min()
     df["Resistance"] = df["Close"].rolling(window=20).max()
@@ -426,18 +406,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             else "En Rango Medio"
         ),
         # Indicadores adicionales
-        "macd": round(df["MACD"].iloc[-1], 2),
-        "macd_signal": round(df["Signal_Line"].iloc[-1], 2),
-        "macd_hist": round(df["MACD_Hist"].iloc[-1], 2),
-        "stoch_k": round(df["%K"].iloc[-1], 2),
-        "stoch_d": round(df["%D"].iloc[-1], 2),
-        "atr": round(df["ATR"].iloc[-1], 2),
-        # Señales adicionales
-        "señal_macd": "Alcista" if df["MACD_Hist"].iloc[-1] > 0 else "Bajista",
-        "señal_stoch": "Sobrecompra"
-        if df["%K"].iloc[-1] > 80
-        else ("Sobreventa" if df["%K"].iloc[-1] < 20 else "Normal"),
-        # Actualizar análisis de máximos y mínimos con fechas y retornos
         "maximo_1semana": round(last_week["High"].max(), 2),
         "minimo_1semana": round(last_week["Low"].min(), 2),
         "fecha_maximo_1semana": last_week.loc[
@@ -532,13 +500,8 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 """.format(**resultado)
     sections.append(trends)
 
-    # Sección de análisis técnico
-    technical = f"""### Análisis Técnico Avanzado
-- MACD: {resultado["señal_macd"]} (MACD: {resultado["macd"]}, Señal: {resultado["macd_signal"]})
-- Estocástico: {resultado["señal_stoch"]} (%K: {resultado["stoch_k"]}, %D: {resultado["stoch_d"]})
-- ATR (Volatilidad): {resultado["atr"]}
-
-### Señales de Trading
+    # Sección de señales de trading
+    technical = f"""### Señales de Trading
 - RSI: {resultado["señal_rsi"]}
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
