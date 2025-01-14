@@ -1,10 +1,10 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 15:29:06
+Generado el: 2025-01-14 15:38:36
 Período analizado: 2022-01-03 a 2025-01-13
 
-Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
-Total de tickers encontrados: 15
+Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
+Total de tickers encontrados: 19
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL
 
 ## CNEC_CL
@@ -470,4 +470,128 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 ### Señales de Trading
 - RSI: Normal
 - Volumen: Alto (x5.22 del promedio)
+- Precio: Cerca de Soporte
+
+## CONCONCRET_CL
+- Último precio: $645.0
+- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [-3.73% del precio actual]
+- Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.64% del precio actual]
+
+### Análisis Técnico
+- Resistencia: $670.0 (distancia: 3.88%)
+- Soporte: $419.0 (distancia: 35.04%)
+
+### Predicción de Tendencias
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
+- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+
+### Análisis Técnico Avanzado
+- MACD: Alcista (MACD: 79.01, Señal: 65.67)
+- Estocástico: Sobrecompra (%K: 89.8, %D: 93.2)
+- ATR (Volatilidad): 32.86
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $574.12, 50%: $544.5, 61.8%: $514.88
+
+### Señales de Trading
+- RSI: Sobrecomprada
+- Volumen: Bajo (x0.2 del promedio)
+- Precio: Cerca de Resistencia
+
+## CEMARGOS_CL
+- Último precio: $10600.0
+- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [-3.64% del precio actual]
+- Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [78.54% del precio actual]
+
+### Análisis Técnico
+- Resistencia: $11000.0 (distancia: 3.77%)
+- Soporte: $9642.43 (distancia: 9.03%)
+
+### Predicción de Tendencias
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
+- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 330.94, Señal: 356.62)
+- Estocástico: Normal (%K: 50.0, %D: 48.69)
+- ATR (Volatilidad): 318.77
+
+### Niveles de Fibonacci
+- Posición actual: Por encima de 38.2
+- Niveles: 38.2%: $10481.41, 50%: $10321.22, 61.8%: $10161.02
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Normal (x1.05 del promedio)
+- Precio: Cerca de Resistencia
+
+## PFGRUPOARG_CL
+- Último precio: $14800.0
+- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [-3.53% del precio actual]
+- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [71.9% del precio actual]
+
+### Análisis Técnico
+- Resistencia: $15341.0 (distancia: 3.66%)
+- Soporte: $14232.49 (distancia: 3.83%)
+
+### Predicción de Tendencias
+- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
+- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 248.82, Señal: 346.03)
+- Estocástico: Normal (%K: 20.56, %D: 32.31)
+- ATR (Volatilidad): 325.54
+
+### Niveles de Fibonacci
+- Posición actual: Entre 38.2 y 50.0
+- Niveles: 38.2%: $14917.55, 50%: $14786.74, 61.8%: $14655.94
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Bajo (x0.23 del promedio)
+- Precio: Cerca de Soporte
+
+## PFBCOLOM_CL
+- Último precio: $34860.0
+- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [-2.85% del precio actual]
+- Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.6% del precio actual]
+
+### Análisis Técnico
+- Resistencia: $35500.0 (distancia: 1.84%)
+- Soporte: $33933.92 (distancia: 2.66%)
+
+### Predicción de Tendencias
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 22.5%)
+- Próxima semana: Muy Probablemente Bajista (Prob. subida: 22.5%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 12 meses: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 24 meses: Probablemente Bajista (Prob. subida: 30.0%)
+
+### Análisis Técnico Avanzado
+- MACD: Bajista (MACD: 71.53, Señal: 102.53)
+- Estocástico: Sobreventa (%K: 0.0, %D: 36.76)
+- ATR (Volatilidad): 387.43
+
+### Niveles de Fibonacci
+- Posición actual: Entre 38.2 y 50.0
+- Niveles: 38.2%: $34901.76, 50%: $34716.96, 61.8%: $34532.16
+
+### Señales de Trading
+- RSI: Normal
+- Volumen: Bajo (x0.31 del promedio)
 - Precio: Cerca de Soporte

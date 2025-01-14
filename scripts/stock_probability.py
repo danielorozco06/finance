@@ -761,7 +761,7 @@ if __name__ == "__main__":
 
     generate_filtered_report(
         input_dir,
-        max_distance=5.0,
+        max_distance=2.0,
         exclude_tickers=tickers_excluidos,
         pairs_file="scripts/pares.csv",
     )
