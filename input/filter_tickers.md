@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-14 10:06:27
+Generado el: 2025-01-14 10:08:47
 Período analizado: 2022-01-03 a 2025-01-13
 
 Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
@@ -16,17 +16,17 @@ Total de tickers encontrados: 18
 - Soporte: $10900.0 (distancia: 5.22%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 38.75%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
+- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 61.25%)
+- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 - Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 - Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 53.75%)
 
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 15.03, Señal: -7.64)
 - Estocástico: Normal (%K: 66.67, %D: 81.48)
-- ATR (Volatilidad): 255.71
+- ATR (Volatilidad): 241.43
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -34,38 +34,38 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x1.85 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Resistencia
 
 ## EXITO_CL
-- Último precio: $1965.0
-- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.43% del precio actual]
-- Mínimo histórico [CLOSE]: $1965.0 (2025-01-13) [0.0% del precio actual]
+- Último precio: $1955.0
+- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.61% del precio actual]
+- Mínimo histórico [CLOSE]: $1955.0 (2025-01-14) [0.0% del precio actual]
 
 ### Análisis Técnico
-- Resistencia: $2190.0 (distancia: 11.45%)
-- Soporte: $1965.0 (distancia: 0.0%)
+- Resistencia: $2190.0 (distancia: 12.02%)
+- Soporte: $1955.0 (distancia: 0.0%)
 
 ### Predicción de Tendencias
-- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 45.0%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 37.5%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 45.0%)
+- Próximo día: Probablemente Bajista (Prob. subida: 37.5%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 12 meses: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 24 meses: Probablemente Bajista (Prob. subida: 45.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Bajista (MACD: -39.06, Señal: -34.12)
-- Estocástico: Sobreventa (%K: 0.0, %D: 23.59)
-- ATR (Volatilidad): 35.0
+- MACD: Bajista (MACD: -42.86, Señal: -35.87)
+- Estocástico: Sobreventa (%K: 0.0, %D: 13.33)
+- ATR (Volatilidad): 31.79
 
 ### Niveles de Fibonacci
 - Posición actual: Por debajo de 61.8
-- Niveles: 38.2%: $2104.05, 50%: $2077.5, 61.8%: $2050.95
+- Niveles: 38.2%: $2100.23, 50%: $2072.5, 61.8%: $2044.77
 
 ### Señales de Trading
 - RSI: Sobrevendida
-- Volumen: Alto (x2.46 del promedio)
+- Volumen: Bajo (x0.33 del promedio)
 - Precio: Cerca de Soporte
 
 ## ENKA_CL
@@ -101,7 +101,7 @@ Total de tickers encontrados: 18
 
 ## BOGOTA_CL
 - Último precio: $26600.0
-- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [-53.53% del precio actual]
+- Máximo histórico [CLOSE]: $57240.94 (2022-02-01) [-53.53% del precio actual]
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [20.11% del precio actual]
 
 ### Análisis Técnico
@@ -109,10 +109,10 @@ Total de tickers encontrados: 18
 - Soporte: $25941.81 (distancia: 2.47%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 37.5%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 45.0%)
-- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 52.5%)
-- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 52.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 30.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 30.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 12 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 24 meses: Probablemente Bajista (Prob. subida: 37.5%)
 
@@ -127,7 +127,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x2.66 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## GRUPOAVAL_CL
@@ -181,7 +181,7 @@ Total de tickers encontrados: 18
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 3.69, Señal: 2.49)
 - Estocástico: Sobrecompra (%K: 100.0, %D: 88.22)
-- ATR (Volatilidad): 7.57
+- ATR (Volatilidad): 7.49
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -189,7 +189,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x0.77 del promedio)
+- Volumen: Bajo (x0.01 del promedio)
 - Precio: Cerca de Resistencia
 
 ## BBVACOL_CL
@@ -233,56 +233,56 @@ Total de tickers encontrados: 18
 - Soporte: $17560.0 (distancia: 7.58%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 31.25%)
-- Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 31.25%)
-- Próximos 6 meses: Probablemente Bajista (Prob. subida: 31.25%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 20.0%)
+- Próxima semana: Muy Probablemente Bajista (Prob. subida: 12.5%)
+- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 12.5%)
+- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 12.5%)
+- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
+- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 20.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 214.61, Señal: 34.27)
-- Estocástico: Normal (%K: 72.73, %D: 74.41)
-- ATR (Volatilidad): 380.0
+- MACD: Alcista (MACD: 234.18, Señal: 74.25)
+- Estocástico: Normal (%K: 72.73, %D: 72.73)
+- ATR (Volatilidad): 357.14
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
 - Niveles: 38.2%: $18783.64, 50%: $18550.0, 61.8%: $18316.36
 
 ### Señales de Trading
-- RSI: Normal
-- Volumen: Alto (x3.98 del promedio)
+- RSI: Sobrecomprada
+- Volumen: Bajo (x0.17 del promedio)
 - Precio: Cerca de Resistencia
 
 ## CORFICOLCF_CL
-- Último precio: $15180.0
-- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [-39.48% del precio actual]
-- Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [37.98% del precio actual]
+- Último precio: $15200.0
+- Máximo histórico [CLOSE]: $25082.19 (2022-01-21) [-39.4% del precio actual]
+- Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [38.06% del precio actual]
 
 ### Análisis Técnico
-- Resistencia: $15500.0 (distancia: 2.11%)
-- Soporte: $14540.0 (distancia: 4.22%)
+- Resistencia: $15400.0 (distancia: 1.32%)
+- Soporte: $14540.0 (distancia: 4.34%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 42.5%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 65.0%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 57.5%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 57.5%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 50.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 42.5%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 42.5%)
 - Próximos 12 meses: Probablemente Alcista (Prob. subida: 57.5%)
 - Próximos 24 meses: Probablemente Alcista (Prob. subida: 57.5%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.36, Señal: -42.74)
-- Estocástico: Sobrecompra (%K: 93.55, %D: 91.97)
-- ATR (Volatilidad): 225.71
+- MACD: Alcista (MACD: 11.89, Señal: -31.81)
+- Estocástico: Sobrecompra (%K: 96.77, %D: 91.87)
+- ATR (Volatilidad): 205.71
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15133.28, 50%: $15020.0, 61.8%: $14906.72
+- Niveles: 38.2%: $15071.48, 50%: $14970.0, 61.8%: $14868.52
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x0.89 del promedio)
+- Volumen: Bajo (x0.09 del promedio)
 - Precio: Cerca de Soporte
 
 ## GRUPOSURA_CL
@@ -295,7 +295,7 @@ Total de tickers encontrados: 18
 - Soporte: $35166.89 (distancia: 3.39%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 61.25%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 46.25%)
 - Próxima semana: Probablemente Bajista (Prob. subida: 31.25%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 38.75%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 38.75%)
@@ -305,7 +305,7 @@ Total de tickers encontrados: 18
 ### Análisis Técnico Avanzado
 - MACD: Bajista (MACD: 390.54, Señal: 559.17)
 - Estocástico: Sobreventa (%K: 18.33, %D: 11.67)
-- ATR (Volatilidad): 284.6
+- ATR (Volatilidad): 271.74
 
 ### Niveles de Fibonacci
 - Posición actual: Entre 38.2 y 50.0
@@ -313,30 +313,30 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Bajo (x0.35 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## ECOPETROL_CL
-- Último precio: $1850.0
-- Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [-29.85% del precio actual]
-- Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [15.27% del precio actual]
+- Último precio: $1830.0
+- Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [-30.61% del precio actual]
+- Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [14.34% del precio actual]
 
 ### Análisis Técnico
-- Resistencia: $1850.0 (distancia: 0.0%)
-- Soporte: $1650.0 (distancia: 10.81%)
+- Resistencia: $1850.0 (distancia: 1.09%)
+- Soporte: $1650.0 (distancia: 9.84%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 55.0%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 3 meses: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próxima semana: Muy Probablemente Bajista (Prob. subida: 16.25%)
+- Próximos 3 meses: Muy Probablemente Bajista (Prob. subida: 16.25%)
+- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 16.25%)
+- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
+- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 23.75%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 24.04, Señal: 4.62)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 94.87)
-- ATR (Volatilidad): 43.93
+- MACD: Alcista (MACD: 25.71, Señal: 8.84)
+- Estocástico: Sobrecompra (%K: 89.47, %D: 96.49)
+- ATR (Volatilidad): 42.14
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -344,30 +344,30 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Alto (x1.67 del promedio)
+- Volumen: Bajo (x0.06 del promedio)
 - Precio: Cerca de Resistencia
 
 ## GRUBOLIVAR_CL
-- Último precio: $63500.0
-- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [-29.68% del precio actual]
-- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [37.27% del precio actual]
+- Último precio: $64460.0
+- Máximo histórico [CLOSE]: $90299.87 (2022-03-15) [-28.62% del precio actual]
+- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [38.2% del precio actual]
 
 ### Análisis Técnico
-- Resistencia: $64960.0 (distancia: 2.3%)
-- Soporte: $55421.56 (distancia: 12.72%)
+- Resistencia: $64960.0 (distancia: 0.78%)
+- Soporte: $55421.56 (distancia: 14.02%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
-- Próxima semana: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 3 meses: Probablemente Bajista (Prob. subida: 42.5%)
-- Próximos 6 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 12 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
-- Próximos 24 meses: Muy Probablemente Bajista (Prob. subida: 27.5%)
+- Próximo día: Probablemente Bajista (Prob. subida: 40.0%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 32.5%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 12 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 24 meses: Probablemente Bajista (Prob. subida: 40.0%)
 
 ### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 1431.5, Señal: 792.13)
-- Estocástico: Sobrecompra (%K: 80.39, %D: 93.46)
-- ATR (Volatilidad): 1147.6
+- MACD: Alcista (MACD: 1517.2, Señal: 937.14)
+- Estocástico: Sobrecompra (%K: 92.61, %D: 91.0)
+- ATR (Volatilidad): 1066.65
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -375,7 +375,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Normal (x1.12 del promedio)
+- Volumen: Bajo (x0.18 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PFCORFICOL_CL
@@ -419,7 +419,7 @@ Total de tickers encontrados: 18
 - Soporte: $16200.0 (distancia: 4.93%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Bajista (Prob. subida: 35.0%)
+- Próximo día: Muy Probablemente Bajista (Prob. subida: 27.5%)
 - Próxima semana: Muy Probablemente Bajista (Prob. subida: 20.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 35.0%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 35.0%)
@@ -429,7 +429,7 @@ Total de tickers encontrados: 18
 ### Análisis Técnico Avanzado
 - MACD: Alcista (MACD: 106.33, Señal: 41.3)
 - Estocástico: Normal (%K: 67.5, %D: 74.62)
-- ATR (Volatilidad): 244.29
+- ATR (Volatilidad): 240.0
 
 ### Niveles de Fibonacci
 - Posición actual: Por encima de 38.2
@@ -437,7 +437,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x0.61 del promedio)
+- Volumen: Bajo (x0.01 del promedio)
 - Precio: Cerca de Soporte
 
 ## BHI_CL
@@ -450,10 +450,10 @@ Total de tickers encontrados: 18
 - Soporte: $294.0 (distancia: 3.61%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 66.25%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 66.25%)
-- Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 73.75%)
-- Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 73.75%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
+- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
+- Próximos 3 meses: Probablemente Alcista (Prob. subida: 58.75%)
+- Próximos 6 meses: Probablemente Alcista (Prob. subida: 58.75%)
 - Próximos 12 meses: Probablemente Alcista (Prob. subida: 58.75%)
 - Próximos 24 meses: Probablemente Alcista (Prob. subida: 58.75%)
 
@@ -468,7 +468,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Alto (x4.97 del promedio)
+- Volumen: Bajo (x0.02 del promedio)
 - Precio: Cerca de Soporte
 
 ## CELSIA_CL
@@ -481,10 +481,10 @@ Total de tickers encontrados: 18
 - Soporte: $3500.0 (distancia: 8.26%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 62.5%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 55.0%)
-- Próximos 3 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
-- Próximos 6 meses: Probablemente Alcista (Prob. subida: 62.5%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 3 meses: Probablemente Bajista (Prob. subida: 40.0%)
+- Próximos 6 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 12 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 - Próximos 24 meses: Lateral con Sesgo Alcista (Prob. subida: 47.5%)
 
@@ -499,7 +499,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Sobrecomprada
-- Volumen: Alto (x1.8 del promedio)
+- Volumen: Bajo (x0.01 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PEI_CL
@@ -512,7 +512,7 @@ Total de tickers encontrados: 18
 - Soporte: $68600.0 (distancia: 1.8%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 66.25%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
 - Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 51.25%)
 - Próximos 3 meses: Probablemente Alcista (Prob. subida: 58.75%)
 - Próximos 6 meses: Probablemente Alcista (Prob. subida: 58.75%)
@@ -530,7 +530,7 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Normal
-- Volumen: Normal (x0.69 del promedio)
+- Volumen: Bajo (x0.02 del promedio)
 - Precio: Cerca de Soporte
 
 ## PROMIGAS_CL
@@ -543,8 +543,8 @@ Total de tickers encontrados: 18
 - Soporte: $7190.0 (distancia: 0.0%)
 
 ### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 60.0%)
-- Próxima semana: Lateral con Sesgo Alcista (Prob. subida: 52.5%)
+- Próximo día: Lateral con Sesgo Alcista (Prob. subida: 52.5%)
+- Próxima semana: Probablemente Bajista (Prob. subida: 45.0%)
 - Próximos 3 meses: Probablemente Bajista (Prob. subida: 37.5%)
 - Próximos 6 meses: Probablemente Bajista (Prob. subida: 30.0%)
 - Próximos 12 meses: Probablemente Bajista (Prob. subida: 30.0%)
@@ -561,5 +561,5 @@ Total de tickers encontrados: 18
 
 ### Señales de Trading
 - RSI: Sobrevendida
-- Volumen: Alto (x1.97 del promedio)
+- Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
