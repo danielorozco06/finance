@@ -27,10 +27,9 @@ Valor total: $984,270
    - CELSIA: $988,265 (post-dividendo 17 enero)
 
 2. Reinversión según portafolio recomendado a 1 día:
-   - HCOLSEL (35%): $345,893
-   - GRUPOARGOS (25%): $247,066
-   - PFGRUPOARG (25%): $247,066
-   - ENKA (15%): $148,240
+   - PFGRUPOARG (35%): $345,893
+   - PEI (35%): $345,893
+   - PROMIGAS (30%): $296,479
 
 Justificación de cambios:
 
@@ -41,7 +40,7 @@ Justificación de cambios:
 
 2. Plan de Reinversión:
 - Prioriza acciones con etiqueta COMPRA FUERTE
-- Diversifica en 4 activos con momentum positivo
+- Diversifica en 3 activos con momentum positivo
 - Optimiza comisiones ($40,000 total: 2 para salida + 3 para entradas)
 - Entrada escalonada para reducir riesgo de timing
 
