@@ -33,7 +33,7 @@ NOTA: Hoy es 2025-01-13.
 
 Tener en cuenta los siguientes criterios:
 
-1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA.
+1. Omitir tickers con etiqueta VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE, luego COMPRA y luego MANTENER.
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -41,7 +41,7 @@ Tener en cuenta los siguientes criterios:
 
 ## 1. Composición
 
-[Distribución por Acción y etiqueta de inversión]
+[Distribución por Acción, etiqueta de inversión, resistencia y soporte con valores y distancias]
 
 ## 2. Plan de Ejecución
 
@@ -49,11 +49,11 @@ Nota: prioriozar compras y ventas escalonadas.
 
 ### 2.1 Órdenes de Entrada
 
-[Órdenes de entrada con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
+[Órdenes de entrada con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.] Priorizar ordenes limite.
 
 ### 2.2 Órdenes de Salida
 
-[Órdenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.]
+[Órdenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.] Priorizar ordenes limite.
 
 ---
 
