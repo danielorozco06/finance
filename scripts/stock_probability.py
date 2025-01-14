@@ -639,15 +639,32 @@ def generate_filtered_report(
     input_dir: str = "tickers_history",
     output_file: str = "input/filter_tickers.md",
     max_distance: float = 5.0,  # Porcentaje de distancia a máximo histórico
+    exclude_tickers: list[str] = None,  # Lista de tickers a excluir
 ) -> None:
-    """Genera un reporte filtrado de tickers que están lejos de su máximo histórico."""
+    """Genera un reporte filtrado de tickers que están lejos de su máximo histórico.
+
+    Args:
+        input_dir: Directorio donde se encuentran los archivos CSV
+        output_file: Archivo de salida para el reporte
+        max_distance: Distancia máxima permitida al máximo histórico (porcentaje)
+        exclude_tickers: Lista de tickers a excluir del reporte
+    """
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
 
+    # Convertir tickers excluidos a minúsculas para comparación insensible
+    exclude_tickers = set(t.lower() for t in (exclude_tickers or []))
+
     filtered_results = []
+    excluded_count = 0
     for csv_file in csv_files:
         try:
             ticker = csv_file.stem.replace("_values", "")
+            # Saltar si el ticker está en la lista de exclusión
+            if ticker.lower() in exclude_tickers:
+                excluded_count += 1
+                continue
+
             resultado = calculate_stock_probability(str(csv_file))
             if float(resultado["dist_max_close"]) <= -max_distance:
                 filtered_results.append((ticker, resultado))
@@ -662,7 +679,13 @@ def generate_filtered_report(
             primer_resultado,
             "Análisis de Tendencias de Acciones (Filtrado)",
             f"Mostrando tickers que han caído más de {max_distance}% desde su máximo histórico.\n"
-            f"Total de tickers encontrados: {len(filtered_results)}",
+            f"Total de tickers encontrados: {len(filtered_results)}\n"
+            f"Tickers excluidos: {excluded_count}\n"
+            + (
+                f"Lista de exclusión: {', '.join(sorted(exclude_tickers))}"
+                if exclude_tickers
+                else ""
+            ),
         )
 
         for ticker, resultado in filtered_results:
@@ -671,8 +694,15 @@ def generate_filtered_report(
 
 if __name__ == "__main__":
     input_dir = "tickers_history"
+
     generate_all_report(input_dir)
     print("Reporte general generado")
 
-    generate_filtered_report(input_dir)
-    print("Reporte filtrado generado")
+    # Lista de tickers a excluir
+    tickers_excluidos = [
+        "EXITO_CL",
+    ]
+
+    generate_filtered_report(
+        input_dir, max_distance=5.0, exclude_tickers=tickers_excluidos
+    )
