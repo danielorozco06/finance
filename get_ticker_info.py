@@ -37,10 +37,10 @@ def save_ticker_info(ticker_symbol: str) -> None:
     print(f"Data for {ticker_symbol} has been saved to {csv_file}")
 
 
-def save_ticker_history(ticker_symbol: str) -> None:
+def save_ticker_history(ticker_symbol: str, start_date: str = "2022-06-01") -> None:
     data = yf.Ticker(ticker_symbol)
     csv_file = f"tickers_history/{ticker_symbol.replace('.', '_')}_values.csv"
-    history_df = data.history(period="max")
+    history_df = data.history(start=start_date)
 
     # Keep only desired columns
     history_df = history_df[["Open", "Close", "Volume", "High", "Low"]]
@@ -55,7 +55,7 @@ def main() -> None:
     for ticker in tickers:
         try:
             # save_ticker_info(ticker)
-            save_ticker_history(ticker)
+            save_ticker_history(ticker, start_date="2022-06-01")
         except Exception as e:
             print(f"Error processing {ticker}: {str(e)}")
 
