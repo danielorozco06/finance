@@ -4,36 +4,51 @@
 
 | Acción | Porcentaje | Etiqueta | Distancia Soporte | Distancia Resistencia |
 |--------|------------|----------|-------------------|----------------------|
-| PROMIGAS | 45% | COMPRA FUERTE | 0.0% | 8.48% |
-| PEI | 35% | COMPRA FUERTE | 0.84% | 1.16% |
-| BHI | 20% | COMPRA FUERTE | 3.61% | 0.0% |
+| PFGRUPOARG | 30% | COMPRA | 7.15% | 1.06% |
+| PROMIGAS | 25% | COMPRA FUERTE | 0.0% | 8.48% |
+| PEI | 25% | COMPRA FUERTE | 0.84% | 1.16% |
+| CELSIA | 20% | COMPRA | 8.26% | 0.00% |
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
+PFGRUPOARG:
+- 20% ($1,000,000): Orden límite a $15,000 (67 acciones)
+- 10% ($500,000): Orden escalonada mensual:
+  * 40% a $14,800 (14 acciones)
+  * 35% a $14,600 (12 acciones)
+  * 25% a $14,400 (9 acciones)
+
 PROMIGAS:
-- 25% ($1,250,000): Orden límite a $7,190 (174 acciones)
-- 20% ($1,000,000): Orden escalonada mensual:
-  * 40% a $7,100 (56 acciones)
-  * 35% a $7,000 (50 acciones)
-  * 25% a $6,900 (36 acciones)
+- 15% ($750,000): Orden límite a $7,190 (104 acciones)
+- 10% ($500,000): Orden escalonada mensual:
+  * 40% a $7,100 (28 acciones)
+  * 35% a $7,000 (25 acciones)
+  * 25% a $6,900 (18 acciones)
 
 PEI:
-- 20% ($1,000,000): Orden límite a $69,180 (14 acciones)
-- 15% ($750,000): Orden escalonada mensual:
-  * 40% a $69,000 (4 acciones)
-  * 35% a $68,800 (4 acciones)
-  * 25% a $68,600 (3 acciones)
+- 15% ($750,000): Orden límite a $69,180 (11 acciones)
+- 10% ($500,000): Orden escalonada mensual:
+  * 40% a $69,000 (3 acciones)
+  * 35% a $68,800 (3 acciones)
+  * 25% a $68,600 (2 acciones)
 
-BHI:
-- 12% ($600,000): Orden límite a $305.0 (1,967 acciones)
+CELSIA:
+- 12% ($600,000): Orden límite a $3,815 (157 acciones)
 - 8% ($400,000): Orden escalonada mensual:
-  * 40% a $300.0 (533 acciones)
-  * 35% a $295.0 (474 acciones)
-  * 25% a $290.0 (345 acciones)
+  * 40% a $3,750 (43 acciones)
+  * 35% a $3,700 (38 acciones)
+  * 25% a $3,650 (27 acciones)
 
 ### 2.2 Órdenes de Salida
+
+PFGRUPOARG:
+- Stop loss móvil: -8% desde máximos
+- Take profit escalonado:
+  * 40% al +15% ($17,250)
+  * 35% al +20% ($18,000)
+  * 25% al +25% ($18,750)
 
 PROMIGAS:
 - Stop loss móvil: -8% desde máximos
@@ -46,15 +61,15 @@ PEI:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
   * 40% al +12% ($77,482)
-  * 35% al +15% ($79,557)
-  * 25% al +18% ($81,632)
+  * 35% al +16% ($80,249)
+  * 25% al +20% ($83,016)
 
-BHI:
+CELSIA:
 - Stop loss móvil: -8% desde máximos
 - Take profit escalonado:
-  * 40% al +15% ($350.75)
-  * 35% al +20% ($366.00)
-  * 25% al +25% ($381.25)
+  * 40% al +15% ($4,387)
+  * 35% al +20% ($4,578)
+  * 25% al +25% ($4,769)
 
 Notas relevantes:
 - Entradas escalonadas mensuales para promediar precios

@@ -33,7 +33,7 @@ NOTA: Hoy es 2025-01-13.
 
 Tener en cuenta los siguientes criterios:
 
-1. Omitir tickers con etiqueta VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE, luego COMPRA y luego MANTENER.
+1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
 
 2. Organizar el documento con la siguiente estructura:
 
@@ -41,7 +41,7 @@ Tener en cuenta los siguientes criterios:
 
 ## 1. Composición
 
-[Distribución por Acción, etiqueta de inversión, resistencia y soporte con valores y distancias]
+[Distribución por Acción, etiqueta de inversión, valor de resistencia y soporte, distancia a resistencia y soporte]
 
 ## 2. Plan de Ejecución
 

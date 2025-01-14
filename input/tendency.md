@@ -1,37 +1,7 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-13 19:54:05
-Período analizado: 2014-06-09 a 2025-01-13
-
-## HCOLSEL_CL
-- Último precio: $15360.0
-- Registros analizados: 2536
-
-### Predicción de Tendencias
-- Próximo día: Muy Probablemente Alcista (Prob. subida: 70.0%)
-- Próxima semana: Muy Probablemente Alcista (Prob. subida: 77.5%)
-- Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 85.0%)
-- Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 77.5%)
-- Próximos 12 meses: Muy Probablemente Alcista (Prob. subida: 85.0%)
-- Próximos 24 meses: Muy Probablemente Alcista (Prob. subida: 70.0%)
-
-### Análisis Técnico
-- Soporte: $14796.0 (distancia: 3.67%)
-- Resistencia: $15360.0 (distancia: 0.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: 139.08, Señal: 113.33)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 100.0)
-- ATR (Volatilidad): 40.82
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $15144.55, 50%: $15078.0, 61.8%: $15011.45
-
-### Señales de Trading
-- RSI: Sobrevendida
-- Volumen: Alto (x20.0 del promedio)
-- Precio: Cerca de Soporte
+Generado el: 2025-01-13 20:35:05
+Período analizado: 2012-06-08 a 2025-01-13
 
 ## PFGRUPOARG_CL
 - Último precio: $15180.0
@@ -182,36 +152,6 @@ Período analizado: 2014-06-09 a 2025-01-13
 - RSI: Sobrecomprada
 - Volumen: Alto (x1.67 del promedio)
 - Precio: Cerca de Resistencia
-
-## BHI_CL
-- Último precio: $305.0
-- Registros analizados: 702
-
-### Predicción de Tendencias
-- Próximo día: Probablemente Alcista (Prob. subida: 66.25%)
-- Próxima semana: Probablemente Alcista (Prob. subida: 66.25%)
-- Próximos 3 meses: Muy Probablemente Alcista (Prob. subida: 73.75%)
-- Próximos 6 meses: Muy Probablemente Alcista (Prob. subida: 73.75%)
-- Próximos 12 meses: Probablemente Alcista (Prob. subida: 58.75%)
-- Próximos 24 meses: Probablemente Alcista (Prob. subida: 58.75%)
-
-### Análisis Técnico
-- Soporte: $294.0 (distancia: 3.61%)
-- Resistencia: $305.0 (distancia: 0.0%)
-
-### Análisis Técnico Avanzado
-- MACD: Alcista (MACD: -0.72, Señal: -1.18)
-- Estocástico: Sobrecompra (%K: 100.0, %D: 40.0)
-- ATR (Volatilidad): 1.86
-
-### Niveles de Fibonacci
-- Posición actual: Por encima de 38.2
-- Niveles: 38.2%: $300.8, 50%: $299.5, 61.8%: $298.2
-
-### Señales de Trading
-- RSI: Normal
-- Volumen: Alto (x4.97 del promedio)
-- Precio: Cerca de Soporte
 
 ## CNEC_CL
 - Último precio: $11500.0
