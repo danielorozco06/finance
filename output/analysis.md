@@ -1,266 +1,458 @@
-# Análisis de Mercado
+# Análisis de Inversión
 Fecha: 2025-01-13
 
-## HCOLSEL
-- Precios recientes: $15,360
-- Recomendación de inversión:
-  * 1 día: COMPRA FUERTE - Precio en máximos con soporte sólido
-  * 1 semana: COMPRA FUERTE - Momentum técnico positivo
-  * 3 meses: COMPRA FUERTE - Tendencia alcista confirmada
-  * 6 meses: COMPRA FUERTE - Perspectivas fundamentales sólidas
-- Soporte y resistencia:
-  * Soporte: $14,796 (distancia: -3.67%)
-  * Resistencia: $15,360 (distancia: 0.0%)
+## BHI.CL
 
-## PFGRUPOARG
-- Precios recientes: $15,180
-- Recomendación de inversión:
-  * 1 día: COMPRA FUERTE - Cerca de resistencia con soporte fuerte
-  * 1 semana: COMPRA FUERTE - Tendencia alcista confirmada
-  * 3 meses: COMPRA FUERTE - Fundamentales sólidos del sector
-  * 6 meses: COMPRA FUERTE - Perspectivas positivas de largo plazo
-- Soporte y resistencia:
-  * Soporte: $14,094 (distancia: -7.15%)
-  * Resistencia: $15,341 (distancia: +1.06%)
+### Precios Recientes
+- Último precio: $305.0
 
-## PFBCOLOM
-- Precios recientes: $34,960
-- Recomendación de inversión:
-  * 1 día: COMPRA - Momentum positivo con resistencia cercana
-  * 1 semana: COMPRA - Soporte técnico sólido
-  * 3 meses: COMPRA FUERTE - Beneficios por tasas de interés
-  * 6 meses: COMPRA FUERTE - Expectativas de crecimiento bancario
-- Soporte y resistencia:
-  * Soporte: $33,934 (distancia: -2.94%)
-  * Resistencia: $35,500 (distancia: +1.57%)
+### Soporte y Resistencia
+- Soporte: $294.0 (distancia: 3.61%)
+- Resistencia: $305.0 (distancia: 0.0%)
 
-## PFDAVVNDA
-- Precios recientes: $19,000
-- Recomendación de inversión:
-  * 1 día: COMPRA FUERTE - Momentum alcista con volumen
-  * 1 semana: COMPRA FUERTE - Ruptura de resistencia previa
-  * 3 meses: COMPRA FUERTE - Mejora en indicadores bancarios
-  * 6 meses: COMPRA FUERTE - Valoración atractiva del sector
-- Soporte y resistencia:
-  * Soporte: $17,560 (distancia: -7.58%)
-  * Resistencia: $19,540 (distancia: +2.32%)
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Precio en máximos históricos pero con fuerte impulso alcista
+- 1 semana: COMPRA
+  > Beneficiado por aumento en precios del petróleo y nuevas sanciones a Rusia
+- 3 meses: COMPRA FUERTE
+  > Sector petrolero fortalecido por restricciones de oferta global
+- 6 meses: COMPRA FUERTE
+  > Se anticipa cambio de gobierno favorable al sector petrolero
 
-## ISA
-- Precios recientes: $17,040
-- Recomendación de inversión:
-  * 1 día: MANTENER - Movimiento lateral sin dirección clara
-  * 1 semana: MANTENER - Sin catalizadores de corto plazo
-  * 3 meses: MANTENER - Sector utilities en consolidación
-  * 6 meses: MANTENER - Perspectivas estables sin cambios significativos
-- Soporte y resistencia:
-  * Soporte: $16,200 (distancia: -4.94%)
-  * Resistencia: $17,300 (distancia: +1.76%)
+## BOGOTA.CL
 
-## ECOPETROL
-- Precios recientes: $1,850
-- Recomendación de inversión:
-  * 1 día: VENTA FUERTE - Precio en resistencia máxima
-  * 1 semana: VENTA FUERTE - Sobrecompra técnica
-  * 3 meses: MANTENER - Estabilización esperada del petróleo
-  * 6 meses: COMPRA FUERTE - Proyecciones positivas del crudo
-- Soporte y resistencia:
-  * Soporte: $1,650 (distancia: -10.81%)
-  * Resistencia: $1,850 (distancia: 0.0%)
+### Precios Recientes
+- Último precio: $26600.0
 
-## BHI
-- Precios recientes: $305
-- Recomendación de inversión:
-  * 1 día: VENTA FUERTE - Precio en resistencia máxima
-  * 1 semana: VENTA FUERTE - Indicadores técnicos sobrecomprados
-  * 3 meses: MANTENER - Consolidación esperada del sector petrolero
-  * 6 meses: COMPRA FUERTE - Perspectivas positivas por precios del crudo
-- Soporte y resistencia:
-  * Soporte: $294 (distancia: -3.67%)
-  * Resistencia: $305 (distancia: 0.0%)
+### Soporte y Resistencia
+- Soporte: $25941.81 (distancia: 2.47%)
+- Resistencia: $27000.0 (distancia: 1.5%)
 
-## CNEC
-- Precios recientes: $11,500
-- Recomendación de inversión:
-  * 1 día: MANTENER - Rango lateral de corto plazo
-  * 1 semana: MANTENER - Sin catalizadores inmediatos
-  * 3 meses: MANTENER - Consolidación del sector
-  * 6 meses: COMPRA - Potencial de recuperación sectorial
-- Soporte y resistencia:
-  * Soporte: $10,900 (distancia: -5.22%)
-  * Resistencia: $11,800 (distancia: +7.83%)
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Precio cerca de resistencia con volumen alto
+- 1 semana: MANTENER
+  > Buenos resultados financieros pero mercado volátil
+- 3 meses: COMPRA
+  > Tercer banco con mayores utilidades y métricas sólidas
+- 6 meses: COMPRA
+  > Sector bancario muestra solidez y crecimiento sostenido
 
-## PFGRUPSURA
-- Precios recientes: $26,220
-- Recomendación de inversión:
-  * 1 día: COMPRA FUERTE - Momentum alcista confirmado
-  * 1 semana: COMPRA FUERTE - Sólidos fundamentales
-  * 3 meses: COMPRA FUERTE - Perspectivas sector financiero
-  * 6 meses: COMPRA FUERTE - Valoración atractiva
-- Soporte y resistencia:
-  * Soporte: $23,144 (distancia: -11.75%)
-  * Resistencia: $26,340 (distancia: +0.46%)
+## CELSIA.CL
 
-## PROMIGAS
-- Precios recientes: $7,190
-- Recomendación de inversión:
-  * 1 día: VENTA - Precio en soporte sin señales de rebote
-  * 1 semana: VENTA - Tendencia bajista de corto plazo
-  * 3 meses: MANTENER - Expectativa de estabilización
-  * 6 meses: COMPRA FUERTE - Potencial de recuperación sectorial
-- Soporte y resistencia:
-  * Soporte: $7,190 (distancia: 0.0%)
-  * Resistencia: $7,800 (distancia: +8.49%)
+### Precios Recientes
+- Último precio: $3815.0
 
-## CEMARGOS
-- Precios recientes: $10,600
-- Recomendación de inversión:
-  * 1 día: VENTA FUERTE - Debilidad técnica marcada
-  * 1 semana: VENTA FUERTE - Tendencia bajista confirmada
-  * 3 meses: VENTA - Perspectivas sector construcción débiles
-  * 6 meses: MANTENER - Posible estabilización a largo plazo
-- Soporte y resistencia:
-  * Soporte: $9,642 (distancia: -8.64%)
-  * Resistencia: $11,000 (distancia: +4.72%)
+### Soporte y Resistencia
+- Soporte: $3500.0 (distancia: 8.26%)
+- Resistencia: $3815.0 (distancia: 0.0%)
 
-## EXITO
-- Precios recientes: $1,965
-- Recomendación de inversión:
-  * 1 día: VENTA FUERTE - En soporte sin señales de rebote
-  * 1 semana: VENTA FUERTE - Momentum negativo fuerte
-  * 3 meses: VENTA FUERTE - Deterioro fundamentales
-  * 6 meses: VENTA FUERTE - Perspectivas sector retail negativas
-- Soporte y resistencia:
-  * Soporte: $1,965 (distancia: 0.0%)
-  * Resistencia: $2,190 (distancia: +11.55%)
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Precio en resistencia con señales de sobrecompra
+- 1 semana: MANTENER
+  > Programa de recompra de acciones en curso
+- 3 meses: COMPRA
+  > Beneficiada por aumento en precios del gas natural
+- 6 meses: COMPRA
+  > Sector energético fortalecido por escasez proyectada
 
-## MINEROS
-- Precios recientes: $4,550
-- Recomendación de inversión:
-  * 1 día: MANTENER - Consolidación en rango lateral
-  * 1 semana: MANTENER - Sin señales claras de dirección
-  * 3 meses: MANTENER - Expectativa neutral del oro
-  * 6 meses: MANTENER - Pendiente catalizadores sectoriales
-- Soporte y resistencia:
-  * Soporte: $4,225 (distancia: -7.16%)
-  * Resistencia: $4,570 (distancia: +0.44%)
+## CEMARGOS.CL
 
-## PFCORFICOL
-- Precios recientes: $14,400
-- Recomendación de inversión:
-  * 1 día: MANTENER - Movimiento lateral definido
-  * 1 semana: MANTENER - Sin catalizadores de corto plazo
-  * 3 meses: MANTENER - Sector financiero en consolidación
-  * 6 meses: MANTENER - Perspectivas estables sin cambios
-- Soporte y resistencia:
-  * Soporte: $13,400 (distancia: -6.94%)
-  * Resistencia: $14,480 (distancia: +0.56%)
+### Precios Recientes
+- Último precio: $10600.0
 
-## BOGOTA
-- Precios recientes: $26,600
-- Recomendación de inversión:
-  * 1 día: COMPRA - Soporte técnico sólido
-  * 1 semana: COMPRA - Momentum positivo creciente
-  * 3 meses: COMPRA FUERTE - Beneficio tasas de interés
-  * 6 meses: COMPRA FUERTE - Valoración atractiva sector bancario
-- Soporte y resistencia:
-  * Soporte: $25,942 (distancia: -2.47%)
-  * Resistencia: $27,000 (distancia: +1.50%)
+### Soporte y Resistencia
+- Soporte: $9642.43 (distancia: 9.03%)
+- Resistencia: $11000.0 (distancia: 3.77%)
 
-## TERPEL
-- Precios recientes: $11,800
-- Recomendación de inversión:
-  * 1 día: MANTENER - Consolidación en máximos
-  * 1 semana: MANTENER - Sin señales claras de dirección
-  * 3 meses: MANTENER - Sector energético estable
-  * 6 meses: COMPRA - Potencial de expansión regional
-- Soporte y resistencia:
-  * Soporte: $10,920 (distancia: -7.46%)
-  * Resistencia: $11,800 (distancia: 0.0%)
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Tendencia bajista de corto plazo
+- 1 semana: VENTA
+  > Sector construcción afectado por suspensión Mi Casa Ya
+- 3 meses: VENTA FUERTE
+  > Perspectivas negativas para sector construcción
+- 6 meses: VENTA FUERTE
+  > Crisis presupuestal del gobierno afecta inversión pública
 
-## CONCONCRET
-- Precios recientes: $645
-- Recomendación de inversión:
-  * 1 día: VENTA - Debilidad técnica persistente
-  * 1 semana: VENTA - Tendencia bajista dominante
-  * 3 meses: VENTA - Sector construcción en contracción
-  * 6 meses: MANTENER - Posible punto de inflexión sectorial
-- Soporte y resistencia:
-  * Soporte: $419 (distancia: -34.73%)
-  * Resistencia: $670 (distancia: +3.88%)
+## CNEC.CL
 
-## PFAVAL
-- Precios recientes: $468
-- Recomendación de inversión:
-  * 1 día: MANTENER - En resistencia sin impulso
-  * 1 semana: MANTENER - Rango lateral definido
-  * 3 meses: MANTENER - Sin catalizadores claros
-  * 6 meses: MANTENER - Perspectivas estables del sector
-- Soporte y resistencia:
-  * Soporte: $431 (distancia: -7.89%)
-  * Resistencia: $468 (distancia: 0.0%)
+### Precios Recientes
+- Último precio: $11500.0
 
-## CELSIA
-- Precios recientes: $3,815
-- Recomendación de inversión:
-  * 1 día: COMPRA FUERTE - Programa de recompra activo y dividendo próximo
-  * 1 semana: COMPRA FUERTE - Momentum positivo pre-dividendo
-  * 3 meses: COMPRA FUERTE - Perspectivas sector energético favorables
-  * 6 meses: COMPRA FUERTE - Solidez fundamental y dividendos estables
-- Soporte y resistencia:
-  * Soporte: $3,500 (distancia: -8.28%)
-  * Resistencia: $3,815 (distancia: 0.0%)
+### Soporte y Resistencia
+- Soporte: $10900.0 (distancia: 5.22%)
+- Resistencia: $11800.0 (distancia: 2.61%)
 
-## GEB
-- Precios recientes: $2,510
-- Recomendación de inversión:
-  * 1 día: MANTENER - Consolidación en rango estrecho
-  * 1 semana: MANTENER - Sin señales direccionales claras
-  * 3 meses: MANTENER - Sector utilities estable
-  * 6 meses: COMPRA - Potencial por expansión regional
-- Soporte y resistencia:
-  * Soporte: $2,420 (distancia: -3.60%)
-  * Resistencia: $2,520 (distancia: +0.40%)
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Precio en rango medio con volumen alto
+- 1 semana: COMPRA
+  > Beneficiada por aumento en precios energéticos
+- 3 meses: MANTENER
+  > Sector energético mixto por importaciones de gas
+- 6 meses: COMPRA
+  > Se anticipa escasez de gas que beneficia precios
 
-## PEI
-- Precios recientes: $69,180
-- Recomendación de inversión:
-  * 1 día: COMPRA - Soporte técnico cercano
-  * 1 semana: COMPRA - Momentum positivo sostenido
-  * 3 meses: COMPRA - Solidez sector inmobiliario
-  * 6 meses: COMPRA - Dividendos estables y valoración atractiva
-- Soporte y resistencia:
-  * Soporte: $68,600 (distancia: -0.84%)
-  * Resistencia: $69,980 (distancia: +1.16%)
+## CONCONCRET.CL
 
-## NUTRESA
-- Precios recientes: $87,000
-- Recomendación de inversión:
-  * 1 día: VENTA - Resistencia máxima sin impulso
-  * 1 semana: VENTA - Señales de agotamiento técnico
-  * 3 meses: VENTA - Presión por márgenes operativos
-  * 6 meses: MANTENER - Posible estabilización de costos
-- Soporte y resistencia:
-  * Soporte: $71,600 (distancia: -17.70%)
-  * Resistencia: $87,000 (distancia: 0.0%)
+### Precios Recientes
+- Último precio: $645.0
 
-## GRUBOLIVAR
-- Precios recientes: $63,500
-- Recomendación de inversión:
-  * 1 día: MANTENER - Rango lateral definido
-  * 1 semana: MANTENER - Sin catalizadores inmediatos
-  * 3 meses: MANTENER - Sector financiero estable
-  * 6 meses: MANTENER - Perspectivas neutras
-- Soporte y resistencia:
-  * Soporte: $55,422 (distancia: -12.75%)
-  * Resistencia: $64,960 (distancia: +2.30%)
+### Soporte y Resistencia
+- Soporte: $419.0 (distancia: 35.04%)
+- Resistencia: $670.0 (distancia: 3.88%)
 
-## ENKA
-- Precios recientes: $13.7
-- Recomendación de inversión:
-  * 1 día: COMPRA - Soporte técnico sólido
-  * 1 semana: COMPRA - Tendencia alcista de corto plazo
-  * 3 meses: COMPRA - Mejora en márgenes operativos
-  * 6 meses: COMPRA - Perspectivas positivas del sector
-- Soporte y resistencia:
-  * Soporte: $12.9 (distancia: -5.84%)
-  * Resistencia: $14.7 (distancia: +7.30%)
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio muy alejado del soporte con señales de sobrecompra
+- 1 semana: VENTA FUERTE
+  > Sector construcción severamente afectado por suspensión Mi Casa Ya
+- 3 meses: VENTA FUERTE
+  > Crisis presupuestal impacta negativamente inversión en construcción
+- 6 meses: VENTA FUERTE
+  > Perspectivas negativas por reducción de programas gubernamentales
+
+## ECOPETROL.CL
+
+### Precios Recientes
+- Último precio: $1850.0
+
+### Soporte y Resistencia
+- Soporte: $1650.0 (distancia: 10.81%)
+- Resistencia: $1850.0 (distancia: 0.0%)
+
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Precio en resistencia con señales de sobrecompra
+- 1 semana: MANTENER
+  > Beneficiada por aumento en precios del petróleo
+- 3 meses: COMPRA
+  > Perspectivas positivas por sanciones a Rusia
+- 6 meses: COMPRA FUERTE
+  > Se anticipa cambio de gobierno favorable al sector
+
+## ENKA.CL
+
+### Precios Recientes
+- Último precio: $13.7
+
+### Soporte y Resistencia
+- Soporte: $12.9 (distancia: 5.84%)
+- Resistencia: $14.7 (distancia: 7.3%)
+
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Precio en rango medio con tendencia alcista
+- 1 semana: COMPRA
+  > Momentum positivo con volumen estable
+- 3 meses: COMPRA FUERTE
+  > Métricas técnicas favorables y distancias equilibradas
+- 6 meses: COMPRA FUERTE
+  > Tendencias de largo plazo muestran fortaleza sostenida
+
+## EXITO.CL
+
+### Precios Recientes
+- Último precio: $1965.0
+
+### Soporte y Resistencia
+- Soporte: $1965.0 (distancia: 0.0%)
+- Resistencia: $2190.0 (distancia: 11.45%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio en soporte mínimo con alta incertidumbre
+- 1 semana: VENTA
+  > Salida de NYSE genera presión vendedora
+- 3 meses: VENTA
+  > Proceso de desliste afecta confianza inversionista
+- 6 meses: VENTA FUERTE
+  > Cambios estructurales generan riesgos significativos
+
+## GEB.CL
+
+### Precios Recientes
+- Último precio: $2510.0
+
+### Soporte y Resistencia
+- Soporte: $2420.0 (distancia: 3.59%)
+- Resistencia: $2520.0 (distancia: 0.4%)
+
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Precio muy cerca de resistencia técnica
+- 1 semana: MANTENER
+  > Sector energético muestra fortaleza
+- 3 meses: COMPRA
+  > Beneficiada por aumento en precios del gas natural
+- 6 meses: COMPRA FUERTE
+  > Escasez proyectada favorece márgenes del negocio
+
+## GRUBOLIVAR.CL
+
+### Precios Recientes
+- Último precio: $63500.0
+
+### Soporte y Resistencia
+- Soporte: $55421.56 (distancia: 12.72%)
+- Resistencia: $64960.0 (distancia: 2.3%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio muy cerca de resistencia con alto riesgo de retroceso
+- 1 semana: VENTA FUERTE
+  > Alta distancia al soporte genera vulnerabilidad técnica
+- 3 meses: VENTA
+  > Métricas técnicas sugieren sobrevaloración
+- 6 meses: VENTA
+  > Riesgo/beneficio desfavorable por niveles técnicos
+
+## HCOLSEL.CL
+
+### Precios Recientes
+- Último precio: $15360.0
+
+### Soporte y Resistencia
+- Soporte: $14796.0 (distancia: 3.67%)
+- Resistencia: $15360.0 (distancia: 0.0%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio en resistencia máxima con señales de sobrecompra
+- 1 semana: VENTA
+  > Niveles técnicos sugieren toma de beneficios
+- 3 meses: MANTENER
+  > Fundamentales sólidos compensan riesgos técnicos
+- 6 meses: COMPRA
+  > Sector petrolero beneficiado por contexto global
+
+## ISA.CL
+
+### Precios Recientes
+- Último precio: $17040.0
+
+### Soporte y Resistencia
+- Soporte: $16200.0 (distancia: 4.93%)
+- Resistencia: $17300.0 (distancia: 1.53%)
+
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Proximidad a resistencia limita potencial alcista
+- 1 semana: VENTA
+  > Indicadores técnicos muestran agotamiento
+- 3 meses: MANTENER
+  > Beneficios por precios energéticos compensan riesgos
+- 6 meses: COMPRA
+  > Escasez proyectada de gas natural favorece perspectivas
+
+## MINEROS.CL
+
+### Precios Recientes
+- Último precio: $4550.0
+
+### Soporte y Resistencia
+- Soporte: $4224.98 (distancia: 7.14%)
+- Resistencia: $4570.0 (distancia: 0.44%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Resistencia inmediata con señales de sobrecompra
+- 1 semana: VENTA FUERTE
+  > Distancia al soporte aumenta riesgo de corrección
+- 3 meses: VENTA
+  > Métricas técnicas desfavorables en mediano plazo
+- 6 meses: MANTENER
+  > Fundamentales del sector compensan debilidad técnica
+
+## NUTRESA.CL
+
+### Precios Recientes
+- Último precio: $87000.0
+
+### Soporte y Resistencia
+- Soporte: $71600.0 (distancia: 17.7%)
+- Resistencia: $87000.0 (distancia: 0.0%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio en resistencia máxima con alto riesgo de corrección
+- 1 semana: VENTA FUERTE
+  > Distancia excesiva al soporte aumenta vulnerabilidad
+- 3 meses: VENTA FUERTE
+  > Métricas técnicas indican sobrevaloración significativa
+- 6 meses: VENTA FUERTE
+  > Riesgo/beneficio muy desfavorable por niveles técnicos
+
+## PEI.CL
+
+### Precios Recientes
+- Último precio: $69180.0
+
+### Soporte y Resistencia
+- Soporte: $68600.0 (distancia: 0.84%)
+- Resistencia: $69980.0 (distancia: 1.16%)
+
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Precio en equilibrio entre soporte y resistencia
+- 1 semana: COMPRA
+  > Niveles técnicos favorables con bajo riesgo
+- 3 meses: COMPRA FUERTE
+  > Métricas técnicas sólidas y tendencias alcistas
+- 6 meses: COMPRA FUERTE
+  > Estructura de precios sugiere potencial sostenido
+
+## PFAVAL.CL
+
+### Precios Recientes
+- Último precio: $468.0
+
+### Soporte y Resistencia
+- Soporte: $431.05 (distancia: 7.89%)
+- Resistencia: $468.0 (distancia: 0.0%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio en resistencia máxima con señales de agotamiento
+- 1 semana: VENTA
+  > Alta distancia al soporte aumenta riesgo bajista
+- 3 meses: MANTENER
+  > Sector financiero muestra solidez fundamental
+- 6 meses: MANTENER
+  > Métricas bancarias compensan riesgos técnicos
+
+## PFBCOLOM.CL
+
+### Precios Recientes
+- Último precio: $34960.0
+
+### Soporte y Resistencia
+- Soporte: $33933.92 (distancia: 2.94%)
+- Resistencia: $35500.0 (distancia: 1.54%)
+
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Distancias equilibradas a soporte y resistencia
+- 1 semana: MANTENER
+  > Volatilidad del mercado sugiere cautela
+- 3 meses: COMPRA
+  > Líder en utilidades del sector bancario
+- 6 meses: COMPRA
+  > Fundamentales sólidos y creación del Grupo Cibest
+
+## PFCORFICOL.CL
+
+### Precios Recientes
+- Último precio: $14400.0
+
+### Soporte y Resistencia
+- Soporte: $13400.0 (distancia: 6.94%)
+- Resistencia: $14480.0 (distancia: 0.56%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Proximidad a resistencia con riesgo de retroceso
+- 1 semana: VENTA
+  > Indicadores técnicos muestran sobrecompra
+- 3 meses: MANTENER
+  > Sector financiero mantiene métricas estables
+- 6 meses: MANTENER
+  > Fundamentales compensan debilidad técnica
+
+## PFDAVVNDA.CL
+
+### Precios Recientes
+- Último precio: $19000.0
+
+### Soporte y Resistencia
+- Soporte: $17560.0 (distancia: 7.58%)
+- Resistencia: $19540.0 (distancia: 2.84%)
+
+### Recomendación de Inversión
+- 1 día: MANTENER
+  > Distancia moderada a resistencia permite estabilidad
+- 1 semana: MANTENER
+  > Proceso de fusión genera volatilidad temporal
+- 3 meses: COMPRA
+  > Sinergias esperadas por fusión con Scotiabank
+- 6 meses: COMPRA FUERTE
+  > Beneficios de integración regional fortalecerán posición
+
+## PFGRUPOARG.CL
+
+### Precios Recientes
+- Último precio: $15180.0
+
+### Soporte y Resistencia
+- Soporte: $14093.92 (distancia: 7.15%)
+- Resistencia: $15341.0 (distancia: 1.06%)
+
+### Recomendación de Inversión
+- 1 día: VENTA
+  > Proximidad a resistencia limita potencial inmediato
+- 1 semana: VENTA
+  > Indicadores técnicos sugieren toma de beneficios
+- 3 meses: MANTENER
+  > Proceso de escisión en curso equilibra riesgos
+- 6 meses: COMPRA
+  > Liberación de valor por simplificación societaria
+
+## PFGRUPSURA.CL
+
+### Precios Recientes
+- Último precio: $26220.0
+
+### Soporte y Resistencia
+- Soporte: $23143.71 (distancia: 11.73%)
+- Resistencia: $26340.0 (distancia: 0.46%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Resistencia inmediata con alta distancia al soporte
+- 1 semana: VENTA
+  > Métricas técnicas indican sobrevaloración
+- 3 meses: MANTENER
+  > Proceso de escisión con Argos genera oportunidades
+- 6 meses: MANTENER
+  > Restructuración corporativa compensa riesgos técnicos
+
+## PROMIGAS.CL
+
+### Precios Recientes
+- Último precio: $7190.0
+
+### Soporte y Resistencia
+- Soporte: $7190.0 (distancia: 0.0%)
+- Resistencia: $7800.0 (distancia: 8.48%)
+
+### Recomendación de Inversión
+- 1 día: COMPRA
+  > Precio en soporte firme con potencial alcista
+- 1 semana: COMPRA FUERTE
+  > Beneficiada por escasez proyectada de gas
+- 3 meses: COMPRA FUERTE
+  > Aumento sostenido en precios del gas natural
+- 6 meses: COMPRA FUERTE
+  > Posición estratégica ante déficit energético
+
+## TERPEL.CL
+
+### Precios Recientes
+- Último precio: $11800.0
+
+### Soporte y Resistencia
+- Soporte: $10920.0 (distancia: 7.46%)
+- Resistencia: $11800.0 (distancia: 0.0%)
+
+### Recomendación de Inversión
+- 1 día: VENTA FUERTE
+  > Precio en resistencia máxima con señales de agotamiento
+- 1 semana: VENTA
+  > Indicadores técnicos sugieren corrección
+- 3 meses: MANTENER
+  > Beneficios por precios del petróleo compensan riesgos
+- 6 meses: MANTENER
+  > Fundamentales del sector equilibran debilidad técnica
