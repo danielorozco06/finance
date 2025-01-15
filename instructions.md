@@ -49,7 +49,7 @@ Actualizar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio dive
 
 ## 1. Composición
 
-[Distribución por Acción, precio actual, etiqueta de inversión, resistencias (valor y distancia) y soportes (valor y distancia)]
+[Distribución por Acción, precio actual, etiqueta de inversión, Min. Histórico, soportes (valor y distancia), Max. Histórico y resistencias (valor y distancia)]
 
 ## 2. Plan de Ejecución
 
