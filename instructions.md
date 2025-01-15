@@ -16,7 +16,7 @@ CONTEXTO: /input/
 
 PROMPT:
 
-Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker, teniendo en cuenta el archivo news.md y filter_tickers.md:
+Modificar el archivo ./output/analysis.md con las siguientes secciones para cada ticker, teniendo muy en cuenta el archivo news.md (noticias y contexto político) y filter_tickers.md:
 - Precios: 
   - Ultimo precio
   - Máximo histórico [CLOSE]: valor, fecha y distancia
@@ -24,10 +24,9 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - Soportes: valor y distancia
   - Resistencias: valor y distancia
 - Recomendación de inversión: 
-  - A 1 semana: ETIQUETA y pequeña justificación
-  - A 3 meses: ETIQUETA y pequeña justificación
-  - A 6 meses: ETIQUETA y pequeña justificación
-  Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia.
+  - A 18 meses: ETIQUETA y pequeña justificación
+  Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md.
+Nota: no crear scripts.
 
 PROMPT:
 
@@ -39,7 +38,7 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Actualizar completamente los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener en cuenta los siguientes criterios:
+Actualizar completamente los archivos: 18meses.md; con un portafolio diversificado de inversión para un capital de COP 10,000,000. Tener en cuenta los siguientes criterios:
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
 2. Tener en cuenta el precio actual, el mínimo histórico, el máximo histórico, para incluir los tickers con mayor potencial de ganancia en cada periodo de tiempo. Sobre todo para los portafolios de largo plazo.
 3. Organizar el documento con la siguiente estructura:

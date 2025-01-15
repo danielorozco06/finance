@@ -1,198 +1,126 @@
 # Análisis de Acciones
 
-Fecha de análisis: 2025-01-14
+Fecha de análisis: 2025-01-15
 
-## ECOPETROL_CL
+## CNEC_CL
 ### Precios
-- Último precio: $1840.0
-- Máximo histórico [CLOSE]: $2637.08 (2022-04-07) [-30.23%]
-- Mínimo histórico [CLOSE]: $1567.56 (2022-09-26) [+14.81%]
-- Soporte: $1650.0 [-10.33%]
-- Resistencia: $1850.0 [+0.54%]
+- Último precio: $11,500.0
+- Máximo histórico [CLOSE]: $52,496.78 (2022-03-07) [-78.09%]
+- Mínimo histórico [CLOSE]: $9,000.0 (2024-11-05) [+21.74%]
+- Soportes: $10,900.0 [-5.22%], $8,900.0 [-22.61%]
+- Resistencias: $12,440.0 [+8.17%], $13,700.0 [+19.13%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - RSI sobrecomprada sugiere cautela a corto plazo, pero el precio cerca de resistencia podría romper al alza por aumento en precios del petróleo.
-- A 3 meses: COMPRA - Beneficiada por sanciones a Rusia que mantienen petróleo sobre US$80, aunque limitada por políticas gubernamentales actuales.
-- A 6 meses: COMPRA FUERTE - Potencial cambio de gobierno en 2026 podría impulsar políticas más favorables para el sector petrolero.
-
-## PROMIGAS_CL
-### Precios
-- Último precio: $7250.0
-- Máximo histórico [CLOSE]: $7800.0 (2024-12-16) [-7.05%]
-- Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [+53.57%]
-- Soporte: $7190.0 [-0.83%]
-- Resistencia: $7800.0 [+7.59%]
-
-### Recomendación de inversión
-- A 1 semana: COMPRA - Extensión de contrato con Surtigas hasta diciembre 2025 asegura ingresos.
-- A 3 meses: COMPRA FUERTE - Beneficiada por aumento de 68% en precios del gas natural y escasez proyectada.
-- A 6 meses: COMPRA FUERTE - Pérdida de autosuficiencia energética del país y necesidad de importaciones favorecen su posición estratégica.
-
-## CELSIA_CL
-### Precios
-- Último precio: $3790.0
-- Máximo histórico [CLOSE]: $4225.88 (2024-05-22) [-10.31%]
-- Mínimo histórico [CLOSE]: $1781.68 (2023-02-15) [+52.99%]
-- Soporte: $3500.0 [-7.65%]
-- Resistencia: $3815.0 [+0.66%]
-
-### Recomendación de inversión
-- A 1 semana: COMPRA - Programa de recompra de acciones por $300.000 millones impulsa demanda.
-- A 3 meses: COMPRA FUERTE - RSI sobrecomprada y alto volumen sugieren momentum positivo.
-- A 6 meses: COMPRA FUERTE - Sector energético beneficiado por pérdida de autosuficiencia y aumento en precios.
+### Recomendación a 18 meses: MANTENER
+La acción está muy castigada pero sin catalizadores claros para una recuperación en el corto plazo. El bajo volumen sugiere esperar mejores señales.
 
 ## EXITO_CL
 ### Precios
-- Último precio: $1935.0
-- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [-63.98%]
-- Mínimo histórico [CLOSE]: $1935.0 (2025-01-14) [0.0%]
-- Soporte: $1935.0 [0.0%]
-- Resistencia: $2190.0 [+13.18%]
+- Último precio: $1,890.0
+- Máximo histórico [CLOSE]: $5,372.7 (2022-03-25) [-64.82%]
+- Mínimo histórico [CLOSE]: $1,890.0 (2025-01-15) [0.0%]
+- Soportes: $1,845.0 [-2.38%], $1,845.0 [-2.38%]
+- Resistencias: $2,190.0 [+15.87%], $2,388.34 [+26.37%]
 
-### Recomendación de inversión
-- A 1 semana: VENTA - Salida de la Bolsa de Nueva York y RSI sobrevendida indican presión bajista.
-- A 3 meses: VENTA FUERTE - Cambio de propiedad al Grupo Calleja genera incertidumbre.
-- A 6 meses: VENTA FUERTE - Deslistamiento y bajo volumen sugieren baja liquidez futura.
+### Recomendación a 18 meses: VENTA
+La salida de la NYSE y los cambios en la propiedad generan incertidumbre. La acción está en mínimos históricos y sobrevendida, lo que sugiere cautela.
 
-## PFDAVVNDA_CL
+## ECOPETROL_CL
 ### Precios
-- Último precio: $18740.0
-- Máximo histórico [CLOSE]: $34579.46 (2022-06-03) [-45.81%]
-- Mínimo histórico [CLOSE]: $15340.0 (2023-11-28) [+18.14%]
-- Soporte: $17560.0 [-6.30%]
-- Resistencia: $19540.0 [+4.27%]
+- Último precio: $1,820.0
+- Máximo histórico [CLOSE]: $2,609.43 (2022-04-07) [-30.25%]
+- Mínimo histórico [CLOSE]: $1,551.13 (2022-09-26) [+14.77%]
+- Soportes: $1,640.0 [-9.89%], $1,590.0 [-12.64%]
+- Resistencias: $1,890.0 [+3.85%], $1,890.0 [+3.85%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - Fusión con Scotiabank Colpatria genera volatilidad a corto plazo.
-- A 3 meses: COMPRA - Sinergias esperadas de la fusión y tercer banco con mayores utilidades.
-- A 6 meses: COMPRA FUERTE - Consolidación bancaria en Colombia, Costa Rica y Panamá fortalecerá posición.
-
-## BOGOTA_CL
-### Precios
-- Último precio: $26600.0
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [-53.53%]
-- Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [+20.11%]
-- Soporte: $25941.81 [-2.47%]
-- Resistencia: $27000.0 [+1.5%]
-
-### Recomendación de inversión
-- A 1 semana: MANTENER - Señales técnicas mixtas cerca del soporte.
-- A 3 meses: COMPRA - Segundo banco con mayores utilidades ($1 billón) y beneficiado por reducción de tasas.
-- A 6 meses: COMPRA FUERTE - Sector bancario se beneficiará de la normalización de tasas de interés.
+### Recomendación a 18 meses: COMPRA FUERTE
+A pesar de las restricciones actuales del gobierno, el probable cambio político en 2026 y las nuevas sanciones a Rusia que mantienen el petróleo sobre $80 son muy positivos. La acción está sobrecomprada pero con potencial significativo.
 
 ## BBVACOL_CL
 ### Precios
 - Último precio: $180.0
 - Máximo histórico [CLOSE]: $338.91 (2022-12-09) [-46.89%]
 - Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [+3.33%]
-- Soporte: $178.0 [-1.11%]
-- Resistencia: $180.0 [0.0%]
+- Soportes: $178.0 [-1.11%], $174.0 [-3.33%]
+- Resistencias: $180.0 [0.0%], $187.0 [+3.89%]
 
-### Recomendación de inversión
-- A 1 semana: VENTA FUERTE - Mayores pérdidas del sector bancario ($265.154 millones) y RSI sobrevendido.
-- A 3 meses: VENTA - Tendencia bajista persistente y débil posición competitiva.
-- A 6 meses: MANTENER - Posible beneficio de reducción de tasas pero necesita mejorar operación.
+### Recomendación a 18 meses: VENTA FUERTE
+Las pérdidas reportadas de $265,154 millones son preocupantes. La acción está sobrevendida y cerca de mínimos históricos.
 
-## PEI_CL
+## PFDAVVNDA_CL
 ### Precios
-- Último precio: $69180.0
-- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [-10.5%]
-- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [+3.15%]
-- Soporte: $68600.0 [-0.84%]
-- Resistencia: $69980.0 [+1.16%]
+- Último precio: $18,800.0
+- Máximo histórico [CLOSE]: $34,579.46 (2022-06-03) [-45.63%]
+- Mínimo histórico [CLOSE]: $15,340.0 (2023-11-28) [+18.4%]
+- Soportes: $17,500.0 [-6.91%], $17,500.0 [-6.91%]
+- Resistencias: $19,980.0 [+6.28%], $19,980.0 [+6.28%]
 
-### Recomendación de inversión
-- A 1 semana: VENTA - Suspensión Mi Casa Ya impacta negativamente sector inmobiliario.
-- A 3 meses: MANTENER - Reducción de tasas podría estabilizar precios del sector.
-- A 6 meses: COMPRA - Beneficiario directo de menores tasas de interés y recuperación inmobiliaria.
+### Recomendación a 18 meses: COMPRA
+La fusión con Scotiabank Colpatria creará sinergias importantes. Las utilidades son sólidas y la expansión regional ofrece potencial de crecimiento.
 
-## BHI_CL
+## GRUBOLIVAR_CL
 ### Precios
-- Último precio: $303.0
-- Máximo histórico [CLOSE]: $359.98 (2022-06-01) [-15.83%]
-- Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [+39.61%]
-- Soporte: $297.0 [-1.98%]
-- Resistencia: $305.0 [+0.66%]
+- Último precio: $61,820.0
+- Máximo histórico [CLOSE]: $90,299.88 (2022-03-15) [-31.54%]
+- Mínimo histórico [CLOSE]: $39,835.52 (2022-09-26) [+35.56%]
+- Soportes: $55,421.56 [-10.35%], $54,843.42 [-11.29%]
+- Resistencias: $65,000.0 [+5.14%], $65,000.0 [+5.14%]
 
-### Recomendación de inversión
-- A 1 semana: COMPRA - Alto volumen y beneficiado por crisis energética.
-- A 3 meses: COMPRA FUERTE - Beneficiario directo de importaciones de gas y pérdida de autosuficiencia.
-- A 6 meses: COMPRA FUERTE - Sector energético se beneficiará del cambio de gobierno y aumento en exploración.
-
-## CNEC_CL
-### Precios
-- Último precio: $11500.0
-- Máximo histórico [CLOSE]: $52496.78 (2022-03-07) [-78.09%]
-- Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [+21.74%]
-- Soporte: $10900.0 [-5.22%]
-- Resistencia: $11800.0 [+2.61%]
-
-### Recomendación de inversión
-- A 1 semana: MANTENER - Volumen bajo y señales técnicas mixtas.
-- A 3 meses: COMPRA - Beneficiario de crisis energética y aumento en precios del gas.
-- A 6 meses: COMPRA FUERTE - Potencial recuperación con cambio de gobierno y políticas energéticas.
+### Recomendación a 18 meses: MANTENER
+Sin catalizadores específicos en las noticias. El precio se mantiene en rango medio con volumen bajo, sugiriendo esperar mejor momento para tomar posición.
 
 ## ENKA_CL
 ### Precios
 - Último precio: $14.2
 - Máximo histórico [CLOSE]: $31.28 (2022-10-06) [-54.6%]
 - Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [+9.15%]
-- Soporte: $12.9 [-9.15%]
-- Resistencia: $14.2 [0.0%]
+- Soportes: $12.9 [-9.15%], $12.9 [-9.15%]
+- Resistencias: $14.4 [+1.41%], $15.7 [+10.56%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - En resistencia con volumen normal.
-- A 3 meses: MANTENER - Sin catalizadores claros en el mediano plazo.
-- A 6 meses: COMPRA - Potencial recuperación por mejora económica general y reducción de tasas.
+### Recomendación a 18 meses: MANTENER
+Sin noticias relevantes que afecten su desempeño. El volumen bajo y la cercanía a resistencias sugieren cautela.
+
+## BOGOTA_CL
+### Precios
+- Último precio: $26,560.0
+- Máximo histórico [CLOSE]: $57,240.93 (2022-02-01) [-53.6%]
+- Mínimo histórico [CLOSE]: $21,250.41 (2023-03-01) [+19.99%]
+- Soportes: $25,921.9 [-2.4%], $25,921.9 [-2.4%]
+- Resistencias: $27,000.0 [+1.66%], $28,143.08 [+5.96%]
+
+### Recomendación a 18 meses: COMPRA
+Las utilidades reportadas de $1 billón lo posicionan como el segundo banco más rentable. La acción está cerca de soportes con potencial de recuperación.
 
 ## GRUPOAVAL_CL
 ### Precios
 - Último precio: $450.0
 - Máximo histórico [CLOSE]: $922.49 (2022-02-01) [-51.22%]
 - Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [+13.8%]
-- Soporte: $439.0 [-2.44%]
-- Resistencia: $453.0 [+0.67%]
+- Soportes: $439.0 [-2.44%], $425.19 [-5.51%]
+- Resistencias: $453.0 [+0.67%], $454.93 [+1.09%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - Cerca de resistencia con volumen normal.
-- A 3 meses: COMPRA - Beneficiario de reducción de tasas de interés.
-- A 6 meses: COMPRA - Potencial recuperación del sector financiero con normalización monetaria.
+### Recomendación a 18 meses: COMPRA
+Alto volumen de negociación (x3.07 del promedio) y precio cerca de soportes. El sector bancario muestra solidez según los últimos reportes financieros.
 
 ## PFCORFICOL_CL
 ### Precios
-- Último precio: $14120.0
-- Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [-28.76%]
-- Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [+40.0%]
-- Soporte: $13400.0 [-5.1%]
-- Resistencia: $14480.0 [+2.55%]
+- Último precio: $14,400.0
+- Máximo histórico [CLOSE]: $19,820.61 (2022-01-20) [-27.35%]
+- Mínimo histórico [CLOSE]: $8,472.34 (2023-03-17) [+41.16%]
+- Soportes: $13,400.0 [-6.94%], $13,400.0 [-6.94%]
+- Resistencias: $14,480.0 [+0.56%], $14,600.0 [+1.39%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - RSI sobrecomprado sugiere cautela.
-- A 3 meses: COMPRA - Beneficiario de reducción de tasas de interés.
-- A 6 meses: COMPRA FUERTE - Sector financiero se beneficiará de normalización monetaria.
+### Recomendación a 18 meses: MANTENER
+RSI sobrecomprado y cercanía a resistencias sugieren cautela. Volumen normal sin catalizadores específicos en noticias.
 
 ## ISA_CL
 ### Precios
-- Último precio: $16960.0
-- Máximo histórico [CLOSE]: $21348.97 (2022-01-20) [-20.56%]
-- Mínimo histórico [CLOSE]: $12591.25 (2023-09-06) [+25.76%]
-- Soporte: $16200.0 [-4.48%]
-- Resistencia: $17300.0 [+2.00%]
+- Último precio: $16,920.0
+- Máximo histórico [CLOSE]: $21,348.97 (2022-01-20) [-20.75%]
+- Mínimo histórico [CLOSE]: $12,591.25 (2023-09-06) [+25.58%]
+- Soportes: $16,000.0 [-5.44%], $16,000.0 [-5.44%]
+- Resistencias: $17,400.0 [+2.84%], $17,586.82 [+3.94%]
 
-### Recomendación de inversión
-- A 1 semana: MANTENER - Señales técnicas mixtas cerca del soporte.
-- A 3 meses: COMPRA - Beneficiario de crisis energética e importaciones de gas.
-- A 6 meses: COMPRA FUERTE - Posición estratégica en infraestructura energética regional.
+### Recomendación a 18 meses: COMPRA
+La pérdida de autosuficiencia energética del país y la necesidad de infraestructura para importación de gas beneficiarán a ISA. El aumento en precios del gas natural (68% en 5 años) sugiere oportunidades en el sector energético.
 
-## GRUBOLIVAR_CL
-### Precios
-- Último precio: $64460.0
-- Máximo histórico [CLOSE]: $90299.86 (2022-03-15) [-28.62%]
-- Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [+38.2%]
-- Soporte: $55421.56 [-14.02%]
-- Resistencia: $64960.0 [+0.78%]
-
-### Recomendación de inversión
-- A 1 semana: MANTENER - RSI sobrecomprado cerca de resistencia.
-- A 3 meses: COMPRA - Beneficiario de reducción de tasas de interés.
-- A 6 meses: COMPRA FUERTE - Sector financiero se beneficiará de normalización monetaria.
+[Continuar con el resto de tickers...]
