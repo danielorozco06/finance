@@ -21,14 +21,17 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - Ultimo precio
   - Máximo histórico [CLOSE]: valor, fecha y distancia
   - Mínimo histórico [CLOSE]: valor, fecha y distancia
-  - Soporte: valor y distancia
-  - Resistencia: valor y distancia
+  - Soportes: valor y distancia
+  - Resistencias: valor y distancia
 - Recomendación de inversión: 
   - A 1 semana: ETIQUETA y pequeña justificación
   - A 3 meses: ETIQUETA y pequeña justificación
   - A 6 meses: ETIQUETA y pequeña justificación
   Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md, las distancias al soporte y resistencia que permita un posible mejor margen de ganancia.
-NOTA: Tener presente que hoy es 2025-01-14.
+
+PROMPT:
+
+Asegurarme que esten solo los tickers del archivo de filter_tickers.md.
 
 ## Prompt portafolio de inversión
 
@@ -36,10 +39,7 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Modificar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000.
-NOTA: Hoy es 2025-01-14.
-
-Tener en cuenta los siguientes criterios:
+Modificar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener en cuenta los siguientes criterios:
 
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
 
@@ -53,7 +53,7 @@ Tener en cuenta los siguientes criterios:
 
 ## 2. Plan de Ejecución
 
-Nota: prioriozar compras y ventas escalonadas.
+Nota: prioriozar compras y ventas escalonadas. Tener en cuenta los soportes y resistencias para la ejecución de las ordenes.
 
 ### 2.1 Órdenes de Entrada
 
@@ -75,7 +75,6 @@ Teniendo en cuenta el archivo ./output/miPortafolio.md con el portafolio actual,
 - "Portafolio Actual"
 - "Dividendos y Estrategia de Salida"
 Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
-NOTA: Hoy es 2025-01-14.
 
 # Prompt consultas
 

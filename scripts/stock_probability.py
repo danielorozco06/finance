@@ -139,7 +139,7 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     missing_dates = expected_dates - actual_dates
 
     if missing_dates:
-        print(f"\nFechas faltantes detectadas:")
+        print("\nFechas faltantes detectadas:")
         print(f"- Total días hábiles esperados: {len(expected_dates)}")
         print(f"- Días con datos: {len(actual_dates)}")
         print(f"- Días faltantes: {len(missing_dates)}")
@@ -601,7 +601,7 @@ if __name__ == "__main__":
 
     generate_filtered_report(
         input_dir,
-        max_distance=2.0,
+        max_distance=5.0,
         exclude_tickers=tickers_excluidos,
         pairs_file="scripts/pares.csv",
     )

@@ -28,19 +28,6 @@ Fecha de análisis: 2025-01-14
 - A 3 meses: COMPRA FUERTE - Beneficiada por aumento de 68% en precios del gas natural y escasez proyectada.
 - A 6 meses: COMPRA FUERTE - Pérdida de autosuficiencia energética del país y necesidad de importaciones favorecen su posición estratégica.
 
-## PFBCOLOM_CL
-### Precios
-- Último precio: $34860.0
-- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [-2.85%]
-- Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [+39.6%]
-- Soporte: $33933.92 [-2.66%]
-- Resistencia: $35500.0 [+1.84%]
-
-### Recomendación de inversión
-- A 1 semana: COMPRA - Liderazgo en utilidades del sector bancario con $4.6 billones y avance en creación del Grupo Cibest.
-- A 3 meses: COMPRA - Reducción de tasas de interés del Banco de la República beneficia al sector bancario.
-- A 6 meses: MANTENER - Potencial impacto de crisis presupuestal del gobierno podría afectar al sector financiero.
-
 ## CELSIA_CL
 ### Precios
 - Último precio: $3790.0
@@ -66,19 +53,6 @@ Fecha de análisis: 2025-01-14
 - A 1 semana: VENTA - Salida de la Bolsa de Nueva York y RSI sobrevendida indican presión bajista.
 - A 3 meses: VENTA FUERTE - Cambio de propiedad al Grupo Calleja genera incertidumbre.
 - A 6 meses: VENTA FUERTE - Deslistamiento y bajo volumen sugieren baja liquidez futura.
-
-## PFGRUPOARG_CL
-### Precios
-- Último precio: $14800.0
-- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [-3.53%]
-- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [+71.9%]
-- Soporte: $14232.49 [-3.83%]
-- Resistencia: $15341.0 [+3.66%]
-
-### Recomendación de inversión
-- A 1 semana: COMPRA - Proceso de escisión con Grupo Sura avanza positivamente.
-- A 3 meses: COMPRA FUERTE - Simplificación de estructura societaria liberará valor.
-- A 6 meses: COMPRA FUERTE - Mayor liquidez esperada tras completar escisión en 2025.
 
 ## PFDAVVNDA_CL
 ### Precios
@@ -119,19 +93,6 @@ Fecha de análisis: 2025-01-14
 - A 3 meses: VENTA - Tendencia bajista persistente y débil posición competitiva.
 - A 6 meses: MANTENER - Posible beneficio de reducción de tasas pero necesita mejorar operación.
 
-## CONCONCRET_CL
-### Precios
-- Último precio: $645.0
-- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [-3.73%]
-- Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [+73.64%]
-- Soporte: $419.0 [-35.04%]
-- Resistencia: $670.0 [+3.88%]
-
-### Recomendación de inversión
-- A 1 semana: VENTA - RSI sobrecomprado y suspensión del programa Mi Casa Ya afecta sector.
-- A 3 meses: MANTENER - Crisis presupuestal del gobierno impacta sector construcción.
-- A 6 meses: COMPRA - Potencial reactivación del sector con reducción de tasas y nuevo gobierno.
-
 ## PEI_CL
 ### Precios
 - Último precio: $69180.0
@@ -144,19 +105,6 @@ Fecha de análisis: 2025-01-14
 - A 1 semana: VENTA - Suspensión Mi Casa Ya impacta negativamente sector inmobiliario.
 - A 3 meses: MANTENER - Reducción de tasas podría estabilizar precios del sector.
 - A 6 meses: COMPRA - Beneficiario directo de menores tasas de interés y recuperación inmobiliaria.
-
-## CEMARGOS_CL
-### Precios
-- Último precio: $10600.0
-- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [-3.64%]
-- Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [+78.54%]
-- Soporte: $9642.43 [-9.03%]
-- Resistencia: $11000.0 [+3.77%]
-
-### Recomendación de inversión
-- A 1 semana: MANTENER - Cerca de máximos históricos con señales de agotamiento.
-- A 3 meses: MANTENER - Sector construcción afectado por suspensión Mi Casa Ya.
-- A 6 meses: COMPRA - Beneficiario de reducción de tasas y posible reactivación construcción.
 
 ## BHI_CL
 ### Precios

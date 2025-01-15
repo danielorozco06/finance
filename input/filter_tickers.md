@@ -1,10 +1,10 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-15 09:32:45
+Generado el: 2025-01-15 09:41:08
 Período analizado: 2022-01-03 a 2025-01-14
 
-Mostrando tickers que han caído más de 2.0% desde su máximo histórico.
-Total de tickers encontrados: 19
+Mostrando tickers que han caído más de 5.0% desde su máximo histórico.
+Total de tickers encontrados: 15
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 
 ## CNEC_CL
@@ -186,51 +186,3 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - RSI: Sobrevendida
 - Volumen: Alto (x5.73 del promedio)
 - Precio: Cerca de Soporte
-
-## CONCONCRET_CL
-- Último precio: $642.0
-- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [-4.18% del precio actual]
-- Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.52% del precio actual]
-- Resistencia 1: $694.0 (distancia: 8.1%)
-- Resistencia 2: $694.0 (distancia: 8.1%)
-- Soporte 1: $407.0 (distancia: 36.6%)
-- Soporte 2: $295.0 (distancia: 54.05%)
-- RSI: Sobrecomprada
-- Volumen: Bajo (x0.26 del promedio)
-- Precio: En Rango Medio
-
-## CEMARGOS_CL
-- Último precio: $10580.0
-- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [-3.82% del precio actual]
-- Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [78.5% del precio actual]
-- Resistencia 1: $11340.0 (distancia: 7.18%)
-- Resistencia 2: $11340.0 (distancia: 7.18%)
-- Soporte 1: $9642.43 (distancia: 8.86%)
-- Soporte 2: $8076.4 (distancia: 23.66%)
-- RSI: Normal
-- Volumen: Normal (x1.11 del promedio)
-- Precio: En Rango Medio
-
-## PFBCOLOM_CL
-- Último precio: $34720.0
-- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [-3.24% del precio actual]
-- Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.36% del precio actual]
-- Resistencia 1: $35680.0 (distancia: 2.76%)
-- Resistencia 2: $35981.66 (distancia: 3.63%)
-- Soporte 1: $33933.92 (distancia: 2.26%)
-- Soporte 2: $33641.39 (distancia: 3.11%)
-- RSI: Normal
-- Volumen: Normal (x0.61 del promedio)
-- Precio: Cerca de Soporte
-
-## PFGRUPOARG_CL
-- Último precio: $15000.0
-- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [-2.22% del precio actual]
-- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [72.28% del precio actual]
-- Resistencia 1: $15637.92 (distancia: 4.25%)
-- Resistencia 2: $15637.92 (distancia: 4.25%)
-- Soporte 1: $13955.36 (distancia: 6.96%)
-- Soporte 2: $12411.36 (distancia: 17.26%)
-- RSI: Normal
-- Volumen: Bajo (x0.45 del promedio)
-- Precio: Cerca de Resistencia
