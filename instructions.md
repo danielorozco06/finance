@@ -40,29 +40,21 @@ CONTEXTO: /output/
 PROMPT:
 
 Actualizar completamente los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener en cuenta los siguientes criterios:
-
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
-
 2. Tener en cuenta el precio actual, el mínimo histórico, el máximo histórico, para incluir los tickers con mayor potencial de ganancia en cada periodo de tiempo.
-
 3. Organizar el documento con la siguiente estructura:
 
 # Portafolio de Inversión
-
 ## 1. Composición
-
 [Distribución por Acción, precio actual, etiqueta de inversión, Min. Histórico, soportes (valor y distancia), Max. Histórico y resistencias (valor y distancia)]
 
 ## 2. Plan de Ejecución
-
 Nota: prioriozar compras y ventas escalonadas. Tener en cuenta los soportes y resistencias para la ejecución de las ordenes.
 
 ### 2.1 Órdenes de Entrada
-
 [Órdenes de entrada con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.] Priorizar ordenes limite.
 
 ### 2.2 Órdenes de Salida
-
 [Órdenes de salida con la siguiente estructura: Porcentaje de capital, tipo de orden, precio orden y cantidad de acciones.] Priorizar ordenes limite.
 
 ---
