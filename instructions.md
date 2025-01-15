@@ -58,17 +58,6 @@ Nota: prioriozar compras y ventas escalonadas. Tener en cuenta los soportes y re
 
 ---
 
-# Analisis contra portafolio actual
-
-CONTEXTO: el mismo que el prompt de portafolio de inversión.
-
-PROMPT:
-
-Teniendo en cuenta el archivo ./output/miPortafolio.md con el portafolio actual, modificar el archivo para optimizar el portafolio con las siguientes secciones:
-- "Portafolio Actual"
-- "Dividendos y Estrategia de Salida"
-Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
-
 # Prompt consultas
 
 CONTEXTO: el mismo que el prompt de analisis individual.
@@ -76,3 +65,16 @@ CONTEXTO: el mismo que el prompt de analisis individual.
 PROMPTS:
 
 Cuando me recomiendas invertir en CNEC?
+
+---
+
+# Analisis contra portafolio actual
+
+CONTEXTO: el mismo que el prompt de portafolio de inversión.
+
+PROMPT:
+
+Teniendo en cuenta el archivo scripts/miPortafolio.md con el portafolio actual, modificar el archivo para optimizar el portafolio con las siguientes secciones:
+- "Portafolio Actual"
+- "Dividendos y Estrategia de Salida"
+Nota: Tener en cuenta que cada orden de compra/venta de acciones tiene un costo de $8000.
