@@ -39,7 +39,7 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Modificar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener en cuenta los siguientes criterios:
+Actualizar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diversificado de inversión para un capital de COP 5,000,000. Tener en cuenta los siguientes criterios:
 
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
 
@@ -49,7 +49,7 @@ Modificar los archivos 1semana.md, 3meses.md y 6meses.md con un portafolio diver
 
 ## 1. Composición
 
-[Distribución por Acción, etiqueta de inversión, valor de resistencia y soporte, distancia a resistencia y soporte]
+[Distribución por Acción, precio actual, etiqueta de inversión, resistencias (valor y distancia) y soportes (valor y distancia)]
 
 ## 2. Plan de Ejecución
 
