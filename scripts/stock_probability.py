@@ -1,9 +1,27 @@
 import warnings
 from pathlib import Path
+from typing import Optional
 
 import pandas as pd
 
 warnings.filterwarnings("ignore")
+
+
+def format_date(date) -> str:
+    """Formatea una fecha a string en formato YYYY-MM-DD."""
+    if pd.isna(date):
+        return "N/A"
+    if isinstance(date, str):
+        try:
+            return pd.to_datetime(date).strftime("%Y-%m-%d")
+        except:
+            return date
+    if isinstance(date, pd.Timestamp):
+        return date.strftime("%Y-%m-%d")
+    try:
+        return pd.to_datetime(date).strftime("%Y-%m-%d")
+    except:
+        return str(date)
 
 
 def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
@@ -52,12 +70,25 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     ].fillna(value=df["Close"])
 
     # Calcular soportes y resistencias
-    df["Support"] = df["Close"].rolling(window=20).min()
-    df["Resistance"] = df["Close"].rolling(window=20).max()
+    window_size = 20
+    # Primer nivel de soporte y resistencia (más cercano)
+    df["Support_1"] = df["Low"].rolling(window=window_size).min()
+    df["Resistance_1"] = df["High"].rolling(window=window_size).max()
+
+    # Segundo nivel de soporte y resistencia (más lejano)
+    window_size_2 = 50  # Ventana más amplia para el segundo nivel
+    df["Support_2"] = df["Low"].rolling(window=window_size_2).min()
+    df["Resistance_2"] = df["High"].rolling(window=window_size_2).max()
 
     # Calcular distancia a soportes y resistencias
-    df["Dist_to_Support"] = ((df["Close"] - df["Support"]) / df["Close"]) * 100
-    df["Dist_to_Resistance"] = ((df["Resistance"] - df["Close"]) / df["Close"]) * 100
+    df["Dist_to_Support_1"] = ((df["Close"] - df["Support_1"]) / df["Close"]) * 100
+    df["Dist_to_Resistance_1"] = (
+        (df["Resistance_1"] - df["Close"]) / df["Close"]
+    ) * 100
+    df["Dist_to_Support_2"] = ((df["Close"] - df["Support_2"]) / df["Close"]) * 100
+    df["Dist_to_Resistance_2"] = (
+        (df["Resistance_2"] - df["Close"]) / df["Close"]
+    ) * 100
 
     # Calcular volumen relativo
     df["Volume_MA"] = df["Volume"].rolling(window=20).mean()
@@ -143,9 +174,19 @@ def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, d
 
     def format_date(date) -> str:
         """Formatea una fecha a string en formato YYYY-MM-DD."""
+        if pd.isna(date):
+            return "N/A"
+        if isinstance(date, str):
+            try:
+                return pd.to_datetime(date).strftime("%Y-%m-%d")
+            except:
+                return date
         if isinstance(date, pd.Timestamp):
             return date.strftime("%Y-%m-%d")
-        return pd.to_datetime(date).strftime("%Y-%m-%d")
+        try:
+            return pd.to_datetime(date).strftime("%Y-%m-%d")
+        except:
+            return str(date)
 
     # Calcular extremos para cada tipo de precio
     extremos = {
@@ -268,16 +309,20 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     return {
         "ultimo_precio": round(last_price, 2),
         "registros_analizados": len(df),
-        "fecha_inicial": df["Date"].min().strftime("%Y-%m-%d"),
-        "fecha_final": df["Date"].max().strftime("%Y-%m-%d"),
+        "fecha_inicial": format_date(df["Date"].min()),
+        "fecha_final": format_date(df["Date"].max()),
         # Análisis de precio
         "precio_maximo_20d": round(df["Close"].rolling(window=20).max().iloc[-1], 2),
         "precio_minimo_20d": round(df["Close"].rolling(window=20).min().iloc[-1], 2),
         # Señales técnicas
-        "dist_soporte": round(df["Dist_to_Support"].iloc[-1], 2),
-        "dist_resistencia": round(df["Dist_to_Resistance"].iloc[-1], 2),
-        "valor_soporte": round(df["Support"].iloc[-1], 2),
-        "valor_resistencia": round(df["Resistance"].iloc[-1], 2),
+        "dist_soporte_1": round(df["Dist_to_Support_1"].iloc[-1], 2),
+        "dist_resistencia_1": round(df["Dist_to_Resistance_1"].iloc[-1], 2),
+        "valor_soporte_1": round(df["Support_1"].iloc[-1], 2),
+        "valor_resistencia_1": round(df["Resistance_1"].iloc[-1], 2),
+        "dist_soporte_2": round(df["Dist_to_Support_2"].iloc[-1], 2),
+        "dist_resistencia_2": round(df["Dist_to_Resistance_2"].iloc[-1], 2),
+        "valor_soporte_2": round(df["Support_2"].iloc[-1], 2),
+        "valor_resistencia_2": round(df["Resistance_2"].iloc[-1], 2),
         "volumen_relativo": round(df["Volume_Ratio"].iloc[-1], 2),
         # Señales de compra/venta
         "señal_rsi": "Sobrevendida"
@@ -287,61 +332,61 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         if df["Volume_Ratio"].iloc[-1] > 1.5
         else ("Bajo" if df["Volume_Ratio"].iloc[-1] < 0.5 else "Normal"),
         "señal_precio": "Cerca de Soporte"
-        if df["Dist_to_Support"].iloc[-1] < 5
+        if df["Dist_to_Support_1"].iloc[-1] < 5
         else (
             "Cerca de Resistencia"
-            if df["Dist_to_Resistance"].iloc[-1] < 5
+            if df["Dist_to_Resistance_1"].iloc[-1] < 5
             else "En Rango Medio"
         ),
         # Indicadores adicionales
         "maximo_1semana": round(last_week["High"].max(), 2),
         "minimo_1semana": round(last_week["Low"].min(), 2),
-        "fecha_maximo_1semana": last_week.loc[
-            last_week["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_1semana": last_week.loc[
-            last_week["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_1semana": format_date(
+            last_week.loc[last_week["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_1semana": format_date(
+            last_week.loc[last_week["Low"].idxmin(), "Date"]
+        ),
         "maximo_1mes": round(last_month["High"].max(), 2),
         "minimo_1mes": round(last_month["Low"].min(), 2),
-        "fecha_maximo_1mes": last_month.loc[
-            last_month["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_1mes": last_month.loc[
-            last_month["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_1mes": format_date(
+            last_month.loc[last_month["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_1mes": format_date(
+            last_month.loc[last_month["Low"].idxmin(), "Date"]
+        ),
         "maximo_3meses": round(last_3months["High"].max(), 2),
         "minimo_3meses": round(last_3months["Low"].min(), 2),
-        "fecha_maximo_3meses": last_3months.loc[
-            last_3months["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_3meses": last_3months.loc[
-            last_3months["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_3meses": format_date(
+            last_3months.loc[last_3months["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_3meses": format_date(
+            last_3months.loc[last_3months["Low"].idxmin(), "Date"]
+        ),
         "maximo_6meses": round(last_6months["High"].max(), 2),
         "minimo_6meses": round(last_6months["Low"].min(), 2),
-        "fecha_maximo_6meses": last_6months.loc[
-            last_6months["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_6meses": last_6months.loc[
-            last_6months["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_6meses": format_date(
+            last_6months.loc[last_6months["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_6meses": format_date(
+            last_6months.loc[last_6months["Low"].idxmin(), "Date"]
+        ),
         "maximo_12meses": round(last_12months["High"].max(), 2),
         "minimo_12meses": round(last_12months["Low"].min(), 2),
-        "fecha_maximo_12meses": last_12months.loc[
-            last_12months["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_12meses": last_12months.loc[
-            last_12months["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_12meses": format_date(
+            last_12months.loc[last_12months["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_12meses": format_date(
+            last_12months.loc[last_12months["Low"].idxmin(), "Date"]
+        ),
         "maximo_24meses": round(last_24months["High"].max(), 2),
         "minimo_24meses": round(last_24months["Low"].min(), 2),
-        "fecha_maximo_24meses": last_24months.loc[
-            last_24months["High"].idxmax(), "Date"
-        ].strftime("%Y-%m-%d"),
-        "fecha_minimo_24meses": last_24months.loc[
-            last_24months["Low"].idxmin(), "Date"
-        ].strftime("%Y-%m-%d"),
+        "fecha_maximo_24meses": format_date(
+            last_24months.loc[last_24months["High"].idxmax(), "Date"]
+        ),
+        "fecha_minimo_24meses": format_date(
+            last_24months.loc[last_24months["Low"].idxmin(), "Date"]
+        ),
         # Agregar máximos y mínimos reales del día
         "maximo_dia": round(df["High"].iloc[-1], 2),
         "minimo_dia": round(df["Low"].iloc[-1], 2),
@@ -370,8 +415,10 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Último precio: ${resultado["ultimo_precio"]}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
-- Resistencia: ${resultado["valor_resistencia"]} (distancia: {resultado["dist_resistencia"]}%)
-- Soporte: ${resultado["valor_soporte"]} (distancia: {resultado["dist_soporte"]}%)
+- Resistencia 1: ${resultado["valor_resistencia_1"]} (distancia: {resultado["dist_resistencia_1"]}%)
+- Resistencia 2: ${resultado["valor_resistencia_2"]} (distancia: {resultado["dist_resistencia_2"]}%)
+- Soporte 1: ${resultado["valor_soporte_1"]} (distancia: {resultado["dist_soporte_1"]}%)
+- Soporte 2: ${resultado["valor_soporte_2"]} (distancia: {resultado["dist_soporte_2"]}%)
 - RSI: {resultado["señal_rsi"]}
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
@@ -479,7 +526,7 @@ def generate_filtered_report(
     input_dir: str = "tickers_history",
     output_file: str = "input/filter_tickers.md",
     max_distance: float = 5.0,  # Porcentaje de distancia a máximo histórico
-    exclude_tickers: list[str] = None,  # Lista de tickers a excluir
+    exclude_tickers: Optional[list[str]] = None,  # Lista de tickers a excluir
     pairs_file: str = "scripts/pares.csv",  # Archivo con pares ordinaria/preferencial
 ) -> None:
     """Genera un reporte filtrado de tickers que están lejos de su máximo histórico.
