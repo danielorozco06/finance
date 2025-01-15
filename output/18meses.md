@@ -2,74 +2,74 @@
 
 ## 1. Composición
 
-### ECOPETROL_CL (35% del capital)
-- Precio actual: $1,820.0
+### ECOPETROL_CL (40% del capital)
+- Precio actual: $1,825.0
 - Etiqueta: COMPRA FUERTE
-- Mín. Histórico: $1,551.13 [+14.77%]
+- Mín. Histórico: $1,551.13 [+15.01%]
 - Soportes:
-  - S1: $1,640.0 [-9.89%]
-  - S2: $1,590.0 [-12.64%]
-- Máx. Histórico: $2,609.43 [-30.25%]
+  - S1: $1,640.0 [-10.14%]
+  - S2: $1,590.0 [-12.88%]
+- Máx. Histórico: $2,609.43 [-30.06%]
 - Resistencias:
-  - R1: $1,890.0 [+3.85%]
-  - R2: $1,890.0 [+3.85%]
+  - R1: $1,890.0 [+3.56%]
+  - R2: $2,200.0 [+20.55%]
 
-### ISA_CL (35% del capital)
-- Precio actual: $16,920.0
+### PFDAVVNDA_CL (35% del capital)
+- Precio actual: $18,800.0
 - Etiqueta: COMPRA
-- Mín. Histórico: $12,591.25 [+25.58%]
+- Mín. Histórico: $15,340.0 [+18.4%]
 - Soportes:
-  - S1: $16,000.0 [-5.44%]
-  - S2: $16,000.0 [-5.44%]
-- Máx. Histórico: $21,348.97 [-20.75%]
+  - S1: $17,500.0 [-6.91%]
+  - S2: $16,500.0 [-12.23%]
+- Máx. Histórico: $34,579.46 [-45.63%]
 - Resistencias:
-  - R1: $17,400.0 [+2.84%]
-  - R2: $17,586.82 [+3.94%]
+  - R1: $19,980.0 [+6.28%]
+  - R2: $22,000.0 [+17.02%]
 
-### BOGOTA_CL (30% del capital)
-- Precio actual: $26,560.0
+### GRUPOAVAL_CL (25% del capital)
+- Precio actual: $450.0
 - Etiqueta: COMPRA
-- Mín. Histórico: $21,250.41 [+19.99%]
+- Mín. Histórico: $387.88 [+13.8%]
 - Soportes:
-  - S1: $25,921.9 [-2.4%]
-  - S2: $25,921.9 [-2.4%]
-- Máx. Histórico: $57,240.93 [-53.6%]
+  - S1: $439.0 [-2.44%]
+  - S2: $425.19 [-5.51%]
+- Máx. Histórico: $922.49 [-51.22%]
 - Resistencias:
-  - R1: $27,000.0 [+1.66%]
-  - R2: $28,143.08 [+5.96%]
+  - R1: $453.0 [+0.67%]
+  - R2: $500.0 [+11.11%]
 
 ## 2. Plan de Ejecución
 
 ### 2.1 Órdenes de Entrada
 
-#### ECOPETROL_CL (Capital: $3,500,000)
-1. 40% - Orden límite a $1,640 (854 acciones)
-2. 30% - Orden límite a $1,720 (610 acciones)
-3. 30% - Orden límite a $1,820 (576 acciones)
+#### ECOPETROL_CL (Capital: $4,000,000)
+1. 40% - Orden límite a $1,640 (975 acciones)
+2. 30% - Orden límite a $1,750 (685 acciones)
+3. 30% - Orden límite a $1,825 (658 acciones)
 
-#### ISA_CL (Capital: $3,500,000)
-1. 40% - Orden límite a $16,000 (87 acciones)
-2. 30% - Orden límite a $16,500 (63 acciones)
-3. 30% - Orden límite a $16,920 (62 acciones)
+#### PFDAVVNDA_CL (Capital: $3,500,000)
+1. 40% - Orden límite a $17,500 (80 acciones)
+2. 30% - Orden límite a $18,200 (57 acciones)
+3. 30% - Orden límite a $18,800 (55 acciones)
 
-#### BOGOTA_CL (Capital: $3,000,000)
-1. 40% - Orden límite a $25,921 (46 acciones)
-2. 30% - Orden límite a $26,200 (34 acciones)
-3. 30% - Orden límite a $26,560 (33 acciones)
+#### GRUPOAVAL_CL (Capital: $2,500,000)
+1. 40% - Orden límite a $439 (2,278 acciones)
+2. 30% - Orden límite a $445 (1,685 acciones)
+3. 30% - Orden límite a $450 (1,666 acciones)
 
 ### 2.2 Órdenes de Salida
 
 #### ECOPETROL_CL
-1. 30% - Orden límite a $1,890 (610 acciones)
-2. 40% - Orden límite a $2,200 (813 acciones)
-3. 30% - Orden límite a $2,500 (610 acciones)
+1. 30% - Orden límite a $1,890 (695 acciones)
+2. 40% - Orden límite a $2,200 (927 acciones)
+3. 30% - Orden límite a $2,500 (695 acciones)
 
-#### ISA_CL
-1. 30% - Orden límite a $17,400 (63 acciones)
-2. 40% - Orden límite a $19,000 (84 acciones)
-3. 30% - Orden límite a $21,000 (63 acciones)
+#### PFDAVVNDA_CL
+1. 30% - Orden límite a $19,980 (57 acciones)
+2. 40% - Orden límite a $22,000 (77 acciones)
+3. 30% - Orden límite a $25,000 (57 acciones)
 
-#### BOGOTA_CL
-1. 30% - Orden límite a $27,000 (33 acciones)
-2. 40% - Orden límite a $28,000 (45 acciones)
-3. 30% - Orden límite a $30,000 (33 acciones) 
+#### GRUPOAVAL_CL
+1. 30% - Orden límite a $453 (1,688 acciones)
+2. 40% - Orden límite a $500 (2,252 acciones)
+3. 30% - Orden límite a $600 (1,688 acciones) 
