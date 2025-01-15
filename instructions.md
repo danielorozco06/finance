@@ -24,7 +24,7 @@ Modificar el archivo ./output/analysis.md con las siguientes secciones para cada
   - Soportes: valor y distancia
   - Resistencias: valor y distancia
 - Recomendación de inversión: 
-  - A 18 meses: ETIQUETA y pequeña justificación
+  - Horizonte de 24 meses: ETIQUETA y pequeña justificación
   Nota: Indicar alguna de las etiquetas: VENTA FUERTE, VENTA, MANTENER, COMPRA, COMPRA FUERTE. La etiqueta debe ser sugerida teniendo en cuenta las noticias del archivo news.md, el analisis del archivo filter_tickers.md.
 Nota: no crear scripts.
 
@@ -38,7 +38,7 @@ CONTEXTO: /output/
 
 PROMPT:
 
-Actualizar completamente los archivos: 18meses.md; con un portafolio DIVERSIFICADO de inversión para un capital de COP 10,000,000. Tener en cuenta los siguientes criterios:
+Actualizar completamente los archivos: 24meses.md; con un portafolio DIVERSIFICADO de inversión para un capital de COP 12,000,000. Tener en cuenta los siguientes criterios:
 1. Omitir tickers con etiqueta MANTENER, VENTA, VENTA FUERTE en el periodo indicado. Priorizar COMPRA FUERTE y luego COMPRA
 2. Tener en cuenta el precio actual, el mínimo histórico, el máximo histórico, para incluir los tickers con mayor potencial de ganancia en cada periodo de tiempo. Sobre todo para los portafolios de largo plazo.
 3. Organizar el documento con la siguiente estructura:
