@@ -368,8 +368,7 @@ def filter_report(
     output_file: str = "input/filter_tickers.md",
     exclude_tickers: Optional[list[str]] = None,
     pairs_file: str = "scripts/pares.csv",
-    filter_by: list[str] = ["max_inside"],
-    max_distances: Optional[dict[str, float]] = None,
+    max_distances: dict[str, float] = None,
 ) -> None:
     """Genera un reporte filtrado basado en criterios específicos."""
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
@@ -386,17 +385,13 @@ def filter_report(
         "resistance_inside",
         "resistance_outside",
     }
-    filter_by = [f.lower() for f in filter_by]
+
+    if not max_distances:
+        raise ValueError("Debe especificar max_distances")
+
+    filter_by = list(max_distances.keys())
     if not all(f in valid_criteria for f in filter_by):
         raise ValueError(f"Criterios de filtrado inválidos. Válidos: {valid_criteria}")
-
-    # Validar que se proporcionaron las distancias para todos los criterios
-    if not max_distances or not all(
-        criterion in max_distances for criterion in filter_by
-    ):
-        raise ValueError(
-            "Debe especificar max_distances para todos los criterios de filtrado"
-        )
 
     # Obtener tickers a excluir
     pairs_to_exclude = get_pairs_to_exclude(pairs_file)
@@ -412,51 +407,50 @@ def filter_report(
                 continue
 
             resultado = calculate_stock_probability(str(csv_file))
-            ultimo_precio = float(resultado["ultimo_precio"])
-
             meets_criteria = True
-            for criterion in filter_by:
+
+            for criterion, max_distance in max_distances.items():
                 if criterion.startswith("max"):
                     distance = float(resultado["dist_max_close"])
                     if criterion == "max_inside":
-                        if distance > max_distances[criterion]:
+                        if distance > max_distance:
                             meets_criteria = False
                             break
                     else:  # max_outside
-                        if distance <= max_distances[criterion]:
+                        if distance < max_distance:
                             meets_criteria = False
                             break
 
                 elif criterion.startswith("min"):
                     distance = float(resultado["dist_min_close"])
                     if criterion == "min_inside":
-                        if distance > max_distances[criterion]:
+                        if distance > max_distance:
                             meets_criteria = False
                             break
                     else:  # min_outside
-                        if distance <= max_distances[criterion]:
+                        if distance < max_distance:
                             meets_criteria = False
                             break
 
                 elif criterion.startswith("support"):
                     distance = float(resultado["dist_soporte_1"])
                     if criterion == "support_inside":
-                        if distance > max_distances[criterion]:
+                        if distance > max_distance:
                             meets_criteria = False
                             break
                     else:  # support_outside
-                        if distance <= max_distances[criterion]:
+                        if distance < max_distance:
                             meets_criteria = False
                             break
 
                 elif criterion.startswith("resistance"):
                     distance = float(resultado["dist_resistencia_1"])
                     if criterion == "resistance_inside":
-                        if distance > max_distances[criterion]:
+                        if distance > max_distance:
                             meets_criteria = False
                             break
                     else:  # resistance_outside
-                        if distance <= max_distances[criterion]:
+                        if distance < max_distance:
                             meets_criteria = False
                             break
 
@@ -465,7 +459,8 @@ def filter_report(
         except Exception as e:
             print(f"Error procesando {ticker}: {str(e)}")
 
-    # Ordenar resultados solo por el primer criterio especificado
+    # Ordenar resultados por el primer criterio especificado
+    first_criterion = list(max_distances.keys())[0]
     sort_key = {
         "max_inside": lambda x: float(x[1]["dist_max_close"]),
         "max_outside": lambda x: float(x[1]["dist_max_close"]),
@@ -476,12 +471,11 @@ def filter_report(
         "resistance_inside": lambda x: float(x[1]["dist_resistencia_1"]),
         "resistance_outside": lambda x: float(x[1]["dist_resistencia_1"]),
     }
-    filtered_results.sort(key=sort_key[filter_by[0]])
+    filtered_results.sort(key=sort_key[first_criterion])
 
     # Generar descripción de criterios
     criteria_desc = []
-    for criterion in filter_by:
-        dist = max_distances[criterion]
+    for criterion, max_distance in max_distances.items():
         base_desc = {
             "max": "máximo histórico",
             "min": "mínimo histórico",
@@ -489,7 +483,7 @@ def filter_report(
             "resistance": "resistencia",
         }[criterion.split("_")[0]]
         position = "por debajo" if criterion.endswith("inside") else "por encima"
-        criteria_desc.append(f"{base_desc} ({dist}%, {position})")
+        criteria_desc.append(f"{base_desc} ({max_distance}%, {position})")
 
     with open(output_file, "w", encoding="utf-8") as f:
         write_report_header(
@@ -521,14 +515,9 @@ if __name__ == "__main__":
     # Reporte de tickers a comprar
     filter_report(
         output_file="input/buy_tickers.md",
-        filter_by=[
-            "max_outside",
-            "resistance_inside",
-            "support_inside",
-        ],
         max_distances={
             "max_outside": 10.0,
-            "resistance_inside": 1.0,
+            "resistance_outside": 0.0,
             "support_inside": 3.0,
         },
     )
@@ -536,9 +525,8 @@ if __name__ == "__main__":
     # Reporte de tickers a vender
     filter_report(
         output_file="input/sell_tickers.md",
-        filter_by=["max_inside", "support_outside", "resistance_inside"],
         max_distances={
-            "max_inside": 5.0,
+            "max_inside": 10.0,
             "resistance_inside": 2.0,
             "support_outside": 2.0,
         },
