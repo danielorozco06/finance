@@ -1,11 +1,11 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 13:02:18
+Generado el: 2025-01-20 14:02:14
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
-- Distancia máxima a: máximo histórico (100.0%) y resistencia (2.0%)
-Total de tickers encontrados: 14
+- Distancia máxima a: máximo histórico (40.0%) y resistencia (2.0%)
+Total de tickers encontrados: 10
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 
 ## GEB_CL
@@ -156,64 +156,4 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 
 - RSI: Normal
 - Volumen: Bajo (x0.12 del promedio)
-- Precio: Cerca de Resistencia
-
-## BBVACOL_CL
-- Máximo histórico [CLOSE]: $338.91 (2022-12-09) [46.89% del precio actual]
-- Resistencia 3: $219.0 (distancia: 21.67%)
-- Resistencia 2: $187.0 (distancia: 3.89%)
-- Resistencia 1: $180.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $180.0
-- Soporte 1: $178.0 (distancia: 1.11%)
-- Soporte 2: $174.0 (distancia: 3.33%)
-- Soporte 3: $173.0 (distancia: 3.89%)
-- Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
-
-- RSI: Sobrevendida
-- Volumen: Bajo (x0.0 del promedio)
-- Precio: Cerca de Soporte
-
-## GRUPOAVAL_CL
-- Máximo histórico [CLOSE]: $922.49 (2022-02-01) [48.08% del precio actual]
-- Resistencia 3: $479.0 (distancia: 0.0%)
-- Resistencia 2: $479.0 (distancia: 0.0%)
-- Resistencia 1: $479.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $479.0
-- Soporte 1: $439.0 (distancia: 8.35%)
-- Soporte 2: $425.19 (distancia: 11.23%)
-- Soporte 3: $390.64 (distancia: 18.45%)
-- Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [19.02% del precio actual]
-
-- RSI: Sobrecomprada
-- Volumen: Bajo (x0.22 del promedio)
-- Precio: Cerca de Resistencia
-
-## BOGOTA_CL
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [52.31% del precio actual]
-- Resistencia 3: $28486.04 (distancia: 4.34%)
-- Resistencia 2: $27548.51 (distancia: 0.91%)
-- Resistencia 1: $27500.0 (distancia: 0.73%)
-- >> PRECIO ACTUAL: $27300.0
-- Soporte 1: $25961.72 (distancia: 4.9%)
-- Soporte 2: $25921.9 (distancia: 5.05%)
-- Soporte 3: $24704.37 (distancia: 9.51%)
-- Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [22.16% del precio actual]
-
-- RSI: Normal
-- Volumen: Normal (x1.45 del promedio)
-- Precio: Cerca de Soporte
-
-## ENKA_CL
-- Máximo histórico [CLOSE]: $31.28 (2022-10-06) [54.6% del precio actual]
-- Resistencia 3: $15.7 (distancia: 10.56%)
-- Resistencia 2: $15.7 (distancia: 10.56%)
-- Resistencia 1: $14.2 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $14.2
-- Soporte 1: $12.9 (distancia: 9.15%)
-- Soporte 2: $12.9 (distancia: 9.15%)
-- Soporte 3: $12.9 (distancia: 9.15%)
-- Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [9.15% del precio actual]
-
-- RSI: Normal
-- Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Resistencia
