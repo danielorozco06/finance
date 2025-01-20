@@ -369,12 +369,8 @@ def filter_report(
     max_distance: float = 5.0,
     exclude_tickers: Optional[list[str]] = None,
     pairs_file: str = "scripts/pares.csv",
-    filter_by: list[str] = [
-        "max"
-    ],  # Lista de criterios: 'max', 'min', 'support', 'resistance'
-    max_distances: Optional[
-        dict[str, float]
-    ] = None,  # Distancias específicas para cada criterio
+    filter_by: list[str] = ["max"],
+    max_distances: Optional[dict[str, float]] = None,
 ) -> None:
     """Genera un reporte filtrado basado en criterios específicos."""
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
