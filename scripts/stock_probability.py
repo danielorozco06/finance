@@ -531,26 +531,43 @@ def filter_report(
     max_distance: float = 5.0,
     exclude_tickers: Optional[list[str]] = None,
     pairs_file: str = "scripts/pares.csv",
-    filter_by: str = "max",  # Nuevo parámetro para indicar si filtrar por 'max' o 'min'
+    filter_by: list[str] = [
+        "max"
+    ],  # Lista de criterios: 'max', 'min', 'support', 'resistance'
+    max_distances: Optional[
+        dict[str, float]
+    ] = None,  # Distancias específicas para cada criterio
 ) -> None:
-    """Genera un reporte filtrado de tickers basado en su distancia al máximo o mínimo histórico.
+    """Genera un reporte filtrado de tickers basado en su distancia a diferentes niveles.
 
     Args:
         input_dir: Directorio donde se encuentran los archivos CSV
         output_file: Archivo de salida para el reporte
-        max_distance: Distancia máxima permitida al máximo/mínimo histórico (porcentaje)
+        max_distance: Distancia máxima permitida por defecto (porcentaje)
         exclude_tickers: Lista de tickers a excluir del reporte
         pairs_file: Ruta al archivo CSV con los pares de acciones
-        filter_by: 'max' para filtrar por distancia al máximo histórico,
+        filter_by: Lista de criterios de filtrado:
+                  'max' para filtrar por distancia al máximo histórico
                   'min' para filtrar por distancia al mínimo histórico
+                  'support' para filtrar por distancia al soporte
+                  'resistance' para filtrar por distancia a la resistencia
+        max_distances: Diccionario con distancias específicas para cada criterio
+                      Ejemplo: {'max': 10.0, 'min': 5.0, 'support': 3.0, 'resistance': 3.0}
     """
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
 
-    # Obtener tickers a excluir de los pares
-    pairs_to_exclude = get_pairs_to_exclude(pairs_file)
+    # Validar criterios de filtrado
+    valid_criteria = {"max", "min", "support", "resistance"}
+    filter_by = [f.lower() for f in filter_by]
+    if not all(f in valid_criteria for f in filter_by):
+        raise ValueError(f"Criterios de filtrado inválidos. Válidos: {valid_criteria}")
 
-    # Combinar con la lista manual de exclusiones
+    # Configurar distancias para cada criterio
+    distances = max_distances or {f: max_distance for f in filter_by}
+
+    # Obtener tickers a excluir
+    pairs_to_exclude = get_pairs_to_exclude(pairs_file)
     exclude_tickers = list(set(t.lower() for t in (exclude_tickers or [])))
     exclude_tickers.extend(t for t in pairs_to_exclude)
 
@@ -560,39 +577,62 @@ def filter_report(
     for csv_file in csv_files:
         try:
             ticker = csv_file.stem.replace("_values", "")
-            # Saltar si el ticker está en la lista de exclusión
             if ticker in exclude_tickers:
                 excluded_count += 1
                 continue
 
             resultado = calculate_stock_probability(str(csv_file))
 
-            # Seleccionar el criterio de filtrado según filter_by
-            if filter_by.lower() == "max":
-                distance = float(resultado["dist_max_close"])
-                condition = distance <= max_distance
-            else:  # filter_by == 'min'
-                distance = float(resultado["dist_min_close"])
-                condition = distance <= max_distance
+            # Verificar todos los criterios de filtrado
+            meets_criteria = True
+            for criterion in filter_by:
+                if criterion == "max":
+                    distance = float(resultado["dist_max_close"])
+                elif criterion == "min":
+                    distance = float(resultado["dist_min_close"])
+                elif criterion == "support":
+                    distance = float(resultado["dist_soporte_1"])
+                else:  # resistance
+                    distance = float(resultado["dist_resistencia_1"])
 
-            if condition:
+                if distance > distances[criterion]:
+                    meets_criteria = False
+                    break
+
+            if meets_criteria:
                 filtered_results.append((ticker, resultado))
         except Exception as e:
             print(f"Error procesando {ticker}: {str(e)}")
 
-    # Ordenar resultados según el criterio seleccionado
-    if filter_by.lower() == "max":
-        filtered_results.sort(key=lambda x: float(x[1]["dist_max_close"]))
-    else:
-        filtered_results.sort(key=lambda x: float(x[1]["dist_min_close"]))
+    # Ordenar resultados por el primer criterio de filtrado
+    sort_key = {
+        "max": lambda x: float(x[1]["dist_max_close"]),
+        "min": lambda x: float(x[1]["dist_min_close"]),
+        "support": lambda x: float(x[1]["dist_soporte_1"]),
+        "resistance": lambda x: float(x[1]["dist_resistencia_1"]),
+    }
+    filtered_results.sort(key=sort_key[filter_by[0]])
+
+    # Generar descripción de criterios
+    criteria_desc = []
+    for criterion in filter_by:
+        dist = distances[criterion]
+        if criterion == "max":
+            criteria_desc.append(f"máximo histórico ({dist}%)")
+        elif criterion == "min":
+            criteria_desc.append(f"mínimo histórico ({dist}%)")
+        elif criterion == "support":
+            criteria_desc.append(f"soporte ({dist}%)")
+        else:  # resistance
+            criteria_desc.append(f"resistencia ({dist}%)")
 
     with open(output_file, "w", encoding="utf-8") as f:
         write_report_header(
             f,
             primer_resultado,
             "Análisis de Tendencias de Acciones (Filtrado)",
-            f"Mostrando tickers que {'han caído más de' if filter_by.lower() == 'max' else 'están a menos de'} "
-            f"{max_distance}% {'desde su máximo' if filter_by.lower() == 'max' else 'de su mínimo'} histórico.\n"
+            f"Mostrando tickers que cumplen con los siguientes criterios:\n"
+            f"- Distancia máxima a: {' y '.join(criteria_desc)}\n"
             f"Total de tickers encontrados: {len(filtered_results)}\n"
             + (
                 f"Lista de exclusión manual: {', '.join(sorted(set(exclude_tickers) - pairs_to_exclude))}\n"
@@ -619,12 +659,16 @@ if __name__ == "__main__":
     # Lista de tickers a excluir manualmente
     tickers_excluidos: list[str] = []
 
-    # Generar reporte de acciones cerca de máximos históricos
+    # Reporte de acciones cerca de mínimos históricos
     filter_report(
-        output_file="input/sell_tickers.md", max_distance=10.0, filter_by="max"
+        output_file="input/buy_tickers.md",
+        filter_by=["min", "support"],
+        max_distances={"min": 100.0, "support": 2.5},
     )
 
-    # Generar reporte de acciones cerca de mínimos históricos
+    # Reporte de acciones cerca de máximos históricos
     filter_report(
-        output_file="input/buy_tickers.md", max_distance=10.0, filter_by="min"
+        output_file="input/sell_tickers.md",
+        filter_by=["max", "resistance"],
+        max_distances={"max": 30.0, "resistance": 2.0},
     )
