@@ -3,6 +3,7 @@ from pathlib import Path
 from typing import Optional
 
 import pandas as pd
+import ta  # Agregar este import
 
 warnings.filterwarnings("ignore")
 
@@ -53,21 +54,38 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     # Rellenar RSI con valores neutros
     df["RSI"] = df["RSI"].fillna(value=50)
 
-    # Calcular soportes y resistencias
-    window_size = 20
-    # Primer nivel de soporte y resistencia (más cercano)
-    df["Support_1"] = df["Low"].rolling(window=window_size).min()
-    df["Resistance_1"] = df["High"].rolling(window=window_size).max()
+    # Calcular soportes y resistencias usando Donchian Channels
+    # Primer nivel (más cercano)
+    donchian_20 = ta.volatility.DonchianChannel(
+        high=df["High"], low=df["Low"], close=df["Close"], window=20
+    )
+    df["Support_1"] = donchian_20.donchian_channel_lband()
+    df["Resistance_1"] = donchian_20.donchian_channel_hband()
 
-    # Segundo nivel de soporte y resistencia (medio)
-    window_size_2 = 50
-    df["Support_2"] = df["Low"].rolling(window=window_size_2).min()
-    df["Resistance_2"] = df["High"].rolling(window=window_size_2).max()
+    # Segundo nivel (medio)
+    donchian_50 = ta.volatility.DonchianChannel(
+        high=df["High"], low=df["Low"], close=df["Close"], window=50
+    )
+    df["Support_2"] = donchian_50.donchian_channel_lband()
+    df["Resistance_2"] = donchian_50.donchian_channel_hband()
 
-    # Tercer nivel de soporte y resistencia (más lejano)
-    window_size_3 = 100  # Ventana más amplia para el tercer nivel
-    df["Support_3"] = df["Low"].rolling(window=window_size_3).min()
-    df["Resistance_3"] = df["High"].rolling(window=window_size_3).max()
+    # Tercer nivel (más lejano)
+    donchian_100 = ta.volatility.DonchianChannel(
+        high=df["High"], low=df["Low"], close=df["Close"], window=100
+    )
+    df["Support_3"] = donchian_100.donchian_channel_lband()
+    df["Resistance_3"] = donchian_100.donchian_channel_hband()
+
+    # Rellenar valores NaN con el primer valor disponible
+    support_resistance_cols = [
+        "Support_1",
+        "Resistance_1",
+        "Support_2",
+        "Resistance_2",
+        "Support_3",
+        "Resistance_3",
+    ]
+    df[support_resistance_cols] = df[support_resistance_cols].bfill()
 
     # Calcular distancia a soportes y resistencias
     df["Dist_to_Support_1"] = ((df["Close"] - df["Support_1"]) / df["Close"]) * 100
