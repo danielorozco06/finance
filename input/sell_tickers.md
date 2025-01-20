@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 18:00:59
+Generado el: 2025-01-20 18:04:12
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
@@ -105,7 +105,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Resistencia
 
 ## ECOPETROL_CL
-- Máximo histórico [CLOSE]: $2680.59 (2022-05-04) [32.1% del precio actual]
+- Máximo histórico [CLOSE]: $2965.4 (2022-04-07) [38.63% del precio actual]
 - Resistencia 3: $2095.0 (distancia: 15.11%)
 - Resistencia 2: $1890.0 (distancia: 3.85%)
 - Resistencia 1: $1890.0 (distancia: 3.85%)
@@ -121,7 +121,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Resistencia
 
 ## GRUBOLIVAR_CL
-- Máximo histórico [CLOSE]: $90299.88 (2022-03-15) [31.34% del precio actual]
+- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [31.34% del precio actual]
 - Resistencia 3: $65701.34 (distancia: 5.97%)
 - Resistencia 2: $65000.0 (distancia: 4.84%)
 - Resistencia 1: $65000.0 (distancia: 4.84%)
@@ -169,7 +169,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Resistencia
 
 ## BOGOTA_CL
-- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [52.17% del precio actual]
+- Máximo histórico [CLOSE]: $57240.91 (2022-02-01) [52.17% del precio actual]
 - Resistencia 3: $28486.04 (distancia: 4.04%)
 - Resistencia 2: $27548.51 (distancia: 0.62%)
 - Resistencia 1: $27500.0 (distancia: 0.44%)
@@ -289,7 +289,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Soporte 1: $25195.66 (distancia: 2.49%)
 - Soporte 2: $22196.65 (distancia: 14.1%)
 - Soporte 3: $19110.8 (distancia: 26.04%)
-- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.57% del precio actual]
+- Mínimo histórico [CLOSE]: $8120.46 (2023-02-28) [68.57% del precio actual]
 
 - Diferencia R-S: -0.32%
 - RSI: Normal

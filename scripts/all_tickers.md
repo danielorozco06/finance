@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-20 18:00:58
+Generado el: 2025-01-20 18:04:11
 Período analizado: 2022-01-03 a 2025-01-17
 
 ## BBVACOL_CL
@@ -52,7 +52,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Soporte
 
 ## BOGOTA_CL
-- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [52.17% del precio actual]
+- Máximo histórico [CLOSE]: $57240.91 (2022-02-01) [52.17% del precio actual]
 - Resistencia 3: $28486.04 (distancia: 4.04%)
 - Resistencia 2: $27548.51 (distancia: 0.62%)
 - Resistencia 1: $27500.0 (distancia: 0.44%)
@@ -148,7 +148,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## ECOPETROL_CL
-- Máximo histórico [CLOSE]: $2680.59 (2022-05-04) [32.1% del precio actual]
+- Máximo histórico [CLOSE]: $2965.4 (2022-04-07) [38.63% del precio actual]
 - Resistencia 3: $2095.0 (distancia: 15.11%)
 - Resistencia 2: $1890.0 (distancia: 3.85%)
 - Resistencia 1: $1890.0 (distancia: 3.85%)
@@ -212,7 +212,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## GRUBOLIVAR_CL
-- Máximo histórico [CLOSE]: $90299.88 (2022-03-15) [31.34% del precio actual]
+- Máximo histórico [CLOSE]: $90299.85 (2022-03-15) [31.34% del precio actual]
 - Resistencia 3: $65701.34 (distancia: 5.97%)
 - Resistencia 2: $65000.0 (distancia: 4.84%)
 - Resistencia 1: $65000.0 (distancia: 4.84%)
@@ -460,7 +460,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 1: $25195.66 (distancia: 2.49%)
 - Soporte 2: $22196.65 (distancia: 14.1%)
 - Soporte 3: $19110.8 (distancia: 26.04%)
-- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.57% del precio actual]
+- Mínimo histórico [CLOSE]: $8120.46 (2023-02-28) [68.57% del precio actual]
 
 - Diferencia R-S: -0.32%
 - RSI: Normal
@@ -476,7 +476,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 1: $7150.0 (distancia: 0.69%)
 - Soporte 2: $7150.0 (distancia: 0.69%)
 - Soporte 3: $6936.56 (distancia: 3.66%)
-- Mínimo histórico [CLOSE]: $3338.17 (2022-11-18) [53.64% del precio actual]
+- Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [53.24% del precio actual]
 
 - Diferencia R-S: 5.56%
 - RSI: Normal
