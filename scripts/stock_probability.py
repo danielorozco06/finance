@@ -477,6 +477,7 @@ def filter_report(
         dict[str, float]
     ] = None,  # Distancias específicas para cada criterio
 ) -> None:
+    """Genera un reporte filtrado basado en criterios específicos."""
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
 
@@ -495,13 +496,11 @@ def filter_report(
     exclude_tickers.extend(t for t in pairs_to_exclude)
 
     filtered_results = []
-    excluded_count = 0
 
     for csv_file in csv_files:
         try:
             ticker = csv_file.stem.replace("_values", "")
             if ticker in exclude_tickers:
-                excluded_count += 1
                 continue
 
             resultado = calculate_stock_probability(str(csv_file))
