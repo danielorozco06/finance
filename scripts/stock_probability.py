@@ -679,12 +679,12 @@ if __name__ == "__main__":
     filter_report(
         output_file="input/buy_tickers.md",
         filter_by=["min", "support"],
-        max_distances={"min": 100.0, "support": 1.5},
+        max_distances={"min": 90.0, "support": 2.0},
     )
 
     # Reporte de acciones cerca de máximos históricos
     filter_report(
         output_file="input/sell_tickers.md",
         filter_by=["max", "resistance"],
-        max_distances={"max": 100.0, "resistance": 1.5},
+        max_distances={"max": 100.0, "resistance": 2.0},
     )
