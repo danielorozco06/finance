@@ -41,9 +41,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     # Rellenar valores iniciales de medias móviles con el primer valor disponible
     df[["SMA_5", "SMA_20", "SMA_50"]] = df[["SMA_5", "SMA_20", "SMA_50"]].bfill()
 
-    # Volatilidad
-    df["Volatility"] = df["Close"].rolling(window=20).std()
-
     # RSI
     delta = df["Close"].diff()
     delta = pd.to_numeric(delta, errors="coerce")
@@ -55,19 +52,6 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
 
     # Rellenar RSI con valores neutros
     df["RSI"] = df["RSI"].fillna(value=50)
-
-    # Momentum
-    df["Momentum"] = df["Close"] - df["Close"].shift(4)
-    df["Momentum"] = df["Momentum"].fillna(value=0)
-
-    # Bollinger Bands
-    df["BB_middle"] = df["Close"].rolling(window=20).mean()
-    df["BB_upper"] = df["BB_middle"] + 2 * df["Close"].rolling(window=20).std()
-    df["BB_lower"] = df["BB_middle"] - 2 * df["Close"].rolling(window=20).std()
-    # Rellenar Bollinger Bands con valores conservadores
-    df[["BB_middle", "BB_upper", "BB_lower"]] = df[
-        ["BB_middle", "BB_upper", "BB_lower"]
-    ].fillna(value=df["Close"])
 
     # Calcular soportes y resistencias
     window_size = 20
@@ -126,9 +110,7 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
 
     # Convertir y validar fechas
     try:
-        # Asegurarnos que la columna Date sea string antes de la conversión
         df["Date"] = df["Date"].astype(str)
-        # Intentar convertir a datetime ignorando zonas horarias
         df["Date"] = pd.to_datetime(df["Date"].str.split().str[0])
     except Exception as e:
         raise ValueError(f"Error en conversión de fechas: {str(e)}")
@@ -141,72 +123,13 @@ def validate_csv_structure(df: pd.DataFrame, csv_file: str) -> pd.DataFrame:
     # Ordenar por fecha
     df = df.sort_values("Date")
 
-    # Validar rango de fechas
-    date_range = pd.date_range(start=df["Date"].min(), end=df["Date"].max(), freq="B")
-    expected_dates = set(date_range)
-    actual_dates = set(df["Date"])
-    missing_dates = expected_dates - actual_dates
-
-    if missing_dates:
-        print("\nFechas faltantes detectadas:")
-        print(f"- Total días hábiles esperados: {len(expected_dates)}")
-        print(f"- Días con datos: {len(actual_dates)}")
-        print(f"- Días faltantes: {len(missing_dates)}")
-
-    # Validar valores
-    invalid_close = df["Close"].isna().sum()
-    invalid_volume = df["Volume"].isna().sum()
-    invalid_high = df["High"].isna().sum()
-    invalid_low = df["Low"].isna().sum()
-
-    if invalid_close > 0 or invalid_volume > 0 or invalid_high > 0 or invalid_low > 0:
-        print("\nProblemas detectados en los datos:")
-        if invalid_close > 0:
-            print(f"- {invalid_close} registros sin precio de cierre")
-        if invalid_volume > 0:
-            print(f"- {invalid_volume} registros sin volumen")
-        if invalid_high > 0:
-            print(f"- {invalid_high} registros sin precio máximo")
-        if invalid_low > 0:
-            print(f"- {invalid_low} registros sin precio mínimo")
-
-    # Información sobre volumen cero (normal en algunos casos)
-    zero_volume = (df["Volume"] == 0).sum()
-    if zero_volume > 0:
-        print(f"\nInformación: {zero_volume} registros con volumen cero")
-
     return df
 
 
 def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, dict]:
     """Calcula máximos y mínimos históricos para cada tipo de precio."""
-
-    def format_date(date) -> str:
-        """Formatea una fecha a string en formato YYYY-MM-DD."""
-        if pd.isna(date):
-            return "N/A"
-        if isinstance(date, str):
-            try:
-                return pd.to_datetime(date).strftime("%Y-%m-%d")
-            except:
-                return date
-        if isinstance(date, pd.Timestamp):
-            return date.strftime("%Y-%m-%d")
-        try:
-            return pd.to_datetime(date).strftime("%Y-%m-%d")
-        except:
-            return str(date)
-
     # Calcular extremos para cada tipo de precio
     extremos = {
-        "max_open": (
-            round(df["Open"].max(), 2),
-            format_date(df.loc[df["Open"].idxmax(), "Date"]),
-        ),
-        "min_open": (
-            round(df["Open"].min(), 2),
-            format_date(df.loc[df["Open"].idxmin(), "Date"]),
-        ),
         "max_close": (
             round(df["Close"].max(), 2),
             format_date(df.loc[df["Close"].idxmax(), "Date"]),
@@ -218,14 +141,6 @@ def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, d
         "max_high": (
             round(df["High"].max(), 2),
             format_date(df.loc[df["High"].idxmax(), "Date"]),
-        ),
-        "min_high": (
-            round(df["High"].min(), 2),
-            format_date(df.loc[df["High"].idxmin(), "Date"]),
-        ),
-        "max_low": (
-            round(df["Low"].max(), 2),
-            format_date(df.loc[df["Low"].idxmax(), "Date"]),
         ),
         "min_low": (
             round(df["Low"].min(), 2),
@@ -252,6 +167,7 @@ def get_historical_extremes(df: pd.DataFrame) -> tuple[float, str, float, str, d
 
 
 def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
+    """Calcula probabilidades y métricas para un ticker."""
     # Verificar que el archivo existe
     if not Path(csv_file).exists():
         raise FileNotFoundError(f"No se encontró el archivo: {csv_file}")
@@ -262,7 +178,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             csv_file,
             dtype={"Date": str, "Open": float, "Close": float, "Volume": float},
         )
-
     except Exception as e:
         raise ValueError(f"Error al leer el archivo {csv_file}: {str(e)}")
 
@@ -347,9 +262,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
 def format_report_section(ticker: str, resultado: dict) -> str:
     """Formatea una sección del reporte para un ticker específico."""
-    sections = []
-
-    # Sección de encabezado
     header = f"""## {ticker}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
 - Resistencia 3: ${resultado["valor_resistencia_3"]} (distancia: {resultado["dist_resistencia_3"]}%)
@@ -365,9 +277,7 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
 """
-    sections.append(header)
-
-    return "\n".join(sections)
+    return header
 
 
 def write_report_header(
@@ -418,28 +328,18 @@ def generate_all_report(
 
 
 def get_pairs_to_exclude(pairs_file: str) -> set[str]:
-    """Lee el archivo de pares y determina qué ticker excluir de cada par basado en el precio.
-
-    Args:
-        pairs_file: Ruta al archivo CSV con los pares de acciones
-
-    Returns:
-        Set con los tickers a excluir
-    """
+    """Lee el archivo de pares y determina qué ticker excluir de cada par basado en el precio."""
     if not Path(pairs_file).exists():
         print(f"Archivo de pares no encontrado: {pairs_file}")
         return set()
 
     try:
-        # Leer el archivo de pares
         pairs_df = pd.read_csv(pairs_file)
         to_exclude = set()
 
-        # Para cada par, determinar cuál tiene el precio más alto
         for _, row in pairs_df.iterrows():
             ticker1, ticker2 = row["ordinaria"], row["preferencial"]
 
-            # Obtener precios actuales
             try:
                 price1 = calculate_stock_probability(
                     f"tickers_history/{ticker1}_values.csv"
@@ -448,7 +348,6 @@ def get_pairs_to_exclude(pairs_file: str) -> set[str]:
                     f"tickers_history/{ticker2}_values.csv"
                 )["ultimo_precio"]
 
-                # Excluir el de mayor precio
                 if float(price1) > float(price2):
                     to_exclude.add(ticker1)
                 else:
@@ -579,19 +478,13 @@ if __name__ == "__main__":
     input_dir = "tickers_history"
 
     generate_all_report(input_dir)
-    print("Reporte general generado")
 
-    # Lista de tickers a excluir manualmente
-    tickers_excluidos: list[str] = []
-
-    # Reporte de acciones cerca de mínimos históricos
     filter_report(
         output_file="input/buy_tickers.md",
         filter_by=["min", "support"],
         max_distances={"min": 80.0, "support": 2.0},
     )
 
-    # Reporte de acciones cerca de máximos históricos
     filter_report(
         output_file="input/sell_tickers.md",
         filter_by=["max", "resistance"],
