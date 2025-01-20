@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 17:49:08
+Generado el: 2025-01-20 17:58:42
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
@@ -13,7 +13,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $13700.0 (distancia: 25.69%)
 - Resistencia 2: $13700.0 (distancia: 25.69%)
 - Resistencia 1: $12440.0 (distancia: 14.13%)
-- >> PRECIO ACTUAL: $10900.0
+- > PRECIO ACTUAL: $10900.0
 - Soporte 1: $10900.0 (distancia: 0.0%)
 - Soporte 2: $9200.0 (distancia: 15.6%)
 - Soporte 3: $8900.0 (distancia: 18.35%)
@@ -29,7 +29,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $15637.92 (distancia: 11.06%)
 - Resistencia 2: $15637.92 (distancia: 11.06%)
 - Resistencia 1: $15538.95 (distancia: 10.36%)
-- >> PRECIO ACTUAL: $14080.0
+- > PRECIO ACTUAL: $14080.0
 - Soporte 1: $13955.36 (distancia: 0.89%)
 - Soporte 2: $12886.44 (distancia: 8.48%)
 - Soporte 3: $10739.46 (distancia: 23.73%)
@@ -45,7 +45,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $11340.0 (distancia: 11.18%)
 - Resistencia 2: $11340.0 (distancia: 11.18%)
 - Resistencia 1: $11340.0 (distancia: 11.18%)
-- >> PRECIO ACTUAL: $10200.0
+- > PRECIO ACTUAL: $10200.0
 - Soporte 1: $9770.47 (distancia: 4.21%)
 - Soporte 2: $8076.4 (distancia: 20.82%)
 - Soporte 3: $7011.71 (distancia: 31.26%)
@@ -61,7 +61,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $7882.45 (distancia: 9.48%)
 - Resistencia 2: $7800.0 (distancia: 8.33%)
 - Resistencia 1: $7650.0 (distancia: 6.25%)
-- >> PRECIO ACTUAL: $7200.0
+- > PRECIO ACTUAL: $7200.0
 - Soporte 1: $7150.0 (distancia: 0.69%)
 - Soporte 2: $7150.0 (distancia: 0.69%)
 - Soporte 3: $6936.56 (distancia: 3.66%)
@@ -77,7 +77,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $479.0 (distancia: 5.27%)
 - Resistencia 2: $479.0 (distancia: 5.27%)
 - Resistencia 1: $479.0 (distancia: 5.27%)
-- >> PRECIO ACTUAL: $455.0
+- > PRECIO ACTUAL: $455.0
 - Soporte 1: $439.0 (distancia: 3.52%)
 - Soporte 2: $425.19 (distancia: 6.55%)
 - Soporte 3: $390.64 (distancia: 14.14%)
@@ -93,7 +93,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $2482.49 (distancia: 26.34%)
 - Resistencia 2: $2353.66 (distancia: 19.78%)
 - Resistencia 1: $2110.0 (distancia: 7.38%)
-- >> PRECIO ACTUAL: $1965.0
+- > PRECIO ACTUAL: $1965.0
 - Soporte 1: $1845.0 (distancia: 6.11%)
 - Soporte 2: $1845.0 (distancia: 6.11%)
 - Soporte 3: $1845.0 (distancia: 6.11%)
@@ -109,7 +109,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Resistencia 3: $35981.66 (distancia: 3.81%)
 - Resistencia 2: $35981.66 (distancia: 3.81%)
 - Resistencia 1: $35680.0 (distancia: 2.94%)
-- >> PRECIO ACTUAL: $34660.0
+- > PRECIO ACTUAL: $34660.0
 - Soporte 1: $34050.93 (distancia: 1.76%)
 - Soporte 2: $33641.39 (distancia: 2.94%)
 - Soporte 3: $31370.32 (distancia: 9.49%)

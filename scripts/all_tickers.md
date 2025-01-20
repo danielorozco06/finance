@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-20 17:49:07
+Generado el: 2025-01-20 17:58:41
 Período analizado: 2022-01-03 a 2025-01-17
 
 ## BBVACOL_CL
@@ -8,7 +8,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $219.0 (distancia: 21.67%)
 - Resistencia 2: $187.0 (distancia: 3.89%)
 - Resistencia 1: $180.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $180.0
+- > PRECIO ACTUAL: $180.0
 - Soporte 1: $178.0 (distancia: 1.11%)
 - Soporte 2: $174.0 (distancia: 3.33%)
 - Soporte 3: $173.0 (distancia: 3.89%)
@@ -24,7 +24,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $39372.26 (distancia: 6.41%)
 - Resistencia 2: $39372.26 (distancia: 6.41%)
 - Resistencia 1: $38780.0 (distancia: 4.81%)
-- >> PRECIO ACTUAL: $37000.0
+- > PRECIO ACTUAL: $37000.0
 - Soporte 1: $36832.11 (distancia: 0.45%)
 - Soporte 2: $36167.77 (distancia: 2.25%)
 - Soporte 3: $33699.92 (distancia: 8.92%)
@@ -40,7 +40,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $314.0 (distancia: 3.97%)
 - Resistencia 2: $314.0 (distancia: 3.97%)
 - Resistencia 1: $305.0 (distancia: 0.99%)
-- >> PRECIO ACTUAL: $302.0
+- > PRECIO ACTUAL: $302.0
 - Soporte 1: $296.0 (distancia: 1.99%)
 - Soporte 2: $294.0 (distancia: 2.65%)
 - Soporte 3: $275.0 (distancia: 8.94%)
@@ -56,7 +56,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $28486.04 (distancia: 4.04%)
 - Resistencia 2: $27548.51 (distancia: 0.62%)
 - Resistencia 1: $27500.0 (distancia: 0.44%)
-- >> PRECIO ACTUAL: $27380.0
+- > PRECIO ACTUAL: $27380.0
 - Soporte 1: $25961.72 (distancia: 5.18%)
 - Soporte 2: $25921.9 (distancia: 5.33%)
 - Soporte 3: $24704.37 (distancia: 9.77%)
@@ -72,7 +72,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $3927.13 (distancia: 6.86%)
 - Resistencia 2: $3741.05 (distancia: 1.8%)
 - Resistencia 1: $3741.05 (distancia: 1.8%)
-- >> PRECIO ACTUAL: $3675.0
+- > PRECIO ACTUAL: $3675.0
 - Soporte 1: $3412.98 (distancia: 7.13%)
 - Soporte 2: $3393.39 (distancia: 7.66%)
 - Soporte 3: $3393.39 (distancia: 7.66%)
@@ -88,7 +88,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $11340.0 (distancia: 11.18%)
 - Resistencia 2: $11340.0 (distancia: 11.18%)
 - Resistencia 1: $11340.0 (distancia: 11.18%)
-- >> PRECIO ACTUAL: $10200.0
+- > PRECIO ACTUAL: $10200.0
 - Soporte 1: $9770.47 (distancia: 4.21%)
 - Soporte 2: $8076.4 (distancia: 20.82%)
 - Soporte 3: $7011.71 (distancia: 31.26%)
@@ -104,7 +104,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $13700.0 (distancia: 25.69%)
 - Resistencia 2: $13700.0 (distancia: 25.69%)
 - Resistencia 1: $12440.0 (distancia: 14.13%)
-- >> PRECIO ACTUAL: $10900.0
+- > PRECIO ACTUAL: $10900.0
 - Soporte 1: $10900.0 (distancia: 0.0%)
 - Soporte 2: $9200.0 (distancia: 15.6%)
 - Soporte 3: $8900.0 (distancia: 18.35%)
@@ -120,7 +120,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $694.0 (distancia: 9.81%)
 - Resistencia 2: $694.0 (distancia: 9.81%)
 - Resistencia 1: $694.0 (distancia: 9.81%)
-- >> PRECIO ACTUAL: $632.0
+- > PRECIO ACTUAL: $632.0
 - Soporte 1: $409.0 (distancia: 35.28%)
 - Soporte 2: $295.0 (distancia: 53.32%)
 - Soporte 3: $265.0 (distancia: 58.07%)
@@ -136,7 +136,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $15800.0 (distancia: 0.77%)
 - Resistencia 2: $15800.0 (distancia: 0.77%)
 - Resistencia 1: $15800.0 (distancia: 0.77%)
-- >> PRECIO ACTUAL: $15680.0
+- > PRECIO ACTUAL: $15680.0
 - Soporte 1: $14500.0 (distancia: 7.53%)
 - Soporte 2: $14500.0 (distancia: 7.53%)
 - Soporte 3: $11800.0 (distancia: 24.74%)
@@ -152,7 +152,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $2095.0 (distancia: 15.11%)
 - Resistencia 2: $1890.0 (distancia: 3.85%)
 - Resistencia 1: $1890.0 (distancia: 3.85%)
-- >> PRECIO ACTUAL: $1820.0
+- > PRECIO ACTUAL: $1820.0
 - Soporte 1: $1640.0 (distancia: 9.89%)
 - Soporte 2: $1590.0 (distancia: 12.64%)
 - Soporte 3: $1590.0 (distancia: 12.64%)
@@ -168,7 +168,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $15.7 (distancia: 10.56%)
 - Resistencia 2: $15.7 (distancia: 10.56%)
 - Resistencia 1: $14.2 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $14.2
+- > PRECIO ACTUAL: $14.2
 - Soporte 1: $12.9 (distancia: 9.15%)
 - Soporte 2: $12.9 (distancia: 9.15%)
 - Soporte 3: $12.9 (distancia: 9.15%)
@@ -184,7 +184,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $2482.49 (distancia: 26.34%)
 - Resistencia 2: $2353.66 (distancia: 19.78%)
 - Resistencia 1: $2110.0 (distancia: 7.38%)
-- >> PRECIO ACTUAL: $1965.0
+- > PRECIO ACTUAL: $1965.0
 - Soporte 1: $1845.0 (distancia: 6.11%)
 - Soporte 2: $1845.0 (distancia: 6.11%)
 - Soporte 3: $1845.0 (distancia: 6.11%)
@@ -200,7 +200,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $2545.0 (distancia: 0.0%)
 - Resistencia 2: $2545.0 (distancia: 0.0%)
 - Resistencia 1: $2545.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $2545.0
+- > PRECIO ACTUAL: $2545.0
 - Soporte 1: $2410.0 (distancia: 5.3%)
 - Soporte 2: $2336.5 (distancia: 8.19%)
 - Soporte 3: $2303.19 (distancia: 9.5%)
@@ -216,7 +216,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $65701.34 (distancia: 5.97%)
 - Resistencia 2: $65000.0 (distancia: 4.84%)
 - Resistencia 1: $65000.0 (distancia: 4.84%)
-- >> PRECIO ACTUAL: $62000.0
+- > PRECIO ACTUAL: $62000.0
 - Soporte 1: $55421.56 (distancia: 10.61%)
 - Soporte 2: $54843.42 (distancia: 11.54%)
 - Soporte 3: $54843.42 (distancia: 11.54%)
@@ -232,7 +232,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $20836.96 (distancia: 6.97%)
 - Resistencia 2: $20836.96 (distancia: 6.97%)
 - Resistencia 1: $20717.89 (distancia: 6.35%)
-- >> PRECIO ACTUAL: $19480.0
+- > PRECIO ACTUAL: $19480.0
 - Soporte 1: $18820.0 (distancia: 3.39%)
 - Soporte 2: $18118.23 (distancia: 6.99%)
 - Soporte 3: $16522.97 (distancia: 15.18%)
@@ -248,7 +248,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $479.0 (distancia: 5.27%)
 - Resistencia 2: $479.0 (distancia: 5.27%)
 - Resistencia 1: $479.0 (distancia: 5.27%)
-- >> PRECIO ACTUAL: $455.0
+- > PRECIO ACTUAL: $455.0
 - Soporte 1: $439.0 (distancia: 3.52%)
 - Soporte 2: $425.19 (distancia: 6.55%)
 - Soporte 3: $390.64 (distancia: 14.14%)
@@ -264,7 +264,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $38733.11 (distancia: 7.59%)
 - Resistencia 2: $38733.11 (distancia: 7.59%)
 - Resistencia 1: $37500.0 (distancia: 4.17%)
-- >> PRECIO ACTUAL: $36000.0
+- > PRECIO ACTUAL: $36000.0
 - Soporte 1: $34500.0 (distancia: 4.17%)
 - Soporte 2: $32472.41 (distancia: 9.8%)
 - Soporte 3: $24466.52 (distancia: 32.04%)
@@ -280,7 +280,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $15939.5 (distancia: 4.87%)
 - Resistencia 2: $15939.5 (distancia: 4.87%)
 - Resistencia 1: $15367.5 (distancia: 1.1%)
-- >> PRECIO ACTUAL: $15200.0
+- > PRECIO ACTUAL: $15200.0
 - Soporte 1: $14796.0 (distancia: 2.66%)
 - Soporte 2: $14240.0 (distancia: 6.32%)
 - Soporte 3: $13767.0 (distancia: 9.43%)
@@ -296,7 +296,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $18017.2 (distancia: 6.48%)
 - Resistencia 2: $17586.82 (distancia: 3.94%)
 - Resistencia 1: $17400.0 (distancia: 2.84%)
-- >> PRECIO ACTUAL: $16920.0
+- > PRECIO ACTUAL: $16920.0
 - Soporte 1: $16000.0 (distancia: 5.44%)
 - Soporte 2: $16000.0 (distancia: 5.44%)
 - Soporte 3: $16000.0 (distancia: 5.44%)
@@ -312,7 +312,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $4650.0 (distancia: 0.65%)
 - Resistencia 2: $4650.0 (distancia: 0.65%)
 - Resistencia 1: $4650.0 (distancia: 0.65%)
-- >> PRECIO ACTUAL: $4620.0
+- > PRECIO ACTUAL: $4620.0
 - Soporte 1: $4164.99 (distancia: 9.85%)
 - Soporte 2: $3654.99 (distancia: 20.89%)
 - Soporte 3: $3204.98 (distancia: 30.63%)
@@ -328,7 +328,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $92000.0 (distancia: 0.0%)
 - Resistencia 2: $92000.0 (distancia: 0.0%)
 - Resistencia 1: $92000.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $92000.0
+- > PRECIO ACTUAL: $92000.0
 - Soporte 1: $78000.0 (distancia: 15.22%)
 - Soporte 2: $71600.0 (distancia: 22.17%)
 - Soporte 3: $54391.82 (distancia: 40.88%)
@@ -344,7 +344,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $75800.0 (distancia: 8.6%)
 - Resistencia 2: $70100.0 (distancia: 0.43%)
 - Resistencia 1: $70100.0 (distancia: 0.43%)
-- >> PRECIO ACTUAL: $69800.0
+- > PRECIO ACTUAL: $69800.0
 - Soporte 1: $68240.0 (distancia: 2.23%)
 - Soporte 2: $66800.0 (distancia: 4.3%)
 - Soporte 3: $63000.0 (distancia: 9.74%)
@@ -360,7 +360,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $484.0 (distancia: 1.04%)
 - Resistencia 2: $484.0 (distancia: 1.04%)
 - Resistencia 1: $484.0 (distancia: 1.04%)
-- >> PRECIO ACTUAL: $479.0
+- > PRECIO ACTUAL: $479.0
 - Soporte 1: $431.05 (distancia: 10.01%)
 - Soporte 2: $418.31 (distancia: 12.67%)
 - Soporte 3: $404.5 (distancia: 15.55%)
@@ -376,7 +376,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $35981.66 (distancia: 3.81%)
 - Resistencia 2: $35981.66 (distancia: 3.81%)
 - Resistencia 1: $35680.0 (distancia: 2.94%)
-- >> PRECIO ACTUAL: $34660.0
+- > PRECIO ACTUAL: $34660.0
 - Soporte 1: $34050.93 (distancia: 1.76%)
 - Soporte 2: $33641.39 (distancia: 2.94%)
 - Soporte 3: $31370.32 (distancia: 9.49%)
@@ -392,7 +392,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $nan (distancia: nan%)
 - Resistencia 2: $12600.0 (distancia: 16.88%)
 - Resistencia 1: $12600.0 (distancia: 16.88%)
-- >> PRECIO ACTUAL: $10780.0
+- > PRECIO ACTUAL: $10780.0
 - Soporte 1: $9381.73 (distancia: 12.97%)
 - Soporte 2: $7014.1 (distancia: 34.93%)
 - Soporte 3: $nan (distancia: nan%)
@@ -408,7 +408,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $14800.0 (distancia: 0.14%)
 - Resistencia 2: $14800.0 (distancia: 0.14%)
 - Resistencia 1: $14800.0 (distancia: 0.14%)
-- >> PRECIO ACTUAL: $14780.0
+- > PRECIO ACTUAL: $14780.0
 - Soporte 1: $13400.0 (distancia: 9.34%)
 - Soporte 2: $13400.0 (distancia: 9.34%)
 - Soporte 3: $11120.0 (distancia: 24.76%)
@@ -424,7 +424,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $20000.0 (distancia: 6.16%)
 - Resistencia 2: $19980.0 (distancia: 6.05%)
 - Resistencia 1: $19980.0 (distancia: 6.05%)
-- >> PRECIO ACTUAL: $18840.0
+- > PRECIO ACTUAL: $18840.0
 - Soporte 1: $17500.0 (distancia: 7.11%)
 - Soporte 2: $17500.0 (distancia: 7.11%)
 - Soporte 3: $17400.0 (distancia: 7.64%)
@@ -440,7 +440,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $15637.92 (distancia: 11.06%)
 - Resistencia 2: $15637.92 (distancia: 11.06%)
 - Resistencia 1: $15538.95 (distancia: 10.36%)
-- >> PRECIO ACTUAL: $14080.0
+- > PRECIO ACTUAL: $14080.0
 - Soporte 1: $13955.36 (distancia: 0.89%)
 - Soporte 2: $12886.44 (distancia: 8.48%)
 - Soporte 3: $10739.46 (distancia: 23.73%)
@@ -456,7 +456,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $26400.0 (distancia: 2.17%)
 - Resistencia 2: $26400.0 (distancia: 2.17%)
 - Resistencia 1: $26400.0 (distancia: 2.17%)
-- >> PRECIO ACTUAL: $25840.0
+- > PRECIO ACTUAL: $25840.0
 - Soporte 1: $25195.66 (distancia: 2.49%)
 - Soporte 2: $22196.65 (distancia: 14.1%)
 - Soporte 3: $19110.8 (distancia: 26.04%)
@@ -472,7 +472,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $7882.45 (distancia: 9.48%)
 - Resistencia 2: $7800.0 (distancia: 8.33%)
 - Resistencia 1: $7650.0 (distancia: 6.25%)
-- >> PRECIO ACTUAL: $7200.0
+- > PRECIO ACTUAL: $7200.0
 - Soporte 1: $7150.0 (distancia: 0.69%)
 - Soporte 2: $7150.0 (distancia: 0.69%)
 - Soporte 3: $6936.56 (distancia: 3.66%)
@@ -488,7 +488,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Resistencia 3: $12200.0 (distancia: 0.66%)
 - Resistencia 2: $12200.0 (distancia: 0.66%)
 - Resistencia 1: $12200.0 (distancia: 0.66%)
-- >> PRECIO ACTUAL: $12120.0
+- > PRECIO ACTUAL: $12120.0
 - Soporte 1: $11040.0 (distancia: 8.91%)
 - Soporte 2: $10200.0 (distancia: 15.84%)
 - Soporte 3: $9110.0 (distancia: 24.83%)
