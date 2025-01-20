@@ -1,42 +1,27 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 12:26:38
+Generado el: 2025-01-20 12:28:04
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
 - Distancia máxima a: máximo histórico (100.0%) y resistencia (1.5%)
-Total de tickers encontrados: 13
+Total de tickers encontrados: 11
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 
 ## GEB_CL
-- Máximo histórico [CLOSE]: $2535.0 (2025-01-20) [0.0% del precio actual]
-- Resistencia 3: $2535.0 (distancia: 0.0%)
-- Resistencia 2: $2535.0 (distancia: 0.0%)
-- Resistencia 1: $2535.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $2535.0
-- Soporte 1: $2410.0 (distancia: 4.93%)
-- Soporte 2: $2336.5 (distancia: 7.83%)
-- Soporte 3: $2303.19 (distancia: 9.14%)
-- Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [62.92% del precio actual]
+- Máximo histórico [CLOSE]: $2530.0 (2025-01-20) [0.0% del precio actual]
+- Resistencia 3: $2535.0 (distancia: 0.2%)
+- Resistencia 2: $2535.0 (distancia: 0.2%)
+- Resistencia 1: $2535.0 (distancia: 0.2%)
+- >> PRECIO ACTUAL: $2530.0
+- Soporte 1: $2410.0 (distancia: 4.74%)
+- Soporte 2: $2336.5 (distancia: 7.65%)
+- Soporte 3: $2303.19 (distancia: 8.96%)
+- Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [62.85% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.27 del promedio)
+- Volumen: Alto (x2.26 del promedio)
 - Precio: Cerca de Soporte
-
-## MINEROS_CL
-- Máximo histórico [CLOSE]: $4650.0 (2025-01-20) [0.0% del precio actual]
-- Resistencia 3: $4650.0 (distancia: 0.0%)
-- Resistencia 2: $4650.0 (distancia: 0.0%)
-- Resistencia 1: $4650.0 (distancia: 0.0%)
-- >> PRECIO ACTUAL: $4650.0
-- Soporte 1: $4164.99 (distancia: 10.43%)
-- Soporte 2: $3654.99 (distancia: 21.4%)
-- Soporte 3: $3204.98 (distancia: 31.08%)
-- Mínimo histórico [CLOSE]: $1639.9 (2022-11-03) [64.73% del precio actual]
-
-- RSI: Sobrecomprada
-- Volumen: Bajo (x0.26 del promedio)
-- Precio: Cerca de Resistencia
 
 ## NUTRESA_CL
 - Máximo histórico [CLOSE]: $92000.0 (2025-01-17) [0.0% del precio actual]
@@ -50,7 +35,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $23384.7 (2022-01-14) [74.58% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.05 del promedio)
+- Volumen: Bajo (x0.07 del promedio)
 - Precio: Cerca de Resistencia
 
 ## TERPEL_CL
@@ -65,37 +50,37 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $5743.98 (2023-09-15) [52.92% del precio actual]
 
 - RSI: Sobrecomprada
-- Volumen: Bajo (x0.14 del promedio)
+- Volumen: Bajo (x0.18 del promedio)
 - Precio: Cerca de Resistencia
 
 ## HCOLSEL_CL
-- Máximo histórico [CLOSE]: $15360.0 (2025-01-13) [0.72% del precio actual]
-- Resistencia 3: $15939.5 (distancia: 4.52%)
-- Resistencia 2: $15939.5 (distancia: 4.52%)
-- Resistencia 1: $15367.5 (distancia: 0.77%)
-- >> PRECIO ACTUAL: $15250.0
-- Soporte 1: $14796.0 (distancia: 2.98%)
-- Soporte 2: $14240.0 (distancia: 6.62%)
-- Soporte 3: $13767.0 (distancia: 9.72%)
-- Mínimo histórico [CLOSE]: $10215.37 (2023-09-06) [33.01% del precio actual]
+- Máximo histórico [CLOSE]: $15360.0 (2025-01-13) [1.04% del precio actual]
+- Resistencia 3: $15939.5 (distancia: 4.87%)
+- Resistencia 2: $15939.5 (distancia: 4.87%)
+- Resistencia 1: $15367.5 (distancia: 1.1%)
+- >> PRECIO ACTUAL: $15200.0
+- Soporte 1: $14796.0 (distancia: 2.66%)
+- Soporte 2: $14240.0 (distancia: 6.32%)
+- Soporte 3: $13767.0 (distancia: 9.43%)
+- Mínimo histórico [CLOSE]: $10215.37 (2023-09-06) [32.79% del precio actual]
 
 - RSI: Sobrecomprada
 - Volumen: Alto (x20.0 del promedio)
 - Precio: Cerca de Soporte
 
 ## PEI_CL
-- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.43% del precio actual]
-- Resistencia 3: $75800.0 (distancia: 9.47%)
-- Resistencia 2: $70100.0 (distancia: 1.24%)
-- Resistencia 1: $70100.0 (distancia: 1.24%)
-- >> PRECIO ACTUAL: $69240.0
-- Soporte 1: $68240.0 (distancia: 1.44%)
-- Soporte 2: $66800.0 (distancia: 3.52%)
-- Soporte 3: $63000.0 (distancia: 9.01%)
-- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.24% del precio actual]
+- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.32% del precio actual]
+- Resistencia 3: $75800.0 (distancia: 9.35%)
+- Resistencia 2: $70100.0 (distancia: 1.13%)
+- Resistencia 1: $70100.0 (distancia: 1.13%)
+- >> PRECIO ACTUAL: $69320.0
+- Soporte 1: $68240.0 (distancia: 1.56%)
+- Soporte 2: $66800.0 (distancia: 3.64%)
+- Soporte 3: $63000.0 (distancia: 9.12%)
+- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.35% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.05 del promedio)
+- Volumen: Bajo (x0.11 del promedio)
 - Precio: Cerca de Soporte
 
 ## BHI_CL
@@ -110,23 +95,8 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.41% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x0.88 del promedio)
+- Volumen: Normal (x0.89 del promedio)
 - Precio: Cerca de Soporte
-
-## ISA_CL
-- Máximo histórico [CLOSE]: $21348.97 (2022-01-20) [19.62% del precio actual]
-- Resistencia 3: $18017.2 (distancia: 5.0%)
-- Resistencia 2: $17586.82 (distancia: 2.49%)
-- Resistencia 1: $17400.0 (distancia: 1.4%)
-- >> PRECIO ACTUAL: $17160.0
-- Soporte 1: $16000.0 (distancia: 6.76%)
-- Soporte 2: $16000.0 (distancia: 6.76%)
-- Soporte 3: $16000.0 (distancia: 6.76%)
-- Mínimo histórico [CLOSE]: $12591.25 (2023-09-06) [26.62% del precio actual]
-
-- RSI: Normal
-- Volumen: Bajo (x0.03 del promedio)
-- Precio: Cerca de Resistencia
 
 ## PFCORFICOL_CL
 - Máximo histórico [CLOSE]: $19820.61 (2022-01-20) [25.33% del precio actual]
@@ -140,7 +110,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [42.75% del precio actual]
 
 - RSI: Sobrecomprada
-- Volumen: Bajo (x0.07 del promedio)
+- Volumen: Bajo (x0.39 del promedio)
 - Precio: Cerca de Resistencia
 
 ## BBVACOL_CL
@@ -174,7 +144,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Resistencia
 
 ## BOGOTA_CL
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [52.31% del precio actual]
+- Máximo histórico [CLOSE]: $57240.94 (2022-02-01) [52.31% del precio actual]
 - Resistencia 3: $28486.04 (distancia: 4.34%)
 - Resistencia 2: $27548.51 (distancia: 0.91%)
 - Resistencia 1: $27500.0 (distancia: 0.73%)
@@ -185,7 +155,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [22.16% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x1.16 del promedio)
+- Volumen: Normal (x1.44 del promedio)
 - Precio: Cerca de Soporte
 
 ## ENKA_CL
