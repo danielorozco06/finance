@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-20 15:58:18
+Generado el: 2025-01-20 16:20:17
 Período analizado: 2022-01-03 a 2025-01-17
 
 ## BBVACOL_CL

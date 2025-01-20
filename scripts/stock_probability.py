@@ -269,29 +269,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     # Validar y limpiar datos
     df = validate_csv_structure(df, csv_file)
 
-    # Analizar continuidad de datos
-    date_range = pd.date_range(start=df["Date"].min(), end=df["Date"].max(), freq="B")
-    missing_dates = set(date_range) - set(df["Date"])
-
     # Calcular indicadores técnicos
     df = calculate_technical_indicators(df)
 
     # Obtener último precio
     last_price = df["Close"].iloc[-1]
-
-    # Calcular máximos y mínimos para diferentes períodos
-    # 1 semana = 5 días hábiles
-    last_week = df.tail(5)
-    # 1 mes = ~20 días hábiles
-    last_month = df.tail(20)
-    # 3 meses = ~60 días hábiles
-    last_3months = df.tail(60)
-    # 6 meses = ~120 días hábiles
-    last_6months = df.tail(120)
-    # 12 meses = ~240 días hábiles en un año
-    last_12months = df.tail(240)
-    # 24 meses = ~480 días hábiles en dos años
-    last_24months = df.tail(480)
 
     # Calcular máximos y mínimos históricos
     (
@@ -303,10 +285,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     ) = get_historical_extremes(df)
 
     # Calcular distancias a extremos históricos
-    dist_max_historico = abs(((maximo_historico - last_price) / last_price) * 100)
-    dist_min_historico = abs(((last_price - minimo_historico) / last_price) * 100)
-
-    # Calcular distancias a extremos históricos específicos
     dist_max_close = (
         abs(
             (last_price - extremos_historicos["max_close"][0])
@@ -323,9 +301,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "registros_analizados": len(df),
         "fecha_inicial": format_date(df["Date"].min()),
         "fecha_final": format_date(df["Date"].max()),
-        # Análisis de precio
-        "precio_maximo_20d": round(df["Close"].rolling(window=20).max().iloc[-1], 2),
-        "precio_minimo_20d": round(df["Close"].rolling(window=20).min().iloc[-1], 2),
         # Señales técnicas
         "dist_soporte_1": round(df["Dist_to_Support_1"].iloc[-1], 2),
         "dist_resistencia_1": round(df["Dist_to_Resistance_1"].iloc[-1], 2),
@@ -354,55 +329,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
             if df["Dist_to_Resistance_1"].iloc[-1] < 5
             else "En Rango Medio"
         ),
-        # Indicadores adicionales
-        "maximo_1semana": round(last_week["High"].max(), 2),
-        "minimo_1semana": round(last_week["Low"].min(), 2),
-        "fecha_maximo_1semana": format_date(
-            last_week.loc[last_week["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_1semana": format_date(
-            last_week.loc[last_week["Low"].idxmin(), "Date"]
-        ),
-        "maximo_1mes": round(last_month["High"].max(), 2),
-        "minimo_1mes": round(last_month["Low"].min(), 2),
-        "fecha_maximo_1mes": format_date(
-            last_month.loc[last_month["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_1mes": format_date(
-            last_month.loc[last_month["Low"].idxmin(), "Date"]
-        ),
-        "maximo_3meses": round(last_3months["High"].max(), 2),
-        "minimo_3meses": round(last_3months["Low"].min(), 2),
-        "fecha_maximo_3meses": format_date(
-            last_3months.loc[last_3months["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_3meses": format_date(
-            last_3months.loc[last_3months["Low"].idxmin(), "Date"]
-        ),
-        "maximo_6meses": round(last_6months["High"].max(), 2),
-        "minimo_6meses": round(last_6months["Low"].min(), 2),
-        "fecha_maximo_6meses": format_date(
-            last_6months.loc[last_6months["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_6meses": format_date(
-            last_6months.loc[last_6months["Low"].idxmin(), "Date"]
-        ),
-        "maximo_12meses": round(last_12months["High"].max(), 2),
-        "minimo_12meses": round(last_12months["Low"].min(), 2),
-        "fecha_maximo_12meses": format_date(
-            last_12months.loc[last_12months["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_12meses": format_date(
-            last_12months.loc[last_12months["Low"].idxmin(), "Date"]
-        ),
-        "maximo_24meses": round(last_24months["High"].max(), 2),
-        "minimo_24meses": round(last_24months["Low"].min(), 2),
-        "fecha_maximo_24meses": format_date(
-            last_24months.loc[last_24months["High"].idxmax(), "Date"]
-        ),
-        "fecha_minimo_24meses": format_date(
-            last_24months.loc[last_24months["Low"].idxmin(), "Date"]
-        ),
         # Agregar máximos y mínimos reales del día
         "maximo_dia": round(df["High"].iloc[-1], 2),
         "minimo_dia": round(df["Low"].iloc[-1], 2),
@@ -410,9 +336,6 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "fecha_maximo_historico": fecha_maximo_historico,
         "minimo_historico": minimo_historico,
         "fecha_minimo_historico": fecha_minimo_historico,
-        "dias_faltantes": len(missing_dates),
-        "dist_max_historico": round(dist_max_historico, 2),
-        "dist_min_historico": round(dist_min_historico, 2),
         "maximo_historico_close": extremos_historicos["max_close"][0],
         "fecha_maximo_historico_close": extremos_historicos["max_close"][1],
         "minimo_historico_close": extremos_historicos["min_close"][0],
@@ -554,22 +477,6 @@ def filter_report(
         dict[str, float]
     ] = None,  # Distancias específicas para cada criterio
 ) -> None:
-    """Genera un reporte filtrado de tickers basado en su distancia a diferentes niveles.
-
-    Args:
-        input_dir: Directorio donde se encuentran los archivos CSV
-        output_file: Archivo de salida para el reporte
-        max_distance: Distancia máxima permitida por defecto (porcentaje)
-        exclude_tickers: Lista de tickers a excluir del reporte
-        pairs_file: Ruta al archivo CSV con los pares de acciones
-        filter_by: Lista de criterios de filtrado:
-                  'max' para filtrar por distancia al máximo histórico
-                  'min' para filtrar por distancia al mínimo histórico
-                  'support' para filtrar por distancia al soporte
-                  'resistance' para filtrar por distancia a la resistencia
-        max_distances: Diccionario con distancias específicas para cada criterio
-                      Ejemplo: {'max': 10.0, 'min': 5.0, 'support': 3.0, 'resistance': 3.0}
-    """
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
 
@@ -608,8 +515,11 @@ def filter_report(
                     distance = float(resultado["dist_min_close"])
                 elif criterion == "support":
                     distance = float(resultado["dist_soporte_1"])
-                else:  # resistance
+                elif criterion == "resistance":
                     distance = float(resultado["dist_resistencia_1"])
+                else:
+                    print(f"Criterio inválido: {criterion}")
+                    continue
 
                 if distance > distances[criterion]:
                     meets_criteria = False
