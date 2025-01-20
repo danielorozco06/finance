@@ -475,9 +475,7 @@ def filter_report(
 
 
 if __name__ == "__main__":
-    input_dir = "tickers_history"
-
-    generate_all_report(input_dir)
+    generate_all_report()
 
     filter_report(
         output_file="input/buy_tickers.md",
