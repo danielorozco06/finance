@@ -533,9 +533,9 @@ if __name__ == "__main__":
     filter_report(
         output_file="input/buy_tickers.md",
         max_distances={
-            "max_outside": 2.0,
+            "max_outside": 0.0,
             "resistance_outside": 0.0,
-            "support_inside": 5.0,
+            "support_inside": 10.0,
             "r-s": "positivo",
         },
     )
@@ -544,8 +544,8 @@ if __name__ == "__main__":
     filter_report(
         output_file="input/sell_tickers.md",
         max_distances={
-            "max_inside": 10.0,
-            "resistance_inside": 5.0,
+            "max_inside": 100.0,
+            "resistance_inside": 10.0,
             "support_outside": 0.0,
             "r-s": "negativo",
         },

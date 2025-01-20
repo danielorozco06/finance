@@ -1,11 +1,11 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 17:45:27
+Generado el: 2025-01-20 17:49:08
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
-- Distancia máxima a: máximo histórico (2.0%, por encima) y resistencia (0.0%, por encima) y soporte (5.0%, por debajo) y diferencia resistencia-soporte debe ser positiva
-Total de tickers encontrados: 6
+- Distancia máxima a: máximo histórico (0.0%, por encima) y resistencia (0.0%, por encima) y soporte (10.0%, por debajo) y diferencia resistencia-soporte debe ser positiva
+Total de tickers encontrados: 7
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 
 ## CNEC_CL
@@ -87,6 +87,22 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - RSI: Normal
 - Volumen: Alto (x2.56 del promedio)
 - Precio: Cerca de Soporte
+
+## EXITO_CL
+- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [63.43% del precio actual]
+- Resistencia 3: $2482.49 (distancia: 26.34%)
+- Resistencia 2: $2353.66 (distancia: 19.78%)
+- Resistencia 1: $2110.0 (distancia: 7.38%)
+- >> PRECIO ACTUAL: $1965.0
+- Soporte 1: $1845.0 (distancia: 6.11%)
+- Soporte 2: $1845.0 (distancia: 6.11%)
+- Soporte 3: $1845.0 (distancia: 6.11%)
+- Mínimo histórico [CLOSE]: $1900.0 (2025-01-14) [3.31% del precio actual]
+
+- Diferencia R-S: 1.27%
+- RSI: Normal
+- Volumen: Bajo (x0.21 del promedio)
+- Precio: En Rango Medio
 
 ## PFBCOLOM_CL
 - Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [3.41% del precio actual]
