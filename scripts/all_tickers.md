@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-20 17:33:21
+Generado el: 2025-01-20 17:35:18
 Período analizado: 2022-01-03 a 2025-01-17
 
 ## BBVACOL_CL
@@ -19,18 +19,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Soporte
 
 ## BCOLOMBIA_CL
-- Máximo histórico [CLOSE]: $39059.62 (2024-11-20) [4.2% del precio actual]
-- Resistencia 3: $39372.26 (distancia: 5.22%)
-- Resistencia 2: $39372.26 (distancia: 5.22%)
-- Resistencia 1: $38780.0 (distancia: 3.63%)
-- >> PRECIO ACTUAL: $37420.0
-- Soporte 1: $36832.11 (distancia: 1.57%)
-- Soporte 2: $36167.77 (distancia: 3.35%)
-- Soporte 3: $33699.92 (distancia: 9.94%)
-- Mínimo histórico [CLOSE]: $23133.44 (2023-05-31) [38.18% del precio actual]
+- Máximo histórico [CLOSE]: $39059.62 (2024-11-20) [5.27% del precio actual]
+- Resistencia 3: $39372.26 (distancia: 6.41%)
+- Resistencia 2: $39372.26 (distancia: 6.41%)
+- Resistencia 1: $38780.0 (distancia: 4.81%)
+- >> PRECIO ACTUAL: $37000.0
+- Soporte 1: $36832.11 (distancia: 0.45%)
+- Soporte 2: $36167.77 (distancia: 2.25%)
+- Soporte 3: $33699.92 (distancia: 8.92%)
+- Mínimo histórico [CLOSE]: $23133.44 (2023-05-31) [37.48% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x1.19 del promedio)
+- Volumen: Normal (x1.3 del promedio)
 - Precio: Cerca de Soporte
 
 ## BHI_CL
@@ -45,11 +45,11 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.41% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x0.94 del promedio)
+- Volumen: Normal (x0.96 del promedio)
 - Precio: Cerca de Soporte
 
 ## BOGOTA_CL
-- Máximo histórico [CLOSE]: $57240.93 (2022-02-01) [52.17% del precio actual]
+- Máximo histórico [CLOSE]: $57240.92 (2022-02-01) [52.17% del precio actual]
 - Resistencia 3: $28486.04 (distancia: 4.04%)
 - Resistencia 2: $27548.51 (distancia: 0.62%)
 - Resistencia 1: $27500.0 (distancia: 0.44%)
@@ -79,18 +79,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## CEMARGOS_CL
-- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [7.64% del precio actual]
-- Resistencia 3: $11340.0 (distancia: 11.61%)
-- Resistencia 2: $11340.0 (distancia: 11.61%)
-- Resistencia 1: $11340.0 (distancia: 11.61%)
-- >> PRECIO ACTUAL: $10160.0
-- Soporte 1: $9770.47 (distancia: 3.83%)
-- Soporte 2: $8076.4 (distancia: 20.51%)
-- Soporte 3: $7011.71 (distancia: 30.99%)
-- Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [77.61% del precio actual]
+- Máximo histórico [CLOSE]: $11000.0 (2025-01-08) [7.27% del precio actual]
+- Resistencia 3: $11340.0 (distancia: 11.18%)
+- Resistencia 2: $11340.0 (distancia: 11.18%)
+- Resistencia 1: $11340.0 (distancia: 11.18%)
+- >> PRECIO ACTUAL: $10200.0
+- Soporte 1: $9770.47 (distancia: 4.21%)
+- Soporte 2: $8076.4 (distancia: 20.82%)
+- Soporte 3: $7011.71 (distancia: 31.26%)
+- Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [77.7% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.07 del promedio)
+- Volumen: Bajo (x0.15 del promedio)
 - Precio: Cerca de Soporte
 
 ## CNEC_CL
@@ -109,18 +109,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Soporte
 
 ## CONCONCRET_CL
-- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [5.97% del precio actual]
-- Resistencia 3: $694.0 (distancia: 10.16%)
-- Resistencia 2: $694.0 (distancia: 10.16%)
-- Resistencia 1: $694.0 (distancia: 10.16%)
-- >> PRECIO ACTUAL: $630.0
-- Soporte 1: $409.0 (distancia: 35.08%)
-- Soporte 2: $295.0 (distancia: 53.17%)
-- Soporte 3: $265.0 (distancia: 57.94%)
-- Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.02% del precio actual]
+- Máximo histórico [CLOSE]: $670.0 (2025-01-10) [5.67% del precio actual]
+- Resistencia 3: $694.0 (distancia: 9.81%)
+- Resistencia 2: $694.0 (distancia: 9.81%)
+- Resistencia 1: $694.0 (distancia: 9.81%)
+- >> PRECIO ACTUAL: $632.0
+- Soporte 1: $409.0 (distancia: 35.28%)
+- Soporte 2: $295.0 (distancia: 53.32%)
+- Soporte 3: $265.0 (distancia: 58.07%)
+- Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.1% del precio actual]
 
 - RSI: Sobrecomprada
-- Volumen: Bajo (x0.31 del promedio)
+- Volumen: Bajo (x0.33 del promedio)
 - Precio: En Rango Medio
 
 ## CORFICOLCF_CL
@@ -139,18 +139,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## ECOPETROL_CL
-- Máximo histórico [CLOSE]: $2680.59 (2022-05-04) [32.29% del precio actual]
-- Resistencia 3: $2095.0 (distancia: 15.43%)
-- Resistencia 2: $1890.0 (distancia: 4.13%)
-- Resistencia 1: $1890.0 (distancia: 4.13%)
-- >> PRECIO ACTUAL: $1815.0
-- Soporte 1: $1640.0 (distancia: 9.64%)
-- Soporte 2: $1590.0 (distancia: 12.4%)
-- Soporte 3: $1590.0 (distancia: 12.4%)
-- Mínimo histórico [CLOSE]: $1590.0 (2024-11-08) [12.4% del precio actual]
+- Máximo histórico [CLOSE]: $2680.59 (2022-05-04) [32.1% del precio actual]
+- Resistencia 3: $2095.0 (distancia: 15.11%)
+- Resistencia 2: $1890.0 (distancia: 3.85%)
+- Resistencia 1: $1890.0 (distancia: 3.85%)
+- >> PRECIO ACTUAL: $1820.0
+- Soporte 1: $1640.0 (distancia: 9.89%)
+- Soporte 2: $1590.0 (distancia: 12.64%)
+- Soporte 3: $1590.0 (distancia: 12.64%)
+- Mínimo histórico [CLOSE]: $1590.0 (2024-11-08) [12.64% del precio actual]
 
 - RSI: Sobrecomprada
-- Volumen: Bajo (x0.43 del promedio)
+- Volumen: Bajo (x0.49 del promedio)
 - Precio: Cerca de Resistencia
 
 ## ENKA_CL
@@ -169,37 +169,37 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## EXITO_CL
-- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [63.52% del precio actual]
-- Resistencia 3: $2482.49 (distancia: 26.66%)
-- Resistencia 2: $2353.66 (distancia: 20.08%)
-- Resistencia 1: $2110.0 (distancia: 7.65%)
-- >> PRECIO ACTUAL: $1960.0
-- Soporte 1: $1845.0 (distancia: 5.87%)
-- Soporte 2: $1845.0 (distancia: 5.87%)
-- Soporte 3: $1845.0 (distancia: 5.87%)
-- Mínimo histórico [CLOSE]: $1900.0 (2025-01-14) [3.06% del precio actual]
+- Máximo histórico [CLOSE]: $5372.7 (2022-03-25) [63.43% del precio actual]
+- Resistencia 3: $2482.49 (distancia: 26.34%)
+- Resistencia 2: $2353.66 (distancia: 19.78%)
+- Resistencia 1: $2110.0 (distancia: 7.38%)
+- >> PRECIO ACTUAL: $1965.0
+- Soporte 1: $1845.0 (distancia: 6.11%)
+- Soporte 2: $1845.0 (distancia: 6.11%)
+- Soporte 3: $1845.0 (distancia: 6.11%)
+- Mínimo histórico [CLOSE]: $1900.0 (2025-01-14) [3.31% del precio actual]
 
-- RSI: Sobrevendida
-- Volumen: Bajo (x0.17 del promedio)
+- RSI: Normal
+- Volumen: Bajo (x0.21 del promedio)
 - Precio: En Rango Medio
 
 ## GEB_CL
-- Máximo histórico [CLOSE]: $2540.0 (2025-01-20) [0.0% del precio actual]
-- Resistencia 3: $2545.0 (distancia: 0.2%)
-- Resistencia 2: $2545.0 (distancia: 0.2%)
-- Resistencia 1: $2545.0 (distancia: 0.2%)
-- >> PRECIO ACTUAL: $2540.0
-- Soporte 1: $2410.0 (distancia: 5.12%)
-- Soporte 2: $2336.5 (distancia: 8.01%)
-- Soporte 3: $2303.19 (distancia: 9.32%)
-- Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [63.0% del precio actual]
+- Máximo histórico [CLOSE]: $2545.0 (2025-01-20) [0.0% del precio actual]
+- Resistencia 3: $2545.0 (distancia: 0.0%)
+- Resistencia 2: $2545.0 (distancia: 0.0%)
+- Resistencia 1: $2545.0 (distancia: 0.0%)
+- >> PRECIO ACTUAL: $2545.0
+- Soporte 1: $2410.0 (distancia: 5.3%)
+- Soporte 2: $2336.5 (distancia: 8.19%)
+- Soporte 3: $2303.19 (distancia: 9.5%)
+- Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [63.07% del precio actual]
 
 - RSI: Normal
-- Volumen: Alto (x2.66 del promedio)
+- Volumen: Alto (x2.73 del promedio)
 - Precio: Cerca de Resistencia
 
 ## GRUBOLIVAR_CL
-- Máximo histórico [CLOSE]: $90299.87 (2022-03-15) [31.34% del precio actual]
+- Máximo histórico [CLOSE]: $90299.88 (2022-03-15) [31.34% del precio actual]
 - Resistencia 3: $65701.34 (distancia: 5.97%)
 - Resistencia 2: $65000.0 (distancia: 4.84%)
 - Resistencia 1: $65000.0 (distancia: 4.84%)
@@ -214,18 +214,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## GRUPOARGOS_CL
-- Máximo histórico [CLOSE]: $20480.0 (2025-01-03) [5.76% del precio actual]
-- Resistencia 3: $20836.96 (distancia: 7.96%)
-- Resistencia 2: $20836.96 (distancia: 7.96%)
-- Resistencia 1: $20717.89 (distancia: 7.35%)
-- >> PRECIO ACTUAL: $19300.0
-- Soporte 1: $18820.0 (distancia: 2.49%)
-- Soporte 2: $18118.23 (distancia: 6.12%)
-- Soporte 3: $16522.97 (distancia: 14.39%)
-- Mínimo histórico [CLOSE]: $7276.39 (2023-09-05) [62.3% del precio actual]
+- Máximo histórico [CLOSE]: $20480.0 (2025-01-03) [4.88% del precio actual]
+- Resistencia 3: $20836.96 (distancia: 6.97%)
+- Resistencia 2: $20836.96 (distancia: 6.97%)
+- Resistencia 1: $20717.89 (distancia: 6.35%)
+- >> PRECIO ACTUAL: $19480.0
+- Soporte 1: $18820.0 (distancia: 3.39%)
+- Soporte 2: $18118.23 (distancia: 6.99%)
+- Soporte 3: $16522.97 (distancia: 15.18%)
+- Mínimo histórico [CLOSE]: $7276.39 (2023-09-05) [62.65% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.33 del promedio)
+- Volumen: Bajo (x0.39 del promedio)
 - Precio: Cerca de Soporte
 
 ## GRUPOAVAL_CL
@@ -244,18 +244,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Soporte
 
 ## GRUPOSURA_CL
-- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [32.24% del precio actual]
-- Resistencia 3: $38733.11 (distancia: 8.8%)
-- Resistencia 2: $38733.11 (distancia: 8.8%)
-- Resistencia 1: $37500.0 (distancia: 5.34%)
-- >> PRECIO ACTUAL: $35600.0
-- Soporte 1: $34500.0 (distancia: 3.09%)
-- Soporte 2: $32472.41 (distancia: 8.79%)
-- Soporte 3: $24466.52 (distancia: 31.27%)
-- Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [30.83% del precio actual]
+- Máximo histórico [CLOSE]: $52534.55 (2022-06-06) [31.47% del precio actual]
+- Resistencia 3: $38733.11 (distancia: 7.59%)
+- Resistencia 2: $38733.11 (distancia: 7.59%)
+- Resistencia 1: $37500.0 (distancia: 4.17%)
+- >> PRECIO ACTUAL: $36000.0
+- Soporte 1: $34500.0 (distancia: 4.17%)
+- Soporte 2: $32472.41 (distancia: 9.8%)
+- Soporte 3: $24466.52 (distancia: 32.04%)
+- Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [31.6% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.19 del promedio)
+- Volumen: Bajo (x0.25 del promedio)
 - Precio: Cerca de Soporte
 
 ## HCOLSEL_CL
@@ -274,33 +274,33 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Soporte
 
 ## ISA_CL
-- Máximo histórico [CLOSE]: $21324.22 (2022-01-20) [19.81% del precio actual]
-- Resistencia 3: $18017.2 (distancia: 5.36%)
-- Resistencia 2: $17586.82 (distancia: 2.85%)
-- Resistencia 1: $17400.0 (distancia: 1.75%)
-- >> PRECIO ACTUAL: $17100.0
-- Soporte 1: $16000.0 (distancia: 6.43%)
-- Soporte 2: $16000.0 (distancia: 6.43%)
-- Soporte 3: $16000.0 (distancia: 6.43%)
-- Mínimo histórico [CLOSE]: $12591.25 (2023-09-06) [26.37% del precio actual]
+- Máximo histórico [CLOSE]: $21352.37 (2022-01-20) [20.76% del precio actual]
+- Resistencia 3: $18017.2 (distancia: 6.48%)
+- Resistencia 2: $17586.82 (distancia: 3.94%)
+- Resistencia 1: $17400.0 (distancia: 2.84%)
+- >> PRECIO ACTUAL: $16920.0
+- Soporte 1: $16000.0 (distancia: 5.44%)
+- Soporte 2: $16000.0 (distancia: 5.44%)
+- Soporte 3: $16000.0 (distancia: 5.44%)
+- Mínimo histórico [CLOSE]: $12607.87 (2023-09-06) [25.49% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.18 del promedio)
+- Volumen: Bajo (x0.27 del promedio)
 - Precio: Cerca de Resistencia
 
 ## MINEROS_CL
-- Máximo histórico [CLOSE]: $4630.0 (2025-01-14) [1.19% del precio actual]
-- Resistencia 3: $4650.0 (distancia: 1.64%)
-- Resistencia 2: $4650.0 (distancia: 1.64%)
-- Resistencia 1: $4650.0 (distancia: 1.64%)
-- >> PRECIO ACTUAL: $4575.0
-- Soporte 1: $4164.99 (distancia: 8.96%)
-- Soporte 2: $3654.99 (distancia: 20.11%)
-- Soporte 3: $3204.99 (distancia: 29.95%)
-- Mínimo histórico [CLOSE]: $1639.9 (2022-11-03) [64.16% del precio actual]
+- Máximo histórico [CLOSE]: $4630.0 (2025-01-14) [0.22% del precio actual]
+- Resistencia 3: $4650.0 (distancia: 0.65%)
+- Resistencia 2: $4650.0 (distancia: 0.65%)
+- Resistencia 1: $4650.0 (distancia: 0.65%)
+- >> PRECIO ACTUAL: $4620.0
+- Soporte 1: $4164.99 (distancia: 9.85%)
+- Soporte 2: $3654.99 (distancia: 20.89%)
+- Soporte 3: $3204.98 (distancia: 30.63%)
+- Mínimo histórico [CLOSE]: $1639.9 (2022-11-03) [64.5% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x0.6 del promedio)
+- Volumen: Normal (x0.89 del promedio)
 - Precio: Cerca de Resistencia
 
 ## NUTRESA_CL
@@ -312,25 +312,25 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 1: $78000.0 (distancia: 15.22%)
 - Soporte 2: $71600.0 (distancia: 22.17%)
 - Soporte 3: $54391.82 (distancia: 40.88%)
-- Mínimo histórico [CLOSE]: $23384.49 (2022-01-14) [74.58% del precio actual]
+- Mínimo histórico [CLOSE]: $23357.23 (2022-01-14) [74.61% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.1 del promedio)
+- Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Resistencia
 
 ## PEI_CL
-- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.22% del precio actual]
-- Resistencia 3: $75800.0 (distancia: 9.22%)
-- Resistencia 2: $70100.0 (distancia: 1.01%)
-- Resistencia 1: $70100.0 (distancia: 1.01%)
-- >> PRECIO ACTUAL: $69400.0
-- Soporte 1: $68240.0 (distancia: 1.67%)
-- Soporte 2: $66800.0 (distancia: 3.75%)
-- Soporte 3: $63000.0 (distancia: 9.22%)
-- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.46% del precio actual]
+- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [9.7% del precio actual]
+- Resistencia 3: $75800.0 (distancia: 8.6%)
+- Resistencia 2: $70100.0 (distancia: 0.43%)
+- Resistencia 1: $70100.0 (distancia: 0.43%)
+- >> PRECIO ACTUAL: $69800.0
+- Soporte 1: $68240.0 (distancia: 2.23%)
+- Soporte 2: $66800.0 (distancia: 4.3%)
+- Soporte 3: $63000.0 (distancia: 9.74%)
+- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [4.01% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.3 del promedio)
+- Volumen: Bajo (x0.26 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFAVAL_CL
@@ -349,18 +349,18 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: Cerca de Resistencia
 
 ## PFBCOLOM_CL
-- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [3.02% del precio actual]
-- Resistencia 3: $35981.66 (distancia: 3.4%)
-- Resistencia 2: $35981.66 (distancia: 3.4%)
-- Resistencia 1: $35680.0 (distancia: 2.53%)
-- >> PRECIO ACTUAL: $34800.0
-- Soporte 1: $34050.93 (distancia: 2.15%)
-- Soporte 2: $33641.39 (distancia: 3.33%)
-- Soporte 3: $31370.32 (distancia: 9.86%)
-- Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.5% del precio actual]
+- Máximo histórico [CLOSE]: $35884.14 (2024-11-25) [3.41% del precio actual]
+- Resistencia 3: $35981.66 (distancia: 3.81%)
+- Resistencia 2: $35981.66 (distancia: 3.81%)
+- Resistencia 1: $35680.0 (distancia: 2.94%)
+- >> PRECIO ACTUAL: $34660.0
+- Soporte 1: $34050.93 (distancia: 1.76%)
+- Soporte 2: $33641.39 (distancia: 2.94%)
+- Soporte 3: $31370.32 (distancia: 9.49%)
+- Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.25% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.47 del promedio)
+- Volumen: Normal (x0.62 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFCEMARGOS_CL
@@ -375,7 +375,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Mínimo histórico [CLOSE]: $6816.8 (2024-10-23) [36.76% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.46 del promedio)
+- Volumen: Normal (x0.96 del promedio)
 - Precio: En Rango Medio
 
 ## PFCORFICOL_CL
@@ -409,33 +409,33 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Precio: En Rango Medio
 
 ## PFGRUPOARG_CL
-- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [8.61% del precio actual]
-- Resistencia 3: $15637.92 (distancia: 11.54%)
-- Resistencia 2: $15637.92 (distancia: 11.54%)
-- Resistencia 1: $15538.95 (distancia: 10.83%)
-- >> PRECIO ACTUAL: $14020.0
-- Soporte 1: $13955.36 (distancia: 0.46%)
-- Soporte 2: $12886.44 (distancia: 8.09%)
-- Soporte 3: $10739.46 (distancia: 23.4%)
-- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.34% del precio actual]
+- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [8.22% del precio actual]
+- Resistencia 3: $15637.92 (distancia: 11.06%)
+- Resistencia 2: $15637.92 (distancia: 11.06%)
+- Resistencia 1: $15538.95 (distancia: 10.36%)
+- >> PRECIO ACTUAL: $14080.0
+- Soporte 1: $13955.36 (distancia: 0.89%)
+- Soporte 2: $12886.44 (distancia: 8.48%)
+- Soporte 3: $10739.46 (distancia: 23.73%)
+- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.46% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.43 del promedio)
+- Volumen: Normal (x0.57 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFGRUPSURA_CL
-- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [2.66% del precio actual]
-- Resistencia 3: $26400.0 (distancia: 2.96%)
-- Resistencia 2: $26400.0 (distancia: 2.96%)
-- Resistencia 1: $26400.0 (distancia: 2.96%)
-- >> PRECIO ACTUAL: $25640.0
-- Soporte 1: $25195.66 (distancia: 1.73%)
-- Soporte 2: $22196.65 (distancia: 13.43%)
-- Soporte 3: $19110.8 (distancia: 25.46%)
-- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.33% del precio actual]
+- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [1.9% del precio actual]
+- Resistencia 3: $26400.0 (distancia: 2.17%)
+- Resistencia 2: $26400.0 (distancia: 2.17%)
+- Resistencia 1: $26400.0 (distancia: 2.17%)
+- >> PRECIO ACTUAL: $25840.0
+- Soporte 1: $25195.66 (distancia: 2.49%)
+- Soporte 2: $22196.65 (distancia: 14.1%)
+- Soporte 3: $19110.8 (distancia: 26.04%)
+- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.57% del precio actual]
 
-- RSI: Sobrevendida
-- Volumen: Bajo (x0.12 del promedio)
+- RSI: Normal
+- Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Soporte
 
 ## PROMIGAS_CL
@@ -447,23 +447,23 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 1: $7150.0 (distancia: 0.69%)
 - Soporte 2: $7150.0 (distancia: 0.69%)
 - Soporte 3: $6936.56 (distancia: 3.66%)
-- Mínimo histórico [CLOSE]: $3366.47 (2022-11-18) [53.24% del precio actual]
+- Mínimo histórico [CLOSE]: $3338.17 (2022-11-18) [53.64% del precio actual]
 
 - RSI: Normal
-- Volumen: Alto (x2.93 del promedio)
+- Volumen: Alto (x3.09 del promedio)
 - Precio: Cerca de Soporte
 
 ## TERPEL_CL
-- Máximo histórico [CLOSE]: $12200.0 (2025-01-16) [1.31% del precio actual]
-- Resistencia 3: $12200.0 (distancia: 1.33%)
-- Resistencia 2: $12200.0 (distancia: 1.33%)
-- Resistencia 1: $12200.0 (distancia: 1.33%)
-- >> PRECIO ACTUAL: $12040.0
-- Soporte 1: $11040.0 (distancia: 8.31%)
-- Soporte 2: $10200.0 (distancia: 15.28%)
-- Soporte 3: $9110.0 (distancia: 24.34%)
-- Mínimo histórico [CLOSE]: $5743.98 (2023-09-15) [52.29% del precio actual]
+- Máximo histórico [CLOSE]: $12200.0 (2025-01-16) [0.66% del precio actual]
+- Resistencia 3: $12200.0 (distancia: 0.66%)
+- Resistencia 2: $12200.0 (distancia: 0.66%)
+- Resistencia 1: $12200.0 (distancia: 0.66%)
+- >> PRECIO ACTUAL: $12120.0
+- Soporte 1: $11040.0 (distancia: 8.91%)
+- Soporte 2: $10200.0 (distancia: 15.84%)
+- Soporte 3: $9110.0 (distancia: 24.83%)
+- Mínimo histórico [CLOSE]: $5743.98 (2023-09-15) [52.61% del precio actual]
 
-- RSI: Normal
-- Volumen: Bajo (x0.39 del promedio)
+- RSI: Sobrecomprada
+- Volumen: Normal (x0.54 del promedio)
 - Precio: Cerca de Resistencia
