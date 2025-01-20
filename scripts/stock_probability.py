@@ -262,6 +262,11 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
 
 def format_report_section(ticker: str, resultado: dict) -> str:
     """Formatea una sección del reporte para un ticker específico."""
+    # Calcular diferencia entre distancias
+    diferencia = float(resultado["dist_resistencia_1"]) - float(
+        resultado["dist_soporte_1"]
+    )
+
     header = f"""## {ticker}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
 - Resistencia 3: ${resultado["valor_resistencia_3"]} (distancia: {resultado["dist_resistencia_3"]}%)
@@ -273,6 +278,7 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 - Soporte 3: ${resultado["valor_soporte_3"]} (distancia: {resultado["dist_soporte_3"]}%)
 - Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
 
+- Diferencia R-S: {diferencia:.2f}%
 - RSI: {resultado["señal_rsi"]}
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
@@ -470,23 +476,13 @@ def filter_report(
         except Exception as e:
             print(f"Error procesando {ticker}: {str(e)}")
 
-    # Ordenar resultados
-    first_criterion = list(max_distances.keys())[0]
-    sort_key = {
-        "max_inside": lambda x: float(x[1]["dist_max_close"]),
-        "max_outside": lambda x: float(x[1]["dist_max_close"]),
-        "min_inside": lambda x: float(x[1]["dist_min_close"]),
-        "min_outside": lambda x: float(x[1]["dist_min_close"]),
-        "support_inside": lambda x: float(x[1]["dist_soporte_1"]),
-        "support_outside": lambda x: float(x[1]["dist_soporte_1"]),
-        "resistance_inside": lambda x: float(x[1]["dist_resistencia_1"]),
-        "resistance_outside": lambda x: float(x[1]["dist_resistencia_1"]),
-        "r-s": lambda x: float(x[1]["dist_resistencia_1"])
-        - float(x[1]["dist_soporte_1"]),
-    }
-
-    if first_criterion in sort_key:
-        filtered_results.sort(key=sort_key[first_criterion])
+    # Ordenar resultados siempre por la diferencia R-S
+    filtered_results.sort(
+        key=lambda x: float(x[1]["dist_resistencia_1"]) - float(x[1]["dist_soporte_1"]),
+        reverse=True
+        if "r-s" in max_distances and max_distances["r-s"] == "positivo"
+        else False,
+    )
 
     # Generar descripción de criterios
     criteria_desc = []

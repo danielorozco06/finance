@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones
 
-Generado el: 2025-01-20 17:35:18
+Generado el: 2025-01-20 17:45:26
 Período analizado: 2022-01-03 a 2025-01-17
 
 ## BBVACOL_CL
@@ -14,6 +14,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $173.0 (distancia: 3.89%)
 - Mínimo histórico [CLOSE]: $174.0 (2024-10-30) [3.33% del precio actual]
 
+- Diferencia R-S: -1.11%
 - RSI: Sobrevendida
 - Volumen: Bajo (x0.0 del promedio)
 - Precio: Cerca de Soporte
@@ -29,6 +30,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $33699.92 (distancia: 8.92%)
 - Mínimo histórico [CLOSE]: $23133.44 (2023-05-31) [37.48% del precio actual]
 
+- Diferencia R-S: 4.36%
 - RSI: Normal
 - Volumen: Normal (x1.3 del promedio)
 - Precio: Cerca de Soporte
@@ -44,6 +46,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $275.0 (distancia: 8.94%)
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.41% del precio actual]
 
+- Diferencia R-S: -1.00%
 - RSI: Normal
 - Volumen: Normal (x0.96 del promedio)
 - Precio: Cerca de Soporte
@@ -59,6 +62,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $24704.37 (distancia: 9.77%)
 - Mínimo histórico [CLOSE]: $21250.41 (2023-03-01) [22.39% del precio actual]
 
+- Diferencia R-S: -4.74%
 - RSI: Normal
 - Volumen: Alto (x2.37 del promedio)
 - Precio: Cerca de Resistencia
@@ -74,6 +78,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $3393.39 (distancia: 7.66%)
 - Mínimo histórico [CLOSE]: $1744.86 (2023-02-15) [52.52% del precio actual]
 
+- Diferencia R-S: -5.33%
 - RSI: Normal
 - Volumen: Alto (x4.36 del promedio)
 - Precio: Cerca de Resistencia
@@ -89,6 +94,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $7011.71 (distancia: 31.26%)
 - Mínimo histórico [CLOSE]: $2274.57 (2023-02-20) [77.7% del precio actual]
 
+- Diferencia R-S: 6.97%
 - RSI: Normal
 - Volumen: Bajo (x0.15 del promedio)
 - Precio: Cerca de Soporte
@@ -104,6 +110,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $8900.0 (distancia: 18.35%)
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [17.43% del precio actual]
 
+- Diferencia R-S: 14.13%
 - RSI: Normal
 - Volumen: Alto (x1.62 del promedio)
 - Precio: Cerca de Soporte
@@ -119,6 +126,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $265.0 (distancia: 58.07%)
 - Mínimo histórico [CLOSE]: $170.0 (2023-02-28) [73.1% del precio actual]
 
+- Diferencia R-S: -25.47%
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.33 del promedio)
 - Precio: En Rango Medio
@@ -134,6 +142,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $11800.0 (distancia: 24.74%)
 - Mínimo histórico [CLOSE]: $9414.18 (2023-02-28) [39.96% del precio actual]
 
+- Diferencia R-S: -6.76%
 - RSI: Normal
 - Volumen: Bajo (x0.28 del promedio)
 - Precio: Cerca de Resistencia
@@ -149,6 +158,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $1590.0 (distancia: 12.64%)
 - Mínimo histórico [CLOSE]: $1590.0 (2024-11-08) [12.64% del precio actual]
 
+- Diferencia R-S: -6.04%
 - RSI: Sobrecomprada
 - Volumen: Bajo (x0.49 del promedio)
 - Precio: Cerca de Resistencia
@@ -164,6 +174,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $12.9 (distancia: 9.15%)
 - Mínimo histórico [CLOSE]: $12.9 (2024-12-30) [9.15% del precio actual]
 
+- Diferencia R-S: -9.15%
 - RSI: Normal
 - Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Resistencia
@@ -179,6 +190,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $1845.0 (distancia: 6.11%)
 - Mínimo histórico [CLOSE]: $1900.0 (2025-01-14) [3.31% del precio actual]
 
+- Diferencia R-S: 1.27%
 - RSI: Normal
 - Volumen: Bajo (x0.21 del promedio)
 - Precio: En Rango Medio
@@ -194,6 +206,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $2303.19 (distancia: 9.5%)
 - Mínimo histórico [CLOSE]: $939.92 (2023-02-21) [63.07% del precio actual]
 
+- Diferencia R-S: -5.30%
 - RSI: Normal
 - Volumen: Alto (x2.73 del promedio)
 - Precio: Cerca de Resistencia
@@ -209,6 +222,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $54843.42 (distancia: 11.54%)
 - Mínimo histórico [CLOSE]: $39835.52 (2022-09-26) [35.75% del precio actual]
 
+- Diferencia R-S: -5.77%
 - RSI: Normal
 - Volumen: Normal (x1.47 del promedio)
 - Precio: Cerca de Resistencia
@@ -224,6 +238,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $16522.97 (distancia: 15.18%)
 - Mínimo histórico [CLOSE]: $7276.39 (2023-09-05) [62.65% del precio actual]
 
+- Diferencia R-S: 2.96%
 - RSI: Sobrevendida
 - Volumen: Bajo (x0.39 del promedio)
 - Precio: Cerca de Soporte
@@ -239,6 +254,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $390.64 (distancia: 14.14%)
 - Mínimo histórico [CLOSE]: $387.88 (2023-09-11) [14.75% del precio actual]
 
+- Diferencia R-S: 1.75%
 - RSI: Normal
 - Volumen: Alto (x2.56 del promedio)
 - Precio: Cerca de Soporte
@@ -254,6 +270,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $24466.52 (distancia: 32.04%)
 - Mínimo histórico [CLOSE]: $24624.17 (2022-01-14) [31.6% del precio actual]
 
+- Diferencia R-S: 0.00%
 - RSI: Normal
 - Volumen: Bajo (x0.25 del promedio)
 - Precio: Cerca de Soporte
@@ -269,6 +286,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $13767.0 (distancia: 9.43%)
 - Mínimo histórico [CLOSE]: $10215.37 (2023-09-06) [32.79% del precio actual]
 
+- Diferencia R-S: -1.56%
 - RSI: Sobrecomprada
 - Volumen: Alto (x20.0 del promedio)
 - Precio: Cerca de Soporte
@@ -284,6 +302,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $16000.0 (distancia: 5.44%)
 - Mínimo histórico [CLOSE]: $12607.87 (2023-09-06) [25.49% del precio actual]
 
+- Diferencia R-S: -2.60%
 - RSI: Normal
 - Volumen: Bajo (x0.27 del promedio)
 - Precio: Cerca de Resistencia
@@ -299,6 +318,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $3204.98 (distancia: 30.63%)
 - Mínimo histórico [CLOSE]: $1639.9 (2022-11-03) [64.5% del precio actual]
 
+- Diferencia R-S: -9.20%
 - RSI: Normal
 - Volumen: Normal (x0.89 del promedio)
 - Precio: Cerca de Resistencia
@@ -314,6 +334,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $54391.82 (distancia: 40.88%)
 - Mínimo histórico [CLOSE]: $23357.23 (2022-01-14) [74.61% del precio actual]
 
+- Diferencia R-S: -15.22%
 - RSI: Sobrevendida
 - Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Resistencia
@@ -329,6 +350,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $63000.0 (distancia: 9.74%)
 - Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [4.01% del precio actual]
 
+- Diferencia R-S: -1.80%
 - RSI: Normal
 - Volumen: Bajo (x0.26 del promedio)
 - Precio: Cerca de Soporte
@@ -344,6 +366,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $404.5 (distancia: 15.55%)
 - Mínimo histórico [CLOSE]: $389.79 (2024-03-15) [18.62% del precio actual]
 
+- Diferencia R-S: -8.97%
 - RSI: Normal
 - Volumen: Normal (x1.39 del promedio)
 - Precio: Cerca de Resistencia
@@ -359,6 +382,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $31370.32 (distancia: 9.49%)
 - Mínimo histórico [CLOSE]: $21054.46 (2022-09-26) [39.25% del precio actual]
 
+- Diferencia R-S: 1.18%
 - RSI: Normal
 - Volumen: Normal (x0.62 del promedio)
 - Precio: Cerca de Soporte
@@ -374,6 +398,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $nan (distancia: nan%)
 - Mínimo histórico [CLOSE]: $6816.8 (2024-10-23) [36.76% del precio actual]
 
+- Diferencia R-S: 3.91%
 - RSI: Normal
 - Volumen: Normal (x0.96 del promedio)
 - Precio: En Rango Medio
@@ -389,6 +414,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $11120.0 (distancia: 24.76%)
 - Mínimo histórico [CLOSE]: $8472.34 (2023-03-17) [42.68% del precio actual]
 
+- Diferencia R-S: -9.20%
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.83 del promedio)
 - Precio: Cerca de Resistencia
@@ -404,6 +430,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $17400.0 (distancia: 7.64%)
 - Mínimo histórico [CLOSE]: $15340.0 (2023-11-28) [18.58% del precio actual]
 
+- Diferencia R-S: -1.06%
 - RSI: Normal
 - Volumen: Bajo (x0.12 del promedio)
 - Precio: En Rango Medio
@@ -419,6 +446,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $10739.46 (distancia: 23.73%)
 - Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.46% del precio actual]
 
+- Diferencia R-S: 9.47%
 - RSI: Sobrevendida
 - Volumen: Normal (x0.57 del promedio)
 - Precio: Cerca de Soporte
@@ -434,6 +462,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $19110.8 (distancia: 26.04%)
 - Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.57% del precio actual]
 
+- Diferencia R-S: -0.32%
 - RSI: Normal
 - Volumen: Bajo (x0.2 del promedio)
 - Precio: Cerca de Soporte
@@ -449,6 +478,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $6936.56 (distancia: 3.66%)
 - Mínimo histórico [CLOSE]: $3338.17 (2022-11-18) [53.64% del precio actual]
 
+- Diferencia R-S: 5.56%
 - RSI: Normal
 - Volumen: Alto (x3.09 del promedio)
 - Precio: Cerca de Soporte
@@ -464,6 +494,7 @@ Período analizado: 2022-01-03 a 2025-01-17
 - Soporte 3: $9110.0 (distancia: 24.83%)
 - Mínimo histórico [CLOSE]: $5743.98 (2023-09-15) [52.61% del precio actual]
 
+- Diferencia R-S: -8.25%
 - RSI: Sobrecomprada
 - Volumen: Normal (x0.54 del promedio)
 - Precio: Cerca de Resistencia
