@@ -75,10 +75,15 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["Support_1"] = df["Low"].rolling(window=window_size).min()
     df["Resistance_1"] = df["High"].rolling(window=window_size).max()
 
-    # Segundo nivel de soporte y resistencia (más lejano)
-    window_size_2 = 50  # Ventana más amplia para el segundo nivel
+    # Segundo nivel de soporte y resistencia (medio)
+    window_size_2 = 50
     df["Support_2"] = df["Low"].rolling(window=window_size_2).min()
     df["Resistance_2"] = df["High"].rolling(window=window_size_2).max()
+
+    # Tercer nivel de soporte y resistencia (más lejano)
+    window_size_3 = 100  # Ventana más amplia para el tercer nivel
+    df["Support_3"] = df["Low"].rolling(window=window_size_3).min()
+    df["Resistance_3"] = df["High"].rolling(window=window_size_3).max()
 
     # Calcular distancia a soportes y resistencias
     df["Dist_to_Support_1"] = ((df["Close"] - df["Support_1"]) / df["Close"]) * 100
@@ -88,6 +93,10 @@ def calculate_technical_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df["Dist_to_Support_2"] = ((df["Close"] - df["Support_2"]) / df["Close"]) * 100
     df["Dist_to_Resistance_2"] = (
         (df["Resistance_2"] - df["Close"]) / df["Close"]
+    ) * 100
+    df["Dist_to_Support_3"] = ((df["Close"] - df["Support_3"]) / df["Close"]) * 100
+    df["Dist_to_Resistance_3"] = (
+        (df["Resistance_3"] - df["Close"]) / df["Close"]
     ) * 100
 
     # Calcular volumen relativo
@@ -326,6 +335,10 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
         "dist_resistencia_2": round(df["Dist_to_Resistance_2"].iloc[-1], 2),
         "valor_soporte_2": round(df["Support_2"].iloc[-1], 2),
         "valor_resistencia_2": round(df["Resistance_2"].iloc[-1], 2),
+        "dist_soporte_3": round(df["Dist_to_Support_3"].iloc[-1], 2),
+        "dist_resistencia_3": round(df["Dist_to_Resistance_3"].iloc[-1], 2),
+        "valor_soporte_3": round(df["Support_3"].iloc[-1], 2),
+        "valor_resistencia_3": round(df["Resistance_3"].iloc[-1], 2),
         "volumen_relativo": round(df["Volume_Ratio"].iloc[-1], 2),
         # Señales de compra/venta
         "señal_rsi": "Sobrevendida"
@@ -415,13 +428,16 @@ def format_report_section(ticker: str, resultado: dict) -> str:
 
     # Sección de encabezado
     header = f"""## {ticker}
-- Último precio: ${resultado["ultimo_precio"]}
 - Máximo histórico [CLOSE]: ${resultado["maximo_historico_close"]} ({resultado["fecha_maximo_historico_close"]}) [{resultado["dist_max_close"]}% del precio actual]
-- Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
-- Resistencia 1: ${resultado["valor_resistencia_1"]} (distancia: {resultado["dist_resistencia_1"]}%)
+- Resistencia 3: ${resultado["valor_resistencia_3"]} (distancia: {resultado["dist_resistencia_3"]}%)
 - Resistencia 2: ${resultado["valor_resistencia_2"]} (distancia: {resultado["dist_resistencia_2"]}%)
+- Resistencia 1: ${resultado["valor_resistencia_1"]} (distancia: {resultado["dist_resistencia_1"]}%)
+- >> PRECIO ACTUAL: ${resultado["ultimo_precio"]}
 - Soporte 1: ${resultado["valor_soporte_1"]} (distancia: {resultado["dist_soporte_1"]}%)
 - Soporte 2: ${resultado["valor_soporte_2"]} (distancia: {resultado["dist_soporte_2"]}%)
+- Soporte 3: ${resultado["valor_soporte_3"]} (distancia: {resultado["dist_soporte_3"]}%)
+- Mínimo histórico [CLOSE]: ${resultado["minimo_historico_close"]} ({resultado["fecha_minimo_historico_close"]}) [{resultado["dist_min_close"]}% del precio actual]
+
 - RSI: {resultado["señal_rsi"]}
 - Volumen: {resultado["señal_volumen"]} (x{resultado["volumen_relativo"]} del promedio)
 - Precio: {resultado["señal_precio"]}
@@ -663,12 +679,12 @@ if __name__ == "__main__":
     filter_report(
         output_file="input/buy_tickers.md",
         filter_by=["min", "support"],
-        max_distances={"min": 100.0, "support": 2.5},
+        max_distances={"min": 100.0, "support": 1.5},
     )
 
     # Reporte de acciones cerca de máximos históricos
     filter_report(
         output_file="input/sell_tickers.md",
         filter_by=["max", "resistance"],
-        max_distances={"max": 30.0, "resistance": 2.0},
+        max_distances={"max": 100.0, "resistance": 1.5},
     )
