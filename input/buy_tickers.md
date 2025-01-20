@@ -1,6 +1,6 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 14:02:13
+Generado el: 2025-01-20 15:58:20
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
@@ -24,18 +24,18 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Soporte
 
 ## PEI_CL
-- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.32% del precio actual]
-- Resistencia 3: $75800.0 (distancia: 9.35%)
-- Resistencia 2: $70100.0 (distancia: 1.13%)
-- Resistencia 1: $70100.0 (distancia: 1.13%)
-- >> PRECIO ACTUAL: $69320.0
-- Soporte 1: $68240.0 (distancia: 1.56%)
-- Soporte 2: $66800.0 (distancia: 3.64%)
-- Soporte 3: $63000.0 (distancia: 9.12%)
-- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.35% del precio actual]
+- Máximo histórico [CLOSE]: $77300.0 (2024-06-18) [10.22% del precio actual]
+- Resistencia 3: $75800.0 (distancia: 9.22%)
+- Resistencia 2: $70100.0 (distancia: 1.01%)
+- Resistencia 1: $70100.0 (distancia: 1.01%)
+- >> PRECIO ACTUAL: $69400.0
+- Soporte 1: $68240.0 (distancia: 1.67%)
+- Soporte 2: $66800.0 (distancia: 3.75%)
+- Soporte 3: $63000.0 (distancia: 9.22%)
+- Mínimo histórico [CLOSE]: $67000.0 (2024-10-03) [3.46% del precio actual]
 
 - RSI: Normal
-- Volumen: Bajo (x0.11 del promedio)
+- Volumen: Bajo (x0.3 del promedio)
 - Precio: Cerca de Soporte
 
 ## CNEC_CL
@@ -50,7 +50,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [17.43% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x1.33 del promedio)
+- Volumen: Alto (x1.62 del promedio)
 - Precio: Cerca de Soporte
 
 ## BHI_CL
@@ -65,7 +65,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.41% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x0.9 del promedio)
+- Volumen: Normal (x0.94 del promedio)
 - Precio: Cerca de Soporte
 
 ## PROMIGAS_CL
@@ -84,31 +84,31 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Precio: Cerca de Soporte
 
 ## PFGRUPSURA_CL
-- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [2.58% del precio actual]
-- Resistencia 3: $26400.0 (distancia: 2.88%)
-- Resistencia 2: $26400.0 (distancia: 2.88%)
-- Resistencia 1: $26400.0 (distancia: 2.88%)
-- >> PRECIO ACTUAL: $25660.0
-- Soporte 1: $25195.66 (distancia: 1.81%)
-- Soporte 2: $22196.65 (distancia: 13.5%)
-- Soporte 3: $19110.8 (distancia: 25.52%)
-- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.35% del precio actual]
+- Máximo histórico [CLOSE]: $26340.0 (2024-12-27) [2.66% del precio actual]
+- Resistencia 3: $26400.0 (distancia: 2.96%)
+- Resistencia 2: $26400.0 (distancia: 2.96%)
+- Resistencia 1: $26400.0 (distancia: 2.96%)
+- >> PRECIO ACTUAL: $25640.0
+- Soporte 1: $25195.66 (distancia: 1.73%)
+- Soporte 2: $22196.65 (distancia: 13.43%)
+- Soporte 3: $19110.8 (distancia: 25.46%)
+- Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.33% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.1 del promedio)
+- Volumen: Bajo (x0.12 del promedio)
 - Precio: Cerca de Soporte
 
 ## PFGRUPOARG_CL
-- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [8.74% del precio actual]
-- Resistencia 3: $15637.92 (distancia: 11.7%)
-- Resistencia 2: $15637.92 (distancia: 11.7%)
-- Resistencia 1: $15538.95 (distancia: 10.99%)
-- >> PRECIO ACTUAL: $14000.0
-- Soporte 1: $13955.36 (distancia: 0.32%)
-- Soporte 2: $12886.44 (distancia: 7.95%)
-- Soporte 3: $10739.46 (distancia: 23.29%)
-- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.3% del precio actual]
+- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [8.61% del precio actual]
+- Resistencia 3: $15637.92 (distancia: 11.54%)
+- Resistencia 2: $15637.92 (distancia: 11.54%)
+- Resistencia 1: $15538.95 (distancia: 10.83%)
+- >> PRECIO ACTUAL: $14020.0
+- Soporte 1: $13955.36 (distancia: 0.46%)
+- Soporte 2: $12886.44 (distancia: 8.09%)
+- Soporte 3: $10739.46 (distancia: 23.4%)
+- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.34% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.13 del promedio)
+- Volumen: Bajo (x0.43 del promedio)
 - Precio: Cerca de Soporte
