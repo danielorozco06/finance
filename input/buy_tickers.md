@@ -1,11 +1,11 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 12:41:35
+Generado el: 2025-01-20 13:02:17
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
 - Distancia máxima a: mínimo histórico (90.0%) y soporte (2.0%)
-Total de tickers encontrados: 6
+Total de tickers encontrados: 7
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 
 ## BBVACOL_CL
@@ -50,7 +50,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $9000.0 (2024-11-05) [17.43% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x1.25 del promedio)
+- Volumen: Normal (x1.33 del promedio)
 - Precio: Cerca de Soporte
 
 ## BHI_CL
@@ -65,7 +65,7 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $182.99 (2022-10-03) [39.41% del precio actual]
 
 - RSI: Normal
-- Volumen: Normal (x0.89 del promedio)
+- Volumen: Normal (x0.9 del promedio)
 - Precio: Cerca de Soporte
 
 ## PROMIGAS_CL
@@ -95,5 +95,20 @@ Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVA
 - Mínimo histórico [CLOSE]: $8120.47 (2023-02-28) [68.35% del precio actual]
 
 - RSI: Sobrevendida
-- Volumen: Bajo (x0.05 del promedio)
+- Volumen: Bajo (x0.1 del promedio)
+- Precio: Cerca de Soporte
+
+## PFGRUPOARG_CL
+- Máximo histórico [CLOSE]: $15341.0 (2025-01-02) [8.74% del precio actual]
+- Resistencia 3: $15637.92 (distancia: 11.7%)
+- Resistencia 2: $15637.92 (distancia: 11.7%)
+- Resistencia 1: $15538.95 (distancia: 10.99%)
+- >> PRECIO ACTUAL: $14000.0
+- Soporte 1: $13955.36 (distancia: 0.32%)
+- Soporte 2: $12886.44 (distancia: 7.95%)
+- Soporte 3: $10739.46 (distancia: 23.29%)
+- Mínimo histórico [CLOSE]: $4158.67 (2023-02-15) [70.3% del precio actual]
+
+- RSI: Sobrevendida
+- Volumen: Bajo (x0.13 del promedio)
 - Precio: Cerca de Soporte
