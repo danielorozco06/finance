@@ -294,17 +294,20 @@ def calculate_stock_probability(csv_file: str) -> dict[str, float | str]:
     ) = get_historical_extremes(df)
 
     # Calcular distancias a extremos históricos
-    dist_max_historico = ((maximo_historico - last_price) / last_price) * 100
-    dist_min_historico = ((last_price - minimo_historico) / last_price) * 100
+    dist_max_historico = abs(((maximo_historico - last_price) / last_price) * 100)
+    dist_min_historico = abs(((last_price - minimo_historico) / last_price) * 100)
 
     # Calcular distancias a extremos históricos específicos
     dist_max_close = (
-        (last_price - extremos_historicos["max_close"][0])
-        / extremos_historicos["max_close"][0]
-    ) * 100
+        abs(
+            (last_price - extremos_historicos["max_close"][0])
+            / extremos_historicos["max_close"][0]
+        )
+        * 100
+    )
     dist_min_close = (
-        (last_price - extremos_historicos["min_close"][0]) / last_price
-    ) * 100
+        abs((last_price - extremos_historicos["min_close"][0]) / last_price) * 100
+    )
 
     return {
         "ultimo_precio": round(last_price, 2),
@@ -522,21 +525,24 @@ def get_pairs_to_exclude(pairs_file: str) -> set[str]:
         return set()
 
 
-def generate_filtered_report(
+def filter_report(
     input_dir: str = "tickers_history",
     output_file: str = "input/filter_tickers.md",
-    max_distance: float = 5.0,  # Porcentaje de distancia a máximo histórico
-    exclude_tickers: Optional[list[str]] = None,  # Lista de tickers a excluir
-    pairs_file: str = "scripts/pares.csv",  # Archivo con pares ordinaria/preferencial
+    max_distance: float = 5.0,
+    exclude_tickers: Optional[list[str]] = None,
+    pairs_file: str = "scripts/pares.csv",
+    filter_by: str = "max",  # Nuevo parámetro para indicar si filtrar por 'max' o 'min'
 ) -> None:
-    """Genera un reporte filtrado de tickers que están lejos de su máximo histórico.
+    """Genera un reporte filtrado de tickers basado en su distancia al máximo o mínimo histórico.
 
     Args:
         input_dir: Directorio donde se encuentran los archivos CSV
         output_file: Archivo de salida para el reporte
-        max_distance: Distancia máxima permitida al máximo histórico (porcentaje)
+        max_distance: Distancia máxima permitida al máximo/mínimo histórico (porcentaje)
         exclude_tickers: Lista de tickers a excluir del reporte
         pairs_file: Ruta al archivo CSV con los pares de acciones
+        filter_by: 'max' para filtrar por distancia al máximo histórico,
+                  'min' para filtrar por distancia al mínimo histórico
     """
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     primer_resultado, csv_files = process_ticker_files(input_dir)
@@ -560,19 +566,33 @@ def generate_filtered_report(
                 continue
 
             resultado = calculate_stock_probability(str(csv_file))
-            if float(resultado["dist_max_close"]) <= -max_distance:
+
+            # Seleccionar el criterio de filtrado según filter_by
+            if filter_by.lower() == "max":
+                distance = float(resultado["dist_max_close"])
+                condition = distance <= max_distance
+            else:  # filter_by == 'min'
+                distance = float(resultado["dist_min_close"])
+                condition = distance <= max_distance
+
+            if condition:
                 filtered_results.append((ticker, resultado))
         except Exception as e:
             print(f"Error procesando {ticker}: {str(e)}")
 
-    filtered_results.sort(key=lambda x: float(x[1]["dist_max_close"]))
+    # Ordenar resultados según el criterio seleccionado
+    if filter_by.lower() == "max":
+        filtered_results.sort(key=lambda x: float(x[1]["dist_max_close"]))
+    else:
+        filtered_results.sort(key=lambda x: float(x[1]["dist_min_close"]))
 
     with open(output_file, "w", encoding="utf-8") as f:
         write_report_header(
             f,
             primer_resultado,
             "Análisis de Tendencias de Acciones (Filtrado)",
-            f"Mostrando tickers que han caído más de {max_distance}% desde su máximo histórico.\n"
+            f"Mostrando tickers que {'han caído más de' if filter_by.lower() == 'max' else 'están a menos de'} "
+            f"{max_distance}% {'desde su máximo' if filter_by.lower() == 'max' else 'de su mínimo'} histórico.\n"
             f"Total de tickers encontrados: {len(filtered_results)}\n"
             + (
                 f"Lista de exclusión manual: {', '.join(sorted(set(exclude_tickers) - pairs_to_exclude))}\n"
@@ -596,12 +616,15 @@ if __name__ == "__main__":
     generate_all_report(input_dir)
     print("Reporte general generado")
 
-    # Lista de tickers a excluir
+    # Lista de tickers a excluir manualmente
     tickers_excluidos: list[str] = []
 
-    generate_filtered_report(
-        input_dir,
-        max_distance=20.0,
-        exclude_tickers=tickers_excluidos,
-        pairs_file="scripts/pares.csv",
+    # Generar reporte de acciones cerca de máximos históricos
+    filter_report(
+        output_file="input/sell_tickers.md", max_distance=10.0, filter_by="max"
+    )
+
+    # Generar reporte de acciones cerca de mínimos históricos
+    filter_report(
+        output_file="input/buy_tickers.md", max_distance=10.0, filter_by="min"
     )
