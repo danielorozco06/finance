@@ -1,10 +1,10 @@
 # Análisis de Tendencias de Acciones (Filtrado)
 
-Generado el: 2025-01-20 17:12:36
+Generado el: 2025-01-20 17:13:47
 Período analizado: 2022-01-03 a 2025-01-17
 
 Mostrando tickers que cumplen con los siguientes criterios:
-- Distancia máxima a: máximo histórico (10.0%, por encima) y resistencia (0.0%, por encima) y soporte (3.0%, por debajo)
+- Distancia máxima a: máximo histórico (10.0%, por encima) y resistencia (0.0%, por encima) y soporte (2.0%, por debajo)
 Total de tickers encontrados: 4
 Pares excluidos: BCOLOMBIA_CL, CORFICOLCF_CL, GRUPOARGOS_CL, GRUPOSURA_CL, PFAVAL_CL, PFCEMARGOS_CL
 

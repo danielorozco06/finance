@@ -518,7 +518,7 @@ if __name__ == "__main__":
         max_distances={
             "max_outside": 10.0,
             "resistance_outside": 0.0,
-            "support_inside": 3.0,
+            "support_inside": 2.0,
         },
     )
 
@@ -528,6 +528,6 @@ if __name__ == "__main__":
         max_distances={
             "max_inside": 10.0,
             "resistance_inside": 2.0,
-            "support_outside": 2.0,
+            "support_outside": 0.0,
         },
     )
